@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote da Proteção Evoluída#
+7550#Pacote de Aegir#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -5939,10 +5939,10 @@
 12851#Ovo Vocacional#
 18664#Óculos de Quartzo Rubi #
 18855#Chapéu de Dantos Sumont#
-18697#Chapéu de Maçã Verde #
-18857#Chapéu de Curupira#
-18697#Syringe_In_Mouth#
-13438#Magical_Blade#
+18675#Chapéu de Maçã Verde #
+18857#Boneco de Curupira#
+18697#Seringa Vermelha#
+13438#Espada Lunar#
 
 //------------------2013 ep14.1 malangdo---------------------------
 1198#Arenque#
@@ -6027,5 +6027,15 @@
 16016#Atum#
 12531#Caixa de Poções Brancas#
 6451#Peixe Desconhecido#
+
+//------------------March2013 Items---------------------------------
+
+5788#Óculos 3D#
+18699#Starving_Fish_Hat#
+18727#Sedora_Hat#
+18692#Mike_Hat#
+12850#Heaven_Scroll#
+18700#Rabbit_Ribbon#
+4503#Carta Vesper Selada#
 
 //file end

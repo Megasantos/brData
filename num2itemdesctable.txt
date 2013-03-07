@@ -27588,7 +27588,7 @@ Caixa_de_Mastelas[200]
 12851#Vocation_Scroll#
 18664#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18855#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
-18697#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
+18675#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18857#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18697#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 13438#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
@@ -28116,5 +28116,14 @@ Há um gato pegando este peixe!
 Peso : ^7777770^000000
 #
 
+//------------------March2013 Items---------------------------------
+
+5788#Óculos 3D#
+18699#Starving_Fish_Hat#
+18727#Sedora_Hat#
+18692#Mike_Hat#
+12850#Heaven_Scroll#
+18700#Rabbit_Ribbon#
+4503#Carta Vesper Selada#
 
 //file end
