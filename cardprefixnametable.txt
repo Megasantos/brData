@@ -493,5 +493,5 @@
 4500#de Espelhos Selados#
 4501#do Arcanjo Selado#
 4502#do Hollgrehenn Selada#
-4503#of Half Vision Eye#
+4503#da Visão Selada#
 4504#de Heimdall Selada#
