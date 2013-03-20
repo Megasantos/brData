@@ -28125,5 +28125,7 @@ Peso : ^7777770^000000
 12850#Heaven_Scroll#
 18700#Rabbit_Ribbon#
 4503#Carta Vesper Selada#
+14531#Perg. de Precisão Apurada#
+18856#Chapéu do Torin#
 
 //file end

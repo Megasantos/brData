@@ -6033,9 +6033,11 @@
 5788#Óculos 3D#
 18699#Salmão Faminto#
 18727#Chapéu de Sedora#
-18692#Mike_Hat#
-12850#Heaven_Scroll#
+18692#Peruca Jeca são Five#
+12850#Ovo Celeste#
 18700#Rabbit_Ribbon#
 4503#Carta Vesper Selada#
+14531#Perg. de Precisão Apurada#
+18856#Chapéu do Torin#
 
 //file end

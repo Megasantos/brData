@@ -37357,7 +37357,6 @@ Peso: ^7777771^000000
 #
 
 4491#
-Carta Selada da Atiradora de Elite Cecil
 Chance de 5% de absorver 10% do dano físico causado ao inimigo pelo usuário como HP, mas também reduz a recuperação de HP em 100%.
 Caso arma equipada possua o refinamento acima de +14, o ganho de HP será aumentado mais 5% por dano causado.
 Tipo de Item: ^777777Carta^000000
@@ -40867,7 +40866,7 @@ Classe: ^777777Todas^000000
 
 18699#
 Para as outras pessoas deve ser engraçado olhar para você e ter a impressão que tem um peixe na sua cabeça tentando te engolir. Para sua sorte, ele nunca fará isso... Ao menos enquanto você continuar o alimentando com outros peixes frescos! Dizem que um Felino da Corporação Pata de Gato chamado Feliz foi quem pescou esse peixe encantado e já ia transformá-lo em jantar quando seu melhor amigo, um mestre chamado Nátiçu, teve a brilhante ideia de transformá-lo em chapéu. Nem pense em criticar! Afinal, quem anda por aí com ele na cabeça é você!
-^0000FFDiminui em 15% o dano recebido por monstros de propriedade Água. Pequena chance de derrubar o consumível 'Peixe Fresco' ao derrotar monstros do tipo Peixe.^000000 
+^0000FFDiminui em 10% o dano recebido por monstros de propriedade Água. Pequena chance de derrubar o consumível 'Peixe Fresco' ao derrotar monstros do tipo Peixe.^000000 
 Impossível Refinar^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777773^000000
@@ -40890,7 +40889,7 @@ Nível Necessário : ^77777710^000000
 #
 
 18692#
-When attend open audition for singers, let this hat wear.Yourself and mic in a body may appeal to judge.
+Se você usa esta peruca, não é preciso que lhe esclareçam tudo no Preto ou Branco, nem que expliquem o ABC de como as coisas funcionam. Midgard é um lugar sombrio, e muitas vezes parece que Eles Não Se Importam com a Gente. Mas apesar das coisas às vezes serem como um Thriller de horror, você sabe que é capaz de ajudar a Curar o Mundo. Basta colocar sua cara de Bad boy e encarar os desafios! Sem esquecer, é claro, do estilo, coisa que você tem de sobra, parecendo até um Andarilho da Lua, como dizem seus amigos, Billi e Jean. Afinal, como a peruca indica, você é um membro do grupo musical, Jeca são Five!
 ^0000FFDES + 2, SOR + 1.^000000 
 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777773^000000
@@ -40900,7 +40899,8 @@ Peso : ^77777720^000000
 #
 
 12850#
-You can get one of precious items from Sealed Vesper Card, Sealed Sniper Card, Premium Reset_Stone_Box, Puppy-Eared Hat, Enriched Elunium Box and so on.Peso : ^7777771^000000
+Um ovo que dizem ter sido atingido por Energia Celeste após uma tentativa frustrada do exímio piloto de Espaço-plano Beijamin Grão de alcançar um buraco negro. Ao voltar para casa, Beijamin percebeu que seu corpo e a carga de Ovos que carregava haviam absorvido parte da Energia Celeste, ganhando poderes grandiosos.
+Peso : ^7777771^000000
 #
 
 18700#
@@ -40909,5 +40909,29 @@ Defesa : ^7777773^000000Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000Classe: ^777777Todas^000000
 #
 
+14531#
+^ff0000Este item não pode ser negociado^000000
+Um pergaminho encantado magicamente para apurar a mira do usuário. Aumenta em +30 a Precisão por 30 minutos.
+Se o usuário for nocauteado, o efeito se dissipará.
+^ffffff_^000000
+Peso : ^7777771^000000
+#
+
+18856#
+Um chapéu feito para homenagear o Guardião de Midgard Torin. Feito à imagem de um Tigre Branco, ele trás um poder único que é capaz de despertar o Tigre em você.
+FOR + 2, DES + 2.
+Aumenta o dano em monstros do tipo Bruto conforme o refinamento do chapéu.
+---
+it gives more damage to [Animal] type monsters
+On melee attack or attacked, wearer might have chance to shapeshift to king tiger [Eddga]. In Eddga form, user lose 5 SP per sec. but temporarily receive the strength of Animal. 
+the chance to shapeshift and the bonus amount depends on item's refine level.
+
+Tipo : ^777777Equipamento para Cabeça^000000    
+Defesa : ^77777710^000000
+Equipa em : ^777777Topo^000000  
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classe: ^777777Todas^000000
+#
 
 //file end
