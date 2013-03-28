@@ -10821,8 +10821,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Chapéu de Caça [1], Máscara de Tigre, Chapéu de Arara Azul [1] e Chapéu de Engenheiro [1].
-Esta promoção está disponível apenas até a manutenção do dia 20/03/2013.
+Troque-o pelos seguintes itens: 05 Pergaminhos de Ghostring, 01 Armadura Sombria [10], 01 Caixa da Regeneração [10] e Poção Média da Vida [10].
+Esta promoção está disponível apenas até a manutenção do dia 03/04/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -40904,9 +40904,13 @@ Peso : ^7777771^000000
 #
 
 18700#
-Gothic rabbit ribbon hat that is arrogant  and cute.^0000FFINT + 1.^000000 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000Equipa em : ^777777Topo^000000    
-Peso : ^77777750^000000Classe: ^777777Todas^000000
+Essa cartola foi usada pela popular Raruri Zusumia durante o Festival da Páscoa em Comodo. Famosa por suas músicas melancólicas, Raruri também ficou conhecida por insistir em teorias malucas como a existência de seres de outras dimensões, viajantes do tempo na Torre do Relógio ou pessoas com poderes psíquicos como a habilidade de refletir feitiços. Claro que a única maluquice são todas essas coisas existirem e apenas Raruri não perceber... De toda forma, a cantora transformou simples orelhinhas de coelho em um cobiçado item da moda!
+^0000FFINT + 1.^000000 
+Tipo : ^777777Equipamento para Cabeça^000000    
+Defesa : ^7777773^000000
+Equipa em : ^777777Topo^000000    
+Peso : ^77777750^000000
+Classe: ^777777Todas^000000
 #
 
 14531#
@@ -40918,13 +40922,11 @@ Peso : ^7777771^000000
 #
 
 18856#
-Um chapéu feito para homenagear o Guardião de Midgard Torin. Feito à imagem de um Tigre Branco, ele trás um poder único que é capaz de despertar o Tigre em você.
+Um chapéu idealizado para homenagear o Guardião de Midgard Torin. Feito à imagem de um Tigre Branco, ele trás um poder único que é capaz de despertar o Tigre em você.
 FOR + 2, DES + 2.
 Aumenta o dano em monstros do tipo Bruto conforme o refinamento do chapéu.
----
-it gives more damage to [Animal] type monsters
-On melee attack or attacked, wearer might have chance to shapeshift to king tiger [Eddga]. In Eddga form, user lose 5 SP per sec. but temporarily receive the strength of Animal. 
-the chance to shapeshift and the bonus amount depends on item's refine level.
+Chance de transformar o personagem em Eddga sempre que for atacado ou enquanto estiver atacando. A chance de transformação aumenta conforme o nível de refinamento do chapéu. 
+Quando se transformar em Eddga, o personagem perde 5 SP a cada segundo.
 
 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^77777710^000000

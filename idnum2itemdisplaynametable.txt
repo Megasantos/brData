@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote de Chapéus da Moda#
+7550#Pacote da Resistência#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -6035,9 +6035,9 @@
 18727#Chapéu de Sedora#
 18692#Peruca Jeca são Five#
 12850#Ovo Celeste#
-18700#Rabbit_Ribbon#
+18700#Cartola de Páscoa#
 4503#Carta Vesper Selada#
 14531#Perg. de Precisão Apurada#
-18856#Chapéu do Torin#
+18856#Chapéu do Tigre Branco#
 
 //file end

@@ -28118,14 +28118,14 @@ Peso : ^7777770^000000
 
 //------------------March2013 Items---------------------------------
 
-5788#Óculos 3D#
-18699#Starving_Fish_Hat#
-18727#Sedora_Hat#
-18692#Mike_Hat#
+5788#Item não identificado. Pode ser identificado com uma [Lupa].#
+18699#Item não identificado. Pode ser identificado com uma [Lupa].#
+18727#Item não identificado. Pode ser identificado com uma [Lupa].#
+18692#Item não identificado. Pode ser identificado com uma [Lupa].#
 12850#Heaven_Scroll#
-18700#Rabbit_Ribbon#
+18700#Item não identificado. Pode ser identificado com uma [Lupa].#
 4503#Carta Vesper Selada#
 14531#Perg. de Precisão Apurada#
-18856#Chapéu do Torin#
+18856#Item não identificado. Pode ser identificado com uma [Lupa].#
 
 //file end

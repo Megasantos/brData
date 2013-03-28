@@ -6027,14 +6027,14 @@
 
 //------------------March2013 Items---------------------------------
 
-5788#Óculos 3D#
-18699#Starving_Fish_Hat#
-18727#Sedora_Hat#
-18692#Mike_Hat#
+5788#Chapéu#
+18699#Chapéu#
+18727#Chapéu#
+18692#Chapéu#
 12850#Heaven_Scroll#
-18700#Rabbit_Ribbon#
+18700#Chapéu#
 4503#Carta Vesper Selada#
 14531#Perg. de Precisão Apurada#
-18856#Chapéu do Torin#
+18856#Chapéu#
 
 //file end
