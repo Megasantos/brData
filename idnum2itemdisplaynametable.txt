@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote da Resistência#
+7550#Pacote do Ferreiro Magnífico#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -2684,7 +2684,7 @@
 12909#Cartão Kafra#
 12910#Caixa de Asas#
 12911#Caixa de Neuralizador#
-12912#Espelhos Convexos#
+12912#Espelho Convexo[10]#
 12913#Caixa Abençoada#
 12914#Caixa Ágil#
 12915#Caixa de Aspersio#
@@ -6039,5 +6039,16 @@
 4503#Carta Vesper Selada#
 14531#Perg. de Precisão Apurada#
 18856#Chapéu do Tigre Branco#
+
+//------------------April2013 Items---------------------------------
+18647#Tapa-Olho Estrelado#
+18648#Língua Congelada#
+12853#Patron_Scroll#
+17178#Água Milagrosa[50]#
+12832#Água Milagrosa#
+17224#Bolinho Divino[10]#
+12883#Bolinho Divino#
+ 
+
 
 //file end

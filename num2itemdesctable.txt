@@ -28128,4 +28128,15 @@ Peso : ^7777770^000000
 14531#Perg. de Precisão Apurada#
 18856#Item não identificado. Pode ser identificado com uma [Lupa].#
 
+//------------------April2013 Items---------------------------------
+18647#Item não identificado. Pode ser identificado com uma [Lupa].#
+18648#Item não identificado. Pode ser identificado com uma [Lupa].#
+12853#Patron_Scroll#
+17178#Cx. Água Milagrosa[50]#
+12832#Água Milagrosa#
+17224#Bolinho Divino[10]#
+12883#Bolinho Divino#
+ 
+
+
 //file end
