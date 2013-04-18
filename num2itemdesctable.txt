@@ -28137,6 +28137,6 @@ Peso : ^7777770^000000
 17224#Bolinho Divino[10]#
 12883#Bolinho Divino#
  
-
+1562#Item não identificado. Pode ser identificado com uma [Lupa].#
 
 //file end

@@ -38079,7 +38079,7 @@ Peso: ^7777771^000000
 #
 
 4504#
-Carta de Eddga. ^0000ffDeixa o usuário sob efeito de "Vigor" permanente, Máx. HP -50%. 
+^0000ffDeixa o usuário sob efeito de "Vigor" permanente, Máx. HP -50%. 
 Se o item com esta carta tiver refinamento +15 ou superior, Máx. HP -35%^000000
 Combine com um item para utilizar sua propriedade. Não pode ser removida depois de combinada.
 Classe: ^777777Carta^000000
@@ -40960,7 +40960,7 @@ Classe : ^777777Todas^000000
 #
 
 12853#
-You can get one of precious items from Sealed Berzebub Card, Sealed Eddga Card, Snowman_Hat, Cat Ears Beret, Critical Ring Box and so on.
+Ovos que a Princesa Taekwon Redynarok trouxe de seu planeta natal, Naramat. Assim como Redynarok, esses ovos adquiriram poderes incríveis ao absorver energia solar, lunar e estelar.
 Peso : ^7777771^000000
 #
 
@@ -41008,5 +41008,16 @@ Todos os atributos +10, Ataque +30, ATQM +30 por 30 minutos.
 Peso : ^7777771^000000
 #
 
+1562#
+Um livro que registrou a história de incontáveis batalhas, incluindo as estratégias usadas por seu escritor.
+Chance de conjurar Bênção nível 3. Se o personagem tiver Bênção em sua árvore de habilidades, o nível aprendido será usado.
+Int +3
+Tipo : ^777777Livro^000000      
+Ataque : ^777777110^000000
+Peso : ^77777770^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^77777780^000000
+Equipa em : ^777777Sacerdote/Sábio/Mestre Taekwon ^000000
+#
 
 //file end

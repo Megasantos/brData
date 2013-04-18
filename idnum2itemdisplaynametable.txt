@@ -2672,14 +2672,14 @@
 7619#Elunium Enriquecido#
 7620#Oridecon Enriquecido#
 7621#Amuleto de Ziegfried#
-12900#Caixa de Manual de Combate#
+12900#Caixa de Manual de Combate[10]#
 12901#Caixa de Seguros#
 12902#Goma de Mascar [10]#
 12903#Línguas no Vapor#
-12904#Escorpiões no Vapor#
+12904#Escorpiões no Vapor[10]#
 12905#Coquetéis Sopro do Dragão#
 12906#Tônicos de Hwergelmir#
-12907#Nove Caudas Cozidas#
+12907#Nove Caudas Cozidas[10]#
 12908#Sopas da Imortalidade#
 12909#Cartão Kafra#
 12910#Caixa de Asas#
@@ -3415,7 +3415,7 @@
 13535#Poções_de_Concentração_Leves#
 13537#Poções_da_Fúria_Selvagem_Leves#
 13538#Caixa_de_Chuva_de_Meteoros#
-13539#Caixa_de_Nevasca#
+13539#Caixa_de_Nevasca[10]#
 13540#Caixa_de_Ira_de_Thor#
 13543#Pergaminho_de_Revestir_Capacete#
 13544#Pergaminho_de_Revestir_Escudo#
@@ -4413,7 +4413,7 @@
 5412#Pirulito#
 5558#Carapuça do Saci#
 16239#Caixa de Carapuça do Saci#
-14232#Caixa de Fruto de Yggdrasil#
+14232#Caixa de Fruto de Yggdrasil[10]#
 5261#Diadema Prateada#
 5262#Diadema Dourada#
 5205#Coroa de Louros#
@@ -5647,7 +5647,7 @@
 2495#Botas de Aegir#
 15061#Armadura de Aegir#
 12852#Ovo do Patrono#
-13990#Caixa de Manual de Combate de Classe#
+13990#Caixa de Manual de Combate de Classe[10]#
 4486#Carta Belzebu Selada#
 4504#Carta Eddga Selada#
 14132#Caixa do Anel Crítico Aprimorado#
@@ -6043,12 +6043,12 @@
 //------------------April2013 Items---------------------------------
 18647#Tapa-Olho Estrelado#
 18648#Língua Congelada#
-12853#Patron_Scroll#
+12853#Ovo Estelar#
 17178#Água Milagrosa[50]#
 12832#Água Milagrosa#
 17224#Bolinho Divino[10]#
 12883#Bolinho Divino#
  
-
+1562#Diário de Campo de Batalha#
 
 //file end
