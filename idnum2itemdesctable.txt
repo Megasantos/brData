@@ -20275,10 +20275,10 @@ Classes que utilizam: ^777777Todas^000000
 //Peso: ^7777771^000000
 //#
 7608#
-Ticket promocional criado pela Corporação Kafra.
-Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até a manutenção do dia 10/04, então troque agora mesmo seu ticket!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 10/04. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Um ticket criado pelo Prefeito Thomas, Ex-almirante de uma embarcação da Corporação da Pata de Gato.
+Troque-o por Frutas dos Gatos na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Esta promoção está disponível apenas até a manutenção do dia 30/04, então troque agora mesmo seu ticket!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 30/04. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -38552,7 +38552,8 @@ Classes : ^777777Todos exceto Aprendiz^000000
 #
 
 18703#
-Um pequeno broto da Árvore da Vida, Yggdrasil. Cultivado a partir de uma Semente de Yggdrasil, graças às suas capacidades curativas, o broto era usado nas refeições para evitar intoxicação alimentar, até os aventureiros passarem a usá-lo como forma de prevenção a envenenamentos.Aumenta em 20% a loterância contra o status Veneno.Tipo : ^777777Equipamento para Cabeça^000000    
+Um pequeno broto da Árvore da Vida, Yggdrasil. Cultivado a partir de uma Semente de Yggdrasil, graças às suas capacidades curativas, o broto era usado nas refeições para evitar intoxicação alimentar, até os aventureiros passarem a usá-lo como forma de prevenção a envenenamentos.Aumenta em 20% a tolerância contra o status Veneno.
+Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777770^000000
 Equipa em : ^777777Baixo^000000 
 Peso : ^7777775^000000
@@ -39906,7 +39907,7 @@ Classe: ^777777Arcebispo^000000
 
 15029#
 Abençoa o usuário com a propriedade Sagrada.
-Diminui o consumo de SP de Clementia para 50
+Diminui o consumo de SP de Clementia em 50
 INT +1, DEFM +10
 Tipo : ^777777Manto^000000
 Defesa : ^77777722^000000
