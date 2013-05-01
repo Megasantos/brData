@@ -5052,8 +5052,8 @@ Complete o desafio. Derrote 10 Tarous#
 Derrote 10 Tarous#
 
 7136#Grupo Valhalla#SG_FEEL#QUE_NOIMAGE#
-Complete o desafio. Derrote 5 Familiares#
-Derrote 5 Familiares#
+Complete o desafio. Derrote 10 Familiares#
+Derrote 10 Familiares#
 
 7137#Grupo Valhalla#SG_FEEL#QUE_NOIMAGE#
 Você completou todas as tarefas do gato falante. Fale com o membro do Grupo Valhalla.#
@@ -8447,7 +8447,7 @@ Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso
 
 7343#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
 Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
-10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Parte Inferior do Peito.#
+10 bolsas de Grãos, 1 garrafa de Molho Saboroso, 1 Carne ao Vinho.#
 
 7344#Lista de Tarefas de Nyas#SG FEEL#QUE NOIMAGE#
 Chefe Nyas te pediu para trazer 10 bolsas de Grãos e 1 garrafa de Molho Saboroso. E ele também quer que você consiga os alimentos abaixo porque está curioso sobre as comidas humanas.#
@@ -8615,49 +8615,49 @@ Você não pode receber nenhuma solicitação de Biscuit durante um dia.#
 Agora é hora de limpar Por favor, concentre-se em um ponto até que termine.#
 Limpando os esgotos por 1 hora.#
 
-12255#Cace caranguejo de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12255#Cace caranguejo das Profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcaranguejo de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 caranguejos de alto-mar - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 caranguejo das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
 
-12256#Cace lula de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12256#Cace Marte das Profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000fflula de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 lulas de alto-mar - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 Marte das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
 
-12257#Cace crustáceo antigo.#SG_FEEL#QUE_NOIMAGE#
+12257#Cace Vadon Ancestral.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcrustáceo antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 crustáceos antigos - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 Vadon Ancestral- Apareça no Calabouço dos Esgotos no modo normal.#
 
-12258#Cace concha de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12258#Cace Ostra das Profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffconcha de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 conchas de alto-mar - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 Ostra das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
 
-12259#Cace kukre antigo.#SG_FEEL#QUE_NOIMAGE#
+12259#Cace kukres ancestrais.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffkukre antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 kukres antigos - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 kukres ancestrais - Apareça no Calabouço dos Esgotos no modo normal.#
 
-12260#Cace búzios de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12260#Cace ornutus das Profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffbúzio de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 20 búzios de alto-mar - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 20 Cornutus das Profundezas - Apareça no Calabouço dos Esgotos no modo normal.#
 
-12261#Cace cavalo marinho de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12261#Cace cavalos marinhos das profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcavalo marinho de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 30 cavalos marinhos de alto-mar - Apareça no Calabouço dos Esgotos no modo difícil.#
+Cace 30 cavalos marinhos das profundezas - Apareça no Calabouço dos Esgotos no modo difícil.#
 
-12262#Cace peixe espada antigo.#SG_FEEL#QUE_NOIMAGE#
+12262#Cace peixe espada ancestral.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffpeixe espada antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 30 peixes espada antigos - Apareça no Calabouço dos Esgotos no modo difícil.#
+Cace 30 peixes espada ancestral - Apareça no Calabouço dos Esgotos no modo difícil.#
 
-12263#Cace deus do mar antigo.#SG_FEEL#QUE_NOIMAGE#
+12263#Cace Strouf Ancestral.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffdeus do mar antigo ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 30 deuses do mar antigos - Apareça no Calabouço dos Esgotos no modo difícil.#
+Cace 30 Strouf Ancestral - Apareça no Calabouço dos Esgotos no modo difícil.#
 
 12264#Cace anolian mutante.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffanolian mutante ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
 Cace 30 anolians mutantes - Apareça no Calabouço dos Esgotos no modo difícil.#
 
-12265#Cace sereia de alto-mar.#SG_FEEL#QUE_NOIMAGE#
+12265#Cace Obeaune das Profundezas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffsereia de alto-mar ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
-Cace 30 sereias de alto-mar - Apareça no Calabouço dos Esgotos no modo difícil.#
+Cace 30 Obeaune das Profundezas - Apareça no Calabouço dos Esgotos no modo difícil.#
 
 12266#Cace kapha mutante.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffkapha mutante ^000000e levantar nossas vozes! Vamos lá, heróis! Não tenham medo deles, apenas venham aqui! É só um dia!#
@@ -8669,7 +8669,7 @@ Cace 1 celacanto estranho - Apareça no Calabouço dos Esgotos no modo normal.#
 
 12268#Cace celacanto das trevas.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto das trevas ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo normal no Calabouço dos Esgotos!#
-Cace 1 celacanto das trevas - Apareça no Calabouço dos Esgotos no modo normal.#
+Cace 1 celacanto sombrio - Apareça no Calabouço dos Esgotos no modo normal.#
 
 12269#Cace celacanto cruel.#SG_FEEL#QUE_NOIMAGE#
 Hoje, herói dos esgotos, definimos a data para o extermínio do^0000ffcelacanto cruel ^000000e levantar nossa voz! Vou te dar só uma semana para terminar este trabalho! Extermine todos eles no modo difícil no Calabouço dos Esgotos!#

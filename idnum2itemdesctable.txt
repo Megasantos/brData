@@ -20275,10 +20275,10 @@ Classes que utilizam: ^777777Todas^000000
 //Peso: ^7777771^000000
 //#
 7608#
-Um ticket criado pelo Prefeito Thomas, Ex-almirante de uma embarcação da Corporação da Pata de Gato.
-Troque-o por Frutas dos Gatos na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até a manutenção do dia 30/04, então troque agora mesmo seu ticket!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 30/04. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Ticket promocional criado pela Corporação Kafra.
+Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Esta promoção está disponível apenas até a manutenção do dia 08/05, então troque agora mesmo seu ticket!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 08/05. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -22588,7 +22588,7 @@ Nível necessário: ^77777738^000000
 Classes que utilizam: ^777777Todas^000000
 #
 5208#
-Um universitário teve a brilhante idéia de petrificar um Rideword e transformá-lo em chapéu para protestar contra o número abusivo de livros que deveriam ler. O tiro saiu pela culatra, já que a criatura continuou a distribuir suas dentadas ocasionais – especialmente quando o usuário tinha caspa ou piolho! 
+Um universitário teve a brilhante ideia de petrificar um Rideword e transformá-lo em chapéu para protestar contra o número abusivo de livros que deveriam ler. O tiro saiu pela culatra, já que a criatura continuou a distribuir suas dentadas ocasionais – especialmente quando o usuário tinha caspa ou piolho! 
 Quando equipado, o usuário perde 10 HP a cada 5 segundos.
 Converte 8% do dano causado a um oponente em HP quando o usuário atacar com golpes corpo-a-corpo. A chance de sucesso é de 5%.
 Converte 4% do dano causado a um oponente em SP quando o usuário atacar com golpes corpo-a-corpo. A chance de sucesso é de 1%.
@@ -38747,10 +38747,8 @@ Classes :  ^777777Todas^000000
 
 
 17042#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Poring.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Poring' por 20 minutos.
 Aumenta o dano critico em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38758,7 +38756,6 @@ Peso : ^7777771^000000
 #
 
 12663#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Poring' por 20 minutos.
 Aumenta o dano critico em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -40120,8 +40117,7 @@ Classes : ^777777Todas^000000
 #
 
 12851#
-Um ovo leve como uma pluma, que revela o talento daquele que o abrir. 
-Peso : ^7777771^000000
+Um ovo leve como uma pluma, que revela o talento daquele que o abrir. Peso : ^7777771^000000
 #
 
 18664#
@@ -40484,6 +40480,7 @@ Classe: ^777777Todas as Classes^000000
 #
 6417#
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6418#
@@ -40594,23 +40591,26 @@ Peso: ^7777771^000000
 16770#
 Caixa com 10 frutas dos gatos. Uma pequena quantidade de comida enlatada está incluída como bônus.
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
-^ff0000Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
 Peso: ^7777771^000000
 #
 16771#
 Caixa com 40 frutas dos gatos. Uma pequena quantidade de comida enlatada está incluída como bônus.
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
-^ff0000Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
 Peso: ^7777771^000000
 #
 16979#
 Caixa com 4 frutas dos gatos. Uma pequena quantidade de comida enlatada está incluída como bônus.
 
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
-^ff0000Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
 Peso: ^7777771^000000
 #
 17013#
@@ -40880,17 +40880,13 @@ Criado pela famosa estilista marinha, Leira, este chapéu é uma cópia exata do si
 Recuperação usando os itens Sushi e Peixe Cru +50%
 Se refinado acima do +7, recuperação usando o item Peixe Cru +100%. ^000000 
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^77777713^000000
-Equipa em : ^777777Topo^000000  
-Peso : ^77777730^000000
-Nível Necessário : ^77777710^000000
+Defesa : ^77777713^000000Equipa em : ^777777Topo^000000  
+Peso : ^77777730^000000Nível Necessário : ^77777710^000000
 Classe: ^777777Todas^000000
 #
 
 18692#
-Se você usa esta peruca, não é preciso que lhe esclareçam tudo no Preto ou Branco, nem que expliquem o ABC de como as coisas funcionam. Midgard é um lugar sombrio, e muitas vezes parece que Eles Não Se Importam com a Gente. Mas apesar das coisas às vezes serem como um Thriller de horror, você sabe que é capaz de ajudar a Curar o Mundo. Basta colocar sua cara de Bad boy e encarar os desafios! Sem esquecer, é claro, do estilo, coisa que você tem de sobra, parecendo até um Andarilho da Lua, como dizem seus amigos, Billi e Jean. Afinal, como a peruca indica, você é um membro do grupo musical, Jeca são Five!
-^0000FFDES + 2, SOR + 1.^000000 
-Tipo : ^777777Equipamento para Cabeça^000000    
+Se você usa esta peruca, não é preciso que lhe esclareçam tudo no Preto ou Branco, nem que expliquem o ABC de como as coisas funcionam. Midgard é um lugar sombrio, e muitas vezes parece que Eles Não Se Importam com a Gente. Mas apesar das coisas às vezes serem como um Thriller de horror, você sabe que é capaz de ajudar a Curar o Mundo. Basta colocar sua cara de Bad boy e encarar os desafios! Sem esquecer, é claro, do estilo, coisa que você tem de sobra, parecendo até um Andarilho da Lua, como dizem seus amigos, Billi e Jean. Afinal, como a peruca indica, você é um membro do grupo musical, Jeca são Five!^0000FFDES + 2, SOR + 1.^000000 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
@@ -40898,13 +40894,11 @@ Peso : ^77777720^000000
 #
 
 12850#
-Um ovo que dizem ter sido atingido por Energia Celeste após uma tentativa frustrada do exímio piloto de Espaço-plano Beijamin Grão de alcançar um buraco negro. Ao voltar para casa, Beijamin percebeu que seu corpo e a carga de Ovos que carregava haviam absorvido parte da Energia Celeste, ganhando poderes grandiosos.
-Peso : ^7777771^000000
+Um ovo que dizem ter sido atingido por Energia Celeste após uma tentativa frustrada do exímio piloto de Espaço-plano Beijamin Grão de alcançar um buraco negro. Ao voltar para casa, Beijamin percebeu que seu corpo e a carga de Ovos que carregava haviam absorvido parte da Energia Celeste, ganhando poderes grandiosos.Peso : ^7777771^000000
 #
 
 18700#
-Essa cartola foi usada pela popular Raruri Zusumia durante o Festival da Páscoa em Comodo. Famosa por suas músicas melancólicas, Raruri também ficou conhecida por insistir em teorias malucas como a existência de seres de outras dimensões, viajantes do tempo na Torre do Relógio ou pessoas com poderes psíquicos como a habilidade de refletir feitiços. Claro que a única maluquice são todas essas coisas existirem e apenas Raruri não perceber... De toda forma, a cantora transformou simples orelhinhas de coelho em um cobiçado item da moda!
-^0000FFINT + 1.^000000 
+Essa cartola foi usada pela popular Raruri Zusumia durante o Festival da Páscoa em Comodo. Famosa por suas músicas melancólicas, Raruri também ficou conhecida por insistir em teorias malucas como a existência de seres de outras dimensões, viajantes do tempo na Torre do Relógio ou pessoas com poderes psíquicos como a habilidade de refletir feitiços. Claro que a única maluquice são todas essas coisas existirem e apenas Raruri não perceber... De toda forma, a cantora transformou simples orelhinhas de coelho em um cobiçado item da moda!^0000FFINT + 1.^000000 
 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777773^000000
 Equipa em : ^777777Topo^000000    
@@ -40968,12 +40962,10 @@ Peso : ^7777771^000000
 17178#
 Uma caixa contendo 50 garrafas de Água Milagrosa.
 -
-Água Milagrosa
-Uma mistura feita a partir de Poções da Vida, mas com um toque de limão.
+Água MilagrosaUma mistura feita a partir de Poções da Vida, mas com um toque de limão.
 Recupera 4% do HP Máximo a cada 3 segundos por 10 minutos.
 Não é efetivo quando o personagem entra em Frenesi.
-^000088Se você foi nocauteado, o efeito desaparecerá^000000
--
+^000088Se você foi nocauteado, o efeito desaparecerá^000000-
 ^ff0000Uma vez aberta, esta caixa não poderá ser reembolsada^000000
 Peso : ^7777771^000000
 #
@@ -40983,8 +40975,7 @@ Peso : ^7777771^000000
 Uma mistura feita a partir de Poções da Vida, mas com um toque de limão.
 Recupera 4% do HP Máximo a cada 3 segundos por 10 minutos.
 Não é efetivo quando o personagem entra em Frenesi.
-^000088Se você foi nocauteado, o efeito desaparecerá.^000000
-Peso : ^7777771^000000
+^000088Se você foi nocauteado, o efeito desaparecerá.^000000Peso : ^7777771^000000
 #
 
 

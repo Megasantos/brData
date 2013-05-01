@@ -3399,7 +3399,8 @@
 5196#Lacinho_Laranja#
 5197#Lacinho_Branco#
 //7608#Ticket_do_Dia_das_Mães#
-7608#Ticket dos Gatos#
+//7608#Ticket de Promoção#
+7608#Ticket de Popromoçãoring#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
