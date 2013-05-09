@@ -10821,8 +10821,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: 01 Caixa de Omni-Oridecon, 01 Caixa de Mega-Elunium, 01 Caixa de Regeneração[10], 01 Poção Menor da Vida[50], 01 Galho Sangrento.
-Esta promoção está disponível apenas até a manutenção do dia 17/04/2013.
+Troque-o pelos seguintes itens: Tônicos de Hwergelmir[10], Nove Caudas Cozidas[10], Línguas no Vapor[10], Poções Brancas Leves[50], 10 x Seguro Estendido e Água Milagrosa[50].
+Esta promoção está disponível apenas até a manutenção do dia 15/05/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -40590,9 +40590,11 @@ Peso: ^7777771^000000
 #
 16770#
 Caixa com 10 frutas dos gatos. Uma pequena quantidade de comida enlatada está incluída como bônus.
+_
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
 ^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
+_
 ^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
 Peso: ^7777771^000000
 #
@@ -40962,7 +40964,8 @@ Peso : ^7777771^000000
 17178#
 Uma caixa contendo 50 garrafas de Água Milagrosa.
 -
-Água MilagrosaUma mistura feita a partir de Poções da Vida, mas com um toque de limão.
+Água Milagrosa
+Uma mistura feita a partir de Poções da Vida com um toque de limão.
 Recupera 4% do HP Máximo a cada 3 segundos por 10 minutos.
 Não é efetivo quando o personagem entra em Frenesi.
 ^000088Se você foi nocauteado, o efeito desaparecerá^000000-

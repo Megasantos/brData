@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote do Ferreiro Magnífico#
+7550#Pacote de Ataque Físico#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -2361,7 +2361,7 @@
 2649#Bracelete de Morpheus#
 2650#Cinto de Morrigane#
 2651#Pingente de Morrigane#
-2652#Broche Amaldiçoado da Deusa da Fortuna#
+2652#Broche Amald. Deusa Fortuna#
 2653#Anel do Sacrifício#
 2654#Cinto Shinobi#
 2655#Bola de Ferro Ensanguentada#
@@ -2672,29 +2672,29 @@
 7619#Elunium Enriquecido#
 7620#Oridecon Enriquecido#
 7621#Amuleto de Ziegfried#
-12900#Caixa de Manual de Combate[10]#
-12901#Caixa de Seguros#
+12900#Manual de Combate[10]#
+12901#Seguro de Vida[10]#
 12902#Goma de Mascar [10]#
-12903#Línguas no Vapor#
+12903#Línguas no Vapor[10]#
 12904#Escorpiões no Vapor[10]#
 12905#Coquetéis Sopro do Dragão#
-12906#Tônicos de Hwergelmir#
+12906#Tônicos de Hwergelmir[10]#
 12907#Nove Caudas Cozidas[10]#
-12908#Sopas da Imortalidade#
-12909#Cartão Kafra#
-12910#Caixa de Asas#
-12911#Caixa de Neuralizador#
+12908#Sopas da Imortalidade[10]#
+12909#Cartão Kafra[10]#
+12910#Cx Asas de Mosca Gigantes[10]#
+12911#Caixa de Neuralizador[1]#
 12912#Espelho Convexo[10]#
-12913#Caixa Abençoada#
-12914#Caixa Ágil#
-12915#Caixa de Aspersio#
-12916#Caixa de Assumptio#
-12917#Caixa do Vento#
-12918#Caixa de Adrenalina#
-12919#Caixa de Megafone#
-12920#Elunium Enriquecido#
-12921#Oridecon Enriquecido#
-12922#Caixa de Amuletos#
+12913#Caixa Abençoada[10]#
+12914#Caixa Ágil[10]#
+12915#Caixa de Aspersio[5]#
+12916#Caixa de Assumptio[5]#
+12917#Caixa do Vento[10]#
+12918#Caixa de Adrenalina[20]#
+12919#Caixa de Megafone[10]#
+12920#Elunium Enriquecido[1]#
+12921#Oridecon Enriquecido[1]#
+12922#Caixa de Amuletos[10]#
 
 // 2007 Carnival
 
@@ -3412,17 +3412,17 @@
 12996#Blue_Herb_Box#
 12999#Caixa de Galhos Secos#
 13514#Spaner_Box#
-13534#Poções_Brancas_Leves#
+13534#Poções_Brancas_Leves[50]#
 13535#Poções_de_Concentração_Leves#
 13537#Poções_da_Fúria_Selvagem_Leves#
 13538#Caixa_de_Chuva_de_Meteoros#
 13539#Caixa_de_Nevasca[10]#
 13540#Caixa_de_Ira_de_Thor#
-13543#Pergaminho_de_Revestir_Capacete#
-13544#Pergaminho_de_Revestir_Escudo#
-13545#Pergaminho_de_Revestir_Armadura#
-13546#Pergaminho_de_Revestir_Arma#
-13547#Pergaminho_de_Reparar_Arma#
+13543#Pergam._Revestir_Capacete#
+13544#Pergam._Revestir_Escudo#
+13545#Pergam._Revestir_Armadura#
+13546#Pergam._Revestir_Arma#
+13547#Pergam._Reparar_Arma#
 13548#Bolinhos_de_Carne [10]#
 13549#Balas_Amargas [10]#
 13552#Bolos_de_Coco [10]#
@@ -3434,15 +3434,15 @@
 13970#Caixa_de_Ferro#
 13971#Caixa_de_Aço#
 13972#Caixa_de_Carvão#
-14512#Pergaminho_de_Chuva_de_Meteoros#
-14513#Pergaminho_de_Nevasca#
-14514#Pergaminho_de_Ira_de_Thor#
-12977#Pergaminho_de_Teleporte_1#
-12978#Pergaminho_de_Teleporte_2#
-12979#Pergaminho_de_Teleporte_3#
-12980#Pergaminho_de_Teleporte_4#
-12981#Pergaminho_de_Teleporte_5#
-12982#Pergaminho_de_Teleporte_6#
+14512#Pergam._Chuva_de_Meteoros#
+14513#Pergam._Nevasca#
+14514#Pergam._Ira_de_Thor#
+12977#Pergam._Teleporte_1#
+12978#Pergam._Teleporte_2#
+12979#Pergam._Teleporte_3#
+12980#Pergam._Teleporte_4#
+12981#Pergam._Teleporte_5#
+12982#Pergam._Teleporte_6#
 14522#Bolinho_de_Carne#
 14523#Bala_Amarga#
 14526#Bolo_de_Coco#
@@ -3454,7 +3454,7 @@
 14509#Poção_de_Concentração_Leve#
 14511#Poção_da_Fúria_Selvagem_Leve#
 11501#Poção_Branca_Leve#
-14587#Pergaminho de Reparar Arma#
+14587#Perg. de Reparar Arma#
 
 // ----------------- thRO Hats -------------------
 5300#Elmo_do_Povo_Dragão#
@@ -3750,7 +3750,7 @@
 7824#Refresco#
 13821#Caixa_de_Maçãs_Bichadas#
 13822#Caixa_de_Churrasco_Selvagem#
-13823#Caixa_de_Espetinhos_Vegetarianos#
+13823#Cx_Espetinhos_Vegetarianos#
 13824#Caixa_de_Refrescos#
 
 //???? ??
@@ -3799,7 +3799,7 @@
 5328#Asas Malignas [A]#
 13771#Caixa_de_Rugido_Sangrento#
 13766#Caixa_de_Nagan#
-13783#Caixa_de_Bola_de_Ferro_Ensangüentada#
+13783#Cx Bola de Ferro Ensang.#
 13782#Caixa_de_Chapéu_de_Corsário#
 13779#Caixa_de_Asas_Malignas#
 5401#Óculos Pretos#
@@ -4127,10 +4127,10 @@
 2430#Botas de Ferro#
 
 // ---- S. valentino 2009 ---------
-12742#Caixa de Presente do Dia dos Namorados#
-12743#Caixa de Presente do Dia dos Namorados#
-12744#Caixa de Chocolates#
-14466#Caixa de Anel do Dia dos Namorados#
+12742#Cx Presente do Dia dos Namorados#
+12743#Cx Presente do Dia dos Namorados#
+12744#Cx Chocolates#
+14466#Cx Anel do Dia dos Namorados#
 7948#Caixa#
 7946#Anel de Ouro do Dia dos Namorados#
 7947#Anel de Prata do Dia dos Namorados#
@@ -4441,10 +4441,10 @@
 13941#Ovo dos Namorados#
 5512#Diadema de Aquário#
 5513#Coroa de Aquário#
-14254#Caixa de Anel do Ganhador [A]#
+14254#Cx Anel do Ganhador[A]#
 5506#Touca de Pijama Azul#
 5507#Touca de Pijama Rosa#
-14255#Caixa de Anel do Devastador [A]#
+14255#Ci Anel do Devastador[A]#
 12188#Bolo Mágico Lunar#
 12190#Bolo Lunar#
 12191#Bolo Especial Lunar#
@@ -4452,8 +4452,8 @@
 12706#Biscoito da Sorte: Glória#
 12707#Biscoito da Sorte: Magnificat#
 12708#Biscoito da Sorte: Impositio Manus#
-2755#Anel do Ganhador [A]#
-2756#Anel do Devastador [A]#
+2755#Anel do Ganhador[A]#
+2756#Anel do Devastador[A]#
 
 //---- Festa Junina 2009 ----
 5572#Chapéu de Bebê Selvagem#
@@ -4481,14 +4481,14 @@
 14600#Poção Mental#
 14601#Bênção de Tyr#
 14306#Ovo Especial do RBC#
-14252#Caixa de Anel do Caçador Veterano [A]#
-2753#Anel do Caçador Veterano [A]#
+14252#Cx Anel Caçador Veterano[A]#
+2753#Anel do Caçador Veterano[A]#
 5508#Chapéu de Tubarão#
 14298#Ovo Surpresa#
 5800#Rubor de Batalha#
 13516#Caixa de Geléia Real#
-14253#Caixa de Anel do Caçador de Morto-Vivo [A]#
-2754#Anel do Caçador de Morto-Vivo [A]#
+14253#Cx Anel Caç. de Morto-Vivo[A]#
+2754#Anel Caçador de Morto-Vivo[A]#
 5526#Boneca da Lady Tanee#
 5509#Chapéu de Sting#
 5363#Elmo do Abismo#
@@ -4496,13 +4496,13 @@
 5465#Chapéu Celestial#
 5473#Tiara de Vadon#
 13925#Ovo Dimensional#
-14256#Caixa de Anel do Colecionador de Insetos [A]#
-2757#Anel do Colecionador de Insetos [A]#
+14256#Cx Anel Colec. de Insetos[A]#
+2757#Anel do Colecionador de Insetos[A]#
 14363#Ovo do Coração#
-14257#Caixa de Anel de Pescador [A]#
-2758#Anel do Pescador [A]#
-14258#Caixa de Anel do Exorcista [A]#
-2759#Anel do Exorcista [A]#
+14257#Cx Anel de Pescador[A]#
+2758#Anel do Pescador[A]#
+14258#Cx Anel do Exorcista[A]#
+2759#Anel do Exorcista[A]#
 
 //---- Buzzy Bol Riclan event 2009 ----
 12264#Chiclete#
@@ -4511,21 +4511,21 @@
 //----- August 2009 Cash items -----
 5554#Chapéu de Polvo#
 5556#Capuz de Foca#
-14259#Caixa de Anel do Açougueiro [A]#
-2760#Anel do Açougueiro [A]#
+14259#Cx Anel do Açougueiro[A]#
+2760#Anel do Açougueiro[A]#
 5564#Máscara da Morte#
 5501#Orgulho Pirata#
 14307#Ovo Comemorativo do RWC#
-14287#Kit de Reparação de Barricada#
-14288#Kit de Reparação de Runa Guardiã#
+14287#Kit Reparo de Barricada#
+14288#Kit Reparo de Runa Guardiã#
 5557#Boneco de Rosa Selvagem#
 5485#Máscara de Tigre#
 5481#Chapéu Formoso#
 5469#Chapéu de Mosqueteiro#
-14260#Caixa de Anel do Anjo Caído [A]#
-14261#Caixa de Anel do Caçador de Dragões [A]#
-2761#Anel do Anjo Caído [A]#
-2762#Anel do Caçador de Dragões [A]#
+14260#Cx Anel do Anjo Caído[A]#
+14261#Cx Anel Caçador de Dragões[A]#
+2761#Anel do Anjo Caído[A]#
+2762#Anel do Caçador de Dragões[A]#
 
 //Back to school event 2009
 5827#Pilha de Livros#
@@ -4872,13 +4872,13 @@
 5761#Chapéu do Bicho Preguiça#
 5762#Elmo de Duneyrr#
 14532#Basic_Field_Manual#
-14244#Caixa de Anel do Ganhador [A]#
-14245#Caixa de Anel do Devastador [A]#
-14246#Caixa de Anel do Colecionador de Insetos [A]#
-14247#Caixa de Anel do Pescador [A]#
-14248#Caixa de Anel do Exorcista [A]#
-14250#Caixa de Anel do Anjo Caído [A]#
-14251#Caixa de Anel do Caçador de Dragões [A]#
+14244#Cx Anel do Ganhador[A]#
+14245#Cx Anel do Devastador[A]#
+14246#Cx Anel Colec. de Insetos[A]#
+14247#Cx Anel do Pescador[A]#
+14248#Cx Anel do Exorcista[A]#
+14250#Cx Anel do Anjo Caído[A]#
+14251#Cx Anel Caçador de Dragões[A]#
 16195#Ovo das Tartarugas#
 16576#Ovo de Oboro#
 
@@ -5427,11 +5427,11 @@
 
 //------------2012 January Items------------
 
-16993#Caixa_de_Asas_de_Borboleta [50]#
-16992#Caixa_de_Asas_de_Borboleta [20]#
-16686#Caixa_de_Asas_de_Mosca [100]#
-16685#Caixa_de_Asas_de_Mosca [50]#
-16684#Caixa_de_Asas_de_Mosca [10]#
+16993#Cx_Asas_de_Borboleta [50]#
+16992#Cx_Asas_de_Borboleta [20]#
+16686#Cx_Asas_de_Mosca [100]#
+16685#Cx_Asas_de_Mosca [50]#
+16684#Cx_Asas_de_Mosca [10]#
 17104#Oridecon_Perfeito [50]#
 17105#Elunium_Perfeito [50]#
 2584#Manto_do_Andarilho#
@@ -5457,25 +5457,25 @@
 13115#Pistola Aprimorada#
 16019#Maça Aprimorada#
 17084#Caixa com Katar Aprimorada#
-17085#Caixa com Machado Aprimorado de Duas Mãos#
-17086#Caixa com Lança Aprimorada de Duas Mãos#
-17087#Caixa com Livro Aprimorado#
-17088#Caixa com Cajado Aprimorado#
-17089#Caixa com Adaga Aprimorada#
-17090#Caixa com Pistola Aprimorada#
-17091#Caixa com Maça Aprimorada#
-17092#Caixa com Arco Aprimorado#
-17093#Caixa com Espada Aprimorada de Duas Mãos#
-17094#Caixa da Katar Aprimorada#
-17095#Caixa do Machado Aprimorado de Duas Mãos#
-17096#Caixa da Lança Aprimorada de Duas Mãos#
-17097#Caixa do Livro Aprimorado#
-17098#Caixa do Cajado Aprimorado#
-17099#Caixa da Adaga Aprimorada#
-17100#Caixa da Pistola Aprimorada#
-17101#Caixa da Maça Aprimorada#
-17102#Caixa do Arco Aprimorado#
-17103#Caixa da Espada Aprimorada de Duas Mãos#
+17085#Cx Mach. Aprim. de 2 Mãos#
+17086#Cx Lança Aprim. de 2 Mãos#
+17087#Cx Livro Aprimorado#
+17088#Cx Cajado Aprimorado#
+17089#Cx Adaga Aprimorada#
+17090#Cx Pistola Aprimorada#
+17091#Cx Maça Aprimorada#
+17092#Cx Arco Aprimorado#
+17093#Cx Espada Aprim. de 2 Mãos#
+17094#Cx da Katar Aprimorada#
+17095#Cx Mach. Aprimorado de 2 Mãos#
+17096#Cx Lança Aprimorada de 2 Mãos#
+17097#Cx do Livro Aprimorado#
+17098#Cx do Cajado Aprimorado#
+17099#Cx da Adaga Aprimorada#
+17100#Cx da Pistola Aprimorada#
+17101#Cx da Maça Aprimorada#
+17102#Cx do Arco Aprimorado#
+17103#Cx Espada Aprim. de 2 Mãos#
 12673#Ovo da Páscoa#
 18112#Arco Aprimorado#
 21000#Espada Aprimorada de Duas Mãos#

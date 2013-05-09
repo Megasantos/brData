@@ -1853,10 +1853,10 @@ buff#
 recuperação#
 etc#
 preço#
-quantidade#
-Um número de#
+Qtd:#
+Unidade#
 Cash gratuito : %s C#
-Cash possuído : %s C#
+ROPs : %s C#
 Impossível invocar monstros nessa área #
 Total de cash gratuito foi excedido #
 Informação será salva em [SaveData_ExMacro%d] #
@@ -1991,7 +1991,7 @@ Este é o mesmo nome do arquivo #
 Início do registro #
  foi salvo. #
 Peso : %3d / %3d#
-Total : %s C#
+Custo : %s C#
 Você precisa equipar [Shuriken] para usar essa habilidade. #
 Base Lv. %d#
 Classe Lv. %d#
@@ -2069,6 +2069,7 @@ Não disponível #
 1#
 1#
 1#
+Insira o nome do item para pesquisar#
 1#
 1#
 1#
@@ -2081,10 +2082,9 @@ Não disponível #
 1#
 1#
 1#
+Lista de arquivos de replay#
 1#
-Replay File List#
-1#
-File List#
+Lista de arquivos#
 1#
 1#
 1#
