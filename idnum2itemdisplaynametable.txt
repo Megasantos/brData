@@ -5162,19 +5162,19 @@
 16755#Caixa de Mega-Elunium#
 16756#Caixa de Mega-Elunium#
 6438#Omni-Oridecon#
-16753#Caixa de Omni-Oridecon#
-16754#Caixa de Omni-Oridecon#
-17066#Caixa de Veneno Mortal [50]#
-17067#Caixa de Veneno Mortal [100]#
-17068#Caixa de Bomba Ácida [50]#
-17069#Caixa de Bomba Ácida [100]#
-17070#Caixa de Bomba Ácida [500]#
-17071#Caixa de Sashimi Saboroso [50]#
-17072#Caixa de Sashimi Saboroso [100]#
-17073#Caixa de Sashimi Saboroso [500]#
-17074#Caixa de Garrafa Vazia [10]#
-17075#Caixa de Garrafa Vazia [100]#
-17076#Caixa de Garrafa Vazia [500]#
+16753#Cx Omni-Oridecon#
+16754#Cx Omni-Oridecon#
+17066#Cx Veneno Mortal[50]#
+17067#Cx Veneno Mortal[100]#
+17068#Cx Bomba Ácida[50]#
+17069#Cx Bomba Ácida[100]#
+17070#Cx Bomba Ácida[500]#
+17071#Cx Sashimi Saboroso [50]#
+17072#Cx Sashimi Saboroso [100]#
+17073#Cx Sashimi Saboroso [500]#
+17074#Cx Garrafa Vazia [10]#
+17075#Cx Garrafa Vazia [100]#
+17076#Cx Garrafa Vazia [500]#
 
 
 //---- July 2011 CASH Items ----
@@ -5183,11 +5183,11 @@
 18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
-16653#Caixa de Compêndio de Batalha#
-13857#Caixa de Doce Hiper Açucarado [5]#
+16653#Cx Compêndio de Batalha#
+13857#Cx Doce Hiper Açucarado [5]#
 12405#Semente de Yggdrasil Abençoada#
-13610#Caixa de Elunium Enriquecido [5]#
-13611#Caixa de Oridecon Enriquecido [5]#
+13610#Cx Elunium Enriquecido [5]#
+13611#Cx Oridecon Enriquecido [5]#
 
 
 //--- Valentines Day Event 2011 ---
@@ -6051,5 +6051,10 @@
 12883#Bolinho Divino#
  
 1562#Diário de Campo de Batalha#
+
+19541#C_Romantic_White_Flower#
+13081#Octo_kitchen_Knife#
+
+
 
 //file end

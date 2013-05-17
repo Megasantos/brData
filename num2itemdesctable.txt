@@ -28139,4 +28139,10 @@ Peso : ^7777770^000000
  
 1562#Item não identificado. Pode ser identificado com uma [Lupa].#
 
+
+19541#Item não identificado. Pode ser identificado com uma [Lupa].#
+13081#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+
+
 //file end

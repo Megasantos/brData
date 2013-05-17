@@ -227,7 +227,7 @@ Dê um nome a sua loja.#
 Minha Loja#
 Loja de Mercador#
 Comprando Itens#
-%s Compra Falhou %s#
+%s Compra Falhou %s .#
 Em falta#
 %s %d vendido.#
 Itens a venda#
@@ -1028,7 +1028,7 @@ Criar mensagem#
 Ler mensagem#
 Você poderá se registrar somente uma vez e não poderá alterar os dados inseridos. Você deseja continuar? #
 O item foi adicionado a seu inventário.#
-O itemVocê é adoravel não pode ser adicionado a seu inventário.#
+O item 'Você é adoravel' não pode ser adicionado a seu inventário.#
 Sua mensagem foi enviada.#
 Entrega não foi efetuada. Destinatário desconhecido ou você está tentando enviar uma mensagem a si mesmo.#
 [Anjo do Sol, Lua e Estrela] Localizações e monstros registrados foram restaurados!#
@@ -1844,17 +1844,17 @@ comprar#
 esvaziar carrinho#
 primeira página#
 última página#
-um novo #
-popular#
+Novo #
+Popular#
 limitado #
-equipamento de aluguel#
-equipamento permanente#
-buff#
-recuperação#
-etc#
+Equipamento de aluguel#
+Equipamento permanente#
+Buff#
+Consumível#
+Outros#
 preço#
 Qtd:#
-Unidade#
+Unidade(s)#
 Cash gratuito : %s C#
 ROPs : %s C#
 Impossível invocar monstros nessa área #
@@ -1876,7 +1876,7 @@ Nome real#
 Número de identificação#
 Email#
 Comando incorreto#
-Falha em pagar o zenny #
+Falha ao pagar. O vendedor ou você atingiu o limite de zenys permitido#
 Não é uma classe relevante#
 Não é um sexo relevante#
 Identificou a informação do usuário com sucesso#

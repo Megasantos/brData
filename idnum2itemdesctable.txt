@@ -15394,7 +15394,7 @@ Negociação: ^777777O item não pode ser derrubado e negociado, mas pode ser coloc
 12213#
 Um bastão que brilha quando é utilizado. As pessoas que vêem essas luzes parecem perder parte de sua memória.
 ^0000ffRestaura a Árvore de Habilidades e lhe dá o numero correspondente em pontos para fazer a redistribuição.^000000
-^000088Atenção: para usar o Neuralizador você deve seguir as mesmas exigências do NPC de Reset Skill.^000000
+^000088Atenção: para usar o Neuralizador você deve seguir as mesmas exigências do NPC de Reset de Habilidades.^000000
 Guarde todos os seus itens, equipamentos e flechas em seu armazém, remova seu PecoPeco, GrandPeco, Carrinho ou Falcão e só então clique duas vezes no Neuralizador. Do contrário, mesmo que você tente usá-lo, ele não será gasto, mas nada acontecerá!
 Peso: ^7777771^000000
 Negociação: ^777777O item não pode ser derrubado e negociado, mas pode ser colocado na Kafra e no Carrinho^000000
@@ -39884,7 +39884,7 @@ Classe: ^777777Arcebispo^000000
 2569#
 Esquiva Perfeita +5
 Tem a chance de conjurar Renovatio nv. 1 enquanto ataca fisica ou magicamente.
-Tipo : ^777777Armadura^000000
+Tipo : ^777777Capa^000000
 Defesa : ^77777712^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
@@ -41014,5 +41014,29 @@ Nível da Arma : ^7777774^000000
 Nível Necessário : ^77777780^000000
 Equipa em : ^777777Sacerdote/Sábio/Mestre Taekwon ^000000
 #
+
+
+
+19541#
+Se a florzinha amarela não combina com suas roupas, ou se você prefere uma grande margarida para combinar com seu novo corte de cabelo, esta é sua melhor opção. Claro que, se você acha isso, você só pode ser uma garota. Ou um Bardo.
+^0000FFPrecisão +1^000000 
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^77777710^000000
+Classes que utilizam: ^777777Todas^000000
+#
+
+
+13081#
+A knife to cook Octopus. Surprisingly sharp.
+HIT +1 per 1 upgrade.
+Class : ^777777Dagger^000000 Attack : ^777777140^000000
+Weight : ^77777770^000000
+Weapon Lv : ^7777774^000000
+Required Lv. : ^777777105^000000
+Jobs : ^777777Swordman class/Magician class/Archer class/Merchant class/Thief class/Soul linker/Ninja^000000
+#
+
 
 //file end
