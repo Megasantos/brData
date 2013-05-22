@@ -6052,8 +6052,8 @@
  
 1562#Diário de Campo de Batalha#
 
-19541#C_Romantic_White_Flower#
-13081#Octo_kitchen_Knife#
+19541#Flor Amável Branca#
+13081#Faca de Frutos do Mar#
 
 
 

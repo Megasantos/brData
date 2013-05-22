@@ -41029,13 +41029,19 @@ Classes que utilizam: ^777777Todas^000000
 
 
 13081#
-A knife to cook Octopus. Surprisingly sharp.
-HIT +1 per 1 upgrade.
-Class : ^777777Dagger^000000 Attack : ^777777140^000000
-Weight : ^77777770^000000
-Weapon Lv : ^7777774^000000
-Required Lv. : ^777777105^000000
-Jobs : ^777777Swordman class/Magician class/Archer class/Merchant class/Thief class/Soul linker/Ninja^000000
+Uma faca fina, que possui um cabo com empunhadura firme, perfeita para cortar frutos do mar. 
+^0000FFPrecisão +1 a cada refinamento.
+Se combinada com uma Carta Caranguejo, aumenta em 8% o dano contra o monstro Caranguejo.
+Se combinada com uma Carta Estrela-do-mar, aumenta em 8% o dano contra o monstro Estrela-do-mar.
+Se combinada com uma Carta Molusco, aumenta em 8% o dano contra o monstro Molusco.
+Se combinada com as Cartas Caranguejo, Estrela-do-mar e Molusco aumenta em 16% o dano contra os monstros Caranguejo, Estrela-do-mar e Molusco.^000000 
+Class : ^777777Adaga^000000 
+Ataque : ^777777140^000000
+Peso :^777777 70^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777105^000000
+Classes : ^7777773ª classe de Espadachins/Magos/Arqueiros/Mercadores/Gatunos, Espiritualistas e Ninjas^000000
+
 #
 
 
