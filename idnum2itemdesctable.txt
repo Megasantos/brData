@@ -10821,8 +10821,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Tônicos de Hwergelmir[10], Nove Caudas Cozidas[10], Línguas no Vapor[10], Poções Brancas Leves[50], 10 x Seguro Estendido e Água Milagrosa[50].
-Esta promoção está disponível apenas até a manutenção do dia 15/05/2013.
+Troque-o pelos seguintes itens: Presilha Aprimorada [1], Presilha da Ganância e Caixa Asas de Borboleta.
+Esta promoção está disponível apenas até a manutenção do dia 05/06/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -38763,10 +38763,8 @@ Peso : ^7777771^000000
 #
 
 17037#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Deviruchi e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Deviruchi' por 20 minutos.
 Vel. Ataque +1, Precisão + 5 durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38774,7 +38772,6 @@ Peso : ^7777771^000000
 #
 
 12658#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Deviruchi' por 20 minutos.
 Vel. Ataque +1, Precisão + 5 durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38782,10 +38779,8 @@ Peso : ^7777771^000000
 #
 
 17040#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Marduk e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Marduk' por 20 minutos.
 Aumenta o dano de Ataques Mágicos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38793,7 +38788,6 @@ Peso : ^7777771^000000
 #
 
 12661#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Marduk' por 20 minutos.
 Aumenta o dano de Ataques Mágicos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38801,10 +38795,8 @@ Peso : ^7777771^000000
 #
 
 17041#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Banshee e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Banshee' por 20 minutos.
 Aumenta o dano de Ataques Mágicos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38812,7 +38804,6 @@ Peso : ^7777771^000000
 #
 
 12662#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Banshee' por 20 minutos.
 Aumenta o dano de Ataques Mágicos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38821,10 +38812,8 @@ Peso : ^7777771^000000
 
 
 17038#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Raydric Arqueiro e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Raydric Arqueiro' por 20 minutos.
 Aumenta o Ataques com arcos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38832,7 +38821,6 @@ Peso : ^7777771^000000
 #
 
 12659#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Raydric Arqueiro' por 20 minutos.
 Aumenta o Ataques com arcos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38840,10 +38828,8 @@ Peso : ^7777771^000000
 #
 
 17039#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Mavka e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Mavka' por 20 minutos.
 Aumenta o Ataques com arcos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38851,7 +38837,6 @@ Peso : ^7777771^000000
 #
 
 12660#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Mavka' por 20 minutos.
 Aumenta o Ataques com arcos em 25% durante a transformação.
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38859,10 +38844,8 @@ Peso : ^7777771^000000
 #
 
 17043#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Uma caixa contendo 10 pergaminhos de Transformação - Golem e 1 pergaminho de Transformação - Poring adicional.
 _
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Golem' por 20 minutos.
 Aumenta a resistência de ataques Neutros em 2% e tem chance de ativar 'Vigor nv.5' sempre que receber um ataque físico
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -38870,7 +38853,6 @@ Peso : ^7777771^000000
 #
 
 12664#
-^ff0000Este item não pode ser trocado entre contas de jogo.^000000
 Um misterioso pergaminho mágico que permite a quem o utiliza, transformar-se em 'Golem' por 20 minutos.
 Aumenta a resistência de ataques Neutros em 2% e tem chance de ativar 'Vigor nv.5' sempre que receber um ataque físico
 ^ff0000Atenção: A transformação é cancelada caso você seja derrotado, monte/desmonte de uma montaria ou ative/desative o M.E.C.H.A.^000000
@@ -41018,7 +41000,7 @@ Equipa em : ^777777Sacerdote/Sábio/Mestre Taekwon ^000000
 
 
 19541#
-Se a florzinha amarela não combina com suas roupas, ou se você prefere uma grande margarida para combinar com seu novo corte de cabelo, esta é sua melhor opção. Claro que, se você acha isso, você só pode ser uma garota. Ou um Bardo.
+Dizem que quem já curtiu a página de Ragnarök no Facebook, um famoso grimório da Biblioteca de Juno, é presenteado com esta bela flor, mesmo que seja um troll. Esta amável flor branca é prova que você está à caminho de zerar a internet – seja lá o que isso quer dizer!
 ^0000FFPrecisão +1^000000 
 Tipo : ^777777Visual^000000 
 Defesa : ^7777770^000000
@@ -41041,7 +41023,670 @@ Peso :^777777 70^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^777777105^000000
 Classes : ^7777773ª classe de Espadachins/Magos/Arqueiros/Mercadores/Gatunos, Espiritualistas e Ninjas^000000
+#
 
+
+//-------Abismo 2013Q2------------
+1293#
+*Atributos durante GdE e PvP
+Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
+Aumenta a Velocidade de Ataque (atraso após ataque) em 4%, mais 1% por nível de refinamento.
+Tipo: ^777777Katar^000000
+Força de Ataque: ^777777170^000000
+Peso: ^777777120^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Mercenário^000000
+#
+1294#
+*Atributos durante GdE e PvP
+Drena 10% de cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
+Tipo: ^777777Katar^000000
+Força de Ataque: ^77777750^000000
+Peso: ^777777120^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Mercenário^000000
+#
+1395#
+*Atributos durante GdE e PvP
+Drena 10% de cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
+Tipo: ^777777Machado de Duas Mãos^000000
+Força de Ataque: ^77777750^000000
+Peso: ^777777250^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Espadachim e Mercador^000000
+#
+1396#
+*Atributos durante GdE e PvP
+Aumenta em 40% o dano contra jogadores inimigos e em 30% a defesa física contra outros jogadores.
+Se refinada para +6 ou mais, aumenta em 80% o dano do Arremesso do Machado e de Brandir Machado.
+Se refinada para +9 ou mais, aumenta em mais 60% o dano contra jogadores inimigos.
+Tipo: ^777777Machado de Duas Mãos^000000
+Força de Ataque: ^777777300^000000
+Peso: ^777777550^000000 
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Espadachim e Mercador^000000
+#
+1436#
+*Atributos durante GdE e PvP
+Aumenta em 60% o dano contra outros jogadores
+Se refinada para +6 ou mais, aumenta em 80% o dano do Estocada Precisa e de Lança das Mil Pontas.
+Se refinada para +9 ou mais, aumenta em mais 30% o dano contra jogadores inimigos.
+Tipo: ^777777Lança^000000
+Força de Ataque: ^777777150^000000
+Peso: ^77777785^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Espadachim^000000
+#
+1492#
+*Atributos durante GdE e PvP
+Aumenta em 80% o dano contra jogadores inimigos.
+Se refinada para +6 ou mais, aumenta em 100% o dano da Perfurar em Espiral e em 50% o dano da Lança do Destino.
+Se refinada para +9 ou mais, ela tem a chance de refletir o dano de ataques mágicos e físicos de volta ao inimigo.
+Tipo: ^777777Lança^000000
+Força de Ataque: ^777777250^000000
+Peso: ^777777450^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Espadachim^000000
+#
+1586#
++125 de ATQM.
+*Atributos durante GdE e PvP
+Aumenta as habilidades de cura dependendo do seu nível de base.
+Se refinada para +6 ou mais, reduz o atraso de uso de Lauda Agnus, Lauda Ramus e Gênese, aumentando o custo em SP dessas habilidades em 60.
+Tipo: ^777777Livro^000000
+Força de Ataque: ^777777110^000000
+Peso: ^77777760^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Sacerdote / Sábio / Mestre Taekwon^000000
+#
+1587#
+*Atributos durante GdE e PvP
+Aumenta o dano contra jogadores inimigos em 80%, mais 1% por nível de refinamento.
+Aumenta em 30% a defesa física contra outros jogadores.
+Se refinada para +9 ou mais, tem a chance de ativar um aumento do poder de ataque em 200 por 3 segundos.
+Tipo: ^777777Livro^000000
+Força de Ataque: ^777777130^000000
+Peso: ^777777100^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Sacerdote / Sábio / Mestre Taekwon^000000
+#
+1661#
+Drena 5% do SP dos inimigos ao atacar. (Ataques de habilidade não são afetados.)
+Aumenta em 100 pontos o consumo de SP das habilidades
++10 de INT, +50 de ATQM, +20 de DEFM.
+Se refinada para +6 ou mais, aumenta o dreno de SP dos ataques.
+Peso: ^777777140^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Arquimago^000000
+#
+1775#
+Flechas porosas produzidas em massa para a Guerra do Emperium.
+*Atributos durante GdE e PvP
+Ao ser usada com a Besta de Vellum, aumenta em 70% os ataques à distância
+Tipo: ^777777Flecha^000000
+Força de Ataque: ^77777745^000000
+Peso: ^7777770.1^000000
+Propriedade: ^777777Neutro^000000
+Nível Necessário: ^777777130^000000
+#
+1776#
+Flechas produzidas em massa para a Guerra do Emperium.
+*Atributos durante GdE e PvP
+Ao ser usada com a Besta de Vellum, aumenta em 40% os ataques à distância
+Tipo: ^777777Flecha^000000
+Força de Ataque: ^77777730^000000
+Peso: ^7777770.1^000000
+Propriedade: ^777777Neutro^000000
+Nível Necessário: ^77777795^000000
+#
+1832#
+*Atributos durante GdE e PvP
+Aumenta em 100% o dano contra jogadores inimigos
+Se refinada para +8 ou mais, aumenta em 20% o dano contra jogadores inimigos.
+Se refinada para +10 ou mais, reduz o tempo de conjuração do Punho Supremo de Asura quando usar a Fúria e lança automaticamente a habilidade Zen nv. 1, enquanto gasta 500 HP a cada 3 segundos.
+Tipo: ^777777Garra^000000
+Força de Ataque: ^777777160^000000
+Peso: ^77777765^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Sacerdote / Monge^000000
+#
+2016#
++220 de ATQM.
+*Atributos durante GdE e PvP
+Aumenta em 25% o dano de ataques mágicos contra jogadores inimigos e aumenta em 15% a defesa mágica.
+Se refinada para +6 ou mais, aumenta em 15% o ataque mágico.
+Se refinada para +9 ou mais, reduz em 50% o tempo de conjuração e reduz em 20% o tempo de conjuração fixo.
+Tipo: ^777777Cajado^000000
+Força de Ataque: ^777777110^000000
+Peso: ^77777780^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Mago, Classes de Noviço e Espiritualista^000000
+#
+2483#
++1 de DEFM.
+*Atributos durante GdE e PvP
+Reduz em 2% os ataques de jogadores inimigos.
+Tipo: ^777777Sapatos^000000
+Defesa: ^77777730^000000
+Peso: ^77777775^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim/Mercador^000000
+#
+2484#
++5 de DEFM.
+*Atributos durante GdE e PvP
+Reduz em 1% os ataques de jogadores inimigos.
+Tipo: ^777777Sapatos^000000
+Defesa: ^77777720^000000
+Peso: ^77777750^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim / Mercador / Gatuno / Arqueiro / Taekwon / Mestre Taekwon / Ninja^000000
+#
+2485#
++10 de DEFM.
+*Atributos durante GdE e PvP
+Reduz em 1% os ataques de jogadores inimigos.
+Tipo: ^777777Sapatos^000000
+Defesa: ^77777715^000000
+Peso: ^77777735^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Aprendiz / Mago / Noviço / Espiritualista^000000
+#
+2586#
++1 de DEFM.
+*Atributos durante GdE e PvP
+Reduz em 2% os ataques de jogadores inimigos.
+Tipo: ^777777Capa^000000
+Defesa: ^77777732^000000
+Peso: ^77777760^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Todas, exceto Aprendiz^000000
+#
+2587#
++10 de DEFM.
+*Atributos durante GdE e PvP
+Reduz em 1% os ataques de jogadores inimigos.
+Tipo: ^777777Capa^000000
+Defesa: ^77777715^000000
+Peso: ^77777740^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Todas^000000
+#
+2894#
+Se a FOR básica for 120, o poder de ataque aumenta em 30.
++5 de FOR, +6% de SP máximo, -6% de HP máximo.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777740^000000
+Nível Necessário: ^777777130^000000
+Classe: ^777777Shura^000000
+#
+2898#
+Um rosário feito com um minério preto, purificado e raro.
++15 de DEFM.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível Necessário: ^77777790^000000
+Classe: ^777777Todas^000000
+#
+2899#
+Aumenta o dano do Ruído Estridente em 150%.
+Aumenta o consumo de SP do Ruído Estridente em 60 pontos.
+Reduz o tempo de conjuração fixo em 50%.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível Necessário: ^77777790^000000
+Classe: ^777777Caçador / Bardo / Odalisca^000000
+#
+6488#
+^ff0000Este item é vinculado à conta.^000000
+Um bilhete que pode ser trocado por vários itens.
+Peso: ^7777771^000000
+#
+6489#
+^ff0000Este item é vinculado à conta.^000000
+Um certificado dado pelos mercadores da Pata de Gato para investir em certas vantagens.
+Peso: ^7777771^000000
+#
+11547#
+*Atributos durante GdE e PvP
+^000088Recupera, no mínimo, 500 HP e 60 SP^000000
+Peso: ^7777778^000000
+#
+11548#
+*Atributos durante GdE e PvP
+As folhas mais novas da erva branca orgânica são usadas para preparar esta poção. Não possui agrotóxicos.
+^000088Restaura 10% de HP^000000
+Peso: ^7777778^000000
+#
+11549#
+*Atributos durante GdE e PvP
+As mais frescas ervas azuis orgânicas são usadas para preparar esta poção. Não possui agrotóxicos.
+^000088Restaura 10% de SP^000000
+Peso: ^7777778^000000
+#
+12674#
+Uma caixa preta laqueada, pequena e sólida, contendo alguns materiais.
+Peso: ^77777750^000000
+#
+12675#
+Uma caixa de suprimento com várias armas, carimbadas com o selo de uma guilda esquecida.
+Peso: ^77777750^000000
+#
+12676#
+Uma caixa contendo 50 poções diferentes e estudos teóricos para armas caras.
+Peso: ^77777720^000000
+#
+12677#
+Uma aljava que contém 200 Flechas de Cerco S.
+Nível Necessário: ^777777130^000000.
+Peso: ^77777710^000000
+#
+12678#
+Uma aljava que contém 200 Flechas de Cerco A.
+Nível Necessário: ^77777795^000000
+Peso: ^77777710^000000
+#
+12679#
+Uma caixa com Poções Brancas de GdE
+Peso: ^77777720^000000
+#
+12680#
+Uma caixa com Poções Azuis de GdE
+Peso: ^77777720^000000
+#
+12683#
+Uma caixa com Poções Violeta de GdE
+Peso: ^77777720^000000
+#
+13072#
+*Atributos durante GdE e PvP
+Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
+Aumenta a Velocidade de Ataque (atraso após ataque) em 4%, mais 1% por nível de refinamento.
+Tipo: ^777777Armadura^000000
+Força de Ataque: ^777777180^000000
+Peso: ^777777100^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Aprendiz, Espadachim, Mago, Arqueiro, Mercador, Gatuno, Espiritualista e Ninja^000000
+#
+15046#
++5 de DEFM.
+*Atributos durante GdE e PvP
+Aumenta em 2% a defesa contra jogadores inimigos.
+Se refinada para +6 ou mais, aumenta a cura em 12%.
+Se refinada para +9 ou mais, +25% de HP máximo.
+Tipo: ^777777Armadura^000000
+Defesa: ^77777785^000000
+Peso: ^777777330^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim, Mercador, Taekwon, Mestre Taekwon^000000
+#
+15047#
+DEFM + 10.
+*Atributos durante GdE e PvP
+Aumenta em 2% a defesa contra jogadores inimigos.
+Se refinada para +6 ou mais, reduz em 20% a defesa contra ataques a distância e aumenta a Esquiva em 50
+Se refinada para +9 ou mais, +15% de HP máximo.
+Tipo: ^777777Armadura^000000
+Defesa: ^77777750^000000
+Peso: ^77777775^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim / Mercador / Gatuno / Arqueiro / Taekwon / Mestre Taekwon / Ninja^000000
+#
+15048#
+DEFM + 20.
+*Atributos durante GdE e PvP
+Aumenta em 2% a defesa contra jogadores inimigos.
+Se refinada para +6 ou mais, reduz em 15% a defesa contra ataques a distância e aumenta a Esquiva em 5
+Se refinada para +9 ou mais, +1.000 de HP máximo e +100 de SP máximo.
+Tipo: ^777777Armadura^000000
+Defesa: ^77777740^000000
+Peso: ^77777750^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Aprendiz / Mago / Noviço / Espiritualista^000000
+#
+16020#
+*Atributos durante GdE e PvP
+Há chance de Atordoar ao sofrer ataque físico.
+Aumenta a velocidade de ataque em 2%, mais 1% por nível de refinamento.
+Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
+Tipo: ^777777Maça^000000
+Força de Ataque: ^777777170^000000
+Peso: ^777777150^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Aprendiz e Classes de Espadachim, Noviço e Mercador^000000
+#
+16021#
+*Atributos durante GdE e PvP
+Aumenta o acerto em metade do nível de refinamento.
+Taxa de Ataque Crítico +(10 x nível de refinamento)
+Causa um estado no qual o portador da arma não consegue se recuperar de ataques.
+Tipo: ^777777Maça^000000
+Força de Ataque: ^777777170^000000
+Peso: ^777777150^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Aprendiz e Classes de Espadachim, Noviço e Mercador^000000
+#
+18113#
+*Atributos durante GdE e PvP
+Drena 4% do HP dos jogadores inimigos.
+VelATQ - 5.
+Tipo: ^777777Arco^000000
+Força de Ataque: ^77777750^000000
+Peso: ^777777110^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Arqueiro, Gatuno e Arruaceiro^000000
+#
+18114#
+*Atributos durante GdE e PvP
+Aumenta o dano contra jogadores inimigos em 30%, mais 1% por nível de refinamento.
+Peso: ^777777110^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Classes de Arqueiro, Gatuno e Arruaceiro^000000
+#
+21001#
+*Atributos durante GdE e PvP
+Aumenta em 80% o dano contra jogadores inimigos
+Aumenta em 30% a defesa contra jogadores inimigos
+Se refinada para +6 ou mais, aumenta em mais 40% o dano contra jogadores inimigos.
+Se refinada para +9 ou mais, ela tem a chance de refletir o dano de ataques físicos e mágicos.
+Tipo: ^777777Espada de Duas Mãos^000000
+Força de Ataque: ^777777260^000000
+Peso: ^777777350^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim^000000
+#
+21002#
+*Atributos durante GdE e PvP
+Drena 8% do dano causado a outros jogadores.
+Tipo: ^777777Espada de Duas Mãos^000000
+Força de Ataque: ^777777100^000000
+Peso: ^777777250^000000
+Nível da Arma: ^7777774^000000
+Nível Necessário: ^77777795^000000
+Classe: ^777777Espadachim^000000
+#
+
+//-------------2013Q2-4º Laboratório Biológico---------------------------
+1290#
+O Katar usado por um mercenário que nunca errava seu alvo. Ele usava até a sorte para se concentrar no alvo.
+Aumenta a taxa de Acerto dependendo da Sorte de base.
+Tipo: ^777777Katar^000000 
+Ataque: ^777777170^000000
+Peso: ^777777120^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Sicário^000000
+#
+1291#
+Há muito tempo, um Sicário usou isto para matar um traidor.
+DES + 2, Esquiva - 30.
+Aumenta em 50% o dano contra monstros Humanoides
+Aumenta o dano das Lâminas Retalhadoras em 30%
+Tipo: ^777777Katar^000000 
+Ataque: ^777777200^000000
+Peso: ^777777150^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777140^000000
+Classe: ^777777Sicário^000000
+#
+1392#
+Um machado grande, feito por um ferreiro com a brasa de um vulcão.
+Acrescenta o status Queimado ao atacar fisicamente, mas o usuário também corre o risco de ser queimado.
+Indestrutível.
+Tipo: ^777777Machado^000000 
+Ataque: ^777777250^000000
+Peso: ^777777190^000000 
+Elemento: ^777777Fogo^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^77777795^000000
+Classe: ^777777Classes Renascidas de Espadachim e Mercador^000000
+#
+1393#
+Um machado feito com gelo do ártico.
+Em um ataque físico de curta distância, lança gelo contra os inimigos e o próprio usuário.
+Indestrutível.
+Tipo: ^777777Machado^000000 
+Ataque: ^777777250^000000
+Peso: ^777777190^000000 
+Elemento: ^777777Água^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^77777795^000000
+Classe: ^777777Classes Renascidas de Espadachim e Mercador^000000
+#
+1435#
+Diminui o HP máximo em 100
+Aumenta o dano do Disparo perfurante em 10%, com um aumento no poder de ataque correspondente a 3 vezes o nível de refinamento
+Tipo: ^777777Lança de Uma Mão^000000 
+Ataque: ^777777180^000000
+Peso: ^777777160^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Guardião Real^000000
+#
+1490#
+Miniatura da lança dos Gigantes que protegiam o templo antigo. Nunca um mortal teve tanto poder.
+VelATQ - 10; ao retirar o equipamento, SP - 600.
+Mais 20 segundos de espera para voltar a usar a Espiral de Colisão.
+Se a FOR de base for maior que 120, ATQ + 300.
+Tipo: ^777777Lança de Duas Mãos^000000 
+Ataque: ^77777720^000000
+Peso: ^7777772000^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777140^000000
+Classe: ^777777Cavaleiro Rúnico^000000
+#
+1584#
+Um dos 4 livros de magia elemental estudados pelos grandes Feiticeiros. [Elemento de gelo]
+ATQM + 160, DES + 1.
+Aumenta o dano dos feitiços Pó de Diamante e Lanças de Gelo 3 vezes mais do que o nível de refinamento 
+Também aumenta o consumo de SP 3 vezes mais do que o nível de refinamento
+Indestrutível.
+Tipo: ^777777Livro^000000 
+Ataque: ^777777100^000000
+Peso: ^777777100^000000 
+Elemento: ^777777Água^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Bruxo^000000
+#
+1659#
+Um cajado que serve somente para cura. Seu poder é grande, mas o desgaste de usuário também é.
+ATQM + 160.
+Um cajado que aumenta a potência dos feitiços de cura do Arcebispo, aumentando o consumo de SP dependendo do nível de refinamento.
+Indestrutível.
+Tipo: ^777777Cajado de Uma Mão^000000 
+Ataque: ^77777730^000000
+Peso: ^77777740^000000 
+Elemento: ^777777Sagrado^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777110^000000
+Classe: ^777777Arcebispo^000000
+#
+2160#
+Reprodução do escudo dos gigantes guardiões do Templo Antigo. Um ferreiro lendário concedeu a ele o poder dos guardiões.
+Reduz em 5% o dano de monstros grandes, mais 5% ao aprimorar até o nível 9.
+Tipo: ^777777Escudo^000000 
+Defesa: ^777777130^000000
+Peso: ^777777280^000000
+Nível Necessário : ^777777100^000000
+Classe: ^7777773ª classe de Espadachim^000000
+#
+2161#
+O continente esquecido de Geffenia guarda um tesouro secreto. Poucos são os que podem usar a magia desta arma.
+INT + 1, DEFM + 2.
+Se a INT de base for 120 , ATQM + 10 e HP máximo + 800.
+Ao equipar-se com o Bastão de Lágrimas, a conjuração de Esquife de Gelo, Zero Absoluto e Nevasca será reduzida 4 vezes mais do que o nível de refinamento do escudo.
+Tipo: ^777777Escudo^000000 
+Defesa: ^77777730^000000
+Peso: ^777777100^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Feiticeiro^000000
+#
+2162#
+Um livro antigo de músicas sacras cantadas na catedral.
+DEFM +5, permite que o usuário lance Poder de Odin nível 2, que aumenta o ATQ e ATQM em 100 e reduz a DEF e DEFM em 20.
+Aumenta em 5% a eficiência de Cura, Santuário e Arremessar Poção.
+Tipo: ^777777Escudo^000000 
+Defesa: ^77777720^000000
+Peso: ^77777750^000000
+Nível Necessário : ^777777140^000000
+Classe: ^777777Arcebispo^000000
+#
+2582#
+Este mantô largo foi remendado de forma a receber a habilidade de um feiticeiro oriental e de um alfaiate ocidental.
+Permite usar Troca de Pele Nv. 1. Aumenta o tempo de espera dessa habilidade em 30 segundos, dobra o consumo de SP de todas as habilidades quando vestido; ao retirar, SP - 1.200.
+Tipo: ^777777Capa^000000 
+Defesa: ^7777771^000000
+Peso: ^77777740^000000
+Nível Necessário : ^777777130^000000
+Classe: ^777777Arcano / Arcebispo^000000
+#
+2892#
+Uma luva com placas de aço nos dedos e nos braços. Feita para se defender e atacar ao mesmo tempo.
+SP máximo + 20, Crítico + 3.
+Quando usado junto com Krishna, ATQ + 50, aumenta em 50% o poder de ataque das Lâminas Destruidoras e Esquiva - 30.
+Ao ser usado junto com Cakram, Crítico + 4, poder de ataque crítico aumentado em 40% e HP máximo - 10%.
+Tipo: ^777777Acessório^000000 
+Defesa: ^7777773^000000
+Peso: ^77777740^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Sicário^000000
+#
+6469#
+Uma coleção de amostras biológicas de vários guerreiros
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+6470#
+Forças de reação causam sede de sangue
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+6471#
+Contém a escuridão de Nifflheim.
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+13069#
+Adaga azul imbuída com magia de ataque.
+ATQM + 80.
+Tem chance de causar Congelamento com ataque físico; a chance aumenta a cada nível de refinamento
+Tipo: ^777777Adaga^000000 
+Ataque: ^777777160^000000
+Peso: ^77777750^000000 
+Elemento: ^777777Vento^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777110^000000
+Classe: ^777777Classes Renascidas de Aprendiz e Espadachim / Mercador / Gatuno^000000
+#
+13070#
+Adaga vermelha imbuída com magia de ataque.
+ATQM + 80.
+Tem chance de causar Maldição com ataque físico; a chance aumenta a cada nível de refinamento.
+Tipo: ^777777Adaga^000000 
+Ataque: ^777777160^000000
+Peso: ^77777750^000000 
+Elemento: ^777777Fogo^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777110^000000
+Classe: ^777777Classes Renascidas de Aprendiz e Espadachim / Mercador / Gatuno^000000
+#
+15044#
+Uma bata de um estudioso que enlouqueceu depois de estudar os Homúnculos por muito tempo. 
+DES + 1, SP máximo + 30.
+Ao usar o Bisturi para caçar monstros Humanoides e Animais, há chance de derrubar Coração Imortal e Álcool de acordo com o nível de refinamento do traje.
+Tipo: ^777777Armadura^000000 
+Defesa: ^77777766^000000
+Peso: ^77777766^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Genérica^000000
+#
+16017#
+Uma maça de cruz vermelho-sangue com um poder sombrio. A cor vermelha é tão assustadora que parece que a arma absorve o sangue.
+Em um ataque físico de curta distância, há chance de lançar Chamas de Hela Nv. 1. A velocidade de conjuração da habilidade é aumentada de acordo com o nível de refinamento.
+Tipo: ^777777Maça^000000 Ataque: ^777777170^000000
+Peso: ^777777150^000000 
+Elemento: ^777777Escuridão^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Transcendentais de Noviço^000000
+#
+18109#
+Aumenta o dano e o consumo de SP do Disparo Triplo dependendo do nível de refinamento.
+Tipo: ^777777Arco^000000 
+Ataque: ^777777150^000000
+Peso: ^777777110^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Renegado^000000
+#
+18110#
+Um arco bastante sensível, voltado para fuzilaria.
+Aumenta o dano da Tempestade de Flechas 5 vezes mais do que o nível de refinamento, além de aumentar o consumo de SP dessa habilidade. Se a AGI de base for 120, VelATQ + 1.
+Tipo: ^777777Arco^000000 
+Ataque: ^777777160^000000
+Peso: ^77777790^000000
+Nível da Arma : ^7777774^000000
+Nível Necessário : ^777777110^000000
+Classe: ^777777Patrulheiro^000000
+#
+18111#
+Um arco feito com ramos fortes e sombrios. Ele amarra inimigos com teias de aranha.
+DES + 1; em um ataque físico de curta distância, há chance de lançar Prisão de Teia Nv. 1.
+Tipo: ^777777Arco^000000 
+Ataque: ^777777150^000000
+Peso: ^777777150^000000
+Nível da Arma : ^7777773^000000
+Nível Necessário : ^777777120^000000
+Classe: ^7777773ª classe de Arqueiro^000000
+#
+18570#
+Belo acessório dourado imbuído com uma magia antiga. Seu poder se altera de acordo com a classe do dono.
+Se o nível de base for 150, todos os atributos + 2.
+ATQ + 8% para classes de Espadachim, Mercador e Gatuno; 
+ATQM + 8% e poder de cura + 7% para classes de Mago e Noviço; 
+DES + 3 e poder de ataque a distância + 10% para classes de Arqueiro.
+Tipo: ^777777Equipamento para a Cabeça^000000 
+Defesa: ^7777777^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777740^000000
+Nível Necessário : ^777777100^000000
+Classe: ^777777Somente para 3ª classe / Kagerou / Oboro^000000
+#
+
+-------------------------
+
+17176#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 3 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
+Peso : ^7777771^000000
+#
+17162#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 7 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
+Peso : ^7777771^000000
 #
 
 

@@ -5439,7 +5439,6 @@
 //------------2012 February Items------------
 
 18596#Chapéu#
-1291#Katar#
 18580#Chapéu#
 18577#Chapéu#
 18595#Chapéu#
@@ -6048,10 +6047,85 @@
  
 1562#Livro#
 
-
+//-----------------May 2013 items-----------------------------------
 19541#Visual#
 13081#Adaga#
 
+//-------Abismo 2013Q2------------
+1293#Katar#
+1294#Katar#
+1395#Machado de Duas Mãos#
+1396#Machado de Duas Mãos#
+1436#Lança de Uma Mão#
+1492#Lança de Duas Mãos#
+1586#Livro#
+1587#Livro#
+1661#Cetro de Uma Mão#
+1775#Flecha de Cerco S#
+1776#Flecha de Cerco A#
+1832#Garra#
+2016#Cetro de Duas Mãos#
+2483#Grevas de Cerco#
+2484#Botas de Cerco#
+2485#Sapatos de Cerco#
+2586#Mantô de Cerco#
+2587#Sobrepeliz de Cerco#
+2894#Luva de Shura#
+2898#Rosário Preto#
+2899#Amplificador de Som#
+6488#Bilhete de Agradecimento por Investimento#
+6489#Certificado de Investimento dos Gatos#
+11547#Poção Violeta de GdE#
+11548#Poção Branca de GdE#
+11549#Poção Azul de GdE#
+12674#Caixa de Materiais de Itens Divinos#
+12675#Caixa de Suprimento de Armas de GdE#
+12676#Caixa de Poções Violeta de GdE#
+12677#Aljava de Flechas de GdE S#
+12678#Aljava de Flechas de GdE A#
+12679#Caixa de Poções Brancas de GdE#
+12680#Caixa de Poções Azuis de GdE#
+12683#Caixa de Poções Violeta de GdE 200#
+13072#Adaga#
+15046#Placa de GdE#
+15047#Túnica GdE#
+15048#Manto GdE#
+16020#Clava#
+16021#Clava#
+18113#Arco#
+18114#Arco#
+21001#Espada de Duas Mãos#
+21002#Espada de Duas Mãos#
 
+//-------------2013Q2-4º Laboratório Biológico---------------------------
+1290#Katar#
+1291#Katar#
+1392#Machado de Duas Mãos#
+1393#Machado de Duas Mãos#
+1435#Lança#
+1490#Lança#
+1584#Livro#
+1659#Cajado#
+2160#Escudo#
+2161#Livro#
+2162#Livro#
+2582#Capa#
+2892#Acessório#
+6469#Vontade do Guerreiro#
+6470#Sede de Sangue#
+6471#Frio dos Mortos#
+13069#Adaga#
+13070#Adaga#
+15044#Vestimenta#
+16017#Maça#
+18109#Arco#
+18110#Arco#
+18111#Arco#
+18570#Equipamento para a Cabeça#
+
+----------------------
+
+17176#Cx Rédea Experimental 3 Dias#
+17162#Cx Rédea Experimental 7 Dias#
 
 //file end

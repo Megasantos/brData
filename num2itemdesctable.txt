@@ -25817,10 +25817,6 @@ Não pode ser identificado sem o uso da [Lupa]
 Não pode ser identificado sem o uso da [Lupa]
 #
 
-1291#
-Não pode ser identificado sem o uso da [Lupa]
-#
-
 18580#
 Não pode ser identificado sem o uso da [Lupa]
 #
@@ -28139,10 +28135,260 @@ Peso : ^7777770^000000
  
 1562#Item não identificado. Pode ser identificado com uma [Lupa].#
 
-
+//-----------------May 2013 items-----------------------------------
 19541#Item não identificado. Pode ser identificado com uma [Lupa].#
 13081#Item não identificado. Pode ser identificado com uma [Lupa].#
 
+//-------Abismo 2013Q2------------
+1293#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1294#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1395#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1396#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1436#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1492#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1586#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1587#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1661#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1775#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1776#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+1832#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2016#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2483#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2484#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2485#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2586#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2587#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2894#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2898#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+2899#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+6488#
+^ff0000Este item é vinculado à conta.^000000
+Um bilhete que pode ser trocado por vários itens.
+Peso: ^7777771^000000
+#
+6489#
+^ff0000Este item é vinculado à conta.^000000
+Um certificado dado pelos mercadores da Pata de Gato para investir em certas vantagens.
+Peso: ^7777771^000000
+#
+11547#
+*Atributos durante GdE e PvP
+^000088Recupera, no mínimo, 500 HP e 60 SP^000000
+Peso: ^7777778^000000
+#
+11548#
+*Atributos durante GdE e PvP
+As folhas mais novas da erva orgânica branca são usadas para preparar esta poção.
+^000088Restaura 10% de HP^000000
+Peso: ^7777778^000000
+#
+11549#
+*Atributos durante GdE e PvP
+As mais frescas ervas orgânicas azuis são usadas para preparar esta poção.
+^000088Restaura 10% de SP^000000
+Peso: ^7777778^000000
+#
+12674#
+Uma caixa laqueada preta, pequena e sólida, contendo alguns materiais.
+Peso: ^77777750^000000
+#
+12675#
+Uma caixa de suprimento com várias armas, carimbadas com o selo de uma guilda esquecida.
+Peso: ^77777750^000000
+#
+12676#
+Uma caixa contendo 50 poções diferentes e estudos teóricos para armas caras.
+Peso: ^77777720^000000
+#
+12677#
+Uma aljava que contém 200 Flechas de Cerco S.
+Nível Necessário: ^777777130^000000.
+Peso: ^77777710^00000000
+#
+12678#
+Uma aljava que contém 200 Flechas de Cerco A.
+Nível Necessário: ^77777795^000000
+Peso: ^77777710^00000000
+#
+12679#
+Uma caixa com Poções Brancas de GdE
+Peso: ^77777720^000000
+#
+12680#
+Uma caixa com Poções Azuis de GdE
+Peso: ^77777720^000000
+#
+12683#
+Uma caixa com Poções Violeta de GdE
+Peso: ^77777720^000000
+#
+13072#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+15046#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+15047#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+15048#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+16020#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+16021#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+18113#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+18114#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+21001#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+21002#
+Item desconhecido que pode ser identificado pela [Lente de Aumento]
+#
+
+//-------------2013Q2-Biolab 4th---------------------------
+1290#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1291#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1392#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1393#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1435#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1490#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1584#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+1659#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+2160#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+2161#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+2162#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+2582#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+2892#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+6469#
+Uma coleção de amostras biológicas de vários guerreiros
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+6470#
+Forças de reação causam sede de sangue
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+6471#
+Contém a escuridão de Nifflheim.
+^ff0000Usado para combinar materiais biológicos em laboratório^000000
+Peso: ^7777771^000000
+#
+13069#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+13070#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+15044#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+16017#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+18109#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+18110#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+18111#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+18570#
+Item desconhecido que pode ser identificado pela [Magnifier]
+#
+
+-------------------------
+
+17176#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 3 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
+Peso : ^7777771^000000
+#
+17162#
+Uma caixa que contém uma Rédea. Este item é temporário e dura 7 dias.
+^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
+Peso : ^7777771^000000
+#
 
 
 //file end

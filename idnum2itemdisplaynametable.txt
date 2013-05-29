@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote de Ataque Físico#
+7550#Pacote de Presilhas#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -4452,8 +4452,8 @@
 12706#Biscoito da Sorte: Glória#
 12707#Biscoito da Sorte: Magnificat#
 12708#Biscoito da Sorte: Impositio Manus#
-2755#Anel do Ganhador[A]#
-2756#Anel do Devastador[A]#
+2755#Anel do Ganhador [A]#
+2756#Anel do Devastador [A]#
 
 //---- Festa Junina 2009 ----
 5572#Chapéu de Bebê Selvagem#
@@ -4482,7 +4482,7 @@
 14601#Bênção de Tyr#
 14306#Ovo Especial do RBC#
 14252#Cx Anel Caçador Veterano[A]#
-2753#Anel do Caçador Veterano[A]#
+2753#Anel do Caçador Veterano [A]#
 5508#Chapéu de Tubarão#
 14298#Ovo Surpresa#
 5800#Rubor de Batalha#
@@ -4497,12 +4497,12 @@
 5473#Tiara de Vadon#
 13925#Ovo Dimensional#
 14256#Cx Anel Colec. de Insetos[A]#
-2757#Anel do Colecionador de Insetos[A]#
+2757#Anel do Colecionador de Insetos [A]#
 14363#Ovo do Coração#
 14257#Cx Anel de Pescador[A]#
-2758#Anel do Pescador[A]#
+2758#Anel do Pescador [A]#
 14258#Cx Anel do Exorcista[A]#
-2759#Anel do Exorcista[A]#
+2759#Anel do Exorcista [A]#
 
 //---- Buzzy Bol Riclan event 2009 ----
 12264#Chiclete#
@@ -4512,7 +4512,7 @@
 5554#Chapéu de Polvo#
 5556#Capuz de Foca#
 14259#Cx Anel do Açougueiro[A]#
-2760#Anel do Açougueiro[A]#
+2760#Anel do Açougueiro [A]#
 5564#Máscara da Morte#
 5501#Orgulho Pirata#
 14307#Ovo Comemorativo do RWC#
@@ -4524,8 +4524,8 @@
 5469#Chapéu de Mosqueteiro#
 14260#Cx Anel do Anjo Caído[A]#
 14261#Cx Anel Caçador de Dragões[A]#
-2761#Anel do Anjo Caído[A]#
-2762#Anel do Caçador de Dragões[A]#
+2761#Anel do Anjo Caído [A]#
+2762#Anel do Caçador de Dragões [A]#
 
 //Back to school event 2009
 5827#Pilha de Livros#
@@ -5441,7 +5441,6 @@
 //------------2012 February Items------------
 
 18596#Chapéu_de_Broto#
-1291#Katar_do_Sicário#
 18580#Coroa_de_Yggdrasil#
 18577#Parafusos de Ragenstein#
 18595#Chifre_do_Patriarca#
@@ -5756,19 +5755,19 @@
 18696#Capacete de Laranja#
 18728#Elmo de Aegir#
 20700#Manteau de Aegir#
-17037#Cx Perg. Transform.: Deviruchi#
+17037#Cx Perg Transf: Deviruchi#
 12658#Perg. Transformação: Deviruchi#
-17042#Cx Perg. Transformação: Poring#
+17042#Cx Perg Transf: Poring#
 12663#Perg. Transformação: Poring#
-17040#Cx Perg. Transform.: Marduk#
+17040#Cx Perg Transf: Marduk#
 12661#Perg. Transformação: Marduk#
-17041#Cx Perg. Transform.: Banshee#
+17041#Cx Perg Transf: Banshee#
 12662#Perg. Transformação: Banshee#
-17038#Cx Perg. Transform.: RaydricA.#
+17038#Cx Perg Transf: RaydricA.#
 12659#Perg. Transformação: RaydricA.#
-17039#Cx Perg. Transformação: Mavka#
+17039#Cx Perg Transf: Mavka#
 12660#Perg. Transformação: Mavka#
-17043#Cx Perg. Transformação: Golem#
+17043#Cx Perg Transf: Golem#
 12664#Perg. Transformação: Golem#
 2561#Capuz Evoluído#
 
@@ -6051,10 +6050,85 @@
 12883#Bolinho Divino#
  
 1562#Diário de Campo de Batalha#
-
+//-----------------May 2013 items-----------------------------------
 19541#Flor Amável Branca#
 13081#Faca de Frutos do Mar#
 
+//-------Abismo 2013Q2------------
+1293#Jamadhar de Vellum#
+1294#Pavor de Vellum#
+1395#Demolidor de Vellum#
+1396#Guilhotina de Vellum#
+1436#Lança de Vellum#
+1492#Glaive de Vellum#
+1586#Bíblia de Vellum#
+1587#Enciclopédia de Vellum#
+1661#Destruidora Mental#
+1775#Flecha de Cerco S#
+1776#Flecha de Cerco A#
+1832#Garra de Vellum#
+2016#Cetro de Vellum#
+2483#Grevas de Cerco#
+2484#Botas de Cerco#
+2485#Sapatos de Cerco#
+2586#Mantô de Cerco#
+2587#Sobrepeliz de Cerco#
+2894#Luva de Shura#
+2898#Rosário Preto#
+2899#Amplificador de Som#
+6488#Bilhete de Agradecimento por Investimento#
+6489#Certificado de Investimento dos Gatos#
+11547#Poção Violeta de GdE#
+11548#Poção Branca de GdE#
+11549#Poção Azul de GdE#
+12674#Caixa de Materiais de Itens Divinos#
+12675#Caixa de Suprimento de Armas de GdE#
+12676#Caixa de Poções Violeta de GdE#
+12677#Aljava de Flechas de GdE S#
+12678#Aljava de Flechas de GdE A#
+12679#Caixa de Poções Brancas de GdE#
+12680#Caixa de Poções Azuis de GdE#
+12683#Caixa de Poções Violeta de GdE 200#
+13072#Damascus de Vellum#
+15046#Placa de GdE#
+15047#Túnica GdE#
+15048#Manto GdE#
+16020#Atordoador de Vellum#
+16021#Mangual de Vellum#
+18113#Arbaleste de Vellum#
+18114#Besta de Vellum#
+21001#Claymore de Vellum#
+21002#Katzbalger de Vellum#
 
+//-------------2013Q2-4º Laboratório Biológico---------------------------
+1290#Katar de Agente#
+1291#Katar do Sicário#
+1392#Aço Ígneo#
+1393#Sectora Final#
+1435#Lança-canhão#
+1490#Lança Gigante#
+1584#Livro de Feitiços do Frio#
+1659#Luz da Recuperação#
+2160#Escudo Gigante#
+2161#Livro Antigo de Geffenia - Água#
+2162#Bíblia da Promessa (Volume 2)#
+2582#Capa Recuperada#
+2892#Algemas de Mercenário#
+6469#Vontade do Guerreiro#
+6470#Sede de Sangue#
+6471#Frio dos Mortos#
+13069#Unha Celeste#
+13070#Unha Escarlate#
+15044#Bata de Operação Verde#
+16017#Cruz Sangrenta#
+18109#Catapulta#
+18110#Besta Grande#
+18111#Arco de Trepadeiras#
+18570#Decoração Dourada Antiga#
+
+----------------------
+
+17176#Cx Rédea Experimental 3 Dias#
+17162#Cx Rédea Experimental 7 Dias#
 
 //file end
