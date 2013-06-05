@@ -805,3 +805,16 @@ mal_dun01.rsw#Área de Coral Estrelado#
 1@pump.rsw#Esgotos de malangdo#
 2@pump.rsw#Esgotos de malangdo#
 
+
+//------2013 Abyss and Biolab 4th----------------------
+lhz_dun04.rsw#Laboratório de Somatologia #
+que_lhz.rsw#Laboratório de Somatologia #
+1@lhz.rsw#Laboratório de Wolfchev#
+gld_dun01_2.rsw#2º calabouço da Guilda#
+gld_dun02_2.rsw#2º calabouço da Guilda#
+gld_dun03_2.rsw#2º calabouço da Guilda#
+gld_dun04_2.rsw#2º calabouço da Guilda#
+gld2_ald.rsw#Portal do Abismo: Lágrimas do Herói#
+gld2_gef.rsw#Portal do Abismo: Colina dos Mortos#
+gld2_pay.rsw#Portal do Abismo: Ventos Ancestrais#
+gld2_prt.rsw#Portal do Abismo: Caminho do Guerreiro#

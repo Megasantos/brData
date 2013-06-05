@@ -8694,3 +8694,77 @@ Você está encarregado dos esgotos, normal por 7 dias.#
 12274#Serviço semanal difícil nos esgotos em progresso.#SG_FEEL#QUE_NOIMAGE#
 Você já tem 1 solicitação de serviço. Já que você já o fez, não pode receber nova solicitação por 7 dias.#
 Você está encarregado dos esgotos, difícil por 7 dias.#
+
+//-- Competição de investimentos em Castelos (conteúdo do Abismo)
+7349#Vote#SG_FEEL#QUE_NOIMAGE#
+Você já votou na região para a conexão com o portal. Não é possível votar novamente até que a eleição termine.#
+#
+
+//==== Missão do laboratório biológico 5109 - 5125
+5109#Rumor sério#SG_FEEL#QUE_NOIMAGE#
+Há rumores de que os experimentos com humanos, que pensávamos ter parado, prosseguem. O que está havendo? É preciso verificar isso.#
+Vamos encontrar o local dos experimentos com humanos.#
+
+5110#O rumor#SG_FEEL#QUE_NOIMAGE#
+Você encontrou Wolfchev, que está envolvido nos rumores sobre experimentos com humanos.#
+Siga-o.#
+
+5111#Para o laboratório…#SG_FEEL#QUE_NOIMAGE#
+Para escapar das cobaias humanas, vá ao laboratório de Wolfchev.#
+O laboratório de Wolfchev está diretamente ao norte.#
+
+5112#Acesso limitado ao laboratório#SG_FEEL#QUE_NOIMAGE#
+Por enquanto, não é possível acessar o sistema de entrada do laboratório.#
+Tempo de espera para entrar (3 dias - 72 horas)#
+
+5113#[Shelter] Lorde#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Lorde Siren!#
+
+5114#[Shelter] Paladino#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Paladino Randel!#
+
+5115#[Shelter] Sumo Sacerdote#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Sumo Sacerdotisa Margaretha!#
+
+5116#[Shelter] Mestre#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Mestre Chen!#
+
+5117#[Shelter] Arquimago#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Arquimaga Kathryne!#
+
+5118#[Shelter] Professor#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Professora Celia!#
+
+5119#[Shelter] Mestre-ferreiro#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Mestre-ferreiro Howard!#
+
+5120#[Shelter] Criador#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Criador Flamel!#
+
+5121#[Shelter] Algoz#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Algoz Eremes!#
+
+5122#[Shelter] Desordeiro#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Desordeiro Gertie!#
+
+5123#[Shelter] Atirador de Elite#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Atiradora de Elite Cecile!#
+
+5124#[Shelter] Menestrel#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha o Menestrel Alphochio!#
+
+5125#[Shelter] Cigana#SG_FEEL#QUE_NOIMAGE#
+Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
+Detenha a Cigana Trentini!#
