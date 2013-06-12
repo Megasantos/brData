@@ -10821,8 +10821,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Presilha Aprimorada [1], Presilha da Ganância e Caixa Asas de Borboleta.
-Esta promoção está disponível apenas até a manutenção do dia 05/06/2013.
+Troque-o pelos seguintes itens: Elmo do Lobo Errante, Máscara de Fugitivo, Caixa de Cupom de Tintura e 10 Bala de Guaraná.
+Esta promoção está disponível apenas até a manutenção do dia 18/06/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -22836,6 +22836,9 @@ Peso: ^7777770^000000
 14289#
 Caixa que contém um Cupom de Tintura.
 ^ffffff_^000000
+Cupom de Tintura
+Cupom que o Estilista Especial pede em troca para tingir suas roupas. Você pode encontrá-lo em Prontera, nas coordenadas 105,66.
+^ffffff_^000000
 Peso: ^7777771^000000
 #
 6047#
@@ -28750,7 +28753,7 @@ Peso: ^77777710^000000
 #
 12414#
 Uma deliciosa bala típica feita de Guaraná. Carrega consigo as propriedades energéticas da fruta.
-^000088Aumenta um pouco a velocidade de ataque e conjura a habilidade Aumentar Agilidade em nível 5.^000000.
+^000088Aumenta um pouco a velocidade de ataque e de movimento.^000000
 Peso: ^7777771^000000
 #
 5302#
@@ -31801,7 +31804,7 @@ Peso: ^77777715^000000
 6225#
 Após anos de compressão, a densidade deste material aumentou imensamente, mas é muito duro para ser refinado facilmente.
 Recentemente descobriu-se que é possível usá-lo para aprimoramentos.
-Se ocorrer falha ao aprimorar uma arma acima do +10, o item não será destruido (em vez disso, o nível de aprimoramento será reduzido em -1).
+Se ocorrer falha ao aprimorar uma armadura acima do +10, o item não será destruido (em vez disso, o nível de aprimoramento será reduzido em -1).
 Peso: ^7777771^000000
 #
 6226#
@@ -40467,22 +40470,27 @@ Peso: ^7777770^000000
 #
 6418#
 Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6419#
 Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6420#
 Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6421#
 Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6422#
 Moeda de baixíssimo nível. Se você recolher várias delas, elas poderão ser usadas como refinamento de armas.
+^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 #
 6423#
@@ -40577,7 +40585,7 @@ Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é
 ^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
 _
-^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000
 Peso: ^7777771^000000
 #
 16771#
@@ -40585,7 +40593,7 @@ Caixa com 40 frutas dos gatos. Uma pequena quantidade de comida enlatada está in
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
 ^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
-^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000
 Peso: ^7777771^000000
 #
 16979#
@@ -40594,7 +40602,7 @@ Caixa com 4 frutas dos gatos. Uma pequena quantidade de comida enlatada está inc
 Fruta dos gatos madura. Os humanos acham que é normal e tem um gosto ruim, mas é bem valorizada em Malangdo.
 ^FF0000Não pode ser trocada entre contas^000000
 Peso: ^7777770^000000
-^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000.
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000
 Peso: ^7777771^000000
 #
 17013#
