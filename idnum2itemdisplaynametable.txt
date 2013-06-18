@@ -3400,7 +3400,7 @@
 5197#Lacinho_Branco#
 //7608#Ticket_do_Dia_das_Mães#
 //7608#Ticket de Promoção#
-7608#Ticket de Popromoçãoring#
+7608#Ticket de Aniversário dos Chapéus#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -5485,7 +5485,6 @@
 15049#Armadura da Fé de Odin#
 2589#Asas de Arcano Caído#
 5664#Asas de Filir#
-13070#Garra Escarlate#
 18597#Elmo do Mercúrio#
 18573#Pena Branca#
 4808#Espírito do Lutador 4#
@@ -6071,7 +6070,7 @@
 2483#Grevas de Cerco#
 2484#Botas de Cerco#
 2485#Sapatos de Cerco#
-2586#Mantô de Cerco#
+2586#Manteau de Cerco#
 2587#Sobrepeliz de Cerco#
 2894#Luva de Shura#
 2898#Rosário Preto#
@@ -6081,18 +6080,18 @@
 11547#Poção Violeta de GdE#
 11548#Poção Branca de GdE#
 11549#Poção Azul de GdE#
-12674#Caixa de Materiais de Itens Divinos#
-12675#Caixa de Suprimento de Armas de GdE#
-12676#Caixa de Poções Violeta de GdE#
+12674#Cx Materiais de Itens Divinos#
+12675#Cx Suprimento de Armas de GdE#
+12676#Cx Poções Violeta de GdE[50]#
 12677#Aljava de Flechas de GdE S#
 12678#Aljava de Flechas de GdE A#
-12679#Caixa de Poções Brancas de GdE#
-12680#Caixa de Poções Azuis de GdE#
-12683#Caixa de Poções Violeta de GdE 200#
+12679#Cx Poções Brancas de GdE[30]#
+12680#Cx Poções Azuis de GdE[10]#
+12683#Cx Poções Violeta de GdE[200]#
 13072#Damascus de Vellum#
-15046#Placa de GdE#
-15047#Túnica GdE#
-15048#Manto GdE#
+15046#Placa de Cerco#
+15047#Túnica de Cerco#
+15048#Manto de Cerco#
 16020#Atordoador de Vellum#
 16021#Mangual de Vellum#
 18113#Arbaleste de Vellum#
@@ -6113,12 +6112,12 @@
 2161#Livro Antigo de Geffenia - Água#
 2162#Bíblia da Promessa (Volume 2)#
 2582#Capa Recuperada#
-2892#Algemas de Mercenário#
+2892#Manoplas de Sicário#
 6469#Vontade do Guerreiro#
 6470#Sede de Sangue#
 6471#Frio dos Mortos#
-13069#Unha Celeste#
-13070#Unha Escarlate#
+13069#Garra Celeste#
+13070#Garra Escarlate#
 15044#Bata de Operação Verde#
 16017#Cruz Sangrenta#
 18109#Catapulta#
@@ -6130,5 +6129,7 @@
 
 17176#Cx Rédea Experimental 3 Dias#
 17162#Cx Rédea Experimental 7 Dias#
-
+12532#Cx Geléia Real[100]#
+12293#Fruto de Yggdrasil Desidratado#
+12292#Fruto de Yggdrasil Amargo#
 //file end

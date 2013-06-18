@@ -5483,7 +5483,6 @@
 15049#Armadura#
 2589#Chapéu#
 5664#Chapéu#
-13070#Adaga#
 18597#Chapéu#
 18573#Chapéu#
 4808#Espírito do Lutador4#
@@ -6054,25 +6053,25 @@
 //-------Abismo 2013Q2------------
 1293#Katar#
 1294#Katar#
-1395#Machado de Duas Mãos#
-1396#Machado de Duas Mãos#
-1436#Lança de Uma Mão#
-1492#Lança de Duas Mãos#
+1395#Machado#
+1396#Machado#
+1436#Lança#
+1492#Lança#
 1586#Livro#
 1587#Livro#
-1661#Cetro de Uma Mão#
+1661#Cajado#
 1775#Flecha de Cerco S#
 1776#Flecha de Cerco A#
 1832#Garra#
-2016#Cetro de Duas Mãos#
-2483#Grevas de Cerco#
-2484#Botas de Cerco#
-2485#Sapatos de Cerco#
-2586#Mantô de Cerco#
-2587#Sobrepeliz de Cerco#
-2894#Luva de Shura#
-2898#Rosário Preto#
-2899#Amplificador de Som#
+2016#Cajado#
+2483#Sapato#
+2484#Sapato#
+2485#Sapato#
+2586#Manto#
+2587#Manto#
+2894#Acessório#
+2898#Acessório#
+2899#Acessório#
 6488#Bilhete de Agradecimento por Investimento#
 6489#Certificado de Investimento dos Gatos#
 11547#Poção Violeta de GdE#
@@ -6087,21 +6086,21 @@
 12680#Caixa de Poções Azuis de GdE#
 12683#Caixa de Poções Violeta de GdE 200#
 13072#Adaga#
-15046#Placa de GdE#
-15047#Túnica GdE#
-15048#Manto GdE#
+15046#Armadura#
+15047#Armadura#
+15048#Armadura#
 16020#Clava#
 16021#Clava#
 18113#Arco#
 18114#Arco#
-21001#Espada de Duas Mãos#
-21002#Espada de Duas Mãos#
+21001#Espada#
+21002#Espada#
 
 //-------------2013Q2-4º Laboratório Biológico---------------------------
 1290#Katar#
 1291#Katar#
-1392#Machado de Duas Mãos#
-1393#Machado de Duas Mãos#
+1392#Machado#
+1393#Machado#
 1435#Lança#
 1490#Lança#
 1584#Livro#
@@ -6127,5 +6126,8 @@
 
 17176#Cx Rédea Experimental 3 Dias#
 17162#Cx Rédea Experimental 7 Dias#
+12532#Cx Geléia Real[100]#
+12293#Fruto de Yggdrasil Desidratado#
+12292#Fruto de Yggdrasil Amargo#
 
 //file end

@@ -1,3 +1,4 @@
+
 501#
 Poção feita de ervas vermelhas. Recupera ^000088cerca de 45 HP^000000, dependendo da sua vitalidade. ^0000FFDê um clique duplo neste item para recuperar uma quantia de HP.^000000
 Peso: ^7777777^000000
@@ -20277,8 +20278,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até a manutenção do dia 08/05, então troque agora mesmo seu ticket!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 08/05. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até a manutenção do dia 25/06, então troque agora mesmo seu ticket!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 25/06. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -36911,21 +36912,6 @@ Nível necessário : ^77777770^000000
 Classe : ^777777Todas^000000
 #
 
-13070#
-Uma garra de Basilisko esculpida em forma de adaga e carregada de energia mágica.
-Ela ainda pinga constantemente o veneno de Basilisko, e por isso é capaz de transformar em pedra aqueles que forem infectados por seu corte.
-Sua energia arcana é tão forte que apenas pessoas poderosas podem segurá-la sem que elas mesmas virem estátuas.
-MATQ + 80.
-Chance de Petrificar o inimigo ao realizar ataques de curta distância. Aumenta a chance de Petrificar dependendo do seu nível de refinamento.
-Tipo : ^777777Adaga^000000
-Força de ataque : ^777777160^000000
-Peso : ^77777750^000000
-Propriedade : ^777777Fogo^000000
-Nível da arma : ^7777774^000000
-Nível Necessário : ^777777110^000000
-Classe : ^777777Evoluções de Espadachim T., Mercador T. e Gatuno T.^000000
-#
-
 18597#
 Um elmo feito em homenagem ao deus romano Mercúrio, encarregado de usar sua incrível velocidade para levar as mensagens de Júpiter.
 Cuidado ao usá-lo em Arunafeltz, já que símbolos de outros deuses não costumam ser muito bem vistos por alguns adoradores de Freya.
@@ -41037,8 +41023,8 @@ Classes : ^7777773ª classe de Espadachins/Magos/Arqueiros/Mercadores/Gatunos, Es
 //-------Abismo 2013Q2------------
 1293#
 *Atributos durante GdE e PvP
-Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
-Aumenta a Velocidade de Ataque (atraso após ataque) em 4%, mais 1% por nível de refinamento.
+Reduz a DEF e a DEFM do inimigo alvo quando recebe um ataque. (Ataques de habilidade não são afetados.)
+Aumenta a Velocidade de Ataque (atraso após ataque) conforme o nível de refinamento do equipamento.
 Tipo: ^777777Katar^000000
 Força de Ataque: ^777777170^000000
 Peso: ^777777120^000000
@@ -41048,7 +41034,7 @@ Classe: ^777777Classes de Mercenário^000000
 #
 1294#
 *Atributos durante GdE e PvP
-Drena 10% de cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
+Drena 10% de SP a cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
 Tipo: ^777777Katar^000000
 Força de Ataque: ^77777750^000000
 Peso: ^777777120^000000
@@ -41058,7 +41044,7 @@ Classe: ^777777Classes de Mercenário^000000
 #
 1395#
 *Atributos durante GdE e PvP
-Drena 10% de cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
+Drena 10% de SP a cada ataque físico contra o jogador inimigo. (Ataques de habilidade não são afetados.)
 Tipo: ^777777Machado de Duas Mãos^000000
 Força de Ataque: ^77777750^000000
 Peso: ^777777250^000000
@@ -41068,9 +41054,9 @@ Classe: ^777777Classes de Espadachim e Mercador^000000
 #
 1396#
 *Atributos durante GdE e PvP
-Aumenta em 40% o dano contra jogadores inimigos e em 30% a defesa física contra outros jogadores.
-Se refinada para +6 ou mais, aumenta em 80% o dano do Arremesso do Machado e de Brandir Machado.
-Se refinada para +9 ou mais, aumenta em mais 60% o dano contra jogadores inimigos.
+Aumenta o dano em jogadores inimigos em 40% e ignora 30% da defesa do inimigo.
+Se refinado em +6 ou maior, aumenta o dano das habilidades Brandir Machado e Arremesso de Machado em 80%
+Se refinado em +9 ou maior,aumenta o dano físico em jogadores inimigos em 60%.
 Tipo: ^777777Machado de Duas Mãos^000000
 Força de Ataque: ^777777300^000000
 Peso: ^777777550^000000 
@@ -41092,10 +41078,11 @@ Classe: ^777777Classes de Espadachim^000000
 #
 1492#
 *Atributos durante GdE e PvP
-Aumenta em 80% o dano contra jogadores inimigos.
+Aumenta em 80% o dano contra jogadores inimigos. Vel. Ataque -10, perde 600 de SP quando desequipa o item.
+Aumenta o tempo de recarga de Perfurar em Espiral em 20 segundos.
 Se refinada para +6 ou mais, aumenta em 100% o dano da Perfurar em Espiral e em 50% o dano da Lança do Destino.
 Se refinada para +9 ou mais, ela tem a chance de refletir o dano de ataques mágicos e físicos de volta ao inimigo.
-Tipo: ^777777Lança^000000
+Tipo: ^777777Lança de Duas Mãos^000000
 Força de Ataque: ^777777250^000000
 Peso: ^777777450^000000
 Nível da Arma: ^7777774^000000
@@ -41116,9 +41103,8 @@ Classe: ^777777Sacerdote / Sábio / Mestre Taekwon^000000
 #
 1587#
 *Atributos durante GdE e PvP
-Aumenta o dano contra jogadores inimigos em 80%, mais 1% por nível de refinamento.
-Aumenta em 30% a defesa física contra outros jogadores.
-Se refinada para +9 ou mais, tem a chance de ativar um aumento do poder de ataque em 200 por 3 segundos.
+Aumenta o dano contra jogadores inimigos em 80%, ignora 30% de DEF de jogadores inimigos e aumenta em 1% para cada nível de refinamento.
+Se refinado em +9 ou maior, chance de ativar bônus de Ataque em 200 por 3 segundos
 Tipo: ^777777Livro^000000
 Força de Ataque: ^777777130^000000
 Peso: ^777777100^000000
@@ -41128,9 +41114,11 @@ Classe: ^777777Sacerdote / Sábio / Mestre Taekwon^000000
 #
 1661#
 Drena 5% do SP dos inimigos ao atacar. (Ataques de habilidade não são afetados.)
-Aumenta em 100 pontos o consumo de SP das habilidades
+Aumenta em 100% o consumo de SP das habilidades
 +10 de INT, +50 de ATQM, +20 de DEFM.
 Se refinada para +6 ou mais, aumenta o dreno de SP dos ataques.
+Tipo: ^777777Cajado^000000
+Força de Ataque: ^777777100^000000
 Peso: ^777777140^000000
 Nível da Arma: ^7777774^000000
 Nível Necessário: ^77777795^000000
@@ -41158,9 +41146,9 @@ Nível Necessário: ^77777795^000000
 #
 1832#
 *Atributos durante GdE e PvP
-Aumenta em 100% o dano contra jogadores inimigos
-Se refinada para +8 ou mais, aumenta em 20% o dano contra jogadores inimigos.
-Se refinada para +10 ou mais, reduz o tempo de conjuração do Punho Supremo de Asura quando usar a Fúria e lança automaticamente a habilidade Zen nv. 1, enquanto gasta 500 HP a cada 3 segundos.
+Aumenta danos físicos contra jogadores inimigos em 100%
+Se refinado em +8 ou maior, aumenta o dano contra jogadores inimigos em mais 20%
+Se refinado em +10 ou maior, quando o jogador usar a habilidade 'Fúria', será conjurada automaticamente a habilidade 'Zen' e removerá o tempo de conjuração da habilidade 'Punho Supremo de Asura', além de consumir 500 de HP a cada 3 segundos.
 Tipo: ^777777Garra^000000
 Força de Ataque: ^777777160^000000
 Peso: ^77777765^000000
@@ -41171,10 +41159,10 @@ Classe: ^777777Sacerdote / Monge^000000
 2016#
 +220 de ATQM.
 *Atributos durante GdE e PvP
-Aumenta em 25% o dano de ataques mágicos contra jogadores inimigos e aumenta em 15% a defesa mágica.
-Se refinada para +6 ou mais, aumenta em 15% o ataque mágico.
-Se refinada para +9 ou mais, reduz em 50% o tempo de conjuração e reduz em 20% o tempo de conjuração fixo.
-Tipo: ^777777Cajado^000000
+Aumenta o dano mágico em jogadores inimigos em 20% e ignora 25% da defesa mágica do inimigo.
+Se refinado em +6 ou maior, aumenta o dano de Ataques Mágicos em jogadores inimigos em 15%.
+Se refinado em +9 ou maior, reduz o tempo de conjuração variável em 20% e tempo de conjuração fixa em 0,2 segundos.
+Tipo: ^777777Cajado de Duas Mãos^000000
 Força de Ataque: ^777777110^000000
 Peso: ^77777780^000000
 Nível da Arma: ^7777774^000000
@@ -41295,7 +41283,13 @@ Uma caixa de suprimento com várias armas, carimbadas com o selo de uma guilda es
 Peso: ^77777750^000000
 #
 12676#
-Uma caixa contendo 50 poções diferentes e estudos teóricos para armas caras.
+Uma caixa contendo 50 poções violeta que só podem ser usadas durante a Guerra do Emperium.
+-
+^777777Poção Violeta de GdE^000000
+*Atributos durante GdE e PvP
+^000088Recupera, no mínimo, 500 HP e 60 SP^000000
+Peso: ^7777778^000000
+-
 Peso: ^77777720^000000
 #
 12677#
@@ -41322,9 +41316,9 @@ Peso: ^77777720^000000
 #
 13072#
 *Atributos durante GdE e PvP
-Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
-Aumenta a Velocidade de Ataque (atraso após ataque) em 4%, mais 1% por nível de refinamento.
-Tipo: ^777777Armadura^000000
+Reduz a DEF e a DEFM do inimigo alvo quando recebe um ataque. (Ataques de habilidade não são afetados.)
+Aumenta a Velocidade de Ataque (atraso após ataque) conforme o nível de refinamento do equipamento.
+Tipo: ^777777Adaga^000000
 Força de Ataque: ^777777180^000000
 Peso: ^777777100^000000
 Nível da Arma: ^7777774^000000
@@ -41337,6 +41331,7 @@ Classe: ^777777Aprendiz, Espadachim, Mago, Arqueiro, Mercador, Gatuno, Espiritua
 Aumenta em 2% a defesa contra jogadores inimigos.
 Se refinada para +6 ou mais, aumenta a cura em 12%.
 Se refinada para +9 ou mais, +25% de HP máximo.
+Se usado em conjunto com Grevas de Cerco e Manteau de Certo, VIT +5, adiciona 15% na redução de dano contra jogadores inimigos.
 Tipo: ^777777Armadura^000000
 Defesa: ^77777785^000000
 Peso: ^777777330^000000
@@ -41347,8 +41342,9 @@ Classe: ^777777Espadachim, Mercador, Taekwon, Mestre Taekwon^000000
 DEFM + 10.
 *Atributos durante GdE e PvP
 Aumenta em 2% a defesa contra jogadores inimigos.
-Se refinada para +6 ou mais, reduz em 20% a defesa contra ataques a distância e aumenta a Esquiva em 50
+Se refinada para +6 ou mais, reduz em 20% a defesa contra ataques a distância e aumenta a Esquiva em 5
 Se refinada para +9 ou mais, +15% de HP máximo.
+Se usado em conjunto com Botas de Cerco e Manteau de Certo, DES +5, adiciona 15% na redução de dano contra jogadores inimigos.
 Tipo: ^777777Armadura^000000
 Defesa: ^77777750^000000
 Peso: ^77777775^000000
@@ -41360,7 +41356,8 @@ DEFM + 20.
 *Atributos durante GdE e PvP
 Aumenta em 2% a defesa contra jogadores inimigos.
 Se refinada para +6 ou mais, reduz em 15% a defesa contra ataques a distância e aumenta a Esquiva em 5
-Se refinada para +9 ou mais, +1.000 de HP máximo e +100 de SP máximo.
+Se refinado em +9 ou maior, HP Máximo +100 e SP Máximo +100
+Se usado em conjunto com Sapato de Certo e Sobrepeliz de Cerco, INT +5, DEFM +10, adiciona 15% na redução de dano contra jogadores inimigos.
 Tipo: ^777777Armadura^000000
 Defesa: ^77777740^000000
 Peso: ^77777750^000000
@@ -41369,7 +41366,7 @@ Classe: ^777777Aprendiz / Mago / Noviço / Espiritualista^000000
 #
 16020#
 *Atributos durante GdE e PvP
-Há chance de Atordoar ao sofrer ataque físico.
+Há chance de Atordoar o inimigo ao atacar fisicamente.
 Aumenta a velocidade de ataque em 2%, mais 1% por nível de refinamento.
 Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
 Tipo: ^777777Maça^000000
@@ -41382,8 +41379,8 @@ Classe: ^777777Aprendiz e Classes de Espadachim, Noviço e Mercador^000000
 16021#
 *Atributos durante GdE e PvP
 Aumenta o acerto em metade do nível de refinamento.
-Taxa de Ataque Crítico +(10 x nível de refinamento)
-Causa um estado no qual o portador da arma não consegue se recuperar de ataques.
+Taxa de Ataque Crítico +1 a cada nível de refinamento
+Causa um estado no qual o inimigo não consegue recuperar HP e SP quando atingido por ataques físicos.
 Tipo: ^777777Maça^000000
 Força de Ataque: ^777777170^000000
 Peso: ^777777150^000000
@@ -41393,7 +41390,7 @@ Classe: ^777777Aprendiz e Classes de Espadachim, Noviço e Mercador^000000
 #
 18113#
 *Atributos durante GdE e PvP
-Drena 4% do HP dos jogadores inimigos.
+Drena 4% do SP dos jogadores inimigos.
 VelATQ - 5.
 Tipo: ^777777Arco^000000
 Força de Ataque: ^77777750^000000
@@ -41405,6 +41402,8 @@ Classe: ^777777Classes de Arqueiro, Gatuno e Arruaceiro^000000
 18114#
 *Atributos durante GdE e PvP
 Aumenta o dano contra jogadores inimigos em 30%, mais 1% por nível de refinamento.
+Tipo: ^777777Arco^000000
+Força de Ataque: ^777777110^000000
 Peso: ^777777110^000000
 Nível da Arma: ^7777774^000000
 Nível Necessário: ^77777795^000000
@@ -41412,10 +41411,9 @@ Classe: ^777777Classes de Arqueiro, Gatuno e Arruaceiro^000000
 #
 21001#
 *Atributos durante GdE e PvP
-Aumenta em 80% o dano contra jogadores inimigos
-Aumenta em 30% a defesa contra jogadores inimigos
-Se refinada para +6 ou mais, aumenta em mais 40% o dano contra jogadores inimigos.
-Se refinada para +9 ou mais, ela tem a chance de refletir o dano de ataques físicos e mágicos.
+Aumenta o dano em jogadores inimigos em 80% e ignora 30% da defesa do inimigo.
+Se refinado em +6 ou maior, aumenta o dano físico em jogadores inimigos em 40%.
+Se refinado em +9 ou maior, chance de refletir dano de ataques físicos e mágicos, bem como chance de auto-conjurar a habilidade Espelho Mágico.
 Tipo: ^777777Espada de Duas Mãos^000000
 Força de Ataque: ^777777260^000000
 Peso: ^777777350^000000
@@ -41425,7 +41423,7 @@ Classe: ^777777Espadachim^000000
 #
 21002#
 *Atributos durante GdE e PvP
-Drena 8% do dano causado a outros jogadores.
+Drena 8% do HP do inimigo a cada ataque físico básico.
 Tipo: ^777777Espada de Duas Mãos^000000
 Força de Ataque: ^777777100^000000
 Peso: ^777777250^000000
@@ -41461,28 +41459,28 @@ Classe: ^777777Sicário^000000
 Um machado grande, feito por um ferreiro com a brasa de um vulcão.
 Acrescenta o status Queimado ao atacar fisicamente, mas o usuário também corre o risco de ser queimado.
 Indestrutível.
-Tipo: ^777777Machado^000000 
+Tipo: ^777777Machado de Duas Mãos^000000 
 Ataque: ^777777250^000000
 Peso: ^777777190^000000 
 Elemento: ^777777Fogo^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^77777795^000000
-Classe: ^777777Classes Renascidas de Espadachim e Mercador^000000
+Classe: ^777777Espadachim T. e Mercador T. e suas evoluções^000000
 #
 1393#
 Um machado feito com gelo do ártico.
 Em um ataque físico de curta distância, lança gelo contra os inimigos e o próprio usuário.
 Indestrutível.
-Tipo: ^777777Machado^000000 
+Tipo: ^777777Machado de Duas Mãos^000000 
 Ataque: ^777777250^000000
 Peso: ^777777190^000000 
 Elemento: ^777777Água^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^77777795^000000
-Classe: ^777777Classes Renascidas de Espadachim e Mercador^000000
+Classe: ^777777Espadachim T. e Mercador T. e suas evoluções^000000
 #
 1435#
-Diminui o HP máximo em 100
+Diminui o SP máximo em 100
 Aumenta o dano do Disparo perfurante em 10%, com um aumento no poder de ataque correspondente a 3 vezes o nível de refinamento
 Tipo: ^777777Lança de Uma Mão^000000 
 Ataque: ^777777180^000000
@@ -41515,12 +41513,12 @@ Peso: ^777777100^000000
 Elemento: ^777777Água^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^777777100^000000
-Classe: ^777777Bruxo^000000
+Classe: ^777777Feiticeiros^000000
 #
 1659#
 Um cajado que serve somente para cura. Seu poder é grande, mas o desgaste de usuário também é.
 ATQM + 160.
-Um cajado que aumenta a potência dos feitiços de cura do Arcebispo, aumentando o consumo de SP dependendo do nível de refinamento.
+Um cajado que aumenta a potência das habilidades de cura do Arcebispo, aumentando o consumo de SP da habilidade Cura dependendo do nível de refinamento.
 Indestrutível.
 Tipo: ^777777Cajado de Uma Mão^000000 
 Ataque: ^77777730^000000
@@ -41537,7 +41535,7 @@ Tipo: ^777777Escudo^000000
 Defesa: ^777777130^000000
 Peso: ^777777280^000000
 Nível Necessário : ^777777100^000000
-Classe: ^7777773ª classe de Espadachim^000000
+Classe: ^777777Cavaleiro Rúnico / Guardião Real^000000
 #
 2161#
 O continente esquecido de Geffenia guarda um tesouro secreto. Poucos são os que podem usar a magia desta arma.
@@ -41548,7 +41546,7 @@ Tipo: ^777777Escudo^000000
 Defesa: ^77777730^000000
 Peso: ^777777100^000000
 Nível Necessário : ^777777100^000000
-Classe: ^777777Feiticeiro^000000
+Classe: ^777777Arcanos^000000
 #
 2162#
 Um livro antigo de músicas sacras cantadas na catedral.
@@ -41561,7 +41559,7 @@ Nível Necessário : ^777777140^000000
 Classe: ^777777Arcebispo^000000
 #
 2582#
-Este mantô largo foi remendado de forma a receber a habilidade de um feiticeiro oriental e de um alfaiate ocidental.
+Este manto largo foi remendado de forma a receber a habilidade de um feiticeiro oriental e de um alfaiate ocidental.
 Permite usar Troca de Pele Nv. 1. Aumenta o tempo de espera dessa habilidade em 30 segundos, dobra o consumo de SP de todas as habilidades quando vestido; ao retirar, SP - 1.200.
 Tipo: ^777777Capa^000000 
 Defesa: ^7777771^000000
@@ -41573,7 +41571,7 @@ Classe: ^777777Arcano / Arcebispo^000000
 Uma luva com placas de aço nos dedos e nos braços. Feita para se defender e atacar ao mesmo tempo.
 SP máximo + 20, Crítico + 3.
 Quando usado junto com Krishna, ATQ + 50, aumenta em 50% o poder de ataque das Lâminas Destruidoras e Esquiva - 30.
-Ao ser usado junto com Cakram, Crítico + 4, poder de ataque crítico aumentado em 40% e HP máximo - 10%.
+Ao ser usado junto com Chakram, Crítico + 4, poder de ataque crítico aumentado em 40% e HP máximo - 10%.
 Tipo: ^777777Acessório^000000 
 Defesa: ^7777773^000000
 Peso: ^77777740^000000
@@ -41605,36 +41603,40 @@ Peso: ^77777750^000000
 Elemento: ^777777Vento^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^777777110^000000
-Classe: ^777777Classes Renascidas de Aprendiz e Espadachim / Mercador / Gatuno^000000
+Classe: ^777777Aprendiz T., Espadachim T., Mercador T., Gatuno T. e suas respectivas evoluções^000000
 #
 13070#
-Adaga vermelha imbuída com magia de ataque.
-ATQM + 80.
-Tem chance de causar Maldição com ataque físico; a chance aumenta a cada nível de refinamento.
-Tipo: ^777777Adaga^000000 
-Ataque: ^777777160^000000
-Peso: ^77777750^000000 
-Elemento: ^777777Fogo^000000
-Nível da Arma : ^7777774^000000
+Uma garra de Basilisko esculpida em forma de adaga e carregada de energia mágica.
+Ela ainda pinga constantemente o veneno de Basilisko, e por isso é capaz de transformar em pedra aqueles que forem infectados por seu corte.
+Sua energia arcana é tão forte que apenas pessoas poderosas podem segurá-la sem que elas mesmas virem estátuas.
+ATQM +80.
+Chance de Petrificar o inimigo ao realizar ataques de curta distância. Aumenta a chance de Petrificar dependendo do seu nível de refinamento.
+Tipo : ^777777Adaga^000000
+Força de ataque : ^777777160^000000
+Peso : ^77777750^000000
+Propriedade : ^777777Fogo^000000
+Nível da arma : ^7777774^000000
 Nível Necessário : ^777777110^000000
-Classe: ^777777Classes Renascidas de Aprendiz e Espadachim / Mercador / Gatuno^000000
+Classe: ^777777Aprendiz T., Espadachim T., Mercador T., Gatuno T. e suas respectivas evoluções^000000
 #
+
 15044#
 Uma bata de um estudioso que enlouqueceu depois de estudar os Homúnculos por muito tempo. 
 DES + 1, SP máximo + 30.
-Ao usar o Bisturi para caçar monstros Humanoides e Animais, há chance de derrubar Coração Imortal e Álcool de acordo com o nível de refinamento do traje.
+Ao usar o Bisturi para caçar monstros Humanoides e Brutos, há chance de derrubar Coração Imortal e Álcool de acordo com o nível de refinamento do traje.
 Tipo: ^777777Armadura^000000 
 Defesa: ^77777766^000000
 Peso: ^77777766^000000
 Nível Necessário : ^777777100^000000
-Classe: ^777777Genérica^000000
+Classe: ^777777Bioquímico^000000
 #
 16017#
 Uma maça de cruz vermelho-sangue com um poder sombrio. A cor vermelha é tão assustadora que parece que a arma absorve o sangue.
 Em um ataque físico de curta distância, há chance de lançar Chamas de Hela Nv. 1. A velocidade de conjuração da habilidade é aumentada de acordo com o nível de refinamento.
-Tipo: ^777777Maça^000000 Ataque: ^777777170^000000
+Tipo: ^777777Maça^000000 
+Ataque: ^777777170^000000
 Peso: ^777777150^000000 
-Elemento: ^777777Escuridão^000000
+Elemento: ^777777Sombrio^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Transcendentais de Noviço^000000
@@ -41656,7 +41658,7 @@ Ataque: ^777777160^000000
 Peso: ^77777790^000000
 Nível da Arma : ^7777774^000000
 Nível Necessário : ^777777110^000000
-Classe: ^777777Patrulheiro^000000
+Classe: ^777777Sentinela^000000
 #
 18111#
 Um arco feito com ramos fortes e sombrios. Ele amarra inimigos com teias de aranha.
@@ -41666,7 +41668,7 @@ Ataque: ^777777150^000000
 Peso: ^777777150^000000
 Nível da Arma : ^7777773^000000
 Nível Necessário : ^777777120^000000
-Classe: ^7777773ª classe de Arqueiro^000000
+Classe: ^777777Sentinela / Trovador / Musa^000000
 #
 18570#
 Belo acessório dourado imbuído com uma magia antiga. Seu poder se altera de acordo com a classe do dono.
@@ -41679,22 +41681,39 @@ Defesa: ^7777777^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777740^000000
 Nível Necessário : ^777777100^000000
-Classe: ^777777Somente para 3ª classe / Kagerou / Oboro^000000
+Classe: ^777777Somente para 3ª classe^000000
 #
 
 -------------------------
 
 17176#
 Uma caixa que contém uma Rédea. Este item é temporário e dura 3 dias.
-^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Este item é inegociável e você não poderá trocá-lo entre seus personagens.^000000
 ^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
 Peso : ^7777771^000000
 #
 17162#
 Uma caixa que contém uma Rédea. Este item é temporário e dura 7 dias.
-^ff0000Este item pode ser apenas negociado, colocado no armazém e no carrinho.^000000
+^ff0000Este item é inegociável e você não poderá trocá-lo entre seus personagens.^000000
 ^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
 Peso : ^7777771^000000
+#
+12532#
+Uma caixa contendo 100 Geléias Real.
+Peso : ^7777770^000000
+"^ff0000 Cuidado - Se você estiver acima do peso e abrir a caixa, os itens poderão não ser recebidos. Verifique o peso de seu personagem!^000000"
+#
+12293#
+Um pequeno pedaço de uma Fruto de Yggdrasil que foi desidratada que facilita o consumo e armazenamento. O aroma delicado é resultado do lento processo de desidratação.
+^000088Recupera 20% SP.^000000
+^ffffff_^000000
+Peso : ^77777720^000000
+#
+12292#
+Um Fruto de Yggdrasil que ainda não amadureceu. Algumas pessoas gostam do sabor amargo da fruta que ainda verde, mas sua eficácia em recuperação é parecida com seu sabor.
+^000088Recupera 20% HP.^000000
+^ffffff_^000000
+Peso : ^77777720^000000
 #
 
 

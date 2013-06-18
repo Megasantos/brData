@@ -5337,7 +5337,7 @@ Colete 10 Patas de Urso e 5 Peles de Animal#
 
 8276#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Pierre, Andre e Deniro do Formigueiro Infernal.#
-Colete 20 Scells e 20 Garletas#
+Colete 20 Peles de Verme e 20 Garletas#
 
 8277#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Yoyo, Koko e Fumacento do mapa a leste de Ayothaya.#
@@ -5579,7 +5579,7 @@ Cace 20 Condores a sul de Morroc.#
 #
 
 11116#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
-Cace 10 Rockers e colete 4 Pernas de Gafanhoto a sudoeste de Prontera.#
+Cace 10 Rockers e colete 10 Pernas de Gafanhoto a sudoeste de Prontera.#
 #
 
 11117#Caçada de Monstros#SG_FEEL#QUE_NOIMAGE#
@@ -8717,54 +8717,54 @@ O laboratório de Wolfchev está diretamente ao norte.#
 Por enquanto, não é possível acessar o sistema de entrada do laboratório.#
 Tempo de espera para entrar (3 dias - 72 horas)#
 
-5113#[Shelter] Lorde#SG_FEEL#QUE_NOIMAGE#
+5113#[Segurança] Lorde#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
-Detenha o Lorde Siren!#
+Detenha o Lorde Seyren!#
 
-5114#[Shelter] Paladino#SG_FEEL#QUE_NOIMAGE#
+5114#[Segurança] Paladino#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Paladino Randel!#
 
-5115#[Shelter] Sumo Sacerdote#SG_FEEL#QUE_NOIMAGE#
+5115#[Segurança] Suma Sacerdotisa#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha a Sumo Sacerdotisa Margaretha!#
 
-5116#[Shelter] Mestre#SG_FEEL#QUE_NOIMAGE#
+5116#[Segurança] Mestre#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Mestre Chen!#
 
-5117#[Shelter] Arquimago#SG_FEEL#QUE_NOIMAGE#
+5117#[Segurança] Arquimaga#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha a Arquimaga Kathryne!#
 
-5118#[Shelter] Professor#SG_FEEL#QUE_NOIMAGE#
+5118#[Segurança] Professor#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha a Professora Celia!#
 
-5119#[Shelter] Mestre-ferreiro#SG_FEEL#QUE_NOIMAGE#
+5119#[Segurança] Mestre-ferreiro#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Mestre-ferreiro Howard!#
 
-5120#[Shelter] Criador#SG_FEEL#QUE_NOIMAGE#
+5120#[Segurança] Criador#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Criador Flamel!#
 
-5121#[Shelter] Algoz#SG_FEEL#QUE_NOIMAGE#
+5121#[Segurança] Algoz#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Algoz Eremes!#
 
-5122#[Shelter] Desordeiro#SG_FEEL#QUE_NOIMAGE#
+5122#[Segurança] Desordeira#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
-Detenha o Desordeiro Gertie!#
+Detenha o Desordeira Gertie!#
 
-5123#[Shelter] Atirador de Elite#SG_FEEL#QUE_NOIMAGE#
+5123#[Segurança] Atiradora de Elite#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
-Detenha a Atiradora de Elite Cecile!#
+Detenha a Atiradora de Elite Cecil!#
 
-5124#[Shelter] Menestrel#SG_FEEL#QUE_NOIMAGE#
+5124#[Segurança] Menestrel#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha o Menestrel Alphochio!#
 
-5125#[Shelter] Cigana#SG_FEEL#QUE_NOIMAGE#
+5125#[Segurança] Cigana#SG_FEEL#QUE_NOIMAGE#
 Para deter as cobaias humanas à solta, você precisa cuidar do monstro-chefe.#
 Detenha a Cigana Trentini!#

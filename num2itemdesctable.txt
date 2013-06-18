@@ -13896,13 +13896,13 @@ Item não identificado, pode ser identificado com [Lupa].
 // ?? ???
 
 5149#
-Unknown Item, can be identified by [Magnifier].
+Item não identificado, pode ser identificado com [Lupa].
 #
 5179#
-Unknown Item, can be identified by [Magnifier].
+Item não identificado, pode ser identificado com [Lupa].
 #
 5148#
-Unknown Item, can be identified by [Magnifier].
+Item não identificado, pode ser identificado com [Lupa].
 #
 
 // 2007 AFD
@@ -26026,10 +26026,6 @@ Item não identificado. Pode ser identificado com uma [Lupa]
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
 
-13070#
-Item não identificado. Pode ser identificado com uma [Lupa]
-#
-
 18597#
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
@@ -28072,7 +28068,7 @@ Uma saco velho e fino para carregar moedas. . Há 50 e-moedas na sacola.
 Peso: ^7777771^000000
 #
 13068#
-Item desconhecido que pode ser identificado pela [Lente de Aumento].
+Item desconhecido que pode ser identificado pela [Lupa].
 #
 13291#
 Equinoderme, estrela-do-mar. Parece uma estrela. É duro, então, pode ser usado como um shuriken.
@@ -28095,10 +28091,10 @@ Tipo: ^777777Ataque com uma arma de lançar^000000: ^77777750^000000
 Peso: ^7777772^000000 Tipo: ^777777Tipo Nada^000000
 #
 16015#
-Item desconhecido que pode ser identificado pela [Lente de Aumento].
+Item desconhecido que pode ser identificado pela [Lupa].
 #
 16016#
-Item desconhecido que pode ser identificado pela [Lente de Aumento].
+Item desconhecido que pode ser identificado pela [Lupa].
 #
 12531#
 Uma caixa contendo 100 Poções Brancas
@@ -28141,67 +28137,67 @@ Peso : ^7777770^000000
 
 //-------Abismo 2013Q2------------
 1293#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1294#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1395#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1396#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1436#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1492#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1586#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1587#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1661#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1775#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1776#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1832#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2016#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2483#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2484#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2485#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2586#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2587#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2894#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2898#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2899#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 6488#
 ^ff0000Este item é vinculado à conta.^000000
@@ -28265,75 +28261,75 @@ Uma caixa com Poções Violeta de GdE
 Peso: ^77777720^000000
 #
 13072#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 15046#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 15047#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 15048#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 16020#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 16021#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18113#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18114#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 21001#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 21002#
-Item desconhecido que pode ser identificado pela [Lente de Aumento]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 
 //-------------2013Q2-Biolab 4th---------------------------
 1290#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1291#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1392#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1393#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1435#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1490#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1584#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 1659#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2160#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2161#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2162#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2582#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 2892#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 6469#
 Uma coleção de amostras biológicas de vários guerreiros
@@ -28351,28 +28347,28 @@ Contém a escuridão de Nifflheim.
 Peso: ^7777771^000000
 #
 13069#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 13070#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 15044#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 16017#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18109#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18110#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18111#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 18570#
-Item desconhecido que pode ser identificado pela [Magnifier]
+Item desconhecido que pode ser identificado pela [Lupa]
 #
 
 -------------------------
@@ -28389,6 +28385,8 @@ Uma caixa que contém uma Rédea. Este item é temporário e dura 7 dias.
 ^ff0000Após abrir a caixa, o item Rédea é inegociável e você não poderá trocá-lo entre seus personagens.^000000
 Peso : ^7777771^000000
 #
-
+12532#Cx Geléia Real[100]#
+12293#Fruto de Yggdrasil Desidratado#
+12292#Fruto de Yggdrasil Amargo#
 
 //file end
