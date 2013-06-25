@@ -28389,4 +28389,32 @@ Peso : ^7777771^000000
 12293#Fruto de Yggdrasil Desidratado#
 12292#Fruto de Yggdrasil Amargo#
 
+//------------------Q3 - 2013 Items---------------------------------
+
+2959#Item desconhecido que pode ser identificado pela [Lupa]#
+18754#Item desconhecido que pode ser identificado pela [Lupa]#
+18756#Item desconhecido que pode ser identificado pela [Lupa]#
+18832#Item desconhecido que pode ser identificado pela [Lupa]#
+19589#Item desconhecido que pode ser identificado pela [Lupa]#
+19607#Item desconhecido que pode ser identificado pela [Lupa]#
+19649#Item desconhecido que pode ser identificado pela [Lupa]#
+19661#Item desconhecido que pode ser identificado pela [Lupa]#
+19685#Item desconhecido que pode ser identificado pela [Lupa]#
+2190#Item desconhecido que pode ser identificado pela [Lupa]#
+18885#Item desconhecido que pode ser identificado pela [Lupa]#
+18887#Item desconhecido que pode ser identificado pela [Lupa]#
+18888#Item desconhecido que pode ser identificado pela [Lupa]#
+18889#Item desconhecido que pode ser identificado pela [Lupa]#
+18890#Item desconhecido que pode ser identificado pela [Lupa]#
+18891#Item desconhecido que pode ser identificado pela [Lupa]#
+18892#Item desconhecido que pode ser identificado pela [Lupa]#
+18893#Item desconhecido que pode ser identificado pela [Lupa]#
+18894#Item desconhecido que pode ser identificado pela [Lupa]#
+18895#Item desconhecido que pode ser identificado pela [Lupa]#
+18896#Item desconhecido que pode ser identificado pela [Lupa]#
+18897#Item desconhecido que pode ser identificado pela [Lupa]#
+18898#Item desconhecido que pode ser identificado pela [Lupa]#
+
+
+
 //file end

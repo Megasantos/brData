@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote do Lobo Errante#
+7550#Pacote de Petiscos#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -6132,4 +6132,34 @@
 12532#Cx Geléia Real[100]#
 12293#Fruto de Yggdrasil Desidratado#
 12292#Fruto de Yggdrasil Amargo#
+
+//------------------Q3 - 2013 Items---------------------------------
+
+2959#Fidelity_Necklace#
+18754#Blood_Sucker#
+18756#Black_Shiba_Inu_Hat#
+18832#Rolf_Von_Gigue_the666th#
+19589#Fallen_Angel's_beloning#
+19607#Love_Chick_Hat#
+19649#White_Kitten_Ears#
+19661#Sweet_Bonnet#
+19685#Shiny_Santa_Poring_Hat#
+2190#Ancient_Shield_Of_Aeon#
+18885#Jejecap#
+18887#Aqua_Bunny_Band#
+18888#Maroon_Bunny_Band#
+18889#Golden_Bunny_Band#
+18890#Gray_Bunny_Band#
+18891#Husky_Hat#
+18892#Ufo_Poring_Hat#
+18893#Dragon_Claw_Helm#
+18894#Rainbow_Star#
+18895#Celestial_Dark_Flame#
+18896#Pterios_Fins#
+18897#Azure_Diadem#
+18898#Yggdrasil_Herald_Crown#
+
+
+
+
 //file end

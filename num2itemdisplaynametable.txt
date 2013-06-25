@@ -6130,4 +6130,32 @@
 12293#Fruto de Yggdrasil Desidratado#
 12292#Fruto de Yggdrasil Amargo#
 
+//------------------Q3 - 2013 Items---------------------------------
+
+2959#Acessório#
+18754#Item não-identificado#
+18756#Equipamento para Cabeça#
+18832#Equipamento para Cabeça#
+19589#Item não-identificado#
+19607#Equipamento para Cabeça#
+19649#Equipamento para Cabeça#
+19661#Equipamento para Cabeça#
+19685#Equipamento para Cabeça#
+2190#Escudo#
+18885#Equipamento para Cabeça#
+18887#Equipamento para Cabeça#
+18888#Equipamento para Cabeça#
+18889#Equipamento para Cabeça#
+18890#Equipamento para Cabeça#
+18891#Equipamento para Cabeça#
+18892#Equipamento para Cabeça#
+18893#Equipamento para Cabeça#
+18894#Acessório#
+18895#Acessório#
+18896#Acessório#
+18897#Acessório#
+18898#Equipamento para Cabeça#
+
+
+
 //file end

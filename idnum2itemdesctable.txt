@@ -10822,8 +10822,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Elmo do Lobo Errante, Máscara de Fugitivo, Caixa de Cupom de Tintura e 10 Bala de Guaraná.
-Esta promoção está disponível apenas até a manutenção do dia 18/06/2013.
+Troque-o pelos seguintes itens: Alho Poró, Laranja Fresca, Salgadinho de Queijo.
+Esta promoção está disponível apenas até a manutenção do dia 02/07/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -38516,7 +38516,9 @@ Fonte de Vitamina C, é uma fruta muito popular, principalmente para extrair sua 
 Tipo : ^777777Equipamento para cabeça^000000
 Defesa : ^7777770^000000
 Equipa em : ^777777Baixo^000000
-Peso : ^77777720^000000Nível Necessário : ^77777720^000000Classes :  ^777777Todas exceto Aprendiz^000000
+Peso : ^77777720^000000
+Nível Necessário : ^77777720^000000
+Classes :  ^777777Todas exceto Aprendiz^000000
 #
 
 18702#
@@ -38534,7 +38536,7 @@ Dizem que quando a musa Meeku Rátishune subiu ao palco pela primeira vez para ap
 Diminui o dano recebido por monstros Pequenos em 2%. Não diminui o dano recebido de personagens de tamanho pequeno.
 Tipo : ^777777Equipamento para Cabeça^000000    
 Defesa : ^7777770^000000
-Equipa em : ^777777Topo^000000    
+Equipa em : ^777777Baixo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
 Classes : ^777777Todos exceto Aprendiz^000000
@@ -38546,7 +38548,8 @@ Classes : ^777777Todos exceto Aprendiz^000000
 Defesa : ^7777770^000000
 Equipa em : ^777777Baixo^000000 
 Peso : ^7777775^000000
-Nível Necessário : ^7777771^000000Classes :  ^777777Todas^000000
+Nível Necessário : ^7777771^000000
+Classes :  ^777777Todas^000000
 #
 
 12829#
@@ -40456,27 +40459,27 @@ Peso: ^7777770^000000
 #
 6418#
 Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
-^FF0000Não pode ser trocada entre contas^000000
+^FF0000Não pode ser trocada entre contas nem colocada no armazém^000000
 Peso: ^7777770^000000
 #
 6419#
 Moeda brilhante de alto nível. Há a possibilidade de encantar uma arma de luxo.
-^FF0000Não pode ser trocada entre contas^000000
+^FF0000Não pode ser trocada entre contas nem colocada no armazém^000000
 Peso: ^7777770^000000
 #
 6420#
 Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
-^FF0000Não pode ser trocada entre contas^000000
+^FF0000Não pode ser trocada entre contas nem colocada no armazém^000000
 Peso: ^7777770^000000
 #
 6421#
 Moeda geral normal. Há a possibilidade de encantar uma arma de nível médio.
-^FF0000Não pode ser trocada entre contas^000000
+^FF0000Não pode ser trocada entre contas nem colocada no armazém^000000
 Peso: ^7777770^000000
 #
 6422#
 Moeda de baixíssimo nível. Se você recolher várias delas, elas poderão ser usadas como refinamento de armas.
-^FF0000Não pode ser trocada entre contas^000000
+^FF0000Não pode ser trocada entre contas nem colocada no armazém^000000
 Peso: ^7777770^000000
 #
 6423#
@@ -41716,5 +41719,298 @@ Um Fruto de Yggdrasil que ainda não amadureceu. Algumas pessoas gostam do sabor 
 Peso : ^77777720^000000
 #
 
+
+//------------------Q3 - 2013 Items---------------------------------
+
+2959#
+A dog pendant necklace represents connection with the master.
+AGI + 2.
+Decrease 3% damage from animal type monsters.
+Class : ^777777Accessory^000000 Def : ^7777770^000000
+Weight : ^77777730^000000
+Required LV : ^77777750^000000
+Job : ^777777All^000000
+#
+
+18754#
+Cursed mask inspired by creepy vampire fang. Drains life it will.
+Drains 5% HP out of the damage given to the enemy.
+Disables autorecovery for HP and SP.
+Cannot be refined nor destroyed
+Class : ^777777Helm^000000 Def : ^7777770^000000
+Location : ^777777Lower ^000000
+Weight : ^77777730^000000
+Required LV : ^77777740^000000
+Job : ^777777All^000000
+#
+
+18756#
+Inspired by traditional asian hunting dog. Very royal to its master with solid wariness.
+ATK + 30.
+Extra 10% damage when attacking animal type monsters.
+Equipping with Fidelity Necklace item, certain chance of shape shiting to 'Atroce' when getting or doing physical attack. Drains 5 SP per seconds.
+Shape shifting chance goes up based on the refine rate of this item.
+Class : ^777777Helm^000000 
+Def : ^7777776^000000
+Location : ^777777Upper ^000000
+Weight : ^77777740^000000
+Required LV : ^77777750^000000
+Job : ^777777All^000000
+#
+
+18832#
+A celebration hat for the sworn of 666th Gigue family grand master.
+Certain chance of activating 2 LV Adrenalin Rush skill when performing physical attacks.
+2 LV Adrenalin Rush skill activation chance goes up when playing with Cute pet, Baphomet junior.
+Extra 2 LV Adrenalin Rush skill activation chance goes up when friendly rate is "best friend".
+Class : ^777777Helm^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^77777730^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+19589#
+A beatiful helm shaped as a rising angel's wing.
+Wearing this item makes you feel little bit dizzy, but soon it will fresh you up.
+Class : ^777777Costume ^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+19607#
+The power of love made change to this chick.
+Need delicate care.
+Class : ^777777Costume^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+19649#
+A white kitten looking cute hairlace.
+Class : ^777777Costume^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+19661#
+Sweet bonnet
+Class : ^777777Costume^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+19685#
+What a pretty Poring shape hat with bling bling santa hat on.
+Class : ^777777Costume^000000 
+Def : ^7777770^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required LV : ^7777771^000000
+Job : ^777777All^000000
+#
+
+2190#
+A shield made in honor of the fallen warrior of Asgard.
+MHP + 500, MSP + 50
+Increases resistance from all properties by 10%
+If refined to 14 and above, enables use of Stone Curse Level 5
+Type : ^777777Shield^000000 
+Defense : ^7777775^000000
+Weight : ^77777720^000000
+Required Level : ^777777130^000000
+Job : ^7777773rd Job Classes Only^000000
+#
+
+18885#
+A colorful headgear for JeJemon. It created a massive trend locally during 2010-2011 era.
+INT + 3, STR + 2
+Increase resistance against human type monsters by 11%
+Increase the healing effect of Mastela Fruit by 70% 
+Type : ^777777Headgear^000000 
+Defense : ^7777778^000000
+Location : ^777777Upper ^000000
+Weight : ^77777710^000000
+Required Level : ^77777770^000000
+Job : ^777777All Jobs^000000
+#
+
+18887#
+A hairband that attracts individuals.
+You can wear it when you want to look sexy.
+Sexiness increases by 100%
+VIT + 3, MDEF + 5, MATK + 2%
+If refined to 9, MDEF + 5 and MATK 4%
+If refined to 12, reduce fix casting time by 10%
+Type : ^777777Headgear^000000 
+Defense : ^7777772^000000
+Location : ^777777Upper ^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+18888#
+A hairband that attracts individuals.
+You can wear it when you want to look sexy.
+Sexiness increases by 100%
+INT +5  LUK + 5 ATK +2%  MATK + 5%
+If refined to 9,  increase ATK and MATK by 4%
+If refined to 12, reduce fix casting time by 10%
+Type : ^777777Headgear^000000 
+Defense : ^7777772^000000
+Location : ^777777Upper ^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+18889#
+A hairband that attracts individuals.
+You can wear it when you want to look sexy.
+Sexiness increases by 100%
+AGI + 5, LUK + 5, ATK + 5%
+If refined to 9, increase ATK and MATK by 5%
+If refined to 12, reduce fix casting time by 10%
+Type : ^777777Headgear^000000 
+Defense : ^7777772^000000
+Location : ^777777Upper ^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+18890#
+A hairband that attracts individuals.
+You can wear it when you want to look sexy.
+Sexiness increases by 100%
+INT + 5,  LUK + 5, ATK + 2%,  MATK + 5%
+If refined to 9,  ATK  and MATK increase 4%.
+If refined to 12, decrease stat casting time 10%
+Type : ^777777Headgear^000000 
+Defense : ^7777772^000000
+Location : ^777777Upper ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+18891#
+A hat made to look like a husky's face. Makes you want to pet it.
+ATK + 5%, MATK +5%
+When physically attacked, adds 1% chance to cast Wind Walk Level 5
+For every refine, increases chance to cast Wind Walk by 0.3% 
+^FF0000Winner of pRO's Headgear-making contest 2012
+Created by Cyber Pikachu of pRO Valkyrie Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Upper ^000000
+Weight : ^77777750^000000
+Required Level : ^77777770^000000
+Job : ^777777All Jobs^000000
+#
+
+18892#
+I come in peace! Take me to your leader, Poring!!!
+MDEF, CRI FLEE, HIT, and Perfect Dodge + 5
+if refined to 7, reduce cast time by 5%
+if refined to 9, skill delay reduce by 5% , ASPD + 5%
+^FF0000Winner of pRO's Headgear-making contest 2012
+Created by Frans of pRO New Loki Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Upper ^000000
+Weight : ^777777100^000000
+Required Level : ^77777710^000000
+Job : ^777777All Jobs^000000
+#
+
+18893#
+I feel the power of a flame dragon flowing inside me!
+Increase resistance against Dragon and Demi-human by 8%
+Increases healing effect of Meat by 200%
+if refined to 12, increase MHP + 7%, MSP + 3%
+^FF0000Winner of pRO's Headgear-making contest 2012
+Created by bladetip of pRO Valkyrie Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Upper ^000000
+Weight : ^777777100^000000
+Required Level : ^77777710^000000
+Job : ^777777All Jobs^000000
+#
+
+18894#
+"Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. 
+There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell"
+Reduces damage from Demi-human by 5%
+^FF0000Concept by Clarissa Morgenstern of pRO New Chaos Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Mid ^000000
+Weight : ^77777750^000000
+Required Level : ^77777770^000000
+Job : ^777777All Jobs^000000
+#
+
+18895#
+"Come Fairies, take me out of this dull world, for I would ride with you upon 
+the wind and dance upon the mountains like a flame! - William Butler Yeats"
+Increases resistance from Fire Property by 8%
+^FF0000Concept by Chorvaqueen of pRO Valhalla Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Mid ^000000
+Weight : ^77777720^000000
+Required Level : ^77777750^000000
+Job : ^777777All Jobs^000000
+#
+
+18896#
+"No one ever approaches perfection except by stealth,
+and unknown to themselves. - William Hazzlit"
+Increases resistance from Fire Property by 8%
+^FF0000Concept by -*[FS]Evaine*- of pRO Valkyrie Server^000000
+Type : ^777777Headgear^000000 
+Defense : ^7777775^000000
+Location : ^777777Mid ^000000
+Weight : ^77777720^000000
+Required Level : ^77777750^000000
+Job : ^777777All Jobs^000000
+#
+
+18897#
+"Humans are like teabags. We don't know our true strength
+until we are in hot water! - Eleanor Roosevelt"
+Increases resistance from Water Property by 8%
+^FF0000Concept by -*[FS]Evaine*- of pRO Valkyrie Server^000000
+#
+
+18898#
+A gorgeous crown made with Trunk of Yggdrasil imbued with the power of
+Mother Nature to the heralds of Philippine Ragnarok Online.
+All Stat + 5, MHP + 100, MSP + 50
+If refined to 8 and above, adds 1% to MHP and reduces fix casting time by 1% for every refine level
+Type : ^777777Headgear^000000 
+Defense : ^7777776^000000
+Location : ^777777Upper ^000000
+Weight : ^77777720^000000
+Required Level : ^77777760^000000
+Job : ^777777All Jobs^000000
+#
+	
 
 //file end
