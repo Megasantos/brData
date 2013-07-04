@@ -20278,8 +20278,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até a manutenção do dia 25/06, então troque agora mesmo seu ticket!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 25/06. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até a manutenção do dia 10/07, então troque agora mesmo seu ticket!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 10/07. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -34350,8 +34350,6 @@ Equipa em :^777777Baixo ^000000
 Peso : ^7777770^000000
 Nível necessário :^7777771^000000 
 Profissões que utilizam : ^777777Todas^000000
-^000088Este é um item de Aluguel [A]. Quando o tempo de validade se esgotar, ele desaparecerá do seu inventário.^000000
-Validade: 1 semana
 #
 
 5365#
@@ -41007,19 +41005,12 @@ Classes que utilizam: ^777777Todas^000000
 #
 
 
-13081#
-Uma faca fina, que possui um cabo com empunhadura firme, perfeita para cortar frutos do mar. 
+13081#Uma faca fina, que possui um cabo com empunhadura firme, perfeita para cortar frutos do mar. 
 ^0000FFPrecisão +1 a cada refinamento.
-Se combinada com uma Carta Caranguejo, aumenta em 8% o dano contra o monstro Caranguejo.
-Se combinada com uma Carta Estrela-do-mar, aumenta em 8% o dano contra o monstro Estrela-do-mar.
-Se combinada com uma Carta Molusco, aumenta em 8% o dano contra o monstro Molusco.
+Se combinada com uma Carta Caranguejo, aumenta em 8% o dano contra o monstro Caranguejo.Se combinada com uma Carta Estrela-do-mar, aumenta em 8% o dano contra o monstro Estrela-do-mar.Se combinada com uma Carta Molusco, aumenta em 8% o dano contra o monstro Molusco.
 Se combinada com as Cartas Caranguejo, Estrela-do-mar e Molusco aumenta em 16% o dano contra os monstros Caranguejo, Estrela-do-mar e Molusco.^000000 
 Class : ^777777Adaga^000000 
-Ataque : ^777777140^000000
-Peso :^777777 70^000000
-Nível da Arma : ^7777774^000000
-Nível Necessário : ^777777105^000000
-Classes : ^7777773ª classe de Espadachins/Magos/Arqueiros/Mercadores/Gatunos, Espiritualistas e Ninjas^000000
+Ataque : ^777777140^000000Peso :^777777 70^000000Nível da Arma : ^7777774^000000Nível Necessário : ^777777105^000000Classes : ^7777773ª classe de Espadachins/Magos/Arqueiros/Mercadores/Gatunos, Espiritualistas e Ninjas^000000
 #
 
 

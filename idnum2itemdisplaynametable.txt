@@ -3399,8 +3399,7 @@
 5196#Lacinho_Laranja#
 5197#Lacinho_Branco#
 //7608#Ticket_do_Dia_das_Mães#
-//7608#Ticket de Promoção#
-7608#Ticket de Aniversário dos Chapéus#
+7608#Ticket de Promoção#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -4444,7 +4443,7 @@
 14254#Cx Anel do Ganhador[A]#
 5506#Touca de Pijama Azul#
 5507#Touca de Pijama Rosa#
-14255#Ci Anel do Devastador[A]#
+14255#Cx Anel do Devastador[A]#
 12188#Bolo Mágico Lunar#
 12190#Bolo Lunar#
 12191#Bolo Especial Lunar#
@@ -5138,7 +5137,7 @@
 5594#Rosquinha#
 
 //---- CASH Items April 2011 ----
-18505#Piercing de Umbala [A]#
+18505#Piercing de Umbala#
 5365#Chapéu de Magnólia#
 6228#Pergaminho de Arma +9#
 6229#Pergaminho de Arma +8#
