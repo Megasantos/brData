@@ -3,8 +3,7 @@
 Poção feita de ervas vermelhas. Recupera ^000088cerca de 45 HP^000000, dependendo da sua vitalidade. ^0000FFDê um clique duplo neste item para recuperar uma quantia de HP.^000000
 Peso: ^7777777^000000
 #
-502#
-Poção feita de ervas vermelhas e amarelas. Recupera ^000088cerca de 105 HP^000000, dependendo da sua vitalidade.
+502#Poção feita de ervas vermelhas e amarelas. Recupera ^000088cerca de 105 HP^000000, dependendo da sua vitalidade.
 Peso: ^77777710^000000
 #
 503#
@@ -5365,7 +5364,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 2614#
 Esse tesouro único pode Neutralizar todos os tipos de veneno do mundo.
-^FF0000Torna o personagem imune ao elemento Veneno.^000000
+^FF0000Torna o personagem imune ao status Veneno.^000000
 Classe: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
@@ -41774,14 +41773,13 @@ Job : ^777777All^000000
 #
 
 19607#
-The power of love made change to this chick.
-Need delicate care.
-Class : ^777777Costume^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Dizem que quando um filhote de fênix resolve se alojar em sua cabeça é sinal que você sempre voltará da morte. É o caso, por exemplo, do famoso cavaleiro Irk de Fênix, famoso por sempre reaparecer no ponto de retorno. Dizem que quando seu irmão caçula, Chun de Andrômeda, foi sorteado para ser treinado por Hela, a Rainha da Morte, em Niflheim, Irk acabou indo em seu lugar. Lá, ele se apaixonou pela jovem Chuna de Esmeralda, que estranhamente parecia muito seu irmão. Não se sabe os detalhes, mas ao voltar do treinamento, Irk havia se transformado num cavaleiro frio e sem coração, exceto quando corria para salvar seu irmão ou para cuidar do filhote de fênix em sua cabeça.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
 #
 
 19649#
