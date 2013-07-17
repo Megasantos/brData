@@ -1,4 +1,4 @@
-
+5226
 501#
 Poção feita de ervas vermelhas. Recupera ^000088cerca de 45 HP^000000, dependendo da sua vitalidade. ^0000FFDê um clique duplo neste item para recuperar uma quantia de HP.^000000
 Peso: ^7777777^000000
@@ -10569,7 +10569,7 @@ Peso: ^77777730^000000
 7227#
 Um passe que permite o acesso a um dos calabouços de Cheffênia apenas uma vez. Após sua utilização, este passe será consumido. Pode ser utilizado nos NPCs em: Prontera (168, 125), Geffen (124, 169), Payon (165, 150), Morroc (142, 100), Lighthalzen (203, 140) ou Rachel (132, 144).
 ^ffffff_^000000
-^FF0000ATENÇÃO! O evento Cheffênia será encerrado dia 18/12/12. O passe perderá a validade após esta data.^000000
+^FF0000ATENÇÃO! O evento Cheffênia será encerrado na manutenção do dia 30/07/13. O passe perderá a validade após esta data.^000000
 ^FF0000Este item não pode ser negociado, derrubado no chão ou colocado no carrinho, mas pode ser transferido para o armazém.^000000
 Peso: ^7777771^000000
 #
@@ -34211,7 +34211,7 @@ Comida: ^777777Bala^000000
 Uma longa cauda felina, toda preta. Com um belo laço vermelho.
 Velocidade de Ataque +3%, Taxa de Crítico +7.
 Se equipado junto com "Orelhas Felinas", concede +10% de dano com ataques críticos.
-Se as "Orelhas Felinas" estiverem refinadas em +7 ou mais, adiciona Crítico +5.
+Se as "Orelhas Felinas" estiverem refinadas em +6 ou mais, adiciona Crítico +5.
 O bônus com a utilização das 'Orelhas Felinas' funciona apenas com um acessório 'Rabo de Gato Preto'.
 Tipo: ^777777Acessório^000000 
 Defesa: ^7777770^000000
