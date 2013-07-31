@@ -6156,6 +6156,6 @@
 18897#Acessório#
 18898#Equipamento para Cabeça#
 
-
+12582#Cx Suprimentos do Cerco#
 
 //file end

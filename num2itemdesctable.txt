@@ -28415,6 +28415,9 @@ Peso : ^7777771^000000
 18897#Item desconhecido que pode ser identificado pela [Lupa]#
 18898#Item desconhecido que pode ser identificado pela [Lupa]#
 
-
+12582#
+Uma caixa contendo suprimentos da Guerra do Emperium
+Peso: ^77777710^000000
+#
 
 //file end

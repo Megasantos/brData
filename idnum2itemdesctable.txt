@@ -1,4 +1,4 @@
-5226
+
 501#
 Poção feita de ervas vermelhas. Recupera ^000088cerca de 45 HP^000000, dependendo da sua vitalidade. ^0000FFDê um clique duplo neste item para recuperar uma quantia de HP.^000000
 Peso: ^7777777^000000
@@ -10821,8 +10821,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Alho Poró, Laranja Fresca, Salgadinho de Queijo.
-Esta promoção está disponível apenas até a manutenção do dia 02/07/2013.
+Troque-o pelos seguintes itens: Chapéu de Husky [1], Piercing de Umbala e Caixa do Anel do Ganhador[A].
+Esta promoção está disponível apenas até a manutenção do dia 05/08/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -22486,7 +22486,8 @@ Um ovo contendo um Diabolik de estimação. Pode ser chocado usando uma ^0000FFInc
 Tipo: ^777777Ovo de Bichinho^000000
 #
 9037#
-Um ovo contendo um Andarilho de estimação. Pode ser chocado usando uma [Pet Incubator]
+Um ovo contendo um Andarilho de estimação. Pode ser chocado usando uma Incubadora.
+Aumenta AGI +3 e diminui DEX -1 quando com lealdade alta
 Tipo: ^777777Ovo de Bichinho^000000
 #
 13815#
@@ -30989,6 +30990,7 @@ Peso: ^7777771^000000
 #
 9049#
 Ovo contendo um Dullahan de estimação. Deve ser chocado por uma Incubadora.
+Aumenta o Ataque Crítico em 5% quando com lealdade alta
 Classe: ^777777Ovo de Bichinho^000000
 Peso: ^7777770^000000
 #
@@ -41762,14 +41764,14 @@ Job : ^777777All^000000
 #
 
 19589#
-A beatiful helm shaped as a rising angel's wing.
-Wearing this item makes you feel little bit dizzy, but soon it will fresh you up.
-Class : ^777777Costume ^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Uma tiara que carrega as asas negras da valquíria caída, Randgris. Dizem que antes desta valquíria sucumbir à maldição da Ilha de Odin, a tiara possuía asas brancas. Mais inexplicável ainda é o fato de que suas asas ganharam vida quando você as colocou em sua cabeça. Agora você sente como se fosse capaz de enxergar quando o espectro da morte está ameaçando outras pessoas.
+
+Tipo : ^777777Visual ^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classe : ^777777Todas^000000
 #
 
 19607#
@@ -41898,18 +41900,16 @@ Job : ^777777All Jobs^000000
 #
 
 18891#
-A hat made to look like a husky's face. Makes you want to pet it.
-ATK + 5%, MATK +5%
-When physically attacked, adds 1% chance to cast Wind Walk Level 5
-For every refine, increases chance to cast Wind Walk by 0.3% 
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by Cyber Pikachu of pRO Valkyrie Server^000000
-Type : ^777777Headgear^000000 
-Defense : ^7777775^000000
-Location : ^777777Upper ^000000
-Weight : ^77777750^000000
-Required Level : ^77777770^000000
-Job : ^777777All Jobs^000000
+Esse é um chapéu no formato de um simpático husky, que parece estar mordendo sua cabeça. É tão fofinho que dá vontade de fazer carinho nele. Você conseguiu esse chapéu quando compareceu no Anima os Friends, uma grande e animada feira que acontece em Prontera em homenagem à cultura e arte de Amatsu, unindo assim a cultura de ambos os povos.
+Quando for atacado fisicamente, chance de 1% de conjurar a habilidade “Caminho dos Ventos” em nível 5. Para cada nível de aprimoramento, aumenta a chance de conjuração em 0,3%.
+
+Tipo: ^777777Equipamento para Cabeça ^000000 
+Defesa: ^7777775^000000 
+Equipa em: ^777777Topo ^000000 
+Peso: ^77777750^000000 
+Nível Necessário: ^77777770^000000 
+Classes: ^777777Todas^000000 
+
 #
 
 18892#
@@ -42000,6 +42000,12 @@ Weight : ^77777720^000000
 Required Level : ^77777760^000000
 Job : ^777777All Jobs^000000
 #
-	
+
+
+12582#
+Uma caixa contendo suprimentos da Guerra do Emperium
+Peso: ^77777710^000000
+#
+
 
 //file end

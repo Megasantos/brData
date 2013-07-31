@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote de Petiscos#
+7550#Pacote Canino#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -6138,7 +6138,7 @@
 18754#Blood_Sucker#
 18756#Black_Shiba_Inu_Hat#
 18832#Rolf_Von_Gigue_the666th#
-19589#Fallen_Angel's_beloning#
+19589#Tiara de Randgris#
 19607#Filhote de Fênix#
 19649#White_Kitten_Ears#
 19661#Sweet_Bonnet#
@@ -6149,7 +6149,7 @@
 18888#Maroon_Bunny_Band#
 18889#Golden_Bunny_Band#
 18890#Gray_Bunny_Band#
-18891#Husky_Hat#
+18891#Chapéu de Husky#
 18892#Ufo_Poring_Hat#
 18893#Dragon_Claw_Helm#
 18894#Rainbow_Star#
@@ -6158,7 +6158,7 @@
 18897#Azure_Diadem#
 18898#Yggdrasil_Herald_Crown#
 
-
+12582#Cx Suprimentos do Cerco#
 
 
 //file end
