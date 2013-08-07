@@ -6143,7 +6143,7 @@
 19649#White_Kitten_Ears#
 19661#Sweet_Bonnet#
 19685#Shiny_Santa_Poring_Hat#
-2190#Ancient_Shield_Of_Aeon#
+2190#Escudo do Dragão#
 18885#Jejecap#
 18887#Aqua_Bunny_Band#
 18888#Maroon_Bunny_Band#

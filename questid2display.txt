@@ -4844,7 +4844,7 @@ Derrote 30 Munaks do calabouço de Payon.#
 Colete 40 Flores de Planta Carnívora do sul de Comodo.#
 #
 3263#Pedidos!#SG_FEEL#QUE_NOIMAGE#
-Colete 30 Chifres de Dokebi e Toras da caverna de Payon.#
+Colete 30 Chifres de Dokebi e 30 Troncos da caverna de Payon.#
 #
 
 

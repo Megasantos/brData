@@ -10822,7 +10822,7 @@ Peso: ^7777771^000000
 #
 7550#
 Troque-o pelos seguintes itens: Chapéu de Husky [1], Piercing de Umbala e Caixa do Anel do Ganhador[A].
-Esta promoção está disponível apenas até a manutenção do dia 05/08/2013.
+Esta promoção está disponível apenas até a manutenção do dia 06/08/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -20277,8 +20277,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até a manutenção do dia 10/07, então troque agora mesmo seu ticket!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 10/07. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 12/08, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 13/08. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -34854,9 +34854,9 @@ Classes que utilizam:  ^777777Todas^000000
 
 18542#
 Uma coroa idêntica à usada pela jovem Papisa de Rachel durante cerimônias de celebração à Freya. Você é capaz de sentir a força da deusa melhorando suas habilidades de cura ao usar este artefato.
-Aumenta em 5% a efetividade das habilidades Curar, Santuário, Arremessar Poção, Curatio e Sopro Divino enquanto estiver equipado.
+Aumenta em 5% a efetividade das habilidades Curar, Santuário, Arremessar Poção, Curatio e Sopro Divino no usuário enquanto estiver equipado.
 O efeito aumenta sua efetividade em 2% para quem receber alguma dessas habilidades descritas.
-Caso o refinamento seja maior que 6, a efetividade aumentará para 3%.
+Caso o refinamento seja maior que 6, a efetividade aumentará em 3%.
 Ao utilizar o Cajado Restaurador, a recuperação de HP pelo efeito das habilidades descritas aumentará em 1% por level de refino do cajado.
 Ao utilizar a Vara Sagrada, a recuperação de HP pelo efeito das habilidades descritas aumentará em 3% por level de refino da vara.
 Tipo: ^777777Equipamento para a Cabeça^000000    
@@ -41815,15 +41815,15 @@ Job : ^777777All^000000
 #
 
 2190#
-A shield made in honor of the fallen warrior of Asgard.
-MHP + 500, MSP + 50
-Increases resistance from all properties by 10%
-If refined to 14 and above, enables use of Stone Curse Level 5
-Type : ^777777Shield^000000 
-Defense : ^7777775^000000
-Weight : ^77777720^000000
-Required Level : ^777777130^000000
-Job : ^7777773rd Job Classes Only^000000
+Esse escudo passou 200 anos sendo banhado pela cachoeira nas raízes da Yggdrasil. Por isso foi classificado pelo Ancião Mestre como um dos escudos mais resistentes de Rune-Midgard, dono da defesa perfeita.
+HP Máx + 500, SP Máx + 50
+Aumenta a resistência contra todas as propriedades em 10%
+Se o nível de refinamento for 14 ou mais, habilita o uso da habilidade Petrificar nível 5.
+Tipo : ^777777Escudo^000000 
+Defesa : ^7777775^000000
+Peso : ^77777720^000000
+Nível Necessário : ^777777130^000000
+Classe : ^777777Somente 3ª Classe^000000
 #
 
 18885#
@@ -41901,7 +41901,7 @@ Job : ^777777All Jobs^000000
 
 18891#
 Esse é um chapéu no formato de um simpático husky, que parece estar mordendo sua cabeça. É tão fofinho que dá vontade de fazer carinho nele. Você conseguiu esse chapéu quando compareceu no Anima os Friends, uma grande e animada feira que acontece em Prontera em homenagem à cultura e arte de Amatsu, unindo assim a cultura de ambos os povos.
-Quando for atacado fisicamente, chance de 1% de conjurar a habilidade “Caminho dos Ventos” em nível 5. Para cada nível de aprimoramento, aumenta a chance de conjuração em 0,3%.
+Quando atacar fisicamente, chance de 1% de conjurar a habilidade “Caminho dos Ventos” em nível 5. Para cada nível de aprimoramento, aumenta a chance de conjuração em 0,3%.
 
 Tipo: ^777777Equipamento para Cabeça ^000000 
 Defesa: ^7777775^000000 
