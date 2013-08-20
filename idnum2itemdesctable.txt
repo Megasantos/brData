@@ -10822,8 +10822,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Chapéu de Husky [1], Piercing de Umbala e Caixa do Anel do Ganhador[A].
-Esta promoção está disponível apenas até a manutenção do dia 06/08/2013.
+Troque-o pelos seguintes itens: 01 Chapéu do Bafomé Jr., 10 Livros do Diabo e 10 Mel..
+Esta promoção está disponível apenas até a manutenção do dia 27/08/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -41752,16 +41752,14 @@ Job : ^777777All^000000
 #
 
 18832#
-A celebration hat for the sworn of 666th Gigue family grand master.
-Certain chance of activating 2 LV Adrenalin Rush skill when performing physical attacks.
-2 LV Adrenalin Rush skill activation chance goes up when playing with Cute pet, Baphomet junior.
-Extra 2 LV Adrenalin Rush skill activation chance goes up when friendly rate is "best friend".
-Class : ^777777Helm^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^77777730^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Para alguns, este é apenas um adorável chapéu feito em homenagem ao filhote de um dos MVPs mais famosos de Rune-Midgard. Contudo, você sabe a verdade. Você fez um pacto com este pequeno Bafomé Jr. para que ele ficasse selado para sempre nesta forma pequenina e em troca você o levaria para conhecer o mundo. Agora que ele está emprestando seu poder para você, resta saber se será capaz de cuidar do bafinho, antes que o pai dele venha cuidar de você!
+Chance de conjurar a habilidade Adrenalina Pura nível 2 sempre que atacar fisicamente.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777All^000000
 #
 
 19589#
