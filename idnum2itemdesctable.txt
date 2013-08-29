@@ -41726,15 +41726,15 @@ Job : ^777777All^000000
 #
 
 18754#
-Cursed mask inspired by creepy vampire fang. Drains life it will.
-Drains 5% HP out of the damage given to the enemy.
-Disables autorecovery for HP and SP.
-Cannot be refined nor destroyed
-Class : ^777777Helm^000000 Def : ^7777770^000000
-Location : ^777777Lower ^000000
-Weight : ^77777730^000000
-Required LV : ^77777740^000000
-Job : ^777777All^000000
+Brilhar como purpurina é para os fracos! Inspirados nos verdadeiros vampiros, como o Drácula dos calabouços de Geffen , os cultistas do Imperador Morroc criaram esta terrível máscara amaldiçoada. Com ela, você pode recuperar sua energia vital sugando a dos seus inimigos. Só tome cuidado se você tiver mania de roer suas unhas!
+Chance de converter 5% do valor do dano causado no inimigo em HP.
+Desabilita a recuperação de HP e SP.
+Não pode ser refinado nem destruído.
+Tipo : ^777777Equipamento para cabeça^000000 Defesa : ^7777770^000000
+Equipa em : ^777777Baixo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777740^000000
+Classes : ^777777Todas^000000
 #
 
 18756#
@@ -41759,7 +41759,7 @@ Defesa : ^7777770^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^7777771^000000
-Classes : ^777777All^000000
+Classes : ^777777Todas^000000
 #
 
 19589#
@@ -41794,13 +41794,13 @@ Job : ^777777All^000000
 #
 
 19661#
-Sweet bonnet
-Class : ^777777Costume^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Uma cartola feita de camadas de creme recheado com morango e com cobertura de chocolate. Espere um pouco... Isso é realmente um projeto visual de algum estilista, ou é um sorvete napolitano? De toda forma, é um visual perfeito para você viver deliciosas aventuras!
+Tipo: ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
 #
 
 19685#
@@ -41901,7 +41901,6 @@ Job : ^777777All Jobs^000000
 18891#
 Esse é um chapéu no formato de um simpático husky, que parece estar mordendo sua cabeça. É tão fofinho que dá vontade de fazer carinho nele. Você conseguiu esse chapéu quando compareceu no Anima os Friends, uma grande e animada feira que acontece em Prontera em homenagem à cultura e arte de Amatsu, unindo assim a cultura de ambos os povos.
 Quando atacar fisicamente, chance de 1% de conjurar a habilidade “Caminho dos Ventos” em nível 5. Para cada nível de aprimoramento, aumenta a chance de conjuração em 0,3%.
-
 Tipo: ^777777Equipamento para Cabeça ^000000 
 Defesa: ^7777775^000000 
 Equipa em: ^777777Topo ^000000 

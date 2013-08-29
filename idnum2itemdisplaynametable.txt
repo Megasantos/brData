@@ -6135,13 +6135,13 @@
 //------------------Q3 - 2013 Items---------------------------------
 
 2959#Fidelity_Necklace#
-18754#Blood_Sucker#
+18754#Presas Vampíricas#
 18756#Black_Shiba_Inu_Hat#
 18832#Chapéu de Bafomé Jr.#
 19589#Tiara de Randgris#
 19607#Filhote de Fênix#
 19649#White_Kitten_Ears#
-19661#Sweet_Bonnet#
+19661#Cartola Adocicada#
 19685#Shiny_Santa_Poring_Hat#
 2190#Escudo do Dragão#
 18885#Jejecap#
