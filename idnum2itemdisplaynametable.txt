@@ -5158,8 +5158,8 @@
 5656#Capacete de Pecocross#
 5674#Cofrinho de Porco#
 6439#Mega-Elunium#
-16755#Caixa de Mega-Elunium#
-16756#Caixa de Mega-Elunium#
+16755#Cx Mega-Elunium#
+16756#Cx Mega-Elunium#
 6438#Omni-Oridecon#
 16753#Cx Omni-Oridecon#
 16754#Cx Omni-Oridecon#
@@ -6150,7 +6150,7 @@
 18889#Golden_Bunny_Band#
 18890#Gray_Bunny_Band#
 18891#Chapéu de Husky#
-18892#Ufo_Poring_Hat#
+18892#Chapéu de UFOring#
 18893#Dragon_Claw_Helm#
 18894#Rainbow_Star#
 18895#Celestial_Dark_Flame#

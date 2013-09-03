@@ -20278,8 +20278,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 12/08, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 13/08. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 09/09, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 10/09. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -41911,18 +41911,16 @@ Classes: ^777777Todas^000000
 #
 
 18892#
-I come in peace! Take me to your leader, Poring!!!
-MDEF, CRI FLEE, HIT, and Perfect Dodge + 5
-if refined to 7, reduce cast time by 5%
-if refined to 9, skill delay reduce by 5% , ASPD + 5%
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by Frans of pRO New Loki Server^000000
-Type : ^777777Headgear^000000 
-Defense : ^7777775^000000
-Location : ^777777Upper ^000000
-Weight : ^777777100^000000
-Required Level : ^77777710^000000
-Job : ^777777All Jobs^000000
+Você fez um encontro imediato de 3º grau com esse estranho Poring quando ele tentava ligar essa máquina oval. Agora ele resolveu equilibrar este disco em cima da sua cabeça, e parece estar contente em “voar” por aí acendendo luzinhas enquanto você corre de um lado para o outro. O mais surpreendente é que este Poring é capaz de falar algumas palavras e fica repetindo o tempo todo: “Poring... Chamado Urgente... Minha casa!”
+DEFM, Crítico, Precisão, Esquiva e Esquiva perfeita + 5
+Caso refinado em +7, reduz o tempo de conjuração em 5%
+Caso refinado em +7, o tempo de uso entre habilidades será reduzido em 5%,  Velocidade de Ataque + 5%
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^777777100^000000
+Nível Necessário : ^77777710^000000
+Classes: ^777777Todas as Classes^000000
 #
 
 18893#
