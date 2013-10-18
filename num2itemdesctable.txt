@@ -28420,4 +28420,70 @@ Uma caixa contendo suprimentos da Guerra do Emperium
 Peso: ^77777710^000000
 #
 
+11550#
+Um bolo feito de abóbora pura, adoçado pela própria natureza.
+^000088Recupera 5% de HP e SP 
+^ffffff_^000000
+Peso: ^7777774^000000
+#
+
+22669#
+Uma caixa que parece estar viva, como se tivesse uma alma em seu interior.
+Peso : ^77777720^000000
+#
+
+22670#
+Um convite do submundo.
+Ao descartar esse convite, você pode ser sufocado, ficar cego, ter um ataque cardíaco ou ser transportado para Nifflheim.
+Peso : ^7777771^000000
+#
+
+19917#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19918#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+6804#
+Honestamente é difícil identificar as diferenças entre as orgânicas e inorgânicas.
+Apenas os adesivos "inorgânicos" garantem tudo.
+Peso : ^7777771^000000
+#
+
+6805#
+Honestamente é difícil identificar as diferenças entre as orgânicas e inorgânicas, mas as pessoas tratam isso como uma abóbora comum.
+"inorgânicos" não costumam nem ter adesivos com identificação.
+Peso : ^7777771^000000
+#
+
+19919#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19920#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19903#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+
+12534#
+Uma caixa que contém 30 Sementes de Yggdrasil. Cuidado ao abrir. 
+Peso: 0 
+Cuidado - o conteúdo dessa caixa pode se perder caso você não tenha espaço no seu inventário.
+#
+
+18957#Item desconhecido que pode ser identificado pela [Lupa]#
+
+13999#Uma caixa contendo 100 Balas Amargas.
+-
+^ff0000Recupera todo o SP do usuário.^000000
+-
+Peso : ^7777771^000000
+#
+
 //file end

@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote do Bafomé Jr.#
+7550#Pacote do Atroce#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -6134,13 +6134,13 @@
 
 //------------------Q3 - 2013 Items---------------------------------
 
-2959#Fidelity_Necklace#
+2959#Coleira da Fidelidade#
 18754#Presas Vampíricas#
-18756#Black_Shiba_Inu_Hat#
+18756#Chapéu de Shiba Inu Preto#
 18832#Chapéu de Bafomé Jr.#
 19589#Tiara de Randgris#
 19607#Filhote de Fênix#
-19649#White_Kitten_Ears#
+19649#Orelhas Brancas de Gatinho#
 19661#Cartola Adocicada#
 19685#Shiny_Santa_Poring_Hat#
 2190#Escudo do Dragão#
@@ -6151,14 +6151,31 @@
 18890#Gray_Bunny_Band#
 18891#Chapéu de Husky#
 18892#Chapéu de UFOring#
-18893#Dragon_Claw_Helm#
+18893#Elmo Garra de Dragão#
 18894#Rainbow_Star#
-18895#Celestial_Dark_Flame#
+18895#Asas de Tapaton#
 18896#Pterios_Fins#
 18897#Azure_Diadem#
-18898#Yggdrasil_Herald_Crown#
+18898#Coroa do Escolhido#
+
 
 12582#Cx Suprimentos do Cerco#
+
+12534#Cx Sementes Yggdrasil#
+
+18957#Boina do 9º Aniversário#
+
+13999#Cx Bala Amarga [100]#
+11550#Bolo de Abóbora#
+22669#Caixa do Halloween#
+22670#Convite Sombrio#
+19917#Chapéu de Abóbora Iluminado#
+19918#Máscara de Lude#
+6804#Abóbora Orgânica#
+6805#Abóbora Inorgânica#
+19919#Máscara de Quve#
+19920#Máscara de Sussurro Assustador#
+19903#Chapéu de Bruxa Maligna#
 
 
 //file end

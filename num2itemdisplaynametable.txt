@@ -6155,7 +6155,22 @@
 18896#Acessório#
 18897#Acessório#
 18898#Equipamento para Cabeça#
+11550#Bolo de Abóbora#
+22669#Caixa de Halloween#
+22670#Convite Sombrio#
+19917#Chapéu#
+19918#Máscara#
+6804#Abóbora Orgânica#
+6805#Abóbora Inorgânica#
+19919#Máscara#
+19920#Máscara#
+19903#Chapéu#
 
 12582#Cx Suprimentos do Cerco#
 
+12534#Cx Sementes Yggdrasil#
+
+18957#Equipamento para Cabeça#
+
+13999#Cx Bala Amarga [100]#
 //file end

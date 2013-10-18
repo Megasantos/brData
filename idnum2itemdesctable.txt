@@ -7460,7 +7460,7 @@ Peso: ^7777770^000000
 9019#
 Ovo contendo um Dokebi de estimação.
 Deve ser chocado por uma Incubadora.
-Com lealdade normal/alta: ^0000ffATQM -1%, ATQ +1%.^000000
+Com lealdade normal/alta: ^0000ffATQM +1%, ATQ -1%.^000000
 Classe: ^777777Ovo de Bichinho^000000
 Peso: ^7777770^000000
 #
@@ -10822,8 +10822,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: 01 Chapéu do Bafomé Jr., 10 Livros do Diabo e 10 Mel..
-Esta promoção está disponível apenas até a manutenção do dia 27/08/2013.
+Troque-o pelos seguintes itens: 01 Coleira da Fidelidade [1] e 01 Chapéu de Shiba Inu Preto [1] .
+Esta promoção está disponível apenas até o dia 30/09/2013.
 ^ff0000Este ticket pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -13917,7 +13917,7 @@ Classes que utilizam: ^777777Aprendiz^000000
 
 // --------- Novos elmos -----------
 5107#
-Um elmo nobre criado à orgulhosa imagem de uma crocante torrada. Usá-lo faz com que você se sinta como parte de um café da manhã balanceado.
+Um item nobre criado à orgulhosa imagem de uma crocante torrada. Usá-lo faz com que você se sinta como parte de um café da manhã balanceado.
 Tipo: ^777777Equipamento para a cabeça^000000	
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000	
@@ -20278,8 +20278,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 09/09, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 10/09. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 14/10, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 15/10. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -20698,7 +20698,7 @@ ATQ + 5
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^77777710^000000
-Nível necessário: ^77777760^000000
+Nível necessário: ^7777771^000000
 Classes que utilizam: ^777777Todas^000000
 #
 5362#
@@ -27542,7 +27542,7 @@ Classes que utilizam: ^777777Todas^000000
 
 //----Special dungeons----
 7711#
-Ticket promocional que permite a entrada nos ^0000ffMapas Especiais^000000 somente para personagens com nível de base maior que 80. Para acessá-los, fale com o NPC Kolthar localizado em Prontera (162, 326). Este ticket desaparecerá durante a manutenção de 09/01/2013. Aproveite e divirta-se!
+Ticket promocional que permite a entrada nos ^0000ffMapas Especiais^000000 somente para personagens com nível de base maior que 80. Para acessá-los, fale com o NPC Kolthar localizado em Prontera (162, 326). Este ticket desaparecerá durante a manutenção de 01/10/2013. Aproveite e divirta-se!
 ^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
 Peso: ^7777770^000000
 #
@@ -34775,7 +34775,7 @@ A coroa que apenas a pessoa que recebe a honra tribal pode usar.
 Reduz em 5% o dano de monstros do tipo planta.  Aumenta em 5% o dano em monstros do tipo planta. 
 Tipo: ^777777Equipamento para a Cabeça^000000
 Defesa: ^7777771^000000
-Equipa em: ^777777Superior ^000000
+Equipa em: ^777777Topo ^000000
 Peso: ^77777710^000000
 Nível Necessário : ^7777771^000000
 Classes que utilizam:  ^777777Todas^000000
@@ -36940,11 +36940,11 @@ Nível Necessário : ^77777730^000000
 Classe : ^777777Todas^000000
 
 4808#
-ATQ + 15, Acerto + 5.
+ATQ + 15, Precisão + 5.
 #
 
 4820#
-ATQ + 18, Acerto + 5.
+ATQ + 18, Precisão + 5.
 #
 
 4835#
@@ -36956,11 +36956,11 @@ ATQ em Longas Distâncias + 10%
 #
 
 4843#
-ATQ Crítico + 14, Acerto + 5.
+ATQ Crítico + 14, Precisão + 5.
 #
 
 4844#
-ATQ Crítico + 15, Acerto + 6.
+ATQ Crítico + 15, Precisão + 6.
 #
 
 4812#
@@ -38019,7 +38019,7 @@ Classe : ^777777Todas exceto Aprendiz^000000
 Um belo anel feito pelos Manuks usando minérios extraídos da Yggdrasil, o Freixo do Mundo. É possível sentir a energia vital da Árvore da Vida quando equipado, como se ela estivesse fortalecendo o seu corpo e correndo por suas veias.
 VIT + 1, HP Máximo + 250, HP Máximo + 10%.
 Aumenta em 5% a recuperação por itens de cura
-Tipo : ^777777Accessório^000000
+Tipo : ^777777Acessório^000000
 Defesa : ^7777775^000000
 Peso : ^77777710^000000
 Classes que utilizam: ^777777Todas^000000
@@ -41716,13 +41716,13 @@ Peso : ^77777720^000000
 //------------------Q3 - 2013 Items---------------------------------
 
 2959#
-A dog pendant necklace represents connection with the master.
-AGI + 2.
-Decrease 3% damage from animal type monsters.
-Class : ^777777Accessory^000000 Def : ^7777770^000000
-Weight : ^77777730^000000
-Required LV : ^77777750^000000
-Job : ^777777All^000000
+Você pode ler o nome Hachiko nesta coleira. De acordo com as lendas, essa coleira foi usada por um cão da raça Shiba Inu que pertenceu ao Atroce, antes dele se tornar um licantropo amaldiçoado, quando ainda era um guerreiro humano. Dizem que ainda existe um laço profundo ligando este item ao MVP. Será verdade? Você sente apenas uma forte sensação de lealdade ao segurar esta coleira. O que acontecerá se você usá-la?
+AGI +2.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Todas^000000
 #
 
 18754#
@@ -41738,17 +41738,15 @@ Classes : ^777777Todas^000000
 #
 
 18756#
-Inspired by traditional asian hunting dog. Very royal to its master with solid wariness.
-ATK + 30.
-Extra 10% damage when attacking animal type monsters.
-Equipping with Fidelity Necklace item, certain chance of shape shiting to 'Atroce' when getting or doing physical attack. Drains 5 SP per seconds.
-Shape shifting chance goes up based on the refine rate of this item.
-Class : ^777777Helm^000000 
-Def : ^7777776^000000
-Location : ^777777Upper ^000000
-Weight : ^77777740^000000
-Required LV : ^77777750^000000
-Job : ^777777All^000000
+Um chapéu feito em homenagem a uma das raças mais raras e antigas de cachorros, que ainda é muito popular em Amatsu. Os Shiba Inus são ancestrais dos mais conhecidos Akitas, e o seu nome, no dialeto de Amatsu significa “pequeno cão”. Apesar do tamanho, os Shiba Inus são bastante independentes e ótimos cães de caça, usados para encontrar pequenos animais. Dizem as lendas que o um cão desta raça é a única coisa que pode deter a fúria do Atroce, já que quando ainda era humano, este guerreiro amaldiçoado tinha uma paixão especial por essa raça.
+ATQ + 30.
+Se equipado com o Coleira da Fidelidade [1], há uma chance de mudar sua forma para um Atroce enquanto receber e causar dano, aumentando o ataque enquanto transformado. A chance de mudar a forma aumenta de acordo com o nível de refinamento. Drena 5 de SP a cada segundo. 
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777776^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777740^000000
+Nível Necessário : ^77777750^000000
+Classes : ^777777Todas^000000
 #
 
 18832#
@@ -41784,13 +41782,13 @@ Classes : ^777777Todas^000000
 #
 
 19649#
-A white kitten looking cute hairlace.
-Class : ^777777Costume^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Desde o surgimento da Corporação Pata de Gato e a descoberta de Malangdo, os felinos ficaram ainda mais na moda! Se você gosta dos bichanos, agora pode mudar seu visual com estas orelhinhas e emanar charme e fofura ao mesmo tempo.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
 #
 
 19661#
@@ -41826,16 +41824,16 @@ Classe : ^777777Somente 3ª Classe^000000
 #
 
 18885#
-A colorful headgear for JeJemon. It created a massive trend locally during 2010-2011 era.
-INT + 3, STR + 2
-Increase resistance against human type monsters by 11%
-Increase the healing effect of Mastela Fruit by 70% 
-Type : ^777777Headgear^000000 
-Defense : ^7777778^000000
-Location : ^777777Upper ^000000
-Weight : ^77777710^000000
-Required Level : ^77777770^000000
-Job : ^777777All Jobs^000000
+Um boné das Filipinas que virou marca da “tribo dos Jejemons”, um estranho grupo social que criou uma nova forma de internetês. No lugar de simplesmente abreviarem as palavras (ou escreverem errado), eles substituem letras de forma a deixar o texto praticamente incompreensível, exceto para outros Jejemons. O próprio nome deriva da forma como escrevem as risadas “hehehe”, que virou “jejeje”. O qU3 AcXh0w d1SS0?
+INT + 3, FOR + 2
+Aumenta a resistência contra monstros do tipo humanoide em 11%
+Aumenta a recuperação de HP por Mastelas em 70% 
+Tipo: ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777778^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^77777710^000000
+Nível Necessário: ^77777770^000000
+Classes: ^777777Todas^000000
 #
 
 18887#
@@ -41914,7 +41912,7 @@ Classes: ^777777Todas^000000
 Você fez um encontro imediato de 3º grau com esse estranho Poring quando ele tentava ligar essa máquina oval. Agora ele resolveu equilibrar este disco em cima da sua cabeça, e parece estar contente em “voar” por aí acendendo luzinhas enquanto você corre de um lado para o outro. O mais surpreendente é que este Poring é capaz de falar algumas palavras e fica repetindo o tempo todo: “Poring... Chamado Urgente... Minha casa!”
 DEFM, Crítico, Precisão, Esquiva e Esquiva perfeita + 5
 Caso refinado em +7, reduz o tempo de conjuração em 5%
-Caso refinado em +7, o tempo de uso entre habilidades será reduzido em 5%,  Velocidade de Ataque + 5%
+Caso refinado em +9, o tempo de uso entre habilidades será reduzido em 5%,  Velocidade de Ataque + 5%
 Tipo : ^777777Equipamento para Cabeça^000000 
 Defesa : ^7777775^000000
 Equipa em : ^777777Topo ^000000
@@ -41924,18 +41922,16 @@ Classes: ^777777Todas as Classes^000000
 #
 
 18893#
-I feel the power of a flame dragon flowing inside me!
-Increase resistance against Dragon and Demi-human by 8%
-Increases healing effect of Meat by 200%
-if refined to 12, increase MHP + 7%, MSP + 3%
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by bladetip of pRO Valkyrie Server^000000
-Type : ^777777Headgear^000000 
-Defense : ^7777775^000000
-Location : ^777777Upper ^000000
-Weight : ^777777100^000000
-Required Level : ^77777710^000000
-Job : ^777777All Jobs^000000
+Um elmo criado a partir de uma pata de dragão verdadeira, decepada no exato momento em um poderoso dragão estava prestes a esmagar um herói da Sociedade Draconiana.  De alguma forma, a essência do espírito da criatura ficou presa em suas garras após a morte do monstro, e agora você é capaz de sentir suas chamas e toda a sua fúria assim que coloca este elmo em sua cabeça.
+Aumenta a resistência contra monstros do tipo Dragão e Humanóide em 8%
+Aumenta o efeito de cura do item Carne em 200%
+Se refinado em 12 ou mais, aumenta HP Máximo em 7% e SP Máximo em 3%
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Topo^000000
+Peso : ^777777100^000000
+Nível Necessário : ^77777710^000000
+Classes : ^777777Todas^000000
 #
 
 18894#
@@ -41952,16 +41948,14 @@ Job : ^777777All Jobs^000000
 #
 
 18895#
-"Come Fairies, take me out of this dull world, for I would ride with you upon 
-the wind and dance upon the mountains like a flame! - William Butler Yeats"
-Increases resistance from Fire Property by 8%
-^FF0000Concept by Chorvaqueen of pRO Valhalla Server^000000
-Type : ^777777Headgear^000000 
-Defense : ^7777775^000000
-Location : ^777777Mid ^000000
-Weight : ^77777720^000000
-Required Level : ^77777750^000000
-Job : ^777777All Jobs^000000
+Dizem que há muito tempo, a Tribo Utan venerava uma antiga divindade chamada Tapaton. Por meio de sons produzidos por seu tambor místico, Tapaton teria conseguido guiar os Utan por diversos perigos, até alcançarem as raízes de Yggdrasil, onde Odin aguardava por eles.  Ele precisava que seu maior guerreiro recuperasse um tesouro perdido no Vulcão de Thor. Para que a força de Tapaton continuasse a ecoar nos ouvidos do seu herói, Odin transformou a pequena divindade em um par de asas, que iriam coroar a cabeça do guerreiro e protege-lo do fogo do vulcão. Assim surgiram as Asas de Tapaton.
+Aumenta a resistência contra ataques da propriedade fogo em 8%
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^77777720^000000
+Nível Necessário : ^77777750^000000
+Classes : ^777777Todas^000000
 #
 
 18896#
@@ -41985,16 +41979,15 @@ Increases resistance from Water Property by 8%
 #
 
 18898#
-A gorgeous crown made with Trunk of Yggdrasil imbued with the power of
-Mother Nature to the heralds of Philippine Ragnarok Online.
-All Stat + 5, MHP + 100, MSP + 50
-If refined to 8 and above, adds 1% to MHP and reduces fix casting time by 1% for every refine level
-Type : ^777777Headgear^000000 
-Defense : ^7777776^000000
-Location : ^777777Upper ^000000
-Weight : ^77777720^000000
-Required Level : ^77777760^000000
-Job : ^777777All Jobs^000000
+À primeira vista, ela se parece com a Coroa de Yggdrasil, mas este artefato em especial foi abençoado pela própria Árvore da Vida para carregar sua energia e com isso dar mais poderes a um herói escolhido para enfrentar o Ragnarök.
+Todos os status + 5, HP Máximo + 100, SP Máximo + 50
+Se refinado em 8 ou mais, adiciona 1% de HP Máximo e reduz o tempo de conjuração fixa em 1% a cada refinamento adicional.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777776^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777720^000000
+Nível Necessário : ^77777760^000000
+Classes : ^777777Todas^000000
 #
 
 
@@ -42003,5 +41996,113 @@ Uma caixa contendo suprimentos da Guerra do Emperium
 Peso: ^77777710^000000
 #
 
+
+12534#
+Uma caixa que contém 30 Sementes de Yggdrasil. Cuidado ao abrir. 
+Peso: 0 
+Cuidado - o conteúdo dessa caixa pode se perder caso você não tenha espaço no seu inventário.
+#
+
+18957#
+Boina comemorativa pelos 9 anos de Brasil Ragnarok Online.
+Todos os status +9.
+DEFM + 1.
+^FF0000Atenção! Este item será removido na manutenção de 01/10/2013^000000
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777771^000000
+Equipa em: ^777777Topo ^000000 
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+11550#
+Um bolo feito de abóbora pura, adoçado pela própria natureza.
+^000088Recupera 5% de HP e SP 
+^ffffff_^000000
+Peso: ^7777774^000000
+#
+
+22669#
+Uma caixa que parece estar viva, como se tivesse uma alma em seu interior.
+Peso : ^77777720^000000
+#
+
+22670#
+Um convite do submundo.
+Ao descartar esse convite, você pode ser sufocado, ficar cego, ter um ataque cardíaco ou ser transportado para Nifflheim.
+Peso : ^7777771^000000
+#
+
+19917#
+Um chapéu de abóbora com o humor "iluminado".
+Garante aumento da velocidade de movimento durante o evento de Halloween de 2.013.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo ^000000 Peso : ^7777770^000000
+Nível Necessário. : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+19918#
+Uma mascára de Lude, a mascote de Nifflheim.
+Garante 20% a mais de cura por habilidades ou poções de cura durante o evento de Halloween de 2.013.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Meio/Baixo ^000000 Peso : ^7777770^000000
+Nível Necessário. : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+6804#
+Honestamente é difícil identificar as diferenças entre as orgânicas e inorgânicas.
+Apenas os adesivos "inorgânicos" garantem tudo.
+Peso : ^7777771^000000
+#
+
+6805#
+Honestamente é difícil identificar as diferenças entre as orgânicas e inorgânicas, mas as pessoas tratam isso como uma abóbora comum.
+"Inorgânicos" não costumam nem ter adesivos com identificação.
+Peso : ^7777771^000000
+#
+
+19919#
+Uma máscara de Quve, a mascote de Nifflheim.
+Garante aumento da velocidade de ataque durante o evento de Halloween de 2.013.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Meio/Baixo^000000
+Peso : ^7777770^000000
+Nível Necessário. : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+19920#
+Uma máscara de Sussuro fortificada.
+Aumenta a esquiva em +20 durante o evento de Halloween de 2.013.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo/Meio/Baixo^000000
+Peso : ^7777770^000000
+Nível Necessário:^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+19903#
+Velho chapéu de Bruxa encantado por magia negra. 
+Reduz em 10% o tempo de conjuração variável durante o evento de Halloween de 2.013.
+Tipo : ^777777Visual^000000
+Def. : ^7777770^000000
+Equipa em : ^777777Topo^000000
+Peso : ^7777770^00000
+Nível Necessário. : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+
+
+
+13999#Uma caixa contendo 100 Balas Amargas.
+-
+^ff0000Recupera todo o SP do usuário.^000000
+-
+Peso : ^7777771^000000
+#
 
 //file end
