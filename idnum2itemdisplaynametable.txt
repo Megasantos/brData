@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote do Atroce#
+7550#Pacote da Fortuna#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -3399,7 +3399,8 @@
 5196#Lacinho_Laranja#
 5197#Lacinho_Branco#
 //7608#Ticket_do_Dia_das_Mães#
-7608#Ticket de Promoção#
+//7608#Ticket de Promoção#
+7608#Ticket dos Gatos#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -4440,10 +4441,10 @@
 13941#Ovo dos Namorados#
 5512#Diadema de Aquário#
 5513#Coroa de Aquário#
-14254#Cx Anel do Ganhador[A]#
+14254#Cx Anel do Ganhador[15Dias]#
 5506#Touca de Pijama Azul#
 5507#Touca de Pijama Rosa#
-14255#Cx Anel do Devastador[A]#
+14255#Cx Anel do Devastador[15Dias]#
 12188#Bolo Mágico Lunar#
 12190#Bolo Lunar#
 12191#Bolo Especial Lunar#
@@ -4480,13 +4481,13 @@
 14600#Poção Mental#
 14601#Bênção de Tyr#
 14306#Ovo Especial do RBC#
-14252#Cx Anel Caçador Veterano[A]#
+14252#Cx Anel Caçador Veterano[15Dias]#
 2753#Anel do Caçador Veterano [A]#
 5508#Chapéu de Tubarão#
 14298#Ovo Surpresa#
 5800#Rubor de Batalha#
 13516#Caixa de Geléia Real#
-14253#Cx Anel Caç. de Morto-Vivo[A]#
+14253#Cx Anel Caç. de Morto-Vivo[15Dias]#
 2754#Anel Caçador de Morto-Vivo[A]#
 5526#Boneca da Lady Tanee#
 5509#Chapéu de Sting#
@@ -4495,12 +4496,12 @@
 5465#Chapéu Celestial#
 5473#Tiara de Vadon#
 13925#Ovo Dimensional#
-14256#Cx Anel Colec. de Insetos[A]#
+14256#Cx Anel Colec. de Insetos[15Dias]#
 2757#Anel do Colecionador de Insetos [A]#
 14363#Ovo do Coração#
-14257#Cx Anel de Pescador[A]#
+14257#Cx Anel de Pescador[15Dias]#
 2758#Anel do Pescador [A]#
-14258#Cx Anel do Exorcista[A]#
+14258#Cx Anel do Exorcista[15Dias]#
 2759#Anel do Exorcista [A]#
 
 //---- Buzzy Bol Riclan event 2009 ----
@@ -4510,7 +4511,7 @@
 //----- August 2009 Cash items -----
 5554#Chapéu de Polvo#
 5556#Capuz de Foca#
-14259#Cx Anel do Açougueiro[A]#
+14259#Cx Anel do Açougueiro[15Dias]#
 2760#Anel do Açougueiro [A]#
 5564#Máscara da Morte#
 5501#Orgulho Pirata#
@@ -4521,8 +4522,8 @@
 5485#Máscara de Tigre#
 5481#Chapéu Formoso#
 5469#Chapéu de Mosqueteiro#
-14260#Cx Anel do Anjo Caído[A]#
-14261#Cx Anel Caçador de Dragões[A]#
+14260#Cx Anel do Anjo Caído[15Dias]#
+14261#Cx Anel Caçador de Dragões[15Dias]#
 2761#Anel do Anjo Caído [A]#
 2762#Anel do Caçador de Dragões [A]#
 
@@ -4871,13 +4872,13 @@
 5761#Chapéu do Bicho Preguiça#
 5762#Elmo de Duneyrr#
 14532#Basic_Field_Manual#
-14244#Cx Anel do Ganhador[A]#
-14245#Cx Anel do Devastador[A]#
-14246#Cx Anel Colec. de Insetos[A]#
-14247#Cx Anel do Pescador[A]#
-14248#Cx Anel do Exorcista[A]#
-14250#Cx Anel do Anjo Caído[A]#
-14251#Cx Anel Caçador de Dragões[A]#
+14244#Cx Anel do Ganhador[7Dias]#
+14245#Cx Anel do Devastador[7Dias]#
+14246#Cx Anel Colec. de Insetos[7Dias]#
+14247#Cx Anel do Pescador[7Dias]#
+14248#Cx Anel do Exorcista[7Dias]#
+14250#Cx Anel do Anjo Caído[7Dias]#
+14251#Cx Anel Caçador de Dragões[7Dias]#
 16195#Ovo das Tartarugas#
 16576#Ovo de Oboro#
 
@@ -6126,8 +6127,8 @@
 
 ----------------------
 
-17176#Cx Rédea Experimental 3 Dias#
-17162#Cx Rédea Experimental 7 Dias#
+17176#Cx Rédea Experimental [3Dias]#
+17162#Cx Rédea Experimental [7Dias]#
 12532#Cx Geléia Real[100]#
 12293#Fruto de Yggdrasil Desidratado#
 12292#Fruto de Yggdrasil Amargo#
@@ -6152,7 +6153,7 @@
 18891#Chapéu de Husky#
 18892#Chapéu de UFOring#
 18893#Elmo Garra de Dragão#
-18894#Rainbow_Star#
+18894#Diadema Arco-íris#
 18895#Asas de Tapaton#
 18896#Pterios_Fins#
 18897#Azure_Diadem#
