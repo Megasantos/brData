@@ -3875,7 +3875,7 @@ Nível necessário: ^77777744^000000
 Classes que utilizam: ^777777Odalisca^000000
 #
 1963#
-Chicote feito de galhos de roseira. Causa ferimentos graves com seus espinhos e é encantado com a Propriedade Veneno.
+Chicote feito de galhos de roseira. Causa ferimentos graves com seus espinhos e é encantado com a Propriedade Veneno. Chance de envenenar o alvo.
 Classe: ^777777Chicote^000000
 Força de Ataque: ^777777115^000000
 Peso: ^77777730^000000
@@ -10824,8 +10824,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: 01 Trevo da Sorte e 01 Cartola de Leprechaun.
-Esta promoção está disponível apenas até o dia 28/10/2013.
+Troque-o pelos seguintes itens: Caixa de Anel do Ganhador [15 Dias], Caixa de Anel do Devastador [15 Dias], Caixa de Anel Caçador Veterano [15 Dias], Caixa de Anel Caçador de Morto-Vivo [15 Dias], Caixa de Anel Colecionador de Insetos [15 Dias], Caixa de Anel de Pescador [15 Dias], Caixa de Anel do Exorcista [15 Dias], Caixa de Anel do Açougueiro [15 Dias], Caixa de Anel do Anjo Caído [15 Dias] e Caixa de Anel Caçador de Dragões [15 Dias].
+Esta promoção está disponível apenas até o dia 18/11/2013.
 ^ff0000Este pacote pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -20277,20 +20277,20 @@ Classes que utilizam: ^777777Todas^000000
 //Esta promoção está disponível apenas até a manutenção do dia 31/03, então troque agora mesmo seu ticket!
 //Peso: ^7777771^000000
 //#
-7608#
-Ticket promocional criado pela Corporação Pata de Gato.
-Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até às 16h00 do dia 18/10, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 18/10. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
-Peso: ^7777771^000000
-#
 //7608#
-//Ticket promocional criado pela Corporação Kafra.
-//Troque-o por um pacote de itens na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-//Os itens disponíveis são: 1 Caixa de Seguros, 1 Caixa Abençoada, 1 Caixa Ágil, 1 Caixa de Adrenalina e 1 Caixa de Amuletos.
-//Esta promoção está disponível apenas até a manutenção do dia 21/01, então troque agora mesmo seu ticket!
+//Ticket promocional criado pela Corporação Pata de Gato.
+//Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+//Esta promoção está disponível apenas até às 16h00 do dia 18/10, então troque-o agora mesmo!
+//^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 18/10. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
 //Peso: ^7777771^000000
 //#
+7608#
+Ticket promocional criado pela Corporação Kafra.
+Troque-o por um pacote de itens na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Esta promoção está disponível apenas até o dia 11/11, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 12/11. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Peso: ^7777771^000000
+#
 //7608#
 //Ticket promocional criado pela Corporação Kafra.
 //Troque-o por um pacote de itens na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
@@ -39531,6 +39531,7 @@ Classe: ^777777Odalisca e suas respectivas evoluções^000000
 2473#
 Botas que são concedidas somente aos integrantes do Grupo Éden.
 Elas foram feitas para se manterem confortáveis durante caminhadas longas.
+VIT +1, AGI +1
 Regeneração de HP +28%
 Regeneração de SP +12%
 Não pode ser aprimorado.
@@ -39603,8 +39604,8 @@ Classe: ^777777Espadachim/Mercador/Gatuno e suas respectivas evoluções^000000
 15031#
 Armadura que é concedida somente aos integrantes do Grupo Éden.
 Há vários tamanhos. Pessoas altas não precisam se preocupar. 
-HP máximo +500, SP máximo +50,
-DEFM +5.
+INT +1, DEX +1, STR +1
+HP máximo +500, SP máximo +50, DEFM +5.
 Não pode ser aprimorado.
 Tipo: ^777777Armadura^000000
 Defesa: ^77777770^000000
@@ -42095,14 +42096,124 @@ Nível Necessário. : ^7777771^000000
 Classes : ^777777Todas^000000
 #
 
-
-
-
 13999#Uma caixa contendo 100 Balas Amargas.
 -
 ^ff0000Recupera todo o SP do usuário.^000000
 -
 Peso : ^7777771^000000
 #
+
+//-----Poção de ASPD e Biscoitos
+
+14616#
+Um biscoito em forma de palito com uma deliciosa cobertura de laranja. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000FOR +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQ^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.^000000
+A ^FF0000FOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000FOR^000000
+Peso : ^7777771^000000
+#
+
+14617#
+Um biscoito em forma de palito com uma deliciosa cobertura de chocolate. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000VIT +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Recuperação de HP por Itens^000000 em um valor aleatório (entre 11 e 33%) durante 10 minutos.
+A ^FF0000VIT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000VIT^000000
+Peso : ^7777771^000000
+#
+
+14618#
+
+Um biscoito em forma de palito com uma deliciosa cobertura de baunilha. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000AGI^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Esquiva^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000AGI^000000 e ^FF0000Esquiva^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000AGI^000000 e ^FF0000Esquiva^000000.
+Peso : ^7777771^000000
+#
+
+14619#
+Um biscoito em forma de palito com uma deliciosa cobertura de cassis. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000INT^000000 +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQM^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.
+A ^FF0000INT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000INT^000000
+Peso : ^7777771^000000
+#
+
+14620#
+Um biscoito em forma de palito com uma deliciosa cobertura de limão. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000DES^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Precisão^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000DES^000000 e ^FF0000Precisão^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000DES^000000 e ^FF0000Precisão^000000.
+Peso : ^7777771^000000
+#
+
+14621#
+Um biscoito em forma de palito com uma deliciosa cobertura de morango. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000SOR^000000 +15 por 30 minutos. Como efeito adicional, aumenta ^FF0000Critico^000000 em um valor aleatório (entre 11 e 33) durante 10 minutos.
+A ^FF0000SOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000SOR^000000
+Peso : ^7777771^000000
+#
+
+17270#
+Uma caixa com 20 Palitos de Laranja.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de laranja. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000FOR +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQ^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.^000000
+A ^FF0000FOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000FOR^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17271#
+^000000Uma caixa com 20 Palitos de Chocolate.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de chocolate. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000VIT +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Recuperação de HP por Itens^000000 em um valor aleatório (entre 11 e 33%) durante 10 minutos.
+A ^FF0000VIT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000VIT^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17272#
+^000000Uma caixa com 20 Palitos de Baunilha.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de baunilha. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000AGI^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Esquiva^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000AGI^000000 e ^FF0000Esquiva^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000AGI^000000 e ^FF0000Esquiva^000000.
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17273#
+^000000Uma caixa com 20 Palitos de Cassis.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de cassis. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000INT^000000 +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQM^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.
+A ^FF0000INT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000INT^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17274#
+^000000Uma caixa com 20 Palitos de Limão
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de limão. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000DES^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Precisão^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000DES^000000 e ^FF0000Precisão^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000DES^000000 e ^FF0000Precisão^000000.
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17275#
+^000000Uma caixa com 20 Palitos de Morango
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de morango. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000SOR^000000 +15 por 30 minutos. Como efeito adicional, aumenta ^FF0000Critico^000000 em um valor aleatório (entre 11 e 33) durante 10 minutos.
+A ^FF0000SOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000SOR^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+
 
 //file end

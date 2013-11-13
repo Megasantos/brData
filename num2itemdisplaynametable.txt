@@ -6173,4 +6173,20 @@
 18957#Equipamento para Cabeça#
 
 13999#Cx Bala Amarga [100]#
+
+//-----Poção de ASPD e Biscoitos
+17270#Cx Palitos de Laranja[20]#
+17271#Cx Palitos de Chocolate[20]#
+17272#Cx Palitos de Baunilha[20]#
+17273#Cx Palitos de Cassis[20]#
+17274#Cx Palitos de Limão[20]#
+17275#Cx Palitos de Morango[20]#
+14616#Palitos de Laranja#
+14617#Palitos de Chocolate#
+14618#Palitos de Baunilha#
+14619#Palitos de Cassis#
+14620#Palitos de Limão#
+14621#Palitos de Morango#
+
+
 //file end

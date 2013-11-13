@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote da Fortuna#
+7550#Pacote da Experiência#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -3399,8 +3399,8 @@
 5196#Lacinho_Laranja#
 5197#Lacinho_Branco#
 //7608#Ticket_do_Dia_das_Mães#
-//7608#Ticket de Promoção#
-7608#Ticket dos Gatos#
+7608#Ticket de Promoção#
+
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -6177,6 +6177,21 @@
 19919#Máscara de Quve#
 19920#Máscara de Sussurro Assustador#
 19903#Chapéu de Bruxa Maligna#
+
+//-----Poção de ASPD e Biscoitos
+17270#Cx Palitos de Laranja[20]#
+17271#Cx Palitos de Chocolate[20]#
+17272#Cx Palitos de Baunilha[20]#
+17273#Cx Palitos de Cassis[20]#
+17274#Cx Palitos de Limão[20]#
+17275#Cx Palitos de Morango[20]#
+14616#Palitos de Laranja#
+14617#Palitos de Chocolate#
+14618#Palitos de Baunilha#
+14619#Palitos de Cassis#
+14620#Palitos de Limão#
+14621#Palitos de Morango#
+
 
 
 //file end

@@ -28486,4 +28486,72 @@ Cuidado - o conteúdo dessa caixa pode se perder caso você não tenha espaço no se
 Peso : ^7777771^000000
 #
 
+//-----Poção de ASPD e Biscoitos
+17270#
+Uma caixa com 20 Palitos de Laranja.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de laranja. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000FOR +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQ^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.^000000
+A ^FF0000FOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000FOR^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17271#
+^000000Uma caixa com 20 Palitos de Chocolate.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de chocolate. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000VIT +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Recuperação de HP por Itens^000000 em um valor aleatório (entre 11 e 33%) durante 10 minutos.
+A ^FF0000VIT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000VIT^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17272#
+^000000Uma caixa com 20 Palitos de Baunilha.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de baunilha. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000AGI^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Esquiva^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000AGI^000000 e ^FF0000Esquiva^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000AGI^000000 e ^FF0000Esquiva^000000.
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17273#
+^000000Uma caixa com 20 Palitos de Cassis.
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de cassis. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000INT^000000 +15 por 30 minutos. Como efeito adicional, aumenta o ^FF0000ATQM^000000 em um valor aleatório (entre 11 e 111) por 10 minutos.
+A ^FF0000INT^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000INT^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17274#
+^000000Uma caixa com 20 Palitos de Limão
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de limão. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000DES^000000 +15 por 30 minutos. Como efeito adicional, aumenta a ^FF0000Precisão^000000 do em um valor aleatório (entre 11 e 33) durante 10 minutos
+A ^FF0000DES^000000 e ^FF0000Precisão^000000  não podem ser aumentadas por outras comidas ou consumíveis que aumentem ^FF0000DES^000000 e ^FF0000Precisão^000000.
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+17275#
+^000000Uma caixa com 20 Palitos de Morango
+^ffffff_^000000
+Um biscoito em forma de palito com uma deliciosa cobertura de morango. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
+^FF0000SOR^000000 +15 por 30 minutos. Como efeito adicional, aumenta ^FF0000Critico^000000 em um valor aleatório (entre 11 e 33) durante 10 minutos.
+A ^FF0000SOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000SOR^000000
+^ffffff_^000000
+^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
+Peso : ^7777771^000000
+#
+
+
 //file end
