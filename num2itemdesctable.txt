@@ -28420,6 +28420,174 @@ Uma caixa contendo suprimentos da Guerra do Emperium
 Peso: ^77777710^000000
 #
 
+// ---------- Port Malaya new items ------------
+2169#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2170#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2491#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2492#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2590#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2591#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2907#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2910#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+2911#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+9059#
+Ovo de Bichinho de Tikbalang. Choque o ovo para acordar o monstro com uma [Chocadeira de Filhotes].
+Aumento de 10% de dano em Bakonawa, Bangungot e Buwaya. +3 de DEFM.
+Tipo: ^777777Ovo de Monstro^000000
+#
+15051#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+15052#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+12699#
+Cinto especial feito para controlar Tikbalang como um servo. Tenha cuidado, pois Tikbalang resistirá violentamente quando usado.
+Tipo: ^777777Item de Treinamento^000000
+Peso: ^7777775^000000
+#
+12700#
+Camiseta comum virada do avesso. Usada para quebrar a maldição de Tikbalang que faz pessoas se perderem.
+Pode lhe enviar à vila "Porto Malaya" quando usado diretamente.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+12775#
+Totem com poderosa habilidade de lutar agressivamente contra demônios. Emite energia poderosa e sagrada.
+Aumento de 10% de dano físico e mágico para demônios por 20 min.
+^ffffff_^000000
+Peso: ^77777760^000000
+#
+6496#
+Espinha grossa e forte de Tikbalang. Venda a qualquer colecionador.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6497#
+Papel que protege o jogador de dano ou lança habilidades especiais.
+Uma leve energia pode ser sentida.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6498#
+Parece um Jellopy Tamanho Família com um cristal mais brilhante.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6499#
+Papel que protege o jogador de dano ou lança habilidades especiais.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6500#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Pedaço de bambu com uma ponta afiada. Parece que foi cortado em diagonal de um bambu grosso.
+Peso: ^7777770^000000
+#
+6501#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Sacola usada para guardar sal marinho manufaturado no litoral. Acredita-se que espante os maus espíritos.
+Peso: ^7777770^000000
+#
+6502#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Ornamento em forma de cruz feito de prata. Usado para espantar demônios.
+Peso: ^7777770^000000
+#
+6503#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Proteção espiritual portátil feita de energia sagrada da prata e poder de exorcismo do sal. Usada para prevenir que maus espíritos se aproximem.
+Peso: ^7777770^000000
+#
+6504#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Caldeirão grande feito de ferro rígido. Libera um ótimo som quando atingido. Usado para atordoar Bakonawa quando se produz sons altos com ele ao invés de usá-lo para cozinha.
+Peso: ^7777770^000000
+#
+6505#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Osso de Espírito Maligno totalmente limpo e purificado de toda a maldade por Mumbaki. Vantai, o Cão de Guarda, o adora.
+Peso: ^7777770^000000
+#
+6506#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Buquê de flores feito para confortar almas penadas e vitimizadas. Ofereça as flores com coração puro e as almas poderão descansar.
+Peso: ^7777770^000000
+#
+6507#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Ossos de animais com resquícios de espírito maligno. Não devem ser dados para cachorros nesse estado.
+Peso: ^7777770^000000
+#
+6508#
+Bracelete de prata infernal. Parece mais uma algema.
+Peso: ^7777771^000000
+#
+6509#
+Flor misteriosamente colorida. Parece feita de um arco-íris.
+Peso: ^7777771^000000
+#
+6510#
+Flor elegante, de aparência leve e delicada.
+Peso: ^7777771^000000
+#
+6511#
+Flor comum que pode ser encontrada em qualquer lugar.
+Peso: ^7777771^000000
+#
+6516#
+Boneco com aparência de Bakonawa. Mais bonito que o original.
+Peso: ^7777771^000000
+#
+6517#
+Boneco com aparência de Bangungot. Gosto suspeito do criador.
+Peso: ^7777771^000000
+#
+6518#
+Boneco com aparência de Buwaya. Popular entre as crianças do Porto Malaya.
+Peso: ^7777771^000000
+#
+6519#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Amostras de animais coletadas para um propósito especial. Cheira muito mal.
+Peso: ^7777770^000000
+#
+6520#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Pertence a um aldeão desaparecido do Porto Malaya.
+Peso: ^7777770^000000
+#
+6523#
+Item transparente que aprisiona o Espírito de Bakonawa. Há rumores de que se pode ver Bakonawa quando exposto à luz do luar.
+Peso: ^7777771^000000
+#
+6524#
+Item transparente que aprisiona o Espírito de Bangungot. Há rumores de que é possível ouvir os gritos estridentes de Bangungot quando colocado em uma sala escura.
+Peso: ^7777771^000000
+#
+6525#
+Item transparente que aprisiona o Espírito de Buwaya. Há rumores de que é possível ouvir os gritos furiosos de Buwaya quando tocado por água.
+Peso: ^7777771^000000
+#
+//--------------2013 Halloween event---------------
 11550#
 Um bolo feito de abóbora pura, adoçado pela própria natureza.
 ^000088Recupera 5% de HP e SP 

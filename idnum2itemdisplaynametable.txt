@@ -6167,6 +6167,48 @@
 18957#Boina do 9º Aniversário#
 
 13999#Cx Bala Amarga [100]#
+
+// ---------- Port Malaya new items ------------
+2169#Kalasag#
+2170#Kalasag Bayani#
+2491#Botas do Pesadelo de Bangungot#
+2492#Botas de Bangungot Bayani#
+2590#Roupa de Aniagem de Buwaya#
+2591#Roupa de Aniagem de Buwaya Bayani#
+2907#Tatuagem Amuleto de Buwaya#
+2910#Tatuagem Amuleto de Bakonawa#
+2911#Tatuagem Amuleto de Bangungot#
+9059#Ovo de Tikbalang#
+15051#Armadura de Escamas de Bakonawa#
+15052#Armadura de Escamas de Bakonawa Bayani#
+12699#Cinturão de Tikbalang#
+12700#Camiseta do Avesso#
+12775#Amuleto Superior do Espírito Ancião#
+6496#Espinha Grossa de Tikbalang#
+6497#Amuleto Menor#
+6498#Jejellopy#
+6499#Rancor Antigo#
+6500#Bambu Afiado#
+6501#Sacola de Sal#
+6502#Cruz de Prata#
+6503#Proteção Espiritual#
+6504#Caldeirão de Ferro Fundido#
+6505#Osso Purificado de Espírito#
+6506#Buquê de Oferenda#
+6507#Osso Maligno de Espírito#
+6508#Bracelete de Prata#
+6509#Flor Misteriosa#
+6510#Flor Elegante#
+6511#Flor Bonita#
+6516#Boneco de Bakonawa#
+6517#Boneco de Bangungot#
+6518#Boneco de Buwaya#
+6519#Amostra Coletada#
+6520#Pertences Perdidos#
+6523#Peça de Espírito de Bakonawa#
+6524#Peça de Espírito de Bangungot#
+6525#Peça de Espírito de Buwaya#
+
 11550#Bolo de Abóbora#
 22669#Caixa do Halloween#
 22670#Convite Sombrio#

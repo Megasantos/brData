@@ -2013,151 +2013,320 @@ LEVEL#
 MAPA#
 CLASSE#
 Não disponível #
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-Insira o nome do item para pesquisar#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-Lista de arquivos de replay#
-1#
-Lista de arquivos#
-1#
-1#
-1#
-1#
-1#
-%d%% ( Base 100%% + Premium %d%% + %sServer %d%% )#
-1#
-1#
-1#
-1#
-%dmonth %dday %dHours %dMin. %dSec.#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
+[guardian's protection] If it is max level, you cannot use it.#
+Are you sure to move?#
+Character slot movement has been failed.#
+Character name is wrong.#
+Quest window#
+The game will be limited to under 16 age during 0~6am by law.#
+By the Korean law, the under 16 age users will be^ff0000limited to play games until 0~6am^000000and game will be closed.#
+In order to change the character name, you need to leave guild permanently.#
+In order to change the character name, you need to leave the party.#
+Character name has not changed due to unknown error.#
+Already it is possible to change the character slot change.(%d)#
+Already it is possible to change the character name.(%d)#
+the length of the name you are trying to change is exceeded maximum length, so it has failed to change the name.#
+there is a word you cannot use included, therefore it has failed to change the character's name change.#
+You are forbidden to change the name, therefore character name change has failed.#
+complete#
+EXP %d%% increases for  %d mins.#
+It is %02d sec left to summon.#
+Party leader is summoning you to %s (%s). When you are summoned, %d zeny will be consumed.#
+summoning target#
+Block list#
+In order to add Party advertisement %d zeny will be consumed.#
+You have not enough zeny to add Party advertisement.#
+Approve ) Party register#
+deny ) party register#
+See )'s equippment window#
+Possible to type 18 characters in Kor, 36 characters in alphabet#
+Apply#
+1:1 conversation#
+Block#
+You have not enough zeny to be summoned from the party leader.#
+Please write the party ad in memo.#
+Only party leader can add party advertisement.#
+It is already added party advertisment.#
+Content#
+Equipment#
+Individual#
+Lock the item throw#
+Notice to find part members#
+Organize a party#
+Leave the party#
+party invitation#
+Register party name#
+Character name you are inviting#
+Party register request has sent to.#
+has denied to join the party.#
+has accept to join the party.#
+It is already gathering parties.#
+it is the same condition as previous search.#
+Possible to use after leave the guild.#
+Possible to use after leave the party.#
+Summoned user is in the map you cannot summon.#
+It is not possible to summon in current party leader location.#
+Summoning is denied.#
+It is not possible to summon.#
+Party invite is available to party leader only.#
+Tyoe the item name you are searching :#
+You should put the character name.#
+You should put the party name.#
+Guild helper#
+You have no guild joined.#
+Organize a guild#
+Guild name you are creating#
+Guild creation Help word#
+What is guild system#
+You should type guild name.#
+You have rejected from the party you applied.#
+Select the service.#
+Location that impossible to escape.#
+Replay File List#
+File info#
+File List#
+%s item is not possible to trade.#
+Dismiss the guild#
+The dismissed guild name#
+It is not logged in or unexist character.#
+Falcon summoning has failed.#
+%d%% ( Premium %d%% + %s server %d%% )#
+The user is currently joining in the Siege.#
+It is not possible to change the party leader in the same map.#
+It is not possible to change the party leader in current area.#
+dpwn the Gryphon#
+%d Month %d day %d time %d min %d sec#
+You canot invite to the guild as you are in the siege.#
+You have requested to wait to enter in Battle ground.#
+the maximum amount has been exceeded.#
+Undefined battle ground name.#
+Undefined request type.#
+Maximum amount of user has exceeded.#
+The level is not suitable to enter.#
+Request has duplicated.#
+Please re-access and register again.#
+Job is not suitable.#
+Only party member or guild leader can apply.#
+there is a team member in the battle ground, it is not possible to apply.#
+The waiting to enter the battle ground has cancelled.#
+The battle ground name is wrong.#
+You are not on the waiting list of entering the battle ground.#
+The battle ground is not availble, so the waiting will be cancelled.#
+Entering the battle ground has cancelled.#
+Would you like to enter the battle ground?#
+Entering the battle ground registering system#
+Not possible to register entering and move to the battle ground#
+1. It is not possible to register several battle ground at the same time.#
+2. You cannot register the battle ground for single / Party/ Guild at the same time.#
+3. Party battle ground is only available to regiser from the party leader,#
+the party member who are offline will be missed in the waiting line.#
+4. Registering the battle ground is possible from everywhere except the battle ground map,#
+but if the entering location is not town, field or normal dungeon, character will be transferred to saved coordinates when returns.#
+5. the rewards of battle ground or other services can be found from battle ground waiting room through recruiting officer.#
+Entering the battle ground registering Help word#
+%s battle ground is going to start.#
+Would you like to move to the battle ground?#
+[Note]#
+If current location is not town, field or normal dungeon#
+you will be moved to the saved point#
+after battle finished.#
+Waiting for other requests result.#
+Request entering the battle ground#
+Awaiting time to accept:%d sec#
+Waiting status to enter#
+The battle ground title: %s#
+Required numbers for the battle: %d#
+My waiting number: %d#
+Title :#
+Target :#
+Member organizing in the battle :#
+condition to join :#
+Rewards(win) :#
+Rewards(even) :#
+Rewards(lose) :#
+You have applied the battle as a solo. is it correct?#
+You have applied the battle as a party. is it correct?#
+You have applied the battle as a guild. is it correct?#
+Battle ground list#
 %d VS %d#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
-1#
+Base LV under %d #
+Base LV over %d #
+Base LV %d ~ %d#
+No limits#
+[Not possible to apply from the current map.]#
+[You need 1 min awaiting time to re-apply to the battle ground.]#
+[You should join the party first.]#
+[Only the party leader can apply.]#
+[There are too many party members logged in.]#
+[You should join the guld first.]#
+[Only the guild leader can apply.]#
+[There are too many guild members logged in.]#
+book the transfer#
+transfer#
+name change#
+Make Character#
+http://ro.tahadi.com/en/game-guide#
+%s Server#
+Card book#
+Merge items(To select all:Ctrl+Click)#
+Select at least 2 items of the same kind.#
+Item Merging Succeeded.#
+Item Merging can work for one kind of items once at a time.#
+The amount of the item is over 30000 pieces.#
+Turn on left#
+Turn on right#
+See previous server info of (%s)#
+Previous server info#
+^ff0000Previous server : ^0000ff#
+^ff0000Previous character name : ^0000ff#
+HP for attacking monsters will be displayed.#
+HP for attacking monsters will not be displayed.#
+None of the item can be merged.#
+None of the item can be merged.#
+Progress#
+Delay#
+Recommend#
+Episode#
+Local#
+Event#
+New#
+Hunting monsters#
+Reward items#
+Required items#
+Limited time#
+Closing time#
+Search #
+Lead to the target#
+Road info#
+Search info#
+Change the mode#
+Change the color of navigation#
+Close#
+Change to basic UI#
+Change to easy UI#
+Help word#
+ALL#
+Map#
+Npc#
+Mob#
+Set the search words (Ex: word word ...#
+Scroll#
+Apply to use dungeon move scroll#
+Service#
+Allow the service of location move#
+Plane#
+Apply transferring with Airship#
+>> Cannot read the target info!#
+<< noticing >>#
+<< searching... >>#
+-----------#
+Navigation#
+== search result(%d)==#
+Npc)%s:%s#
+Mob)%s:%s#
+Map)%s#
+======== Result info ==========#
+Distance   : %d Sell %d WarpMove#
+Target map: %s(%s)#
+Target   : %s(%d, %d)#
+Boss#
+normal#
+Target   : %s(%s)#
+Target: (%d, %d)#
+======= Navigation info =======#
+%2d) Item:%s => %s use#
+%2d) %s(%d,%d)=>(%d,%d)#
+E%2d) %s(%d,%d)=>(%d,%d)#
+E%2d) %s#
+It is navigating, would you like to close?#
+Navigation help#
+------------------- command --------------------#
+1. /navigation      /navi#
+  ex)/navi prontera 100/100 -> map name, 100/100#
+  Basic command are zeny, ariship search.#
+2. /navigation2      /navi2#
+  ex) /navi2 prontera 100/100 1/1/1#
+-> map name, location(100/100), scrool/zeny/plane (1:use 0: not use)#
+3. $$all   show all list (show Type list, possible to divide.)#
+4. $$lv30   show monsters on this level#
+5. $$lv20~30  show the monsters in this level range#
+-------------------  description  --------------------#
+1.Search type are All, map, NPC, Monsters.#
+2.Search with the commend. Rules are that shows all information including the search text.#
+  ex) pron kaf ->it shows all of prontera's Kafra in search result.#
+3.if you click from the lsit, the information will be shown.#
+  if there is a target you want and click the naviating, it will show the road to the target.#
+4.it is possible to lead the faster way by checking scrool/ zeny/ plane box.#
+5.if the navigation button is clicked, the result window will be changed to navigation list window.#
+6.By using the below button in the search list window#
+ possible to change as [Result window] <-> [Navigation info window].#
+Level:%d (boss)#
+Level:%d (normal)#
+Water%d#
+Ground%d#
+Fire%d#
+Wind%d#
+Poison%d#
+Saint%d#
+Darkness%d#
+Telekinesis%d#
+Undead%d#
+Nothing%d#
+Medium#
+Large#
+Small#
+Undead#
+Animal#
+Plant#
+Insect#
+Fish#
+Demon#
+Human#
+Angel#
+Dragon#
+Nothing#
+Ciick to move %s #
+Use NPC move service#
+NPC click#
+%s move#
+Move through airship#
+Use warp#
+arrival point : ( %d %d )#
+It is not available to provide navigation in this area.#
+You are searching unclear target.#
+it is not matched map.#
+failed to set the departure area#
+failed to set the arrival area!#
+Failed to find a way#
+Failed to find the player's location#
+There is no information in navigation.#
+this map is not providing the navigation system.#
+Please set the target.#
+arrived.#
+the navigation is started.#
+this is the map having the monster you are looking for.#
+This is the map you are looking for.#
+Please transfer by using items.#
+Please move to the location showing.#
+You have arrived to the target map.#
+You have arrived to the map having the NPC you are looking for. Please move near NPC.#
+This is the map where the monsters live.#
+It is the same target as before.#
+Please go to the pointing way.#
+This is the target.#
+Navigation >: %s#
+Navigation >: By using  %s#
+Navigation >: please move to the map(%s)#
+Navigation >: please move by selecting the map(%s)#
+Navigation >: Please move to Airship#
+Navigation >: Please move to next location by using warp.#
+Item: #
+$$#
+$$lv#
+~#
+$$all#
+Purchase receipt#
+the total price of the item you select is#
+Zeny.#
+Would you like to purchase?#
+%.3f%% (PC bang %.3f%% + TPLUS %.3f%% + premium %.3f%% + %sserver %.3f%%)#

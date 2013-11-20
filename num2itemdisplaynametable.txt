@@ -6155,6 +6155,48 @@
 18896#Acessório#
 18897#Acessório#
 18898#Equipamento para Cabeça#
+// ---------- Port Malaya new items ------------
+2169#Escudo#
+2170#Escudo#
+2491#Bota#
+2492#Bota#
+2590#Capuz#
+2591#Capuz#
+2907#Acessório#
+2910#Acessório#
+2911#Acessório#
+9059#Ovo de Tikbalang#
+15051#Armadura#
+15052#Armadura#
+12699#Cinturão de Tikbalang#
+12700#Camiseta do Avesso#
+12775#Agimat Superior do Espírito Ancião#
+6496#Espinha Grossa de Tikbalang#
+6497#Agimat Menor#
+6498#Jejellopy#
+6499#Rancor Antigo#
+6500#Bambu Afiado#
+6501#Sacola de Sal#
+6502#Cruz de Prata#
+6503#Proteção Espiritual#
+6504#Caldeirão de Ferro Fundido#
+6505#Osso Purificado de Espírito#
+6506#Buquê de Oferenda#
+6507#Osso Maligno de Espírito#
+6508#Bracelete de Prata#
+6509#Flor Misteriosa#
+6510#Flor Elegante#
+6511#Flor Bonita#
+6516#Boneco de Bakonawa#
+6517#Boneco de Bangungot#
+6518#Boneco de Buwaya#
+6519#Amostra Coletada#
+6520#Pertences Perdidos#
+6523#Peça de Espírito de Bakonawa#
+6524#Peça de Espírito de Bangungot#
+6525#Peça de Espírito de Buwaya#
+
+//--------------2013 Halloween event---------------
 11550#Bolo de Abóbora#
 22669#Caixa de Halloween#
 22670#Convite Sombrio#

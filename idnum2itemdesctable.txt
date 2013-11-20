@@ -41849,7 +41849,7 @@ If refined to 12, reduce fix casting time by 10%
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777Upper ^000000
-Weight : ^77777710^000000
+Peso : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -41864,7 +41864,7 @@ If refined to 12, reduce fix casting time by 10%
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777Upper ^000000
-Weight : ^77777710^000000
+Peso : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -41879,7 +41879,7 @@ If refined to 12, reduce fix casting time by 10%
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777Upper ^000000
-Weight : ^77777710^000000
+Peso : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -41894,7 +41894,7 @@ If refined to 12, decrease stat casting time 10%
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777Upper ^000000
-Weight : ^7777770^000000
+Peso : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -41967,7 +41967,7 @@ Increases resistance from Fire Property by 8%
 Type : ^777777Headgear^000000 
 Defense : ^7777775^000000
 Location : ^777777Mid ^000000
-Weight : ^77777720^000000
+Peso : ^77777720^000000
 Required Level : ^77777750^000000
 Job : ^777777All Jobs^000000
 #
@@ -42023,7 +42023,246 @@ Um bolo feito de abóbora pura, adoçado pela própria natureza.
 ^ffffff_^000000
 Peso: ^7777774^000000
 #
+13999#
+Uma caixa contendo 100 Balas Amargas.
+-
+^ff0000Recupera todo o SP do usuário.^000000
+-
+Peso : ^7777771^000000
+#
+// ---------- Port Malaya new items ------------
+2169#
+Escudo prático, firme e leve, feito de junco.
+Diminui danos de monstros do tipo Chefe em 1% a cada 3 refinamentos.
+Se equipado em conjunto com Kalasag, Roupa de Aniagem de Buwaya, Armadura de Escamas de Bakonawa e Botas do Pesadelo de Bangungot, reduz dano recebido em 30% e aumenta o HP Máximo e SP Máximo em 10% dentro do território de Porto Malaya.
+Tipo: ^777777Escudo^000000
+Defesa: ^77777740^000000
+Peso: ^77777740^000000
+Classe: ^777777Todas as Classes^000000
+#
+2170#
+Escudo prático, firme e leve, feito de junco.
+Diminui danos de monstros do tipo Chefe em 1% a cada 3 refinamentos.
+Tipo: ^777777Escudo^000000
+Defesa: ^77777740^000000
+Peso: ^77777740^000000
+Classe: ^777777Todas as Classes^000000
+#
+2491#
+Botas agourentas, emitindo a vingança de Bangungot e seu ódio contra humanos.
+Aumenta DEFM em +1 a cada nível de refinamento. 
+Se o refinamento for 14 ou maior, aumenta a Velocidade de Movimento do personagem. 
+Tipo: ^777777Sapatos^000000
+Defesa: ^77777710^000000
+Peso: ^77777760^000000
+Classe: ^777777Todas as Classes^000000
+#
+2492#
+Botas agourentas emitindo a vingança de Bangungot e seu ódio contra humanos.
+Aumenta DEFM em +1 a cada nível de refinamento. 
+Se o refinamento for 12 ou maior, aumenta a Velocidade de Movimento do personagem.
+Tipo: ^777777Sapatos^000000    
+Defesa: ^77777710^000000
+Peso: ^77777760^000000
+Classe: ^777777Todas as Classes^000000
+#
+2590#
+Roupas confeccionadas do saco de sequestro de Buwaya. Cheia de espíritos vingativos que não descansam em paz.
+A cada 3 refinamentos, aumenta a cura por itens em 1%.
+Diminui em 10% o dano recebido de monstros dos elementos Água, Terra, Fogo e Vento.
+Tipo: ^777777Capa^000000    
+Defesa: ^7777778^000000
+Peso: ^77777720^000000
+Classe: ^777777Todas as Classes^000000
+#
+2591#
+Roupas confeccionadas do saco de sequestro de Buwaya. Cheia de espíritos vingativos que não descansam em paz.
+A cada 3 refinamentos, aumenta a cura por itens em 1%.
+Diminui em 10% o dano recebido de monstros dos elementos Água, Terra, Fogo e Vento.
+Tipo: ^777777Capa^000000    
+Defesa: ^7777778^000000
+Peso: ^77777720^000000
+Classe: ^777777Todas as Classes^000000
+#
+2907#
+Tatuagem amuleto com padrão de um enorme Jacaré. Dizem que aquele que tiver essa tatuagem possuirá poderes extremos.
++ 7% de ATQM, Reduz Conjurações Fixas em 7%.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000      
+Peso: ^77777710^000000
+Classe: ^777777Todas as Classes^000000
+#
+2910#
+Tatuagem amuleto com padrão de um dragão engolindo a lua. Dizem que aquele que tiver essa tatuagem possuirá poderes extremos.
+Aumenta o ATQ em 7% e a Velocidade de Ataque em 10%.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000      
+Peso: ^77777710^000000
+Classe: ^777777Todas as Classes^000000
+#
+2911#
+Tatuagem amuleto com padrão de uma mulher gorda. Dizem que aquele que tiver essa tatuagem possuirá poderes extremos.
+Aumenta em 4% a Cura em outros personagens e 7% em si.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000      
+Peso: ^77777710^000000
+Classe: ^777777Todas as Classes^000000
+#
+9059#
+Ovo de Bichinho de Tikbalang. 
+Você pode chocar o ovo com uma [Incubadora].
+Aumenta em 10% o dano em Bakonawa, Bangungot e Buwaya. 
+DEFM + 3.
+Tipo: ^777777Ovo de Monstro^000000
+#
+15051#
+Armadura feita de Escama de Bakonawa. Libera um misterioso efeito de luz de luar.
+Diminui danos de monstros do tipo Chefe em 1% a cada 2 refinamentos.
+Adiciona +1 em todos os atributos
+Tipo: ^777777Armadura^000000    
+Defesa: ^77777755^000000
+Peso: ^77777750^000000
+Classe: ^777777Todas as Classes^000000
+#
+15052#
+Armadura feita de Escama de Bakonawa. Libera um misterioso efeito de luz de luar.
+Diminui danos de monstros do tipo Chefe em 1% a cada 2 refinamentos.
+Adiciona +2 em todos os atributos
+Tipo: ^777777Armadura^000000    
+Defesa: ^77777755^000000
+Peso: ^77777750^000000
+Classe: ^777777Todas as Classes^000000
+#
+12699#
+Cinto especial feito para controlar Tikbalang como um servo. Tenha cuidado, pois Tikbalang resistirá violentamente quando usado.
+Tipo: ^777777Item de Domesticação^000000
+Peso: ^7777775^000000
+#
+12700#
+Camiseta comum virada do avesso. Usada para quebrar a maldição de Tikbalang que faz pessoas se perderem.
+Pode lhe enviar para Porto Malaya quando usado.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+12775#
+Totem com poderosa habilidade de lutar agressivamente contra demônios. Emite energia poderosa e sagrada.
+Aumenta em 10% os danos físico e mágico contra Demônios por 20 minutos.
+^ffffff_^000000
+Peso: ^77777760^000000
+#
+6496#
+Espinha grossa e forte de Tikbalang. Venda a qualquer colecionador.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6497#
+Papel que protege o jogador de dano ou lança habilidades especiais.
+Uma leve energia pode ser sentida.
+^ffffff_^000000
+Peso: ^7777775^000000
+#
+6498#
+Parece um Jellopy Tamanho Família com um cristal mais brilhante.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6499#
+Papel que protege o jogador de dano ou lança habilidades especiais.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6500#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Pedaço de bambu com uma ponta afiada. Parece que foi cortado em diagonal de um bambu grosso.
+Peso: ^7777770^000000
+#
+6501#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Sacola usada para guardar sal marinho manufaturado no litoral. Acredita-se que espante os maus espíritos.
+Peso: ^7777770^000000
+#
+6502#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Ornamento em forma de cruz feito de prata. Usado para espantar demônios.
+Peso: ^7777770^000000
+#
+6503#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Proteção espiritual portátil feita de energia sagrada da prata e poder de exorcismo do sal. Usada para prevenir que maus espíritos se aproximem.
+Peso: ^7777770^000000
+#
+6504#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Caldeirão grande feito de ferro rígido. Libera um ótimo som quando atingido. Usado para atordoar Bakonawa quando se produz sons altos com ele ao invés de usá-lo para cozinhar.
+Peso: ^7777770^000000
+#
+6505#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Osso de Espírito Maligno totalmente limpo e purificado de toda a maldade por Mumbaki. Vantai, o Cão de Guarda, o adora.
+Peso: ^7777770^000000
+#
+6506#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Buquê de flores feito para confortar almas penadas e vitimizadas. Ofereça as flores com coração puro e as almas poderão descansar.
+Peso: ^7777770^000000
+#
+6507#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Ossos de animais com resquícios de espírito maligno. Não devem ser dados para cachorros nesse estado.
+Peso: ^7777770^000000
+#
+6508#
+Bracelete de prata infernal. Parece mais uma algema.
+Peso: ^7777771^000000
+#
+6509#
+Flor misteriosamente colorida. Parece feita de um arco-íris.
+Peso: ^7777771^000000
+#
+6510#
+Flor elegante, de aparência leve e delicada.
+Peso: ^7777771^000000
+#
+6511#
+Flor comum que pode ser encontrada em qualquer lugar.
+Peso: ^7777771^000000
+#
+6516#
+Boneco com aparência de Bakonawa. Mais bonito que o original.
+Peso: ^7777771^000000
+#
+6517#
+Boneco com aparência de Bangungot. Gosto suspeito do criador.
+Peso: ^7777771^000000
+#
+6518#
+Boneco com aparência de Buwaya. Popular entre as crianças do Porto Malaya.
+Peso: ^7777771^000000
+#
+6519#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Amostras de animais coletadas para um propósito especial. Cheira muito mal.
+Peso: ^7777770^000000
+#
+6520#
+^ff0000Esse item não pode ser negociado com outros personagens.^000000
+Pertence a um aldeão desaparecido do Porto Malaya.
+Peso: ^7777770^000000
+#
+6523#
+Item transparente que aprisiona o Espírito de Bakonawa. Há rumores de que se pode ver Bakonawa quando exposto à luz do luar.
+Peso: ^7777771^000000
+#
+6524#
+Item transparente que aprisiona o Espírito de Bangungot. Há rumores de que é possível ouvir os gritos estridentes de Bangungot quando colocado em uma sala escura.
+Peso: ^7777771^000000
+#
+6525#
+Item transparente que aprisiona o Espírito de Buwaya. Há rumores de que é possível ouvir os gritos estridentes de Buwaya quando tocado por água.
+Peso: ^7777771^000000
+#
 
+//--------------2013 Halloween event---------------
 22669#
 Uma caixa que parece estar viva, como se tivesse uma alma em seu interior.
 Peso : ^77777720^000000
@@ -42096,13 +42335,6 @@ Nível Necessário. : ^7777771^000000
 Classes : ^777777Todas^000000
 #
 
-13999#Uma caixa contendo 100 Balas Amargas.
--
-^ff0000Recupera todo o SP do usuário.^000000
--
-Peso : ^7777771^000000
-#
-
 //-----Poção de ASPD e Biscoitos
 
 14616#
@@ -42145,6 +42377,45 @@ Peso : ^7777771^000000
 Um biscoito em forma de palito com uma deliciosa cobertura de morango. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
 ^FF0000SOR^000000 +15 por 30 minutos. Como efeito adicional, aumenta ^FF0000Critico^000000 em um valor aleatório (entre 11 e 33) durante 10 minutos.
 A ^FF0000SOR^000000 não pode ser aumentada por outras comidas ou consumíveis que aumentem a ^FF0000SOR^000000
+Peso : ^7777771^000000
+
+#
+
+
+
+17118#
+
+Uma caixa com 20 Poções de Velocidade de Ataque
+^ffffff_^000000
+
+
+
+Um destilado de várias poções que aumenta a velocidade de ataque do usuário. Seu sabor não é muito agradável, mas deixará você mais leve. 
+Mas tome cuidado, o uso excessivo pode ser prejudicial à saúde.
+^FF0000Atenção: Essa poção acumula com outras poções que influenciam na velocidade de ataque, mas o bônus não é dobrado e é afetado diretamente pela quantidade de AGI do usuário.^000000
+^0000FFEsta poção pode ser usada em conjunto com outras poções de velocidade de ataque (Poção do Despertar, Poção da Concentração e Poção da Fúria Selvagem) e dura por 15 minutos.^000000
+Pode ser usado por todas as classes.
+
+^ffffff_^000000
+
+Peso : ^7777771^000000
+#
+
+17126#
+
+Uma caixa com 20 Poções de Velocidade de Ataque e um Ovo de Majororus adicional.
+^ffffff_^000000
+
+
+
+Um destilado de várias poções que aumenta a velocidade de ataque do usuário. Seu sabor não é muito agradável, mas deixará você mais leve. 
+Mas tome cuidado, o uso excessivo pode ser prejudicial à saúde.
+^FF0000Atenção: Essa poção acumula com outras poções que influenciam na velocidade de ataque, mas o bônus não é dobrado e é afetado diretamente pela quantidade de AGI do usuário.^000000
+^0000FFEsta poção pode ser usada em conjunto com outras poções de velocidade de ataque (Poção do Despertar, Poção da Concentração e Poção da Fúria Selvagem) e dura por 15 minutos.^000000
+Pode ser usado por todas as classes.
+
+^ffffff_^000000
+
 Peso : ^7777771^000000
 #
 

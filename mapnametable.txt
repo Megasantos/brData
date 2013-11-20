@@ -818,3 +818,24 @@ gld2_ald.rsw#Portal do Abismo: Lágrimas do Herói#
 gld2_gef.rsw#Portal do Abismo: Colina dos Mortos#
 gld2_pay.rsw#Portal do Abismo: Ventos Ancestrais#
 gld2_prt.rsw#Portal do Abismo: Caminho do Guerreiro#
+
+// ---------- Port Malaya To add ------------
+malaya.rsw#Porto Malaya#
+ma_fild01.rsw#Baryo Mahiwaga#
+ma_fild02.rsw#Floresta#
+ma_scene01.rsw#Lago Bakonawa#
+ma_in01.rsw#Interior de Malaya#
+ma_dun01.rsw#Hospital de Bangungot, 1º andar#
+1@ma_h.rsw#Hospital de Bangungot, 2º andar#
+1@ma_c.rsw#Caverna Buwaya#
+1@ma_b.rsw#Esconderijo Bakonawa#
+ma_zif01.rsw#Interior de Jeepney#
+ma_zif02.rsw#Interior de Jeepney#
+ma_zif03.rsw#Interior de Jeepney#
+ma_zif04.rsw#Interior de Jeepney#
+ma_zif05.rsw#Interior de Jeepney#
+ma_zif06.rsw#Interior de Jeepney#
+ma_zif07.rsw#Interior de Jeepney#
+ma_zif08.rsw#Interior de Jeepney#
+ma_zif09.rsw#Interior de Jeepney#
+job_ko.rsw#Lugar Escondido#
