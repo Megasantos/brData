@@ -1463,13 +1463,13 @@ Não é possível deletar acima do nível %d#
 Não pode ser usado com o M.E.C.H.A.#
 Desmonte do Ferus#
 Saia do M.E.C.H.A.#
-Gaste#
+C#
 Dinheiro#
 Armadura#
 Arma#
 Projétil#
 Carta#
-Misc.#
+O#
 A conexão foi encerrada porque o programa demorou a responder#
 Versão incorreta do arquivo do HackShield. Reinstale o programa#
 Necessita de um Grimório#
@@ -2048,8 +2048,8 @@ Please write the party ad in memo.#
 Only party leader can add party advertisement.#
 It is already added party advertisment.#
 Content#
-Equipment#
-Individual#
+E#
+I#
 Lock the item throw#
 Notice to find part members#
 Organize a party#
