@@ -2095,7 +2095,7 @@ The user is currently joining in the Siege.#
 It is not possible to change the party leader in the same map.#
 It is not possible to change the party leader in current area.#
 dpwn the Gryphon#
-%d Month %d day %d time %d min %d sec#
+Deletar: %d/%d - %d:%d:%d#
 You canot invite to the guild as you are in the siege.#
 You have requested to wait to enter in Battle ground.#
 the maximum amount has been exceeded.#
