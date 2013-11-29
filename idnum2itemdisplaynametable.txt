@@ -6155,7 +6155,7 @@
 18893#Elmo Garra de Dragão#
 18894#Diadema Arco-íris#
 18895#Asas de Tapaton#
-18896#Pterios_Fins#
+18896#Barbatanas Flamejantes#
 18897#Azure_Diadem#
 18898#Coroa do Escolhido#
 
@@ -6234,6 +6234,10 @@
 14620#Palitos de Limão#
 14621#Palitos de Morango#
 
+//Caixa de refinamento
 
+17281#Caixa_de_Refinamento[5]#
+17282#Caixa_de_Refinamento[50]#
+17283#Caixa_de_Refinamento[100]#
 
 //file end

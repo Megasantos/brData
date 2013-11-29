@@ -6152,7 +6152,7 @@
 18893#Equipamento para Cabeça#
 18894#Acessório#
 18895#Acessório#
-18896#Acessório#
+18896#Equipamento para Cabeça#
 18897#Acessório#
 18898#Equipamento para Cabeça#
 // ---------- Port Malaya new items ------------
@@ -6229,6 +6229,12 @@
 14619#Palitos de Cassis#
 14620#Palitos de Limão#
 14621#Palitos de Morango#
+
+//Caixas de Refinamento
+
+17281#Caixa_de_Refinamento[5]#
+17282#Caixa_de_Refinamento[50]#
+17283#Caixa_de_Refinamento[100]#
 
 
 //file end

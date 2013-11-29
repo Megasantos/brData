@@ -28721,5 +28721,39 @@ A ^FF0000SOR^000000 não pode ser aumentada por outras comidas ou consumíveis que
 Peso : ^7777771^000000
 #
 
+//Caixa de Refinamento
+
+17281#
+^ff0000Esta caixa não pode ser negociada^000000 
+Uma caixa que contém 5 Eluniuns Enriquecidos e 5 Oridecons Enriquecidos. Também contém 1 Ovo do Desconhecido como bônus.
+^ffffff_^000000
+Elunium Enriquecido - Aumenta a chance de refinamento de Armaduras
+Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
+^ffffff_^000000
+^ff0000Atenção! Verifique se você tem 4 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
+Peso: ^7777771^000000
+#
+
+17282#
+^ff0000Esta caixa não pode ser negociada^000000 
+Uma caixa que contém 50 Eluniuns Enriquecidos e 50 Oridecons Enriquecidos. Também contém 11 Ovo do Desconhecido como bônus.
+^ffffff_^000000
+Elunium Enriquecido - Aumenta a chance de refinamento de Armaduras
+Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
+^ffffff_^000000
+^ff0000Atenção! Verifique se você tem 14 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
+Peso: ^7777771^000000
+#
+
+17283#
+^ff0000Esta caixa não pode ser negociada^000000 
+Uma caixa que contém 100 Eluniuns Enriquecidos e 100 Oridecons Enriquecidos. Também contém 23 Ovo do Desconhecido como bônus.
+^ffffff_^000000
+Elunium Enriquecido - Aumenta a chance de refinamento de Armaduras
+Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
+^ffffff_^000000
+^ff0000Atenção! Verifique se você tem 26 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
+Peso: ^7777771^000000
+#
 
 //file end

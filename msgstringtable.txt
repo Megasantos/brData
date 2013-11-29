@@ -1821,8 +1821,8 @@ Você deve deixar o grupo para remover o personagem#
 Não é possível deletar devido a configurações#
 Não é possível deletar agora #
 A data de nascimento não confere#
-Necessário aumentar intimidade #
-only available on style change fighter mode#
+Necessário aumentar Lealdade #
+Disponível apenas no modo de Combate#
 only available on style change grapler mode Novice#
 Não foi possível registrar o Grupo#
 Não foi encontrado#
@@ -2020,29 +2020,29 @@ Character name is wrong.#
 Quest window#
 The game will be limited to under 16 age during 0~6am by law.#
 By the Korean law, the under 16 age users will be^ff0000limited to play games until 0~6am^000000and game will be closed.#
-In order to change the character name, you need to leave guild permanently.#
-In order to change the character name, you need to leave the party.#
-Character name has not changed due to unknown error.#
-Already it is possible to change the character slot change.(%d)#
+Para que você consiga mudar o nome do seu personagem, é necessário que você deixe seu clã.#
+Para que você consiga mudar o nome do seu personagem, é necessário que você deixe seu grupo.#
+O nome do personagem não pode ser alterado devido a um erro desconhecido.#
+Você já pode trocar o nome deste personagem. Vá até a tela de Seleção de Personagens.(%d)#
 Already it is possible to change the character name.(%d)#
 the length of the name you are trying to change is exceeded maximum length, so it has failed to change the name.#
 there is a word you cannot use included, therefore it has failed to change the character's name change.#
-You are forbidden to change the name, therefore character name change has failed.#
-complete#
-EXP %d%% increases for  %d mins.#
+Você não pode mais trocar o nome deste personagem. a troca de nome falhou.#
+Completo#
+EXP %d%% aumentada por  %d mins.#
 It is %02d sec left to summon.#
 Party leader is summoning you to %s (%s). When you are summoned, %d zeny will be consumed.#
 summoning target#
-Block list#
+Lista de Bloqueados#
 In order to add Party advertisement %d zeny will be consumed.#
 You have not enough zeny to add Party advertisement.#
 Approve ) Party register#
 deny ) party register#
 See )'s equippment window#
 Possible to type 18 characters in Kor, 36 characters in alphabet#
-Apply#
-1:1 conversation#
-Block#
+Aplicar#
+1:1 Conversação#
+Bloquear#
 You have not enough zeny to be summoned from the party leader.#
 Please write the party ad in memo.#
 Only party leader can add party advertisement.#
@@ -2068,8 +2068,8 @@ Summoned user is in the map you cannot summon.#
 It is not possible to summon in current party leader location.#
 Summoning is denied.#
 It is not possible to summon.#
-Party invite is available to party leader only.#
-Tyoe the item name you are searching :#
+Convite de grupo está disponível apenas para o líder.#
+Digite o nome do item que você está procurando :#
 You should put the character name.#
 You should put the party name.#
 Guild helper#
@@ -2128,7 +2128,7 @@ Entering the battle ground registering Help word#
 Would you like to move to the battle ground?#
 [Note]#
 If current location is not town, field or normal dungeon#
-you will be moved to the saved point#
+Você será levado ao seu Ponto de Retorno#
 after battle finished.#
 Waiting for other requests result.#
 Request entering the battle ground#
@@ -2163,7 +2163,7 @@ No limits#
 [There are too many guild members logged in.]#
 book the transfer#
 transfer#
-name change#
+Trocar Nome#
 Make Character#
 http://ro.tahadi.com/en/game-guide#
 %s Server#
