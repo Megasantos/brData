@@ -28290,7 +28290,7 @@ Nível necessário: ^7777771^000000
 Classes que utilizam: ^777777Todas^000000
 #
 14363#
-Um ovo em formato de coração. Parece estar quente e palpitante.
+Um ovo em formato de coração. Parece estar quente e palpitante. Ao ser aberto, concede um prêmio aleatório.
 ^ffffff_^000000
 Peso: ^7777771^000000
 #
@@ -42403,15 +42403,11 @@ Peso : ^7777771^000000
 
 Uma caixa com 20 Poções de Velocidade de Ataque e um Ovo de Majororus adicional.
 ^ffffff_^000000
-
-
-
 Um destilado de várias poções que aumenta a velocidade de ataque do usuário. Seu sabor não é muito agradável, mas deixará você mais leve. 
 Mas tome cuidado, o uso excessivo pode ser prejudicial à saúde.
 ^FF0000Atenção: Essa poção acumula com outras poções que influenciam na velocidade de ataque, mas o bônus não é dobrado e é afetado diretamente pela quantidade de AGI do usuário.^000000
 ^0000FFEsta poção pode ser usada em conjunto com outras poções de velocidade de ataque (Poção do Despertar, Poção da Concentração e Poção da Fúria Selvagem) e dura por 15 minutos.^000000
 Pode ser usado por todas as classes.
-
 ^ffffff_^000000
 
 Peso : ^7777771^000000
@@ -42427,7 +42423,6 @@ A ^FF0000FOR^000000 não pode ser aumentada por outras comidas ou consumíveis que
 ^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
 Peso : ^7777771^000000
 #
-
 17271#
 ^000000Uma caixa com 20 Palitos de Chocolate.
 ^ffffff_^000000
@@ -42438,7 +42433,6 @@ A ^FF0000VIT^000000 não pode ser aumentada por outras comidas ou consumíveis que
 ^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
 Peso : ^7777771^000000
 #
-
 17272#
 ^000000Uma caixa com 20 Palitos de Baunilha.
 ^ffffff_^000000
@@ -42449,7 +42443,6 @@ A ^FF0000AGI^000000 e ^FF0000Esquiva^000000  não podem ser aumentadas por outras
 ^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
 Peso : ^7777771^000000
 #
-
 17273#
 ^000000Uma caixa com 20 Palitos de Cassis.
 ^ffffff_^000000
@@ -42460,7 +42453,6 @@ A ^FF0000INT^000000 não pode ser aumentada por outras comidas ou consumíveis que
 ^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
 Peso : ^7777771^000000
 #
-
 17274#
 ^000000Uma caixa com 20 Palitos de Limão
 ^ffffff_^000000
@@ -42471,7 +42463,6 @@ A ^FF0000DES^000000 e ^FF0000Precisão^000000  não podem ser aumentadas por outra
 ^ff0000Depois de aberta, esta caixa não pode ser restituída^000000
 Peso : ^7777771^000000
 #
-
 17275#
 ^000000Uma caixa com 20 Palitos de Morango
 ^ffffff_^000000
@@ -42495,7 +42486,6 @@ Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
 ^ff0000Atenção! Verifique se você tem 4 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
 Peso: ^7777771^000000
 #
-
 17282#
 ^ff0000Esta caixa não pode ser negociada^000000 
 Uma caixa que contém 50 Eluniuns Enriquecidos e 50 Oridecons Enriquecidos. Também contém 11 Ovos do Desconhecido como bônus.
@@ -42506,7 +42496,6 @@ Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
 ^ff0000Atenção! Verifique se você tem 14 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
 Peso: ^7777771^000000
 #
-
 17283#
 ^ff0000Esta caixa não pode ser negociada^000000 
 Uma caixa que contém 100 Eluniuns Enriquecidos e 100 Oridecons Enriquecidos. Também contém 23 Ovos do Desconhecido como bônus.
@@ -42517,5 +42506,93 @@ Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
 ^ff0000Atenção! Verifique se você tem 26 espaços em seu inventário para receber todos os itens. Uma vez aberta, esta caixa não pode ser restituída.^000000
 Peso: ^7777771^000000
 #
+
+//-----BlackFriday
+19767#
+Uma fivela decorada com bolhas e flores de cerejeira. Faz você se lembrar da ilha de Amatsu.
+Tipo : ^777777Visual^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19768#
+Uma tiara de flores de cerejeira. Seu perfume faz você se lembrar de suas aventuras em Amatsu.
+Tipo : ^777777Visual^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19769#
+Protetores de orelha na forma das orelhas das travessas fadas da raça dos Esplêndidos.
+Tipo : ^777777Visual^000000
+Equipa em: ^777777Meio ^000000
+Peso: ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19770#
+Uma belíssima caneca de chá pintada em Amatsu, usada na tradicional cerimônia do chá realizada na ilha.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Baixo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19771#
+A famosa presilha que a musa Meeku Rátishune usou ao cantar Magneto em parceria com sua amiga, Megarine Louca.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19772#
+Se você é uma pessoa abelhuda vai ficar perfeita com este chapéu. Ou caso você goste muito de mel.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19773#
+Uma presilha baseada no popular monstrinho Angeling. Faz até você sentir sua cabeça mais leve!
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19774#
+Uma coroa de louros usada em cerimônias de coroação. Ela simboliza vitória e glória.
+Tipo : ^777777Visual^000000
+Equipa em:  ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19776#
+Protetores de orelha na forma das orelhas das animadas fadas da raça dos Esplêndidos. São literalmente animadas com magia!
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19775#
+Uma fantástica e super fashion peruca com penteado afro que te deixa com vontade de cair na pista de dança. Ou talvez de comer sorvete napolitano.
+Tipo : ^777777Visual^000000
+Equipa em : ^777777Topo e Meio ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+17305#
+Item criado pela Motoyo Doidage para disponibilizar suas incríveis criações de forma inusitada. É possível perceber que ele foi encantado para gerar aleatoriamente uma das criações de Doidage assim que aberto.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+
 
 //file end
