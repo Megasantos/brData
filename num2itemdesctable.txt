@@ -28756,4 +28756,110 @@ Oridecon Enriquecido - Aumenta a chance de refinamento de Armas
 Peso: ^7777771^000000
 #
 
+//-----BlackFriday
+
+19767#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19768#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19769#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19770#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19771#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19772#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19773#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19774#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19776#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19775#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+17305#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+
+-------Costama Egg05 Xmas
+
+19677#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19678#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19681#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19682#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19683#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19684#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19685#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19679#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19680#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+19540#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+//--------Q4 2013 Items
+
+18910#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+18918#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+
+4869#Diminuição de tempo entre ataques em 4%#
+4872#Diminuição de tempo entre ataques em 6%#
+4873#Diminuição de tempo entre ataques em 8%# 
+4863#Dano Crítico +4%, Crítico +1#
+4864#Dano Crítico +6%, Crítico +2#
+4865#Dano Crítico +8%, Crítico +3#
+4866#Dano Crítico +10%, Crítico +4#
 //file end

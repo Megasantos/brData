@@ -9396,13 +9396,6 @@ Peso: ^7777772^000000
 
 //----2005 XMAS ------
 #
-
-12132#
-Pequena Bolsa Mágica Vermelha
-Permite vestir a roupa de ^000088Papai Noel^000000 por 10 minutos.
-^ffffff_^000000
-Peso: ^77777720^000000
-#
 7175#
 Papel brilhante e bonito usado para decorar uma Caixa de Presente.
 ^ffffff_^000000
@@ -10572,7 +10565,7 @@ Peso: ^77777730^000000
 7227#
 Um passe que permite o acesso a um dos calabouços de Cheffênia apenas uma vez. Após sua utilização, este passe será consumido. Pode ser utilizado nos NPCs em: Prontera (168, 125), Geffen (124, 169), Payon (165, 150), Morroc (142, 100), Lighthalzen (203, 140) ou Rachel (132, 144).
 ^ffffff_^000000
-^FF0000ATENÇÃO! O evento Cheffênia será encerrado na manutenção do dia 30/07/13. O passe perderá a validade após esta data.^000000
+^FF0000ATENÇÃO! O evento Cheffênia será encerrado na manutenção do dia 17/12/13. O passe perderá a validade após esta data.^000000
 ^FF0000Este item não pode ser negociado, derrubado no chão ou colocado no carrinho, mas pode ser transferido para o armazém.^000000
 Peso: ^7777771^000000
 #
@@ -10824,8 +10817,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Caixa de Anel do Ganhador [15 Dias], Caixa de Anel do Devastador [15 Dias], Caixa de Anel Caçador Veterano [15 Dias], Caixa de Anel Caçador de Morto-Vivo [15 Dias], Caixa de Anel Colecionador de Insetos [15 Dias], Caixa de Anel de Pescador [15 Dias], Caixa de Anel do Exorcista [15 Dias], Caixa de Anel do Açougueiro [15 Dias], Caixa de Anel do Anjo Caído [15 Dias] e Caixa de Anel Caçador de Dragões [15 Dias].
-Esta promoção está disponível apenas até o dia 18/11/2013.
+Troque-o pelos seguintes itens: Gorro de Natal 2.0 [1], Gorro Natalino de Gelo e Bolsa do Papai Noel.
+Esta promoção está disponível apenas até o dia 16/12/2013.
 ^ff0000Este pacote pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -35511,11 +35504,11 @@ Nível Necessário : ^77777780^000000
 Classe : ^777777Todas as classes^000000
 #
 4760#
-MATQ+1%
+ATQM+1%
 Diminui tempo de conjuração em 1%
 #
 4761#	
-MATQ + 2%,
+ATQM +2%,
 Diminui tempo de conjuração em 1%
 #
 4762
@@ -35639,7 +35632,7 @@ Classe : ^777777Evoluções de Espadachim^000000
 Uma bela lança feita nos exatos padrões exigidos pelo reino.
 Adiciona 20% de Ataque Físico ao utilizar Disparo Perfurante e Toque do Oblívio. Adicionam 3% Ataque físico a cada +2 níveis de refinamento da arma.
 Quando utilizada junto com a Guarda Imperial, os danos das habilidades Grand Cross e Luz da Criação aumentam em 10%.
-MATQ + 40
+ATQM +40
 Tipo : ^777777Lança de Uma Mão^000000 
 Força de Ataque : ^777777180^000000
 Peso : ^777777180^000000
@@ -35653,7 +35646,7 @@ Um cajado que converte energia elemental em força psíquica.
 O tempo variável de conjuração da habilidade Onda Psíquica diminui por 3 segundos. Consome SP +60 ao utilizar a habilidade.
 Ataque aumenta em 2% e MHP diminui em 2% para cada nível de refinamento a partir do +6.
 Perde 100 de SP ao retirar a arma.
-MATQ + 170
+ATQM + 170
 Tipo : ^777777Cajado de Uma Mão^000000 
 Força de Ataque : ^77777740^000000
 Peso : ^77777750^000000
@@ -35677,7 +35670,7 @@ Classe : ^777777Shura^000000
 1930#
 Uma flauta feita a partir de uma grossa raiz.
 O tempo variável de conjuração das habilidades Melodia de Morpheu e Sinfonia dos Ventos diminui em 2 segundos. O consumo de SP diminui em 4 a cada nível de refinamento à partir do +6.
-MATQ + 50
+ATQM + 50
 Tipo : ^777777Instrumento Musical^000000 
 Força de Ataque : ^777777170^000000
 Peso : ^77777780^000000
@@ -35689,7 +35682,7 @@ Classe : ^777777Trovador^000000
 1984#
 Um chicote muito flexível feito de uma grossa raiz.
 O tempo variável de conjuração das habilidades Melodia de Morpheu e Ritmo Contagiante diminuem em 2 segundos. O consumo de SP diminui em 4 a cada nível de refinamento à partir do +6.
-MATQ + 50
+ATQM + 50
 Tipo : ^777777Chicote^000000 
 Força de Ataque : ^777777170^000000
 Peso : ^77777780^000000
@@ -35701,7 +35694,7 @@ Classe : ^777777Musa^000000
 1985#
 Um chicote que possui uma fragrância sedutora vinda do caule de uma rosa mágica.
 Pequena chance de acionar canto da Sereia Lv1 ao realizar ataques físicos.
-INT + 2,MATQ + 130.
+INT + 2,ATQM + 130.
 Tipo : ^777777Chicote^000000 
 Força de Ataque : ^777777100^000000
 Peso : ^777777100^000000
@@ -35759,8 +35752,8 @@ Classe : ^777777Terceiras Classes^000000
 
 13061#
 Uma adaga serrilhada forjada na Guilda dos Arruaceiros.
-Aumenta em 30% o ataque da habilidade Acerto de Contas. Aumenta o ATQ em 2% e MATQ +3 a cada nível de refinamento da arma à partir do +6.
-Acerto +5, MATQ +5 quando utilizado com Gato Preto. Diminui o consumo de SP em -20 das habilidades Máscara da Fraqueza e Máscara da Melancolia.
+Aumenta em 30% o ataque da habilidade Acerto de Contas. Aumenta o ATQ em 2% e ATQM +3 a cada nível de refinamento da arma à partir do +6.
+Acerto +5, ATQM +5 quando utilizado com Gato Preto. Diminui o consumo de SP em -20 das habilidades Máscara da Fraqueza e Máscara da Melancolia.
 Tipo : ^777777Adaga^000000 
 Força de Ataque : ^777777142^000000
 Peso : ^77777760^000000
@@ -35771,7 +35764,7 @@ Classe : ^777777Renegado^000000
 
 13062#
 Uma adaga para realizar rituais com poderes desconhecidos.
-MATQ + 120, MSP + 100, aumenta a recuperação de SP em 5%.
+ATQM + 120, MSP + 100, aumenta a recuperação de SP em 5%.
 Pequena chance de amaldiçoar o usuário a cada ataque físico.
 Tipo : ^777777Adaga^000000 
 Força de Ataque : ^777777107^000000
@@ -35796,7 +35789,7 @@ Classe : ^7777773ª Classes de Espadachim e Mercador.^000000
 16010#
 Uma bolsa confeccionada na Guilda dos Alquimistas: 'Uma arma que favorece as mulheres!' 
 Aumenta o ataque em 20% das habilidades Erva Daninha e Bomba Napalm. Aumenta o ataque em 2% a cada nível de refinamento à partir do +6.
-MATQ + 100
+ATQM + 100
 Tipo : ^777777Maça^000000 
 Força de Ataque : ^77777715^000000
 Peso : ^777777100^000000
@@ -35808,7 +35801,7 @@ Classe : ^777777Bioquímico^000000
 18103#
 Um pequeno arco com grandes poderes mágicos.
 Diminui o consumo de SP em -10 quando utilizar a habilidade Temporal de Mil Flechas.
-INT + 4, MATQ + 100.
+INT + 4, ATQM + 100.
 Tipo : ^777777Arco^000000 
 Força de Ataque : ^77777775^000000
 Peso : ^777777170^000000
@@ -36137,8 +36130,8 @@ Peso : ^7777771^000000
 As lendárias botas negras de couro utilizadas pelos Cavaleiros Rúnicos
 Quando a For base for 90 ou maior, ATQ + 10 
 Quando a For base for 120, será adicionada ATQ + 10
-Quando a INT base for 90 ou maior, MATQ + 3%
-Quando a INT base for 120, será adicionada MATQ + 2%
+Quando a INT base for 90 ou maior, ATQM + 3%
+Quando a INT base for 120, será adicionada ATQM + 2%
 Indestrutível em batalha
 Tipo : ^777777Sapatos^000000 
 Defesa : ^7777775^000000
@@ -36401,8 +36394,8 @@ Classe : ^777777Espadachim e evoluções^000000
 
 1585#
 Um belo Livro confeccionado com páginas de Ouro e escritas em Oridecon.
-MATQ + 20.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+ATQM + 20.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Livro^000000
 Força de Ataque: ^77777745^000000
@@ -36414,11 +36407,11 @@ Classe : ^777777Sacerdote, Sábio e evoluções e Mestre Taekwon^000000
 
 2015#
 Cajado refinado em Ouro e Oridecon o transformando em um exemplo de poder e beleza.
-MATQ + 70.
-Adiciona MATQ + 30 para Bruxos e evoluções
-Adiciona MATQ + 20 para Sábios e evoluções
-Adiciona MATQ + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
-Adiciona MATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
+ATQM + 70.
+Adiciona ATQM + 30 para Bruxos e evoluções
+Adiciona ATQM + 20 para Sábios e evoluções
+Adiciona ATQM + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
+Adiciona ATQM + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Cajado de Duas Mãos^000000
 Força de Ataque : ^77777750^000000
 Peso: ^777777100^000000
@@ -36429,7 +36422,7 @@ Classe : ^777777Mago, Noviço e evoluções e Espiritualista^000000
 
 13071#
 Uma Adaga perfeita refinada em Ouro com sua lâmina em Oridecon.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Adaga^000000 Força de Ataque : ^77777755^000000
 Peso: ^77777760^000000
@@ -36518,8 +36511,8 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Livro Aprimorado.
 Um belo Livro confeccionado com páginas de Ouro e escritas em Oridecon.
-MATQ + 20.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+ATQM + 20.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Livro^000000
 Força de Ataque: ^77777745^000000
@@ -36536,11 +36529,11 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Cajado Aprimorado.
 Cajado refinado em Ouro e Oridecon o transformando em um exemplo de poder e beleza.
-MATQ + 70.
-Adiciona MATQ + 30 para Bruxos e evoluções
-Adiciona MATQ + 20 para Sábios e evoluções
-Adiciona MATQ + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
-Adiciona MATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
+ATQM + 70.
+Adiciona ATQM + 30 para Bruxos e evoluções
+Adiciona ATQM + 20 para Sábios e evoluções
+Adiciona ATQM + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
+Adiciona ATQM + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Cajado de Duas Mãos^000000
 Força de Ataque : ^77777750^000000
 Peso: ^777777100^000000
@@ -36556,7 +36549,7 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Adaga Aprimorada.
 Uma Adaga perfeita refinada em Ouro com sua lâmina em Oridecon.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Adaga^000000
 Força de Ataque : ^77777755^000000
@@ -36676,8 +36669,8 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Livro Aprimorado.
 Um belo Livro confeccionado com páginas de Ouro e escritas em Oridecon.
-MATQ + 20.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+ATQM + 20.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Livro^000000
 Força de Ataque: ^77777745^000000
@@ -36694,11 +36687,11 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo um Cajado Aprimorado.
 Cajado refinado em Ouro e Oridecon o transformando em um exemplo de poder e beleza.
-MATQ + 70.
-Adiciona MATQ + 30 para Bruxos e evoluções
-Adiciona MATQ + 20 para Sábios e evoluções
-Adiciona MATQ + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
-Adiciona MATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
+ATQM + 70.
+Adiciona ATQM + 30 para Bruxos e evoluções
+Adiciona ATQM + 20 para Sábios e evoluções
+Adiciona ATQM + 10 e aumenta o Valor de Cura em + 1%  a cada nível de refinamento.
+Adiciona ATQM + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Cajado de Duas Mãos^000000
 Força de Ataque : ^77777750^000000
 Peso: ^777777100^000000
@@ -36714,7 +36707,7 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Adaga Aprimorada.
 Uma Adaga perfeita refinada em Ouro com sua lâmina em Oridecon.
-Adiciona ATQ + 10 e MATQ + 5  a cada nível de refinamento.
+Adiciona ATQ + 10 e ATQM + 5  a cada nível de refinamento.
 Adiciona ATQ + 5 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Adaga^000000
 Força de Ataque : ^77777755^000000
@@ -36783,7 +36776,7 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Espada Aprimorada de Duas Mãos
 Uma magnífica Espada de Duas Mãos refinada em Oridecon e Ouro.
-Adiciona ATQ + 12 e  MATQ + 5  a cada nível de refinamento
+Adiciona ATQ + 12 e  ATQM + 5  a cada nível de refinamento
 Adiciona ATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Espada de Duas Mãos^000000
 Força de Ataque: ^777777100^000000
@@ -36805,7 +36798,7 @@ Peso : ^7777771^000000
 ^ff0000Não pode ser trocado entre personagens^000000
 Caixa contendo uma Espada Aprimorada de Duas Mãos
 Uma magnífica Espada de Duas Mãos refinada em Oridecon e Ouro.
-Adiciona ATQ + 12 e  MATQ + 5  a cada nível de refinamento
+Adiciona ATQ + 12 e  ATQM + 5  a cada nível de refinamento
 Adiciona ATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Espada de Duas Mãos^000000
 Força de Ataque: ^777777100^000000
@@ -36833,7 +36826,7 @@ Classe : ^777777Arqueiro e evoluções^000000
 
 21000#
 Uma magnífica Espada de Duas Mãos refinada em Oridecon e Ouro.
-Adiciona ATQ + 12 e  MATQ + 5  a cada nível de refinamento
+Adiciona ATQ + 12 e  ATQM + 5  a cada nível de refinamento
 Adiciona ATQ + 10 a cada 10 níveis de Base em personagens acima do nível 70.
 Tipo : ^777777Espada de Duas Mãos^000000 Força de Ataque: ^777777100^000000
 Peso: ^777777150^000000
@@ -36886,19 +36879,6 @@ Tipo : ^777777Armadura^000000
 Defesa : ^7777770^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777750^000000
-Classe : ^777777Todas^000000
-#
-
-2589#
-Largas asas negras de um Arcanjo expulso do céu.
-SOR + 2.
-Diminui em 10% o dano físico recebido da propriedade Humanóide.
-Diminui em 30% o dano físico recebido da propriedade Demônio.
-Recebe +30% de danos físicos da propriedade Sagrado.
-Tipo : ^777777Capa^000000
-Defesa : ^77777718^000000
-Peso : ^77777720^000000
-Nível necessário : ^7777771^000000
 Classe : ^777777Todas^000000
 #
 
@@ -36958,24 +36938,23 @@ ATQ em Longas Distâncias + 10%
 #
 
 4843#
-ATQ Crítico + 14, Precisão + 5.
+ATQ Crítico +14, Precisão + 5.
 #
 
 4844#
-ATQ Crítico + 15, Precisão + 6.
+ATQ Crítico +15, Precisão + 6.
 #
 
 4812#
-MATQ + 15, Diminui tempo entre habilidades em 10%
+ATQM +15, Diminui tempo de conjuração em 10%
 #
 
 4826#
-MATQ + 18, Diminui tempo entre habilidades em 10%
+ATQM +18, Diminui tempo de conjuração em 10%
 #
 
 4806#
-MATQ + 3%,
-Diminui tempo de conjuração em 1%
+ATQM +3%, Diminui tempo de conjuração em 1%
 #
 
 9051#
@@ -37636,11 +37615,11 @@ Dano por ATQ em Longas Distâncias +6%
 #
 
 4810#
-ATQ + 9, Acerto + 3.
+ATQ + 9, Precisão + 3.
 #
 
 4809#
-ATQ + 12, Acerto + 4.
+ATQ + 12, Precisão + 4.
 #
 
 //---------------------------2012 July Items---------------------------
@@ -38360,25 +38339,25 @@ ATQ +6, Precisão +2.
 ATQM+ 6, Diminui Tempo de Conjuração em 4%.
 #
 4818#
-CRI + 6, HIT + 2.
+CRI + 6, Precisão + 2.
 #
 4819#
 ATQ +1%.
 #
 4821#
-ATQ +21, HIT +5.
+ATQ +21, Precisão +5.
 #
 4822#
-ATQ +24, HIT +5.
+ATQ +24, Precisão +5.
 #
 4823#
-ATQ +27, HIT +5.
+ATQ +27, Precisão +5.
 #
 4824#
-ATQ +30, HIT +5.
+ATQ +30, Precisão +5.
 #
 4825#
-ATQ +50, HIT +15.
+ATQ +50, Precisão +15.
 #
 4827#
 ATQM +21, Diminui Tempo de Conjuração em 10%.
@@ -39320,14 +39299,6 @@ HP + 400
 
 4799#
 HP + 500
-#
-
-4800#
-SP + 50
-#
-
-4801#
-SP + 100
 #
 
 4802#
@@ -41804,16 +41775,6 @@ Nível Necessário : ^7777771^000000
 Classe : ^777777Todas^000000
 #
 
-19685#
-What a pretty Poring shape hat with bling bling santa hat on.
-Class : ^777777Costume^000000 
-Def : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
-#
-
 2190#
 Esse escudo passou 200 anos sendo banhado pela cachoeira nas raízes da Yggdrasil. Por isso foi classificado pelo Ancião Mestre como um dos escudos mais resistentes de Rune-Midgard, dono da defesa perfeita.
 HP Máx + 500, SP Máx + 50
@@ -42593,6 +42554,150 @@ Item criado pela Motoyo Doidage para disponibilizar suas incríveis criações de f
 ^ffffff_^000000
 Peso: ^7777771^000000
 #
+2589#
+Largas asas negras de um arcanjo expulso do céu.
+Todos os atributos +1.
+A cada 20 de FOR, ATQ +1,
+A cada 20 de INT,  MATQ +1,
+A cada 20 de VIT 20, resistência contra tipo neutro +1%,
+A cada 20 de AGI, velocidade de ATQ +1%,
+A cada 20 de DES, dano de ataques a distância +1%,
+A cada 20 de SOR, crítico +1%.
+Pode receber encantamentos no NPC Valquíria Obscura em Geffen 136 55.
+Tipo: ^777777Capa^000000
+Defesa: ^77777718^000000
+Peso: ^77777720^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+//---------Costama Egg Xmas
+17269#
+Um ovo natalino com uma surpresa dentro. Ao ser aberto, concede um equipamento visual aleatório.
+Peso: 1
+#
+19677#
+Depois de retornar tantas vezes para a Kafra, de repente você ficou com esse visual espiritual.
+Tipo: ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19678#
+O complemento perfeito para o seu visual na hora de cantar “Toca o Sino” e outras músicas natalinas.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19681#
+Uma tiara visual feita de prata reluzente, decorada com uma pequena estrela na ponta.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19682#
+Um Poring Noel pulando na sua cabeça é o visual mais desejado do Natal!
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19683#
+Azedinho na medida certa, esse pirulito ainda deixa você com um visual de alguém bonzinho e inocente.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Baixo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19684#
+Uma peruca afro fofinha, perfeita para um visual festivo. E péssima para se cabecear no futebol.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19685#
+Depois de juntar todo o seu ki e se transformar no Super Poring Noel, esse monstrinho deixou seu visual ainda mais especial!
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19679#
+O visual perfeito para quando você dropar a carta daquele MVP, telar em cima da Katrinn Keyron ou quebrar o Emperium com apenas um “hit”.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19680#
+Ok. Então você fez alguma coisa errada e resolveu colocar essa máscara para disfarçar. Não que esse visual esteja ajudando muito.  :-p
+Tipo : ^777777Visual^000000 Defesa : ^7777770^000000
+Equipa em : ^777777Meio e baixo ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19540#
+Um protetor de orelhas bem quentinho com um visual fofinho de coelhinhos.
+Tipo : ^777777Visual^000000 Defesa : ^7777770^000000
+Equipa em : ^777777Topo e meio ^000000
+Peso : ^7777770^000000
+Nível necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+
+//------------------Q4 - 2013 Items---------------------------------
+18910#
+Dizem que a Yggdrasil leva a vários mundos, um deles habitados por humanoides com orelhas de coelho da raça Fiera. Agora você é um deles!
+Reduz o dano recebido de humanoide em 5%.
+Dano contra monstros de tamanho médio +10%.
+Se refinado em +12 ou mais, reflete 5% do dano físico recebido.
+Tipo: ^777777Equipamento para cabeça^000000
+Defesa: ^7777778^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777730^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+18918#
+A famosa estilista, Leira, a pequena Obeaune, comemorou o sucesso de sua última coleção criando este balão mágico superfofinho!
+VIT +1, INT +1, MAXSP +30.
+Não pode ser refinado nem destruído.
+Tipo: ^777777Equipamento para cabeça^000000
+Defesa: ^7777775^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^77777720^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+4869#Diminuição de tempo entre ataques em 4%#
+4872#Diminuição de tempo entre ataques em 6%#
+4873#Diminuição de tempo entre ataques em 8%# 
+4863#Dano Crítico +4%, Crítico +1#
+4864#Dano Crítico +6%, Crítico +2#
+4865#Dano Crítico +8%, Crítico +3#
+4866#Dano Crítico +10%, Crítico +4#
+
 
 
 //file end

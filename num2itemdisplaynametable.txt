@@ -6236,5 +6236,41 @@
 17282#Caixa_de_Refinamento[50]#
 17283#Caixa_de_Refinamento[100]#
 
+//-----BlackFriday
+19767#Equipamento visual#
+19768#Equipamento visual#
+19769#Equipamento visual#
+19770#Equipamento visual#
+19771#Equipamento visual#
+19772#Equipamento visual#
+19773#Equipamento visual#
+19774#Equipamento visual#
+19776#Equipamento visual#
+19775#Equipamento visual#
+17305#Ovo Fashion#
 
+//-----Costama Egg05 XMAS
+17269#Ovo Natalino#
+19677#Equipamento visual#
+19678#Equipamento visual#
+19681#Equipamento visual#
+19682#Equipamento visual#
+19683#Equipamento visual#
+19684#Equipamento visual#
+19685#Equipamento visual#
+19679#Equipamento visual#
+19680#Equipamento visual#
+19540#Equipamento visual#
+
+//------------------Q4 - 2013 Items---------------------------------
+18910#Equipamento para Cabeça#
+18918#Equipamento para Cabeça#
+
+4869#Vel. Ataque 2#
+4872#Vel. Ataque 3#
+4873#Vel. Ataque 4# 
+4863#Crítico 1#
+4864#Crítico 2#
+4865#Crítico 3#
+4866#Crítico 4#
 //file end

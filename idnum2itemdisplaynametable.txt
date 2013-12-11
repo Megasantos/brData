@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote da Experiência#
+7550#Pacote Natalino#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -5483,7 +5483,7 @@
 17064#Ovo das Estrelas#
 5782#Elmo Espartano#
 15049#Armadura da Fé de Odin#
-2589#Asas de Arcano Caído#
+2589#Asas de Arcanjo Caído#
 5664#Asas de Filir#
 18597#Elmo do Mercúrio#
 18573#Pena Branca#
@@ -5681,13 +5681,13 @@
 17254#Caixa Memorável do Colar RWC#
 
 //-------RWC2012 enchant event material-------------
-4797#HP+300#
-4796#HP+200#
-4795#HP+100#
-4800#SP +50#
-4801#SP +100#
-4802#SP +150#
-4807#Vel. Ataque +1#
+4797#HP Máximo 3#
+4796#HP Máximo 2#
+4795#HP Máximo 1#
+4800#SP Máximo 2#
+4801#SP Máximo 4#
+4802#SP Máximo 5#
+4807#Vel. Ataque 1#
 4811#Espírito_do_Lutador_1#
 4815#Pedra_de_Encantamento_1#
 4818#Pedra_de_Crítico_1#
@@ -5708,15 +5708,15 @@
 4839#Pedra_da_Mira_Apurada_8#
 4840#Pedra_da_Mira_Apurada_9#
 4841#Pedra_da_Mira_Apurada_10#
-4842#Vel. Ataque +2#
+4842#Vel. Ataque 2#
 4859#Esquiva +1#
 4860#Esquiva +3#
-4861#HP Máx. +1%#
-4862#HP Máx. +2%#
-4867#HP Máx. +3%#
-4868#HP Máx. +4%#
-4870#SP +25#
-4871#SP +75#
+4861#HP Máximo 4#
+4862#HP Máximo 5#
+4867#HP Máximo 6#
+4868#HP Máximo 7#
+4870#SP Máximo 1#
+4871#SP Máximo 3#
 
 //----------2012 halloween---------------
 6654#Agulha e Linha#
@@ -5831,8 +5831,8 @@
 4797#HP + 300#
 4798#HP + 400#
 4799#HP + 500#
-4800#SP + 50#
-4801#SP + 100#
+4800#SP Máximo 2#
+4801#SP Máximo 4#
 4802#SP + 150#
 4803#Cura Nv. 1#
 4804#Catolicismo Nv. 1#
@@ -6208,7 +6208,7 @@
 6523#Peça de Espírito de Bakonawa#
 6524#Peça de Espírito de Bangungot#
 6525#Peça de Espírito de Buwaya#
-
+//Halloween
 11550#Bolo de Abóbora#
 22669#Caixa do Halloween#
 22670#Convite Sombrio#
@@ -6240,4 +6240,43 @@
 17282#Caixa_de_Refinamento[50]#
 17283#Caixa_de_Refinamento[100]#
 
+//-----BlackFriday
+19767#Fivela de Sakura#
+19768#Tiara de Sakura#
+19769#Orelhas de Fada Travessa#
+19770#Caneca de Chá Oriental#
+19771#Presilha de Borboleta#
+19772#Chapéu de Abelha#
+19773#Presilha de Angeling#
+19774#Coroa do Imperador#
+19776#Orelhas de Fada Animada#
+19775#Peruca Maravilinda#
+17305#Ovo Fashion#
+//-----------------
+
+//-----Costama EGG XMAS
+17269#Ovo Natalino#
+19677#Auréola Espiritual#
+19678#Lacinho com Sinos#
+19681#Tiara Prateada#
+19682#Chapéu de Poring Natalino#
+19683#Pirulito Azedinho#
+19684#Peruca do Visual Carnavalesco#
+19685#Chapéu do Super Poring Noel#
+19679#Cara de Espanto#
+19680#Máscara da Criança Travessa#
+19540#Protetor com Coelhinhos#
+
+
+//------------------Q4 - 2013 Items---------------------------------
+18910#Orelhas Azuis de Fiera#
+18918#Balão de Polvo#
+
+4869#Vel. Ataque 2#
+4872#Vel. Ataque 3#
+4873#Vel. Ataque 4# 
+4863#Crítico 1#
+4864#Crítico 2#
+4865#Crítico 3#
+4866#Crítico 4#
 //file end
