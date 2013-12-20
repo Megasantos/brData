@@ -6279,4 +6279,5 @@
 4864#Crítico 2#
 4865#Crítico 3#
 4866#Crítico 4#
+5873#Elmo de Siegfried#
 //file end

@@ -40,6 +40,7 @@
 13050#Adaga#
 13051#Adaga#
 13112#Revólver#
+5873#Elmo#
 13113#Revólver#
 13423#Sabre#
 13424#Sabre#

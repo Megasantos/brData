@@ -28850,8 +28850,10 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 18910#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
-
 18918#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+5873#
 Item não identificado. Pode ser identificado com uma [Lupa].
 #
 

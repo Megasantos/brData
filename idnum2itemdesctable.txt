@@ -20279,9 +20279,9 @@ Classes que utilizam: ^777777Todas^000000
 //#
 7608#
 Ticket promocional criado pela Corporação Kafra.
-Troque-o por um pacote de itens na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 11/11, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 12/11. O item conseguido na troca com A NPC é aleatório!^000000 Boa sorte!
+Troque-o por um item na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Esta promoção está disponível apenas até o dia 25/12, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 26/12. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -42558,8 +42558,8 @@ Peso: ^7777771^000000
 Largas asas negras de um arcanjo expulso do céu.
 Todos os atributos +1.
 A cada 20 de FOR, ATQ +1,
-A cada 20 de INT,  MATQ +1,
-A cada 20 de VIT 20, resistência contra tipo neutro +1%,
+A cada 20 de INT, MATQ +1,
+A cada 20 de VIT, resistência contra tipo neutro +1%,
 A cada 20 de AGI, velocidade de ATQ +1%,
 A cada 20 de DES, dano de ataques a distância +1%,
 A cada 20 de SOR, crítico +1%.
@@ -42697,7 +42697,20 @@ Classes: ^777777Todas^000000
 4864#Dano Crítico +6%, Crítico +2#
 4865#Dano Crítico +8%, Crítico +3#
 4866#Dano Crítico +10%, Crítico +4#
-
-
+#
+5873#
+Um elmo que foi usado por um lendário matador de dragões. Este elmo é feito de asas e pedaços de pele de dragão. Usá-lo faz você se sentir épico e lendário. 
+Aumenta a resistência contra ataques do tipo Neutro em 5%. 
+Aumenta a resistência contra ataques de monstros da raça Dragão em 5%.
+Chance de conjurar a habilidade Assumptio em nível 5 quando atacado fisicamente. 
+Todos os atributos +5. Perda de 600 de HP a cada segundo. 
+Indestrutível em batalha.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777777^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777760^000000
+Nível necessário : ^77777760^000000
+Classes: ^777777Transclasses de Espadachins e Mercadores^000000
+#
 
 //file end
