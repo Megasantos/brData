@@ -6274,4 +6274,16 @@
 4864#Crítico 2#
 4865#Crítico 3#
 4866#Crítico 4#
+
+//XMAS 2013
+19976#Chapéu de Gato Natalino#
+22685#Presente de Natal dos Solteiros#
+6821#Insígnia de Tropas dos Solteiros#
+22686#Biscoito dos Solteiros#
+
+//----Janeiro 2014
+6831#Ticket de Rune-Midgard#
+18909#Equipamento para Cabeça#
+5874#Equipamento para Cabeça#
+
 //file end

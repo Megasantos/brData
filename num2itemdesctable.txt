@@ -28864,4 +28864,39 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 4864#Dano Crítico +6%, Crítico +2#
 4865#Dano Crítico +8%, Crítico +3#
 4866#Dano Crítico +10%, Crítico +4#
+
+
+//XMAS 2013
+19976#
+Item Desconhecido que pode ser identificado pela [Lupa].
+#
+22685#
+Abra quando eu estiver só.
+Ninguém sabe o que há dentro até abrir.
+(Este item será excluído com o encerramento do evento de Natal.)
+#
+6821#
+Um sinal que prova ser membro da união dos solteiros.
+Casais significam traição!
+#
+22686#
+Um biscoito para comer sozinho no Natal.
+Não estou só. Não estou só.
+Recupera 5% de HP e SP.
+#
+
+//------Janeiro 2014
+6831#
+^ff0000Este item não pode ser negociado, derrubado no chão ou colocado na Kafra.^000000
+Um Ticket vendido pelo Carteiro.
+Você pode troca-lo por recompensas com o Colecionador.
+Peso : ^7777770^000000
+#
+
+18909#
+Item não identificado. Pode ser identificado com uma [Lupa]#
+5874#
+Item não identificado. Pode ser identificado com uma [Lupa]#
+
+
 //file end

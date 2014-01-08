@@ -2687,8 +2687,8 @@
 12912#Espelho Convexo[10]#
 12913#Caixa Abençoada[10]#
 12914#Caixa Ágil[10]#
-12915#Caixa de Aspersio[5]#
-12916#Caixa de Assumptio[5]#
+12915#Caixa de Aspersio[20]#
+12916#Caixa de Assumptio[20]#
 12917#Caixa do Vento[10]#
 12918#Caixa de Adrenalina[20]#
 12919#Caixa de Megafone[10]#
@@ -3224,8 +3224,8 @@
 12132#Bolsa_de_Papai_Noel#
 5811#Bigode_de_Papai_Noel#
 7908#Cupom_de_Cabeleireiro#
-7909#Biscoito_Roubado#
-7910#Doce_Roubado#
+7909#Biscoito Roubado#
+7910#Doce Roubado#
 7911#Chapéu_de_Yulia#
 
 // ----------------- cRO Hats ------------------
@@ -6280,4 +6280,17 @@
 4865#Crítico 3#
 4866#Crítico 4#
 5873#Elmo de Siegfried#
+
+//XMAS 2013
+19976#Chapéu de Gato Natalino#
+22685#Presente de Natal dos Solteiros#
+6821#Insígnia de Tropas dos Solteiros#
+22686#Biscoito dos Solteiros#
+
+//-----Janeiro 2014
+6831#Ticket de Rune-Midgard#
+18909#Orelhas Marrons de Fiera#
+5874#Diadema de Kriemhild#
+
+
 //file end

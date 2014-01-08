@@ -8892,27 +8892,27 @@ Aldeões estão tentando arrancar meus botões e puxar minhas mangas. Vamos distrib
 Entregue os itens Sagrados a Pedro, Nardo, Pandoi, Woeon, Talah e Romel#
 
 7352#O Marinheiro Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7353#O Velho Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7354#O Jovem Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7355#O Mercador Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7356#A Garotinha Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7357#Homem de Meia-idade Quer um Botão#SG_FEEL#QUE_NOIMAGE#
-Um dos aldeões que quer um agimat para carregar.#
+Um dos aldeões que quer um amuleto para carregar.#
 #
 
 7358#Por Que Querem Botões#SG_FEEL#QUE_NOIMAGE#
@@ -8944,7 +8944,7 @@ Melhor que nada.#
 #
 
 7365#Melhor que Meu Botão Antigo-2#SG_FEEL#QUE_NOIMAGE#
-Ouviu o conselho de Phong, o Mumbaki, e entregou os itens sagrados aos aldeões para levarem como agimats. Vou perguntar a ele sobre o que devo fazer em seguida.#
+Ouviu o conselho de Phong, o Mumbaki, e entregou os itens sagrados aos aldeões para levarem como amuletos. Vou perguntar a ele sobre o que devo fazer em seguida.#
 Falar sério com Mumbaki.#
 
 7366#Proteção Espiritual Tradicional e Garota Sem-vergonha-1#SG_FEEL#QUE_NOIMAGE#
@@ -9057,7 +9057,7 @@ Jejellopys são produzidos para serem usados em vários produtos. Woeon precisará 
 
 7393#Lâmina de Prata Brilhante#SG_FEEL#QUE_NOIMAGE#
 O sonho do Ferreiro Aprendiz, Pandoi, é fazer uma Lâmina de Prata. Colete 10 Braceletes de Prata de monstros no hospital.#
-10 Braceletes de Prata, e derrote Meoneonuncle e Twignut#
+10 Braceletes de Prata, e derrote Manananggal e Tiyanak#
 
 7394#Amanhã Brilhante#SG_FEEL#QUE_NOIMAGE#
 Volte para Pandoi depois de um dia. Se ele falhou ao criar uma Lâmina de Prata, precisará de sua ajuda para obter mais Braceletes de Prata.#
@@ -9070,7 +9070,7 @@ Investigue o Barco da Travessia.#
 
 7396#Alma Nervosa no Barco da Travessia#SG_FEEL#QUE_NOIMAGE#
 Foi maltratado no Barco da Travessia pelo espírito de uma garota nervosa. Vamos buscar uma solução.#
-Fale com Pedro, o Mumbaki.#
+Fale com Pedro, o Marinheiro.#
 
 7397#Conselho de Phong, o Mumbaki#SG_FEEL#QUE_NOIMAGE#
 Phong, o Mumbaki, disse para não evitar o espírito, mas para abraçá-lo e acalmá-lo. Vamos procurar flores para oferecer. Você pode obter flores dos animais e monstros próximos.#
@@ -9284,7 +9284,7 @@ Investigue os arredores do hospital.#
 
 11296#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 Puxou o graveto enfiado profundamente. A atmosfera melancólica do hospital parece ter dobrado.#
-Melhor levar este agimat a Las.#
+Melhor levar este amuleto a Las.#
 
 11297#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 Você poderia visitar minha avó? Vou dar a volta para verificar essa parte do hospital.#
@@ -9307,7 +9307,7 @@ Eu já olhei por aqui, mas posso ter deixado passar algum detalhe. Você poderia d
 Investigar a entrada do 2º andar.#
 
 11302#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
-Encontrou um agimat. Vamos procurar mais. Engraçado encontrar algo assim em um lugar como este, não é?#
+Encontrou um amuleto. Vamos procurar mais. Engraçado encontrar algo assim em um lugar como este, não é?#
 Está perto.#
 
 11303#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
@@ -9315,7 +9315,7 @@ Como a enfermeira passou com a entrada trancada?#
 Volte a Las.#
 
 11304#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
-Será que a avó que colou o agimat fora do hospital não sabe sobre este agimat?#
+Será que a avó que colou o amuleto fora do hospital não sabe sobre este amuleto?#
 Fale com a avó.#
 
 11305#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
@@ -9324,14 +9324,14 @@ Visite o Xamã ao norte da vila.#
 
 11306#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 Sinto algo muito macabro vindo de você.#
-Recebeu um agimat. Volte a Las.#
+Recebeu um amuleto. Volte a Las.#
 
 11307#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
-Vamos colar esse agimat naquele que vimos na entrada do 2º andar. Pode ajudar a bloquear a energia sinistra daquele.#
-Colar o agimat sobre o outro da entrada do 2º andar.#
+Vamos colar esse amuleto naquele que vimos na entrada do 2º andar. Pode ajudar a bloquear a energia sinistra daquele.#
+Colar o amuleto sobre o outro da entrada do 2º andar.#
 
 11308#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
-Assim que você colou o agimat sobre o outro, a energia sinistra se esvaneceu, como Las disse que aconteceria.#
+Assim que você colou o amuleto sobre o outro, a energia sinistra se esvaneceu, como Las disse que aconteceria.#
 Parece que Las estava brincando com você. Fale com a enfermeira na frente do hospital.#
 
 11309#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
@@ -9393,3 +9393,9 @@ Buwaya se esconde#
 11378#Doce ou Travessura#SG_FEEL#QUE_NOIMAGE#
 Colete 30 abóboras orgânicas ou inorgânicas, e entregue para o Chef Doceiro#
 Entrega de Abóboras#
+
+//-- Quest diária
+
+15065#Ticket de Rune-Midgard#SG_FEEL#QUE_NOIMAGE#
+Você só pode comprar 1 Ticket a cada 20 horas.#
+Você não pode comprar outro. Aguarde o período de 20 horas e volte ao Carteiro para adquirir mais tickets.#
