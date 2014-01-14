@@ -2024,7 +2024,7 @@ Para que você consiga mudar o nome do seu personagem, é necessário que você deix
 Para que você consiga mudar o nome do seu personagem, é necessário que você deixe seu grupo.#
 O nome do personagem não pode ser alterado devido a um erro desconhecido.#
 Você já pode trocar o nome deste personagem. Vá até a tela de Seleção de Personagens.(%d)#
-Already it is possible to change the character name.(%d)#
+Você já está pronto para trocar o nome. Verifique a tela de Seleção de Personagens.(%d)#
 the length of the name you are trying to change is exceeded maximum length, so it has failed to change the name.#
 there is a word you cannot use included, therefore it has failed to change the character's name change.#
 Você não pode mais trocar o nome deste personagem. a troca de nome falhou.#
@@ -2062,8 +2062,8 @@ has denied to join the party.#
 has accept to join the party.#
 It is already gathering parties.#
 it is the same condition as previous search.#
-Possible to use after leave the guild.#
-Possible to use after leave the party.#
+Só pode ser usado após seu personagem sair da guilda.#
+Só pode ser usado após seu personagem sair do grupo.#
 Summoned user is in the map you cannot summon.#
 It is not possible to summon in current party leader location.#
 Summoning is denied.#

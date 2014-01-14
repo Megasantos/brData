@@ -10816,8 +10816,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Gorro de Natal 2.0 [1], Gorro Natalino de Gelo e Bolsa do Papai Noel.
-Esta promoção está disponível apenas até o dia 16/12/2013.
+Troque-o pelos seguintes itens: Escudo Solar[1] e Manteau Solar[1].
+Esta promoção está disponível apenas até o dia 20/01/2014.
 ^ff0000Este pacote pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -22482,7 +22482,7 @@ Tipo: ^777777Ovo de Bichinho^000000
 #
 9037#
 Um ovo contendo um Andarilho de estimação. Pode ser chocado usando uma Incubadora.
-Aumenta AGI +3 e diminui DEX -1 quando com lealdade alta
+Aumenta AGI +3 e diminui DES -1 quando com lealdade alta
 Tipo: ^777777Ovo de Bichinho^000000
 #
 13815#
@@ -37651,7 +37651,7 @@ Caso refinada em +7 e sua FOR base for igual ou maior que 90, adicionará ATQ+ 20
 Caso refinada em +7 e sua INT base for igual ou maior que 90, adicionará ATQM+ 30. Caso seja refinada em +9, adicionará +20 de ATQM.
 Caso refinada em +7 e sua VIT base for igual ou maior que 90, reduzirá em 5% os danos recebidos de propriedade Neutra. Caso seja refinada em +9, adicionará +5% de redução.
 Caso refinada em +7 e sua AGI base for igual ou maior que 90, adicionará Vel. de ATQ +8%. Caso seja refinada em +9, adicionará +1 ponto na Vel. de ATQ.
-Caso refinada em +7 e sua DEX base for igual ou maior que 90, aumentará o dano dos ataques a longas distâncias em + 5%. Caso seja refinada em +9, aumentará o dano em +5%.
+Caso refinada em +7 e sua DES base for igual ou maior que 90, aumentará o dano dos ataques a longas distâncias em + 5%. Caso seja refinada em +9, aumentará o dano em +5%.
 Caso refinada em +7 e sua SOR base for igual ou maior que 90, aumentará o dano dos Ataques Críticos em + 10%. Caso seja refinada em +9, aumentará o dano em +5%.
 Tipo : ^777777Capa^000000
 Defesa : ^77777720^000000
@@ -39449,7 +39449,7 @@ Classe: ^777777Espadachim/Mercador/Gatuno e suas respectivas evoluções^000000
 15031#
 Armadura que é concedida somente aos integrantes do Grupo Éden.
 Há vários tamanhos. Pessoas altas não precisam se preocupar. 
-INT +1, DEX +1, STR +1
+INT +1, DES +1, STR +1
 HP máximo +500, SP máximo +50, DEFM +5.
 Não pode ser aprimorado.
 Tipo: ^777777Armadura^000000
@@ -40013,7 +40013,7 @@ Classe: ^777777Todas as Classes^000000
 #
 2873#
 Uma lembrancinha de Malangdo, ela faz com que você fique feliz quando equipado.
- + 1 de VIT, + 1 de AGI , + 1 de DEX , + 1 de SOR.
+ + 1 de VIT, + 1 de AGI , + 1 de DES , + 1 de SOR.
 Tipo: ^777777Acessório^000000
 Defesa : ^7777775^000000
 Peso: ^77777710^000000
@@ -41112,7 +41112,7 @@ Classe: ^777777Aprendiz / Mago / Noviço / Espiritualista^000000
 *Atributos durante GdE e PvP
 Há chance de Atordoar o inimigo ao atacar fisicamente.
 Aumenta a velocidade de ataque em 2%, mais 1% por nível de refinamento.
-Aumenta a DEF e a DEFM por 5 segundos ao ser ativado, mas não afeta os ataques de habilidade.
+Chance de reduzir a DEF e DEFM do inimigo para 1 enquanto realiza ataques físicos.
 Tipo: ^777777Maça^000000
 Força de Ataque: ^777777170^000000
 Peso: ^777777150^000000
@@ -42501,6 +42501,16 @@ Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
 Classes: ^777777Todas as Classes^000000
+#
+12790#
+Um cartão que permite a troca de nome de 1 personagem.
+Para utilizá-lo, basta seguir os passos abaixo:
+1- Clicar duas vezes no Cartão de Troca de Nome;
+2- Voltar para a tela de seleção de personagem;
+3 - Clicar com o botão direito em cima do personagem que utilizou o item e trocar o nome.
+Atenção! Antes de utilizar o cartão, você deve sair do Clã e/ou do Grupo. Líderes de Clã não poderão utilizar este item.
+Este item não pode ser negociado, colocado no carrinho e derrubado no chão, mas pode ser colocado na Kafra.
+Peso:^7777770^000000
 #
 
 //file end

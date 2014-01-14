@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote Natalino#
+7550#Pacote Solar#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -6291,6 +6291,6 @@
 6831#Ticket de Rune-Midgard#
 18909#Orelhas Marrons de Fiera#
 5874#Diadema de Kriemhild#
-
+12790#Cartão de Troca de Nome#
 
 //file end

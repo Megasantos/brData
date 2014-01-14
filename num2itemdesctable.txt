@@ -28897,6 +28897,9 @@ Peso : ^7777770^000000
 Item não identificado. Pode ser identificado com uma [Lupa]#
 5874#
 Item não identificado. Pode ser identificado com uma [Lupa]#
+12790#
+Item não identificado. Pode ser identificado com uma [Lupa]#
+
 
 
 //file end

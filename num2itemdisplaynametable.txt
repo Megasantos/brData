@@ -6285,5 +6285,6 @@
 6831#Ticket de Rune-Midgard#
 18909#Equipamento para Cabeça#
 5874#Equipamento para Cabeça#
+12790#Cartão de Troca de Nome#
 
 //file end
