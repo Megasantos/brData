@@ -9121,11 +9121,11 @@ Dhong, o Guarda de Baryo Mahiwaga, quer mais ossos para dar a Vantai amanhã. Vam
 #
 
 7409#Olho por Olho!#SG_FEEL#QUE_NOIMAGE#
-Budidai, o Bom Capre, não aguenta ver seus amigos sendo maltratados por Bongisungisus. Os Bongisungisus são poderosos demais para Budidai aguentar, e agora ele pede sua ajuda para se livrar do monstro caolho.#
-Elimine 10 Bongisungisus#
+Budidai, o Bom Capre, não aguenta ver seus amigos sendo maltratados por Bungisngis. Os Bungisngis são poderosos demais para Budidai aguentar, e agora ele pede sua ajuda para se livrar do monstro caolho.#
+Elimine 10 Bungisngis#
 
 7410#Ensine Outra Lição Amanhã!#SG_FEEL#QUE_NOIMAGE#
-Capre Budidai disse que Bongisungisus não vão embora apenas com isso e pede que você continue a eliminá-los. Volte depois de um dia.#
+Capre Budidai disse que Bungisngis não vão embora apenas com isso e pede que você continue a eliminá-los. Volte depois de um dia.#
 #
 
 //----------bakonawa entry quest
@@ -9154,19 +9154,19 @@ A lenda se desvenda e a identidade do filho da velha é revelada. Volte a Malaya 
 Fale com o Velho Contador de Lendas em Malaya.#
 
 1180#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
-Encontre 2 Pertences Perdidos de Twignut rondando no campo de Baryo Mahiwaga e entregue-os ao Pai da Pessoa Desaparecida.#
+Encontre 2 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Pai da Pessoa Desaparecida.#
 Fale com o Pai da Pessoa Desaparecida em Malaya.#
 
 1181#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
-Encontre 7 Pertences Perdidos de Twignut rondando no campo de Baryo Mahiwaga e entregue-os ao Amigo da Pessoa Desaparecida.#
+Encontre 7 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Amigo da Pessoa Desaparecida.#
 Fale com o Amigo da Pessoa Desaparecida em Malaya.#
 
 1182#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
-Encontre 3 Pertences Perdidos de Twignut rondando no campo de Baryo Mahiwaga e entregue-os ao Filho da Pessoa Desaparecida.#
+Encontre 3 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os ao Filho da Pessoa Desaparecida.#
 Fale com o Filho da Pessoa Desaparecida em Malaya.#
 
 1183#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
-Encontre 5 Pertences Perdidos de Twignut rondando no campo de Baryo Mahiwaga e entregue-os à Mãe da Pessoa Desaparecida.#
+Encontre 5 Pertences Perdidos de Tiyanak rondando no campo de Baryo Mahiwaga e entregue-os à Mãe da Pessoa Desaparecida.#
 Fale com a Mãe da Pessoa Desaparecida em Malaya.#
 
 1184#Livre-se de Bakonawa#SG_FEEL#QUE_NOIMAGE#
@@ -9235,8 +9235,8 @@ Investigue o ^0000FF2º Andar do Hospital^000000 que está infestado de energia so
 
 //-- port malaya
 11284#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
-Parece sujo, mas as Bandagens Podres estão ensopadas em um líquido especial e possuem poderes mágicos. Só são necessárias 2 dessas bandagens para cobrir os dois pés.#
-Entregue 2 Bandagens Podres e fale novamente.#
+Parece sujo, mas as Bandagem Estragada estão ensopadas em um líquido especial e possuem poderes mágicos. Só são necessárias 2 dessas bandagens para cobrir os dois pés.#
+Entregue 2 Bandagem Estragada e fale novamente.#
 
 11285#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 Não sei se a porta está fechada ou se está emperrada já que não dá para abrir sozinha, então, vamos fazer isso juntos!#
@@ -9256,7 +9256,7 @@ A garota da vila parece não saber muito. Volte a Las.#
 
 11289#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 A sede não me enviaria a um lugar assim se não tivesse certeza. Por que não tenta falar com outro aldeão?#
-Fale com o homem da vila ao norte do hospital.#
+Fale com o homem da vila ao sul do hospital.#
 
 11290#Enfermeira no Porto Malaya#SG_FEEL#QUE_NOIMAGE#
 Terei que relatar essa informação rapidamente. Desculpe, mas você iria para estalagem no meio da vila com a enfermeira?#
