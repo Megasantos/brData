@@ -8794,7 +8794,7 @@ Procure o Oficial do Grupo Éden em Glast-heim. Johan está em frente ao monastéri
 Encontre Johan#
 
 7220#Treino Avançado - Passo 2.1 - Alma Penada#SG_FEEL#QUE_NOIMAGE#
-Johan asked to defeat evil creature 'WRAITH' on 1 floor in monastry.#
+Johan pediu para você derrotar algumas 'Almas Penadas' no primeiro andar do Monastério.#
 Derrote 20 Almas Penadas#
 
 7221#Treino Avançado - Passo 2.2 - Druida Malígno#SG_FEEL#QUE_NOIMAGE#
@@ -8834,7 +8834,7 @@ A missão continua na Caverna de Gelo localizada ao Norte de Rachel. Procure por 
 Fale com Naomi#
 
 7230#Treino Avançado - Passo 4.1 - Siromas#SG_FEEL#QUE_NOIMAGE#
-after all, there was a mission which is reflected a request from villagers. let's go defeat SIROMA who is bothering ice collecting.#
+Depois de tudo, esta era uma missão que refletia os pedidos do aldeões. Vamos derrotar mais alguns Siromas que estão atrapalhando a coleta de gelo.#
 Derrote 30 Siromas#
 
 7231#Treino Avançado - Passo 4.2 - Siromas de novo#SG_FEEL#QUE_NOIMAGE#
