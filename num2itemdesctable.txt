@@ -25673,17 +25673,6 @@ Equipa em : ^777777Vestimenta^000000
 Peso : ^7777771^000000
 #
 
-4482#
-Recupera 50 HP e 10 SP a cada 15 segundos
-Aumenta o HP e SP máximos em 5%.
-Caso o refinamento da arma equipada seja maior que +14, 
- a recuperação de HP e SP terá redução em 10 segundos e adicionará +5% de aumento do HP e SP máximo.
-Não pode ser removida depois de combinada.
-Tipo : ^777777Carta^000000
-Equipa em : ^777777Sapatos^000000
-Peso : ^7777771^000000
-#
-
 4483#
 Adiciona em 5% a chance de converter 5% do dano causado a todos os inimigos em recuperação de SP a cada ataque realizado. 
 Caso o refinamento da arma equipada seja maior que +14, a chance de converter os danos em SP aumentará para 7%.
@@ -28402,8 +28391,6 @@ Peso : ^7777771^000000
 19685#Item desconhecido que pode ser identificado pela [Lupa]#
 2190#Item desconhecido que pode ser identificado pela [Lupa]#
 18885#Item desconhecido que pode ser identificado pela [Lupa]#
-18887#Item desconhecido que pode ser identificado pela [Lupa]#
-18888#Item desconhecido que pode ser identificado pela [Lupa]#
 18889#Item desconhecido que pode ser identificado pela [Lupa]#
 18890#Item desconhecido que pode ser identificado pela [Lupa]#
 18891#Item desconhecido que pode ser identificado pela [Lupa]#
@@ -28412,7 +28399,6 @@ Peso : ^7777771^000000
 18894#Item desconhecido que pode ser identificado pela [Lupa]#
 18895#Item desconhecido que pode ser identificado pela [Lupa]#
 18896#Item desconhecido que pode ser identificado pela [Lupa]#
-18897#Item desconhecido que pode ser identificado pela [Lupa]#
 18898#Item desconhecido que pode ser identificado pela [Lupa]#
 
 12582#
@@ -28900,6 +28886,29 @@ Item não identificado. Pode ser identificado com uma [Lupa]#
 12790#
 Item não identificado. Pode ser identificado com uma [Lupa]#
 
+//---2014-02-04
+4624#
+HP Máximo + 50%, DEF -50%, MDEF - 50%.
+Se o equipamento for refinado em +15 ou maior, o efeito passa a ser: HP Máximo + 75%, DEF -50%, MDEF - 50%
+Classe: ^777777Carta^000000
+Utilização: ^777777Armadura^000000
+Peso: ^7777771^000000
+#
+5875#Item não identificado. Pode ser identificado com uma [Lupa]#
+18908#Item não identificado. Pode ser identificado com uma [Lupa]#
+18887#Item não identificado. Pode ser identificado com uma [Lupa]#
+18888#Item não identificado. Pode ser identificado com uma [Lupa]#
+18897#Item não identificado. Pode ser identificado com uma [Lupa]#
+19777#Item não identificado. Pode ser identificado com uma [Lupa]#
 
+4482#
+Recupera 50 HP e 10 SP a cada 15 segundos
+Aumenta o HP e SP máximos em 5%.
+Caso o refinamento do calçado equipado seja +15, a recuperação de HP e SP terá redução em 10 segundos e adicionará +5% de aumento do HP e SP máximo.
+Não pode ser removida depois de combinada.
+Tipo : ^777777Carta^000000
+Equipa em : ^777777Sapatos^000000
+Peso : ^7777771^000000
+#
 
 //file end

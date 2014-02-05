@@ -20279,8 +20279,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 13/01, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 14/01. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 10/02, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 11/02. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -25147,7 +25147,7 @@ Classes que utilizam: ^777777Noviço e evoluções^000000
 2723#
 Medalha concedida apenas ao mais valoroso guerreiro.
 ATQ + 5%, ATQM + 5%. DEFM + 6. HP Máx + 600.
-Adiciona a chance de causar Petrificação no inimigo ao atacar fisicamente.
+Adiciona a chance de causar Petrificação no inimigo ao receber ataques fisicamente.
 Tipo: ^777777Acessório^000000
 Defesa: ^7777771^000000
 Peso: ^7777770^000000
@@ -30411,7 +30411,6 @@ Peso: ^7777771^000000
 12247#
 Uma taça contendo deliciosas e açucaradas frutas, servidas com gelo picado e leite gelado. Uma típica sobremesa de Verão.
 ^0000ffTodos os atributos +3 por 10 minutos.^000000
-Somente jogadores com nível de base acima de 20 podem usar esse item.
 Peso: ^77777710^000000
 #
 12232#
@@ -36086,16 +36085,6 @@ Equipa em : ^777777Vestimenta^000000
 Peso : ^7777771^000000
 #
 
-4482#
-Recupera 50 HP e 10 SP a cada 15 segundos
-Aumenta o HP e SP máximos em 5%.
-Caso o refinamento da arma equipada seja maior que +14, 
- a recuperação de HP e SP terá redução em 10 segundos e adicionará +5% de aumento do HP e SP máximo.
-Não pode ser removida depois de combinada.
-Tipo : ^777777Carta^000000
-Equipa em : ^777777Sapatos^000000
-Peso : ^7777771^000000
-#
 
 4483#
 Adiciona em 5% a chance de converter 5% do dano causado a todos os inimigos em recuperação de SP a cada ataque realizado. 
@@ -41100,7 +41089,7 @@ DEFM + 20.
 *Atributos durante GdE e PvP
 Aumenta em 2% a defesa contra jogadores inimigos.
 Se refinada para +6 ou mais, reduz em 15% a defesa contra ataques a distância e aumenta a Esquiva em 5
-Se refinado em +9 ou maior, HP Máximo +100 e SP Máximo +100
+Se refinado em +9 ou maior, HP Máximo +1000 e SP Máximo +100
 Se usado em conjunto com Sapato de Certo e Sobrepeliz de Cerco, INT +5, DEFM +10, adiciona 15% na redução de dano contra jogadores inimigos.
 Tipo: ^777777Armadura^000000
 Defesa: ^77777740^000000
@@ -41560,34 +41549,7 @@ Peso: ^77777710^000000
 Nível Necessário: ^77777770^000000
 Classes: ^777777Todas^000000
 #
-18887#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-VIT + 3, MDEF + 5, MATK + 2%
-If refined to 9, MDEF + 5 and MATK 4%
-If refined to 12, reduce fix casting time by 10%
-Type : ^777777Headgear^000000 
-Defense : ^7777772^000000
-Location : ^777777Upper ^000000
-Peso : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All Jobs^000000
-#
-18888#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-INT +5  LUK + 5 ATK +2%  MATK + 5%
-If refined to 9,  increase ATK and MATK by 4%
-If refined to 12, reduce fix casting time by 10%
-Type : ^777777Headgear^000000 
-Defense : ^7777772^000000
-Location : ^777777Upper ^000000
-Peso : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All Jobs^000000
-#
+
 18889#
 A hairband that attracts individuals.
 You can wear it when you want to look sexy.
@@ -41679,12 +41641,6 @@ Equipa em : ^777777Meio ^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777750^000000
 Classe : ^777777Todas as Classes^000000
-#
-18897#
-"Humans are like teabags. We don't know our true strength
-until we are in hot water! - Eleanor Roosevelt"
-Increases resistance from Water Property by 8%
-^FF0000Concept by -*[FS]Evaine*- of pRO Valkyrie Server^000000
 #
 18898#
 À primeira vista, ela se parece com a Coroa de Yggdrasil, mas este artefato em especial foi abençoado pela própria Árvore da Vida para carregar sua energia e com isso dar mais poderes a um herói escolhido para enfrentar o Ragnarök.
@@ -42501,7 +42457,7 @@ Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
 Classes: ^777777Todas as Classes^000000
-#
+
 12790#
 Um cartão que permite a troca de nome de 1 personagem.
 Para utilizá-lo, basta seguir os passos abaixo:
@@ -42513,4 +42469,93 @@ Este item não pode ser negociado, colocado no carrinho e derrubado no chão, mas 
 Peso:^7777770^000000
 #
 
+//---2014-02-04
+4624#
+HP Máximo + 50%, DEF -50%, MDEF - 50%.
+Se o equipamento for refinado em +15 ou maior, o efeito passa a ser: HP Máximo + 75%, DEF -50%, MDEF - 50%
+Classe: ^777777Carta^000000
+Utilização: ^777777Armadura^000000
+Peso: ^7777771^000000
+#
+5875#
+Ao utilizar esta diadema que um dia foi de uma heroína com poderes supernaturais, você sente um poder mágico surpreendente correndo em suas veias.
++5% de resistência contra ataques da propriedade Neutra.
++5% de resistência contra monstros do tipo Dragão.
+Chance de conjurar Vigor em nível 8 ao receber dano físico.
+Todos os atributos +5. Consume 300 de HP a cada 4 segundos.
+Indestrutível em batalha.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777776^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777760^000000
+Nível Necessário : ^77777760^000000
+Classes : ^777777Transclasses de Magos/Noviços^000000
+#
+18908#
+Dizem que a Yggdrasil leva a vários mundos, um deles habitados por humanoides com orelhas de coelho da raça Fiera. Agora você é um deles!
+FOR +5.
+HP Máximo +5%.
+Dano recebido por monstros do tipo fogo -10%.
+Quando refinado em +9 aumenta a Velocidade de Ataque em +1.
+Adiciona +1 de Velocidade de Ataque a cada 2 Refinamentos acima do +9.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777778^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível necessário : ^7777771^000000
+Classes: ^777777Todas as Classes^000000
+#
+18887#
+Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremamente atraente.
+VIT + 3, DEFM + 5, ATQM + 2%
+Quando refinado em +9, DEFM +5 e ATQM +4%
+Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
+Tipo : ^^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes: ^777777Todas^000000
+#
+18888#
+Orelhas de coelho que passam a ideia de paixão e deixam seu usuário extremamente atraente.
+INT +5  SOR + 5 ATQ +2%  ATQM + 5%
+Quando refinado em +9, ATQ e ATQM +4%
+Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
+Tipo : ^^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes: ^777777Todas^000000
+#
+18897#
+Um diadema feito de cristais de gelo. Ao colocá-lo na cabeça, não pense na sua mãe ou você vai querer chorar.
+Aumenta a resistência contra ataques da propriedade água em 8%
+Tipo: ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^77777720^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Todas as Classes^000000
+#
+19777#
+Um acessório que se assemelha as estrelas que brilham no céu.
+Tipo : ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777771^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+
+4482#
+Recupera 50 HP e 10 SP a cada 15 segundos
+Aumenta o HP e SP máximos em 5%.
+Caso o refinamento do calçado equipado seja +15, a recuperação de HP e SP terá redução em 10 segundos e adicionará +5% de aumento do HP e SP máximo.
+Não pode ser removida depois de combinada.
+Tipo : ^777777Carta^000000
+Equipa em : ^777777Sapatos^000000
+Peso : ^7777771^000000
+#
 //file end

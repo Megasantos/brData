@@ -5407,7 +5407,6 @@
 
 4480#Carta_Kiel_Selada#
 4481#Carta_Ktullanux_Selada#
-4482#Carta_Egnigem_Cenia_Selada#
 4483#Carta_Dracula_Selada#
 4484#Carta_Abelha_Rainha_Selada#
 4485#Carta_Pesar_Noturno_Selada#
@@ -6146,8 +6145,6 @@
 19685#Shiny_Santa_Poring_Hat#
 2190#Escudo do Dragão#
 18885#Jejecap#
-18887#Aqua_Bunny_Band#
-18888#Maroon_Bunny_Band#
 18889#Golden_Bunny_Band#
 18890#Gray_Bunny_Band#
 18891#Chapéu de Husky#
@@ -6156,16 +6153,10 @@
 18894#Diadema Arco-íris#
 18895#Asas de Tapaton#
 18896#Barbatanas Flamejantes#
-18897#Azure_Diadem#
 18898#Coroa do Escolhido#
-
-
 12582#Cx Suprimentos do Cerco#
-
 12534#Cx Sementes Yggdrasil#
-
 18957#Boina do 9º Aniversário#
-
 13999#Cx Bala Amarga [100]#
 
 // ---------- Port Malaya new items ------------
@@ -6293,4 +6284,13 @@
 5874#Diadema de Kriemhild#
 12790#Cartão de Troca de Nome#
 
+//--2014-02-04
+4624#Carta Tao Gunka Selada#
+5875#Diadema de Bruenhild#
+18908#Orelhas Vermelhas de Fiera#
+18887#Tiara de Coelho Celeste#
+18888#Tiara de Coelho Flamejante#
+18897#Diadema do Cisne#
+19777#Estrelinha Lumma#
+4482#Carta_Egnigem_Cenia_Selada#
 //file end

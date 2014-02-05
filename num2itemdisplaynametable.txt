@@ -5407,7 +5407,6 @@
 
 4480#Carta_Selada_Kiel#
 4481#Carta_Selada_Ktullanux#
-4482#Carta_selada_Egnigem_Cenia#
 4483#Carta_Selada_Dracula#
 4484#Carta_Selada_Abelha_Rainha#
 4485#Carta_Selada_Pesar_Noturno#
@@ -6154,7 +6153,6 @@
 18894#Acessório#
 18895#Acessório#
 18896#Equipamento para Cabeça#
-18897#Acessório#
 18898#Equipamento para Cabeça#
 // ---------- Port Malaya new items ------------
 2169#Escudo#
@@ -6286,5 +6284,15 @@
 18909#Equipamento para Cabeça#
 5874#Equipamento para Cabeça#
 12790#Cartão de Troca de Nome#
+
+//---2014-02-04
+4624#Carta Tao Gunka Selada#
+5875#Equipamento para Cabeça#
+18908#Equipamento para Cabeça#
+18887#Equipamento para Cabeça#
+18888#Equipamento para Cabeça#
+18897#Equipamento para Cabeça#
+19777#Equipamento Visual#
+4482#Carta_selada_Egnigem_Cenia#
 
 //file end

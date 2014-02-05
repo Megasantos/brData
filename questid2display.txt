@@ -6901,9 +6901,9 @@ Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrot
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Druida Maligno.# 
 Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Druidas Maligno.#
 
-10112#GlastHeim - Pesadelos#SG_FEEL#QUE_NOIMAGE#
-Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Pesadelos.# 
-Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Pesadelos.#
+10112#GlastHeim - Almas Penadas#SG_FEEL#QUE_NOIMAGE#
+Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Almas Penadas.# 
+Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Almas Penadas.#
 
 10113#GlastHeim - Raydric Arqueiro#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Raydric Arqueiro.# 

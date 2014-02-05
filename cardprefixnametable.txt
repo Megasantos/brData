@@ -495,3 +495,4 @@
 4503#da Visão Selada#
 4504#de Heimdall Selada#
 4486#do Ventríloquo Selada#
+4624#do Alto Risc Selado#
