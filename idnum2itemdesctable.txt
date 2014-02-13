@@ -16062,7 +16062,7 @@ Um chapéu criado à imagem da ovelha negra da família Poring, o Deviling. As asas
 ^0000ffFOR +1, Acerto Crítico +3. Aumenta o dano recebido de monstros da raça Angelical em 20%. Quanto maior o aprimoramento acima de +6, maior será o bônus no índice de Acertos Críticos.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777776^000000
-Equipa em: ^777777Topo^000000    Peso: ^77777735^000000
+Equipa em: ^777777Topo^000000    Peso: ^77777750^000000
 Nível necessário: ^77777720^000000
 Classes que utilizam: ^777777Todas^000000
 #
@@ -20278,7 +20278,7 @@ Classes que utilizam: ^777777Todas^000000
 //#
 7608#
 Ticket promocional criado pela Corporação Kafra.
-Troque-o por um item na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
+Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
 Esta promoção está disponível apenas até o dia 10/02, então troque-o agora mesmo!
 ^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 11/02. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
@@ -26941,15 +26941,6 @@ Peso: ^77777730^000000
 Nível necessário: ^77777730^000000
 Classes que utilizam: ^777777Todas^000000
 #
-5409#
-Um chapéu perfeito para qualquer viajante. Usado desde os tempos em que os primeiros exploradores foram para o “Velho Oeste”, onde se encontravam as ruínas da capital de Glast Heim e do reino élfico de Geffenia. Voltou à moda no Festival de Verão de 2009.
-INT +2, VIT +2, SP +50
-Classe: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777778^000000
-Equipa em: ^777777Topo^000000
-Peso: ^77777750^000000
-Classes que utilizam: ^777777Todas^000000
-#
 7919#
 Uma evidência de que você realmente apreciou o festival.
 ^ffffff_^000000
@@ -27077,17 +27068,6 @@ Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^77777710^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777710^000000
-Classes que utilizam: ^777777Todas^000000
-#
-5510#
-Uma touca para proteger os cabelos no banho. Também é usada nas passeatas em prol da economia de água. Depois de ter ficado um dia inteiro com xampu na cabeça por falta d’água, você aprendeu a importância de preservá-la!
-DEFM + 3, Esquiva + 3.
-10% de resistência a ataques da propriedade Água.
-Reduz em 10% o dano recebido de monstros da raça Peixe.
-Tipo: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777774^000000
-Equipa em: ^777777Topo^000000
-Peso: ^7777770^000000
 Classes que utilizam: ^777777Todas^000000
 #
 
@@ -28047,16 +28027,6 @@ Classes que utilizam: ^777777Todas^000000
 #
 
 //---- Festa Junina 2009 ----
-5572#
-Um chapéu fofinho, modelado na forma de um carismático Bebê Selvagem.
-VIT + 2.
-Tipo: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000
-Peso: ^77777710^000000
-Nível necessário: ^7777770^000000
-Classes que utilizam: ^777777Todas^000000
-#
 11713#
 Um doce típico junino, especialmente feito pela Joana.
 ^000088Recupera aproximadamente 45 de HP^000000.
@@ -28957,18 +28927,6 @@ Equipa em: ^777777Sussurro^000000
 Muito usada em bailes da alta sociedade, ela é perfeita para ocultar a identidade do seu Incubus. Seu charme enigmático é capaz de transformar o demônio mais pentelho no sonho perfeito das garotas mais serenas. Pena que os chifres atrapalhem o uso de uma cartola para combinar!
 Tipo: ^777777Acessório para Bicho de Estimação^000000
 Equipa em: ^777777Incubus^000000
-#
-5530#
-Feito à imagem de um corvo, com penas negras e bico afiado. Ele aparece numa antiga lenda, do bardo Vorco, que teve sua vida tomada no Dia dos Mortos. O rapaz voltou com este chapéu, muito mais forte, ágil e sedento por amaldiçoar a todos que o levaram à desgraça. 
-FOR +2, AGI +1.
-Chance de causar Maldição no oponente ao realizar ataques físicos de curto alcance.
-Faz o item Carne recuperar +50% que o normal.
-Tipo: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777776^000000
-Equipa em: ^777777Topo^000000
-Peso: ^77777710^000000
-Nível necessário: ^7777771^000000
-Classes que utilizam: ^777777Todas^000000
 #
 
 //----Halloween 2009----
@@ -42558,4 +42516,200 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Sapatos^000000
 Peso : ^7777771^000000
 #
+
+//-------------------------------------------------------------------
+//---2014-02-11
+18868#
+Assim que colocou essa máscara, você começou a gargalhar de forma maligna e ficou obcecado em conquistar o Castelo da Caveira Cinza, guardado pelo herói Ele-omem.
+Crítico +5.
+Tipo : ^777777Equipamento para a Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Meio / Baixo ^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777770^000000
+Classes : ^777777Todas^000000
+#
+17323#
+Uma coleção de itens de Shinobis. ^0000FFAo ser aberto, você encontrará um incrível prêmio aleatório.^000000
+Peso : ^7777771^000000
+#
+19548#
+// ??
+Um chapéu em homenagem ao deus sapo, ele indica que você tem um contrato com essas criaturas.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19555#
+// ??
+Um belo elmo ornamentado, usado por valentes heróis do oriente.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo / Meio^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19566#
+// ??
+Uma máscara tenebrosa, usada por guerreiros de Amatsu para incutir o medo em seus inimigos.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Baixo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19801#
+Uma máscara de raposa usada por um batalhão de ninjas de elite, especialistas em missões especiais de alto nível.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Meio / Baixo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19802#
+Ou você está com um boneco de raposa na cabeça, ou foi enfeitiçado por uma kitsune em Amatsu.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19803#
+Diz a profecia que se este cata-vento girar é sinal que a ilha de Amatsu corre grande perigo.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19804#
+O acessório perfeito para você aproveitar a beleza do Festival das Cerejeiras de Amatsu.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19805#
+Dizem que o Primeiro Kagerou selou diversas técnicas ninjas perigosas neste pergaminho.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19806#
+Uma presilha feita com a técnica milenar do Ikebana, para comemorar o Festival das Cerejeiras de Amatsu.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+19807#
+Um imponente elmo de batalha usado pelos guerreiros mais nobres de Amatsu.
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+5510#
+Uma touca para proteger os cabelos no banho. Também é usada nas passeatas em prol da economia de água. Depois de ter ficado um dia inteiro com xampu na cabeça por falta d’água, você aprendeu a importância de preservá-la!
+DEFM + 3, Esquiva + 3.
+10% de resistência a ataques da propriedade Água.
+Reduz em 10% o dano recebido de monstros da raça Peixe.
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777774^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes: ^777777Todas^000000
+#
+5409#
+Um chapéu perfeito para qualquer viajante. Usado desde os tempos em que os primeiros exploradores foram para o “Velho Oeste”, onde se encontravam as ruínas da capital de Glast Heim e do reino élfico de Geffenia. Voltou à moda no Festival de Verão de 2009.
+INT +2, VIT +2, SP +50
+Classe: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777778^000000
+Equipa em: ^777777Topo^000000
+Nível Necessário : ^7777771^000000
+Peso: ^77777750^000000
+Classes: ^777777Todas^000000
+#
+5572#
+Um chapéu fofinho, modelado na forma de um carismático Bebê Selvagem.
+VIT + 2.
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777772^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+5530#
+Feito à imagem de um corvo, com penas negras e bico afiado. Ele aparece numa antiga lenda, do bardo Vorco, que teve sua vida tomada no Dia dos Mortos. O rapaz voltou com este chapéu, muito mais forte, ágil e sedento por amaldiçoar a todos que o levaram à desgraça. 
+FOR +2, AGI +1.
+Chance de causar Maldição no oponente ao realizar ataques físicos de curto alcance.
+Faz o item Carne recuperar +50% que o normal.
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777776^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Jumping Character
+22521#
+Uma caixa contendo 1 Caixa de Poções Compactas Brancas e 5 Manuais de Campo de Classe,
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 80.^000000
+Peso: ^7777771^000000
+#
+22522#
+Uma caixa contendo 1 Álbum Velho de Cartas e 5 Manuais de Campo
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 100.^000000
+Peso: ^7777771^000000
+#
+22523#
+Uma caixa contendo 5 Manuais de Campo, 5 Manuais de Campo de Classe, 5 Chicletes, 5 Tickets de Seguro e 1 Caixa das Melhores Armas   
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 120.^000000
+Peso: ^7777771^000000
+#
+22524#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Álbum Mágico de Cartas. 
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 130.^000000
+Peso: ^7777771^000000
+#
+22525#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Arma +7.
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 140.^000000
+Peso: ^7777771^000000
+#
+22526#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Armadura +7.
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 150.^000000
+Peso: ^7777771^000000
+#
+//-------------------------------------------------------------------
+
 //file end

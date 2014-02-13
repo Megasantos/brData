@@ -21136,9 +21136,6 @@ Item não identificado, pode ser identificado com [Lupa].
 5500#
 Item não identificado, pode ser identificado com [Lupa].
 #
-5409#
-Item não identificado, pode ser identificado com [Lupa].
-#
 7919#
 Uma evidência de que você realmente apreciou o festival.
 ^ffffff_^000000
@@ -21201,9 +21198,6 @@ Item não identificado, pode ser identificado com [Lupa].
 Item não identificado, pode ser identificado com [Lupa].
 #
 5801#
-Item não identificado, pode ser identificado com [Lupa].
-#
-5510#
 Item não identificado, pode ser identificado com [Lupa].
 #
 
@@ -21815,9 +21809,6 @@ Profissões que utilizam: ^777777Todas^000000
 #
 
 //---- Festa Junina 2009 ----
-5572#
-Item não identificado, pode ser identificado com [Lupa].
-#
 11713#
 Um doce típico junino, especialmente feito pela Joana.
 ^000088Recupera aproximadamente 45 de HP^000000.
@@ -22434,9 +22425,6 @@ Peso: ^7777770^000000
 6299#
 Um pedaço de tecido velho. Parece já ter sido transparente e muito limpo.
 Peso: ^7777770^000000
-#
-5530#
-Item não identificado, pode ser identificado com [Lupa].
 #
 
 //----Kafra dolls exchange 2009----
@@ -28910,5 +28898,68 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Sapatos^000000
 Peso : ^7777771^000000
 #
+
+//-------------------------------------------------------------------
+//--2014-02-11
+18868#Item não identificado. Pode ser identificado com uma [Lupa]#
+17323#
+Um ovo que lhe reserva uma surpresa.
+Peso : ^7777771^000000
+#
+19548#Item não identificado. Pode ser identificado com uma [Lupa]#
+19555#Item não identificado. Pode ser identificado com uma [Lupa]#
+19566#Item não identificado. Pode ser identificado com uma [Lupa]#
+19801#Item não identificado. Pode ser identificado com uma [Lupa]#
+19802#Item não identificado. Pode ser identificado com uma [Lupa]#
+19803#Item não identificado. Pode ser identificado com uma [Lupa]#
+19804#Item não identificado. Pode ser identificado com uma [Lupa]#
+19805#Item não identificado. Pode ser identificado com uma [Lupa]#
+19806#Item não identificado. Pode ser identificado com uma [Lupa]#
+19807#Item não identificado. Pode ser identificado com uma [Lupa]#
+5510#Item não identificado. Pode ser identificado com uma [Lupa]#
+5409#Item não identificado. Pode ser identificado com uma [Lupa]#
+5572#Item não identificado. Pode ser identificado com uma [Lupa]#
+5530#Item não identificado. Pode ser identificado com uma [Lupa]#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Jumping Character
+22521#
+Uma caixa contendo 1 Caixa de Poções Compactas Brancas e 5 Manuais de Campo de Classe,
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 80.^000000
+Peso: ^7777771^000000
+#
+22522#
+Uma caixa contendo 1 Álbum Velho de Cartas e 5 Manuais de Campo
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 100.^000000
+Peso: ^7777771^000000
+#
+22523#
+Uma caixa contendo 5 Manuais de Campo, 5 Manuais de Campo de Classe, 5 Chicletes, 5 Tickets de Seguro e 1 Caixa das Melhores Armas   
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 120.^000000
+Peso: ^7777771^000000
+#
+22524#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Álbum Mágico de Cartas. 
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 130.^000000
+Peso: ^7777771^000000
+#
+22525#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Arma +7.
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 140.^000000
+Peso: ^7777771^000000
+#
+22526#
+Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Armadura +7.
+Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
+^FF0000Só é possível abri-la quando seu personagem alcançar nível 150.^000000
+Peso: ^7777771^000000
+#
+//-------------------------------------------------------------------
 
 //file end

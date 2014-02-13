@@ -4287,7 +4287,6 @@
 5263#Chapéu#
 5499#Chapéu#
 5500#Chapéu#
-5409#Chapéu#
 7919#Ticket do Festival#
 
 //---- Pacotes Consumíveis Thor ----
@@ -4319,7 +4318,6 @@
 5470#Chapéu#
 5471#Chapéu#
 5801#Chapéu#
-5510#Chapéu#
 
 //---- Itens novos (DB) ----
 7303#Saco de Arroz#
@@ -4454,7 +4452,6 @@
 2756#Anel de Planta [A]#
 
 //---- Festa Junina 2009 ----
-5572#Chapéu#
 11713#Doce da Joana#
 14374#Caixa de Fogos de Artifício Juninos#
 12326#Fogos de Artifício Juninos#
@@ -4601,7 +4598,6 @@
 10025#Acessório#
 10027#Acessório#
 10034#Acessório#
-5530#Chapéu#
 
 //----Halloween 2009----
 12396#Caixa Surpresa#
@@ -6295,4 +6291,33 @@
 19777#Equipamento Visual#
 4482#Carta_selada_Egnigem_Cenia#
 
+//-------------------------------------------------------------------
+//--2014-02-11
+18868#Equipamento para Cabeça#
+17323#Ovo Shinobi#
+19548#Equipamento Visual#
+19555#Equipamento Visual#
+19566#Equipamento Visual#
+19801#Equipamento Visual#
+19802#Equipamento Visual#
+19803#Equipamento Visual#
+19804#Equipamento Visual#
+19805#Equipamento Visual#
+19806#Equipamento Visual#
+19807#Equipamento Visual#
+5510#Equipamento para Cabeça#
+5409#Equipamento para Cabeça#
+5572#Equipamento para Cabeça#
+5530#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Jumping Character
+22521#Caixa de Jornada Nv80#
+22522#Caixa de Jornada Nv100#
+22523#Caixa de Jornada Nv120#
+22524#Caixa de Jornada Nv130#
+22525#Caixa de Jornada Nv140#
+22526#Caixa de Jornada Nv150#
+//-------------------------------------------------------------------
 //file end

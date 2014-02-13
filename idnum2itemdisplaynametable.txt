@@ -4289,7 +4289,6 @@
 5263#Chapéu de Atihan#
 5499#Chapéu de Pizza#
 5500#Chapéu de Sundae#
-5409#Chapéu do Cowboy Errante#
 7919#Ticket do Festival#
 
 //---- Pacotes Consumíveis Thor ----
@@ -4321,7 +4320,6 @@
 5470#Olho de Mimir#
 5471#Asas de Reginleif#
 5801#Laço de Noiva#
-5510#Touca de Banho#
 
 //---- Itens novos (DB) ----
 7303#Saco de Arroz#
@@ -4456,7 +4454,6 @@
 2756#Anel do Devastador [A]#
 
 //---- Festa Junina 2009 ----
-5572#Chapéu de Bebê Selvagem#
 11713#Doce da Joana#
 14374#Caixa de Fogos de Artifício Juninos#
 12326#Fogos de Artifício Juninos#
@@ -4603,7 +4600,6 @@
 10025#Tiara de Cabelo#
 10027#Auréola Brilhante#
 10034#Máscara de Baile#
-5530#Chapéu de Corvo#
 
 //----Halloween 2009----
 12396#Caixa Surpresa#
@@ -6293,4 +6289,34 @@
 18897#Diadema do Cisne#
 19777#Estrelinha Lumma#
 4482#Carta_Egnigem_Cenia_Selada#
+
+//-------------------------------------------------------------------
+//--2014-02-11
+18868#Máscara do Esqueleto#
+17323#Ovo Shinobi#
+19548#Chapéu do Gama-sama#
+19555#Elmo da Lua Crescente#
+19566#Máscara do Xogum#
+19801#Máscara da ANBU#
+19802#Nove Caudas Dorminhoca#
+19803#Cata-vento Vermelho#
+19804#Cata-vento elegante#
+19805#Pergaminho dos Selos#
+19806#Presilha do Festival#
+19807#Elmo do Xogum#
+5510#Touca de Banho#
+5409#Chapéu do Cowboy Errante#
+5572#Chapéu de Bebê Selvagem#
+5530#Chapéu de Corvo#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Jumping Character
+22521#Caixa de Jornada Nv80#
+22522#Caixa de Jornada Nv100#
+22523#Caixa de Jornada Nv120#
+22524#Caixa de Jornada Nv130#
+22525#Caixa de Jornada Nv140#
+22526#Caixa de Jornada Nv150#
+//-------------------------------------------------------------------
 //file end
