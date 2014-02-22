@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote Solar#
+7550#Pacote das Trevas#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -3137,7 +3137,7 @@
 14527#Pergaminho_de_Teleporte_para_Calabouço#
 
 // ---------------- ??? ??? -----------------
-13710#Passe_Antigravitacional#
+13710#Passe_Antigravitacional[1]#
 7776#Passe_Antigravitacional#
 
 // ---------------- ????? 20070702 -----------------
@@ -5744,7 +5744,6 @@
 18117#Arco Real#
 1318#Tentáculo Afiado#
 18695#Coroa do Renascido#
-2177#Escudo do Abismo#
 18729#Bola Rebourne#
 18696#Capacete de Laranja#
 18728#Elmo de Aegir#
@@ -6318,5 +6317,15 @@
 22524#Caixa de Jornada Nv130#
 22525#Caixa de Jornada Nv140#
 22526#Caixa de Jornada Nv150#
+12766#Manual de Campo de Classe#
 //-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-18
+18574#Elmo_do_Senhor_da_Morte#
+2177#Escudo do Abismo#
+18864#Flor de Tófi#
+18878#Chapéu da Guarda Real#
+//-------------------------------------------------------------------
+
 //file end

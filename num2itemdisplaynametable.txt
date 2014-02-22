@@ -1993,7 +1993,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Ticket do Pacotão de Verão#
+7550#Ticket#
 7551#Nota_de_Fato_Engraçado#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -5743,7 +5743,6 @@
 18117#Arco#
 1318#Machado#
 18695#Chapéu#
-2177#Escudo#
 18729#Chapéu#
 18696#Chapéu#
 18728#Elmo#
@@ -6319,5 +6318,15 @@
 22524#Caixa de Jornada Nv130#
 22525#Caixa de Jornada Nv140#
 22526#Caixa de Jornada Nv150#
+12766#Manual de Campo de Classe#
 //-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-18
+18574#Equipamento para Cabeça#
+2177#Escudo#
+18864#Equipamento para Cabeça#
+18878#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
 //file end

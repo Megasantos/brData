@@ -10816,8 +10816,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Escudo Solar[1] e Manteau Solar[1].
-Esta promoção está disponível apenas até o dia 20/01/2014.
+Troque-o pelos seguintes itens: Elmo do Senhor da Morte [1] e Escudo do Abismo [1].
+Esta promoção está disponível apenas até o dia 24/02/2014.
 ^ff0000Este pacote pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -32524,7 +32524,7 @@ Todos os Atributos +6 no nível 1 de Classe.
 Os bônus de atributos serão reduzidos em1 a cada 5 níveis de classe atingidos.
 Quando alcançar o nível 30 de classe, o efeito nos atributos será nulo.
 Classe: ^777777Acessório^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^7777770^000000
 Nível necessário: ^77777799^000000
 Classes que utilizam: ^777777Todas as Classes 3^000000
@@ -34242,7 +34242,7 @@ Reduz o dano de todas as raças de monstros em 5%. Esta redução não é válida em P
 SOR + 5, DEFM + 3, Precisão + 10, Reduz o intervalo de conjuração em 5%.
 Quando aprimorado acima de 7, a uma chance de obter Mastela ao atacar monstros. Para cada refino adicional, a chance é aumentada em 1%.
 Tipo : ^777777Equipamento para a cabeça ^000000
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777710^000000
 Nível necessário: ^77777730^000000
@@ -34255,7 +34255,7 @@ Esquiva + 5, HP Máximo + 5%, DEFM + 3.
 Aumenta a resistência ao atributo "Neutro" em 7% quando recebido dano de monstros.
 Indestrutível em batalha.
 Tipo : ^777777Armadura^000000
-Defesa : ^77777745^000000
+Defesa: ^77777745^000000
 Peso : ^77777760^000000
 Nível necessário : ^77777760^000000
 Profissões que utilizam : ^777777Todas^000000
@@ -34271,7 +34271,7 @@ Um nobre chapéu de alta qualidade feito com tecidos de luxo. A pena branca o tor
 Reduz o dano de monstros do tipo humanoides em 10%.
 VIT + 2, DEFM + 3.
 Tipo : ^777777Equipamento para a cabeça ^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^77777740^000000
@@ -34283,7 +34283,7 @@ Uma Rosquinha confeitada, item imprescindível aos oficiais da Cavalaria de Pront
 HP Máximo + 100.
 Recupera 1 de HP a cada 10 segundos.
 Tipo : ^777777Equipamento para a cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em :^777777Baixo ^000000
 Peso : ^7777775^000000
 Nível necessário : ^7777771^000000
@@ -34298,7 +34298,7 @@ HP Max + 1%.
 Aumenta em 25% a recuperação de HP do item 'Carne'.
 Ao derrotar um monstro, há chances de derrubar o item 'Carne'.
 Tipo : ^777777Equipamento para a cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em :^777777Baixo ^000000
 Peso : ^7777770^000000
 Nível necessário :^7777771^000000 
@@ -34310,7 +34310,7 @@ Parece ser um ovo frito em sua cabeça. Mas de fato, é uma furiosa Magnólia!
 Resistência a atordoamento +5. Permite o uso da habilidade "Armadilha Luminosa".
 Não pode ser aprimorado.
 Tipo : ^777777Equipamento para a cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em :^777777Topo ^000000
 Peso : ^777777100^000000
 Nível necessário :^7777771^000000 
@@ -34391,7 +34391,7 @@ Peso : ^7777771^000000
 Uma deliciosa iguaria que de tão saborosa, só pode ser um doce feito no próprio Valhalla.
 HP Max + 50. Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em: ^777777Baixo ^000000
 Peso : ^7777775^000000
 Nível necessário : ^7777771^000000
@@ -34403,7 +34403,7 @@ Uma coroa entalhada de forma paciente e ambiciosa para formar a imagem de chifre
 Des +2, Vit +2
 Se o nível de refinamento for igual ou maior do que 7, ao atacar fisicamente, há uma chance de usar a habilidade “Brisa Leve” em nível 1. (Encanta a arma com propriedade Terra)
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em: ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -34419,7 +34419,7 @@ Se o nível de refinamento for maior ou igual a 8, reduz tempo de conjuração vari
 Se o nível de refinamento for maior ou igual a 9, aumenta a efetividade de Cura, Santúario e Poções em 4%.
 Se o nível de refinamento for maior ou igual a 10, quando atacado, há uma chance baixa de conjurar automaticamente Martelo de Thor em nível 5.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em: ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -34435,7 +34435,7 @@ Peso : ^7777775^000000
 5656#
 O capacete utilizado pelos corredores profissionais nas corridas de Peco Peco, bastante popular principalmente nas pistas do Interlago do Abismo e também no Grand Prix de Al De Baran Turbo Track. É tão resistente que é inquebrável, e por isso passou a ser usado como equipamento de defesa por muitos aventureiros.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777777^000000
+Defesa: ^7777777^000000
 Equipa em: ^777777Topo ^000000 
 Peso : ^777777100^000000
 Nível necessário :  ^77777750^000000
@@ -34502,7 +34502,7 @@ Utilizado pela Banda Marcial Gleeter, da Universidade de Juno, esse chapéu logo 
 FOR +2
 Ao realizar ataques físico, há uma chance de encantar sua arma com a propriedade sagrado por 90 segundos.  
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em: ^777777Topo ^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777710^000000
@@ -34578,7 +34578,7 @@ Peso : ^7777771^000000
 Este chapéu tem o formato de um enorme, suculento e adocicado morango. É tão realista, que você praticamente pode sentir o perfume do morango e precisa se segurar para não dar uma dentada. Só tome cuidado quando o estiver usando, porque monstros como o Yeti podem não ter tanto autocontrole.
 Ao derrotar um monstro, há uma chance de derrubar o item Morango. A chance aumenta de acordo com o nível de aprimoramento.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
@@ -34589,7 +34589,7 @@ Profissões que utilizam : ^777777Todas^000000
 Um pequeno cofre de porquinho de cerâmica que incrivelmente se encaixa confortavelmente na sua cabeça. Para sua surpresa, bastou andar com esse cofrinho para realmente aumentar suas economias, como se ele tivesse um faro para encontrar zenys nos monstros! E o melhor de tudo é que você nem precisa quebra-lo para aproveitar seus kakás.
 Não pode ser aprimorado.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em: ^777777Topo ^000000
 Peso : ^777777100^000000
 Nível necessário : ^77777710^000000
@@ -34832,7 +34832,7 @@ Peso: ^7777771^000000
 Uma bandana feita especialmente em Brasilis para comemorar o 7º aniversário dos servidores brasileiros de Ragnarök Online.
 MDEF + 4.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777750^000000
 Nível necessário : ^7777771^000000
@@ -34848,7 +34848,7 @@ Um exótico escudo retangular. Nele há uma gema mágica, encantada para defender c
 Se refinado acima de +5 dará 1% em redução de dano 'Neutro' a cada nível de refinamento.
 Este bônus funcionará até +12 de refinamento.
 Tipo : ^777777Escudo^000000 
-Defesa : ^77777755^000000
+Defesa: ^77777755^000000
 Peso : ^77777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
@@ -34944,7 +34944,7 @@ Uma festiva cartola verde que simboliza a boa sorte. É incrível como você conseg
 FOR + 1, INT + 1, MDEF + 4.
 Existe uma pequena chance de derrubar 'Energético da Sorte' se o item possuir um refinamento maior que 6.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em: ^777777Topo ^000000 
 Peso: ^77777730^000000
 Nível Necessário : ^77777740^000000
@@ -34957,7 +34957,7 @@ Um raríssimo e especial trevo da sorte. Cada pétala representa uma virtude, send
 Sorte + 1
 MaxSP + 20
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^77777710^000000
 Nível Necessário : ^77777750^000000
@@ -34969,7 +34969,7 @@ Um chapéu glamoroso vermelho, enfeitado com flores ornamentais importadas direta
 MDef + 7
 Aumenta a MDEF em +1 para cada +2 níveis de refinamento do item.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -34984,7 +34984,7 @@ MDEF + 1
 Existe uma pequena chance de derrubar 'Garrafa Vazia', 'Ditrimindexta', 'Karvodailnirol' ao derrotar monstros 'Amorfos'.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777780^000000
 Nível Necessário : ^77777730^000000
@@ -34999,7 +34999,7 @@ Dano Crítico + 10%
 Quando equipado com Flecha Afiada, + 5% de Dano Crítico
 Caso o item seja refinado +7 ou mais, adiciona-se + 5% de Danos Críticos
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777730^000000
@@ -35070,7 +35070,7 @@ Uma caixa contendo uma 'Máscara Esquisita'
 Uma estranha máscara bizarra encontrada em Ash-Vacuum, não se sabe se foi criada pelos Esplêndidos ou pelos Manuks. Tudo o que se sabe é que você se sente muito mais poderoso com ela cobrindo metade do seu rosto.
 Todos atributos + 2.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
@@ -35086,7 +35086,7 @@ ATQ + 5%.
 Se refinado acima de +5, adiciona 1% de bônus no ataque físico contra monstros do tipo Humanoide e reduz em 1% o dano recebido de monstros do tipo Humanoide.
 Este bônus funcionará até +20 de refinamento
 Tipo : ^777777Equipamento para a cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -35102,7 +35102,7 @@ ATQM + 5%, DEFM + 5.
 Se refinado acima de +5, adiciona 1% de bônus no ataque mágico contra monstros do tipo Humanoide e reduz em 1% o dano mágico recebido de monstros do tipo Humanoides.
 Este bônus funcionará até +20 de refinamento
 Tipo : ^777777Equipamento para a cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -35114,7 +35114,7 @@ Peso : ^7777771^000000
 Uma estranha máscara bizarra encontrada em Ash-Vacuum, não se sabe se foi criada pelos Esplêndidos ou pelos Manuks. Tudo o que se sabe é que você se sente muito mais poderoso com ela cobrindo metade do seu rosto.
 Todos atributos + 2.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
@@ -35127,7 +35127,7 @@ ATQ + 5%.
 Se refinado acima de +5, adiciona 1% de bônus no ataque físico contra monstros do tipo Humanoide e reduz em 1% o dano recebido de monstros do tipo Humanoide.
 Este bônus funcionará até +20 de refinamento
 Tipo : ^777777Equipamento para a cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -35140,7 +35140,7 @@ ATQM + 5%, DEFM + 5.
 Se refinado acima de +5, adiciona 1% de bônus no ataque mágico contra monstros do tipo Humanoide e reduz em 1% o dano recebido de monstros do tipo Humanoides.
 Este bônus funcionará até +20 de refinamento
 Tipo : ^777777Equipamento para a cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -35165,7 +35165,7 @@ Quando utilizada, lhe deixará mais ágil.
 Esquiva + 3
 Sorte - 5
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Centro-baixo^000000
 Peso : ^77777710^000000
 Nível necessário : ^77777730^000000
@@ -35179,7 +35179,7 @@ DEFM + 3.
 Pequena chance de dropar 'Água Benta' ao derrotar monstros do tipo Anjo.
 Pequena chance de dropar 'Água Amaldiçoada' ao derrotar monstros do tipo Demônio.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Centro^000000
 Peso : ^77777730^000000
 Classe : ^777777Todas as classes^000000
@@ -35192,7 +35192,7 @@ Esta foi a 2ª máscara criada, que ficou famosa ao ser usada pela veloz heroína A
 Velocidade de Ataque + 1%.
 -1 de SP a cada 2 segundos.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Centro e Baixo^000000
 Peso : ^777777100^000000
 Nível necessário : ^77777710^000000
@@ -35206,7 +35206,7 @@ A cada +1 no nível de refino, aumenta em +1 na Esquiva e na Precisão.
 Quando equipado com Grilhões, ATQ +5.
 Aumenta em +1 de ATQ a cada nível de refinamento do 'Grilhões'. 
 Tipo : ^777777Vestimenta^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Peso : ^777777150^000000
 Nível necessário : ^77777750^000000
 Classe : ^777777Todas as classes^000000
@@ -35219,7 +35219,7 @@ Uma máscara com um Sorriso Maligno que amedronta todas as pessoas ao seu redor.
 Todos Atributos + 1.
 ^ff0000O item será removido após o evento^000000
 Classe : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Centro, baixo^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
@@ -35234,7 +35234,7 @@ DEFM + 10.
 Existe uma surpresa ao utilizar esse chapéu com outros itens.
 ^ff0000O item será removido após o evento^000000
 Classe : ^777777Equipamento para cabeça^000000 
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^77777720^000000
@@ -35262,7 +35262,7 @@ Quando equipado junto com a Bata de Orleans,
 Quando equipado com a Travessa de Orleans,
 ATQM aumentará de acordo com o refinamento da Travessa de Orleans.
 Tipo : ^777777Acessorio^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777710^000000
 Nível necessário : ^77777710^000000
 Classe : ^777777Todas as classes^000000
@@ -35279,7 +35279,7 @@ Caso o chapéu seja utilizado com 'Asinhas de Peco Peco', concederá +1 de AGI e +
 Caso o chapéu seja utilizado com 'Óculos Pretos', concederá +1 de INT e 2% de MATQ.
 Caso o chapéu seja utilizado com 'Olho de Mimir', concederá +1 de DES e +3 de ATQ físico de longo alcance.
 Tipo : ^777777Equipamento para a cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000
 Nível necessário: ^77777770^000000
@@ -35294,7 +35294,7 @@ Aumenta em 5% o dano de Ataques Físicos e Ataques Mágicos realizados contra mons
 Aumenta a resistência em 5% contra monstros do tipo Planta.
 Chance muito baixa de dropar 'Izidor' ao derrotar monstros do tipo Planta.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777720^000000
@@ -35310,7 +35310,7 @@ Se o nível da habilidade for maior, a habilidade será lançada com o nível da hab
 As chances de conjurar as habilidades aumentam de acordo com o nível da habilidade adquirido.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777710^000000
 Nível necessário : ^77777730^000000
@@ -35323,7 +35323,7 @@ Um boneco de tartaruga, réplica fiel do Batedor, lendário exemplar da Ilha das T
 Parece tão real que você será capaz de oferecer alfaçe para ele.
 Adiciona 20% de ataque contra os monstros Batedor, Soldado, Congelador, Agressor, Aquecedor e General Tartaruga.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em : ^777777Topo^000000
 Peso : ^777777100^000000
 Nível necessário : ^77777710^000000
@@ -35337,7 +35337,7 @@ Até parece difícil de coloca-lo em sua cabeça, mas não é.
 Chance baixa de dropar 'Espinho de Cacto' ao derrotar monstros do tipo Planta.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^77777730^000000
@@ -35350,7 +35350,7 @@ Você pode sentir todo seu poder apenas observando este acessório.
 Velocidade de Ataque + 1
 Adiciona + 1 na Velocidade de Ataque quando equipado com o Chifre de Bisão.
 Tipo : ^777777Acessório^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777710^000000
 Nível necessário : ^77777710^000000
 Classe : ^777777Todas as classes^000000
@@ -35366,7 +35366,7 @@ Um rústico chapéu feito de Bambu que foi muito utilizado por um grande aventurei
 Suas abas largas escondem a direção do seu olhar impedindo que seus inimigos percebam sua investida. 
 AGI + 2.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo e meio^000000
 Peso : ^77777730^000000
 Nível necessário : ^77777770^000000
@@ -35383,7 +35383,7 @@ Não pode ser refinado.
 Ganha 02 SP ao derrotar monstros utilizando ataques físicos ou mágicos de curta distância.
 Pequena chance de ativar 'Ferimento Mortal' Nv2 ao receber ataques físicos de curta distância.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^77777770^000000
@@ -35407,7 +35407,7 @@ ataques físicos ou mágicos.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
 Equipa em : ^777777Topo, Meio e Baixo^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^777777100^000000
 Nível necessário : ^77777770^000000
 Classe : ^777777Todas as classes^000000
@@ -35421,7 +35421,7 @@ Classe : ^777777Todas as classes^000000
 Existe uma mensagem inscrita - Esta é a bota da moda com sua beleza rústica.
 Não pode ser refinada ou destruída.
 Tipo : ^777777Sapatos^000000
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Peso : ^7777770^000000
 Nível Necessário : ^77777775^000000
 Classe : ^777777Todas as classes^000000
@@ -35432,7 +35432,7 @@ Classe : ^777777Todas as classes^000000
 Existe uma mensagem inscrita - Um símbolo de bravura feito com a cauda de uma grande besta.
 Não pode ser refinada ou destruída.
 Tipo : ^777777Capa^000000
-Defesa : ^77777716^000000
+Defesa: ^77777716^000000
 Peso : ^7777770^000000
 Nível Necessário : ^77777775^000000
 Classe : ^777777Todas as classes^000000
@@ -35443,7 +35443,7 @@ Classe : ^777777Todas as classes^000000
 Existe uma mensagem inscrita - Um acessório vindo do pescoço de uma grande fera. Demonstra respeito.
 SP + 50.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^7777770^000000
 Nível Necessário : ^77777775^000000
 Classe : ^777777Todas as classes^000000
@@ -35454,7 +35454,7 @@ Classe : ^777777Todas as classes^000000
 Um broche feito para ser semelhante ao símbolo da cidade El Dicastes.
 Permite o teleporte para a Capital Manuk em El Discastes sempre que desejar.
 Tipo : ^777777Acessório^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777710^000000
 Nível Necessário : ^77777780^000000
 Classe : ^777777Todas as classes^000000
@@ -35664,7 +35664,7 @@ Um belo escudo com os símbolos do Reino gravados em seu corpo.
 MDEF + 5.
 Aumenta em 20% o dano da habilidade Escudo Compressor. O ataque da habilidade aumenta em +2% a cada nível de refinamento a partir do +6.
 Tipo : ^777777escudo^000000 
-Defesa : ^777777120^000000
+Defesa: ^777777120^000000
 Peso : ^777777250^000000
 Nível Necessário : ^777777102^000000
 Classe : ^777777Guardião Real^000000
@@ -35675,7 +35675,7 @@ Sapatos confeccionados para dançar.
 AGI + 1, Aumenta a velocidade de ataque. Diminui o tempo de intervalo entre uso das habilidades em 2%.
 Diminui em 32 o SP gasto na habilidade Ritmo Contagiante.
 Tipo : ^777777Sapatos^000000 
-Defesa : ^77777715^000000
+Defesa: ^77777715^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777105^000000
 Classe : ^777777Musa^000000
@@ -35686,7 +35686,7 @@ Um anel que possui misteriosos poderes no interior de seu orbe.
 INT + 3, MDEF + 1, MSP + 30.
 Aumenta o ataque em 10% das habilidades Impacto Espiritual e Onda Psíquica, aumenta o gasto em SP+50 ao utilizar as habilidades.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Peso : ^77777720^000000
 Nível Necessário : ^777777110^000000
 Classe : ^777777Terceiras Classes^000000
@@ -35700,7 +35700,7 @@ Existe uma pequena chance de acionar Bola de Fogo Lv 5 a cada ataque realizado.
 Diminui a resistência a ataques mágicos de propriedade Água em 20%.
 Diminui a resistência a ataques físicos de propriedade Água em 30%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Peso : ^77777710^000000
 Nível Necessário : ^777777125^000000
 Classe : ^777777Terceiras Classes^000000
@@ -35841,35 +35841,29 @@ Uma caixa contendo dois equipamentos para a cabeça, Crista de Galo e Bico de Gal
 ^ff0000Este item não poderá ser trocado ou devolvido.^000000
 Peso : ^7777771^000000
 #
-
 16977#
 Uma caixa contendo um equipamento para a cabeça, Coroa Vermelha.
 ^ff0000Este item poderá ser trocado, colocado no armazém e no carrinho.^000000
 Peso : ^7777771^000000
 #
-
 17014#
 Uma caixa contendo um equipamento para a cabeça, Asas de Borboleta. 
 ^ff0000Este item poderá ser trocado, colocado no armazém e no carrinho.^000000
 Peso : ^7777771^000000
 #
-
 17015#
 Uma caixa contendo um equipamento para a cabeça, Parafusos Soltos.
-
 Peso : ^7777771^000000
 #
-
 19507#
 Um forte e ensolarado Sol com seu sorriso escaldante.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000 
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classes : ^777777Todas as classes^000000
 #
-
 19509#
 Um lindo acessório ornado com asas brilhantes de borboletas. 
 Tipo : ^777777Visual^000000
@@ -35878,7 +35872,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19510#
 Você está tão maluco que até seus parafusos estão se soltando. 
 Tipo : ^777777Visual^000000
@@ -35887,7 +35880,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19513#
 Um exemplar de Bico de Galinha que encaixa perfeitamente em seu rosto. Vai dar até vontade de comer milho.
 Tipo : ^777777Visual^000000
@@ -35896,7 +35888,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19514#
 Um bigode parecido com o de um famoso comediante.
 Tipo : ^777777Visual^000000
@@ -35905,7 +35896,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19515#
 Um adorável chapéu com uma linda pena. Não poderia ser mais bonitinho.
 Tipo : ^777777Visual^000000
@@ -35914,7 +35904,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19516#
 Um admirável passarinho cantor que fez de sua cabeça seu ninho.
 Tipo : ^777777Visual^000000
@@ -35923,7 +35912,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19517#
 Um digna Crista de Galo. Cuidado para não se empoleirar por aí.
 Tipo : ^777777Visual^000000
@@ -35932,7 +35920,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19518#
 Um lindo Arco Íris que pode ser visto apenas quando a chuva termina.
 Tipo : ^777777Visual^000000
@@ -35941,7 +35928,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19519#
 Uma nuvem muito escura. Parece bem perigosa, pois não para de relampejar em sua cabeça.
 Tipo : ^777777Visual^000000
@@ -35950,7 +35936,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19520#
 Uma nuvem muito chuvosa. Parece que essa chuva nunca irá acabar. Ainda bem que não atrapalha sua visão.
 Tipo : ^777777Visual^000000
@@ -35967,7 +35952,6 @@ Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
-
 19522#
 Uma pequena coroa vermelha que fica meio torta ao ser utilizada.
 Tipo : ^777777Visual^000000
@@ -35977,10 +35961,7 @@ Nível necessário : ^7777771^000000
 Classe : ^777777Todas as classes^000000
 #
 
-
 //---------2011 december items
-
-
 18659#
 Um chapéu feito em homenagem ao temível MVP de Brasilis, Boitatá, 
 a cobra de fogo aprisionada nas profundezas da cachoeira. O protetor das florestas brasileiras.
@@ -35991,15 +35972,12 @@ INT + 3, FOR + 3, MDEF + 10
 10% de dano à propriedade Terra
 Altera a propriedade da Couraça de Boitatá automaticamente para 'Fogo'. 
 Tipo : ^777777Equipamento para cabeça^000000    
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo-Centro^000000
 Peso : ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes : ^777777Todas as classes^000000
-
 #
-
-
 18529#
 Diferente das Rosas Selvagens comuns, que parecem ser incansáveis enquanto correm de um lado para o outro atrás itens derrubados no chão, 
 este pequeno  e preguiçoso felino adora dormir na sua cabeça. 
@@ -36008,22 +35986,18 @@ HPMax - 10%
 Velocidade de Ataque + 3%
 Pequena possibilidade de conjurar 'Ganância' se equipado com 'Peixe Fresco'.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo-Centro^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777730^000000
 Classe : ^777777Todas as classes^000000
 #
-
-
 4786#
 MDEF+2
 #
-
 4791#
 DEF+3
 #
-
 4480#
 Reduz o Tempo de Conjuração de todas Habilidades em 15%.
 Caso o refinamento da arma equipada seja maior que +14, adicionará em +5% a redução do Tempo de Conjuração de todas Habilidades.
@@ -36032,7 +36006,6 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Equipamento para cabeça^000000
 Peso : ^7777771^000000
 #
-
 4481#
 Aumenta o dano em monstros de Fogo em 25%.
 Adiciona a chance de conjurar automaticamente a habilidades Nevasca Nv 10 quando o usuário receber ataques físicos ou mágicos.
@@ -36042,8 +36015,6 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Vestimenta^000000
 Peso : ^7777771^000000
 #
-
-
 4483#
 Adiciona em 5% a chance de converter 5% do dano causado a todos os inimigos em recuperação de SP a cada ataque realizado. 
 Caso o refinamento da arma equipada seja maior que +14, a chance de converter os danos em SP aumentará para 7%.
@@ -36052,7 +36023,6 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Arma^000000
 Peso : ^7777771^000000
 #
-
 4484#
 Anula o gasto de gemas para lançar certas magias. Aumenta em 50% o consumo de SP no uso de habilidades
 Caso o equipamento para cabeça equipado possua o refinamento acima de +14, o aumento do consumo de SP nas habilidades será reduzido para 35%
@@ -36061,7 +36031,6 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Equipamento para cabeça^000000
 Peso : ^7777771^000000
 #
-
 4485#
 Aumenta o dano físico causado em monstros das propriedades Sagrado, Sombrio e Demônio em 20%.
 Caso a arma equipada possua o refinamento acima de +14, 
@@ -36070,8 +36039,6 @@ Tipo : ^777777Carta^000000
 Equipa em : ^777777Vestimenta^000000
 Peso : ^7777771^000000
 #
-
-
 2481#
 As lendárias botas negras de couro utilizadas pelos Cavaleiros Rúnicos
 Quando a For base for 90 ou maior, ATQ + 10 
@@ -36080,33 +36047,15 @@ Quando a INT base for 90 ou maior, ATQM + 3%
 Quando a INT base for 120, será adicionada ATQM + 2%
 Indestrutível em batalha
 Tipo : ^777777Sapatos^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
 Classes : ^777777Todas as classes^000000
 #
-
-
-18574#
-Um elmo feito com a semelhança do utilizado pelo Senhor da Morte.
-MDEF + 5.
-Aumenta em 10% o dano causado por ataques físicos em monstros do tipo Chefe.
-Aumenta em 5% o dano recebido por monstros do tipo Chefe.
-Caso o refinamento do item seja acima de +5, aumentará em 1% o dano por 
-ataques físicos por nível de refinamento em monstros do Tipo Chefe.
-O aumento de dano provido pelo equipamento é baseado no ATQ da arma.
-Tipo: ^777777Equipamento para cabeça^000000 
-Defesa : ^77777710^000000
-Equipa em : ^777777Topo^000000 
-Peso : ^777777100^000000
-Nível necessário : ^77777770^000000
-Classe : ^777777Todas as classes^000000
-#
-
 2573#
 Lindas Asas de Arcanjo. Brancas como a neve e leves feito plumas.
 Tipo: ^777777Capa^000000 
-Defesa : ^77777718^000000 
+Defesa: ^77777718^000000 
 Peso : ^77777720^000000 
 Nível Necessário : ^7777771^000000 
 Classe : ^777777Todas^000000
@@ -36133,7 +36082,7 @@ A faixa de Natal das Renas. Ao utilizá-la, você sente a alegria do espírito de n
 Em lutas corpo a corpo durante todo o período do evento, terá a chance de sentir como se corresse muito rápido e
 de alguma maneira, parece que até as Cenouras ficam mais saborosas nessa época.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000 
 Peso : ^77777720^000000
 Nível Necessário: ^77777730^000000
@@ -36207,7 +36156,7 @@ Quando equipado em conjunto com o Chapéu de Chinês do Andarilho, habilita Ataque
 Será lançado em nível superior caso o personagem tenha aprendido.
 Diferentemente da versão dos Gatunos, esta pode ser usada com qualquer arma.
 Tipo : ^777777Capa^000000
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Peso : ^77777750^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -36218,7 +36167,7 @@ Um belíssimo sorvete muito saboroso servido cuidadosamente em sua cabeça.
 Habilita a utilização de 'Rajada Congelante' em Nível 01.
 MHP + 300.
 Tipo: ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777740^000000
@@ -36239,7 +36188,7 @@ Peso : ^7777771^000000
 Enquanto ideias e pensamentos brotam na cabeça de outras pessoas, na sua nasceu um broto de verdade. Ou pelo menos essa é a impressão passada pelo Chapéu de Broto, capaz de intensificar sua ligação com a natureza e o elemento da terra.
 Quando equipado, permite o uso da habilidade Fúria da Terra nível 3.
 Tipo: ^777777Equipamento para cabeça^000000
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777770^000000
@@ -36266,7 +36215,7 @@ VIT  +2, INT + 2.
 Ao ser atacado por monstros, existe a chance de utilizar as habilidades "Benção", "Aumentar Agilidade" ou "Curar" em Nível 3 independente do nível das habilidades do personagem.
 A chance da ativação aumenta caso o refino seja maior que 6.
 Tipo: ^777777Equipamento para cabeça^000000
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777770^000000
@@ -36280,7 +36229,7 @@ Não se assuste se também seu tom de pele ficar meio esverdeado e você começar a 
 Aumenta o dano Magico em monstros Morto-Vivo em 4%.
 Aumenta a resistência a monstros Morto-Vivo em 5%.
 Tipo: ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio^000000
 Peso : ^77777720^000000
 Nível necessário : ^77777710^000000
@@ -36291,7 +36240,7 @@ Classes : ^777777Todas^000000
 Um antigo chifre contendo a alma do Patriarca da Família Real de Midgard.
 Quando refinado em +7 e realizando ataques físicos de curto alcance, adiciona a chance de ativar ATQ +100 durante 10 segundos.
 Tipo: ^777777Equipamento para cabeça^000000 
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777740^000000
 Nível necessário : ^77777750^000000
@@ -36810,7 +36759,7 @@ Adiciona 3% de Dano Físico quando equipado com Pique.
 Adiciona 3% de Dano Físico quando equipado com Gladius.
 Adiciona DEF +2 e 5% de resistência a Ataques Físicos de todos os tipos quando equipado com Escudo Colossal.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo, Meio, Baixo^000000
 Peso : ^77777770^000000
 Classe : ^777777Todas^000000
@@ -36822,7 +36771,7 @@ Apenas mostra toda dua capacidade quando utilizada junto com algum Chapéu do Zod
 Todos Atributos + 4
 Diminui o dano recebido pela Raça Humanoide em 10%.
 Tipo : ^777777Armadura^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777750^000000
 Classe : ^777777Todas^000000
@@ -36834,7 +36783,7 @@ Esta sim, é uma verdadeira homenagem a esse homunculos tão popular.
 Aumenta a Velocidade de Ataque.
 Diminui o tempo de Conjuração em 2%.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Peso : ^77777710^000000
 Nível necessário : ^77777770^000000
 Classe : ^777777Todas^000000
@@ -36848,7 +36797,7 @@ Ataque Crítico + 3, Aumenta a Velocidade de Ataque em 3%.
 Quando refinada em +7 ou +8, é somado ao bônus anterior + 2 de Ataque Crítico e aumenta a Velocidade de Ataque em +2%.
 Quando refinada em +9 ou mais, é somado ao bônus anterior + 2 de Ataque Crítico e aumenta a Velocidade de Ataque em +2%.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777740^000000
 Nível Necessário : ^77777770^000000
@@ -36861,7 +36810,7 @@ Acerto + 20, MHP - 10%.
 Ao atingir +5 de refino, este chapéu perderá -10 de Acerto e ganhará +10% MHP, ficando então com o bônus base de Acerto +10, MHP + 0%.
 Ao atingir +7 de refino, e a cada +2 de refinamento em diante, ele ganha Acerto - 3, MHP + 3%, que são somados ao seu bônus base.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777730^000000
@@ -36941,7 +36890,7 @@ Por incrível que pareça, este pervertido mestre das artes marciais era mais conh
 Adiciona a chance de lançar 'Mãos Leves' em nível 01 ao realizar ataques físicos de curta distância.
 Quando equipado junto com a Carta Coringa adiciona AGI + 1, DES + 1, INT - 1.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo^000000 
 Peso : ^77777720^000000
 Nível necessário : ^77777720^000000
@@ -36952,7 +36901,7 @@ Classe : ^777777Todas exceto Aprendiz e Evolução^000000
 Óculos com aros negros e bem estilosos. Justamente para seu visual ficar muito mais legal, não é?
 INT + 1, MDEF + 2.
 Tipo : ^777777Equipamento para cabeça^000000    
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Meio^000000    
 Peso : ^77777720^000000
 Nível necessário : ^77777770^000000
@@ -36962,7 +36911,7 @@ Classe : ^777777Todas as classes^000000
 18591#
 Óculos pequenos que ficam na ponta do nariz. Bem parecidos por aqueles utilizados por inspetores de Escola.
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Meio^000000 
 Peso : ^77777710^000000
 Classe : ^777777Todas exceto Aprendiz e Evolução^000000
@@ -36974,7 +36923,7 @@ Adiciona a chance de ativar Gloria nível 3 ao realizar ataques físicos.
 Caso a AGI básica do usuário seja maior que 80, a chance de conjurar a habilidade aumenta.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo, Meio e Baixo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^77777710^000000
@@ -37025,7 +36974,7 @@ Protetor de orelhas com lindos coelhos que ficam em sua cabeça.
 Bom para pequeninas crianças se protegerem do frio intenso das Cavernas de Gelo.
 ATQ + 4%, MATQ + 4%.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo e Meio^000000
 Peso : ^77777740^000000
 Nível Necessário : ^7777771^000000
@@ -37039,7 +36988,7 @@ Classe : ^777777Todas as classes^000000
 18567#
 Parece o nariz de um talentoso mentiroso. Rumores dizem que este nariz de madeira foi de um deus da mentira.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777710^000000
 Nível necessário : ^7777771^000000
@@ -37103,7 +37052,7 @@ Pare de pensar besteiras... Hora de estraçalhar os inimigos...
 Aumenta o dano causado contra Humanoides em 10%.
 Quando refinado em +7 ou mais e realizando ataques físicos de curto alcance, adiciona uma pequena chance de ativar 100% de Velocidade de Ataque durante 07 segundos.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777770^000000
@@ -37116,7 +37065,7 @@ FOR + 3
 HP + 200
 Não é possível refinar esse item.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo e Meio^000000
 Peso : ^77777740^000000
 Nível Necessário : ^77777750^000000
@@ -37129,7 +37078,7 @@ Um chapéu típico dos camponeses de Dewata. Feito especialmente para ajudar na co
 Mas como os budistas da ilha creem na ideia de mente sã em corpo são, o chapéu também acabou sendo encantando para aumentar também a inteligência de seu dono.
 FOR + 3, INT + 2.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^777777Nenhum^000000
@@ -37140,7 +37089,7 @@ Classes : ^777777Todas exceto Aprendizes^000000
 Dizem em Amatsu que este tapa-olho foi usado no passado pelo lendário samurai Yago Jupei, que acabou deixando todo seu poder para sua descendente, a garota ninja Jupei-chan.
 Se isso é verdade ou apenas caduquice de um ancião de mais de 300 anos ninguém sabe, mas que você fica muito mais estiloso com ele, não há dúvida nenhuma.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Centro^000000
 Peso : ^7777775^000000
 Nível Necessário : ^77777720^000000
@@ -37156,7 +37105,7 @@ INT + 1, DEFM + 5.
 Quando refinado +5 ou +6, adiciona ATQM + 1%.
 Quando refinado acima de +7, adiciona ATQM + 2%.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777710^000000
 Nível Necessário : ^77777730^000000
@@ -37172,7 +37121,7 @@ DEFM + 10.
 Ataques Físicos em curta distância possuem a chance de invocar uma habilidade aleatória.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo, Meio e Baixo^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777720^000000
@@ -37188,7 +37137,7 @@ Esse chapéu tradicional de Dewata é usado pela Ordem Branca de Yang, um grupo de
 Abençoado pela energia do Yang, só de colocá-lo na cabeça você sente seu corpo se fortalecendo.
 FOR + 2, VIT + 2, SOR + 1.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777740^000000
 Nível Necessário : ^7777771^000000
@@ -37200,7 +37149,7 @@ Esse chapéu tradicional de Dewata é usado pela Ordem Negra de Yin, um grupo de m
 Abençoado pela energia do Yin, só de colocá-lo na cabeça você sente sua mente se expandindo.
 INT + 2, DES + 2, AGI + 1.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777740^000000
 Nível Necessário : ^7777771^000000
@@ -37229,7 +37178,7 @@ Peso : ^7777771^000000
 Um ótimo boné para lhe proteger do sol de Morroc.
 INT + 3.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -37285,7 +37234,7 @@ Reduz o SP em 5% ao utilizar habilidades.
 Aumenta o SP Máx em + 3%.
 Caso o item seja refinado à partir de +6, adiciona mais 3% no SP Máx.
 Tipo : ^777777Capa^000000
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Peso : ^77777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -37313,7 +37262,7 @@ Quando equipadas em conjunto com o Uniforme de Presidiário, receberá ATQ + 2 a c
 Quando equipadas em conjunto com os Grilhões, receberá ATQ +1 a cada nível de refinamento dos Grilhões. Bônus de ATQ até +10 de refinamento.
 Quando equipadas em conjunto com a Venda, adiciona ATQ + 10.
 Tipo : ^777777Acessório^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^777777240^000000
 Nível Necessário : ^77777710^000000
 Classes : ^777777Todas as Classes^000000
@@ -37326,7 +37275,7 @@ Aumenta o dano do 'Combo Quádruplo' em 10%.
 Aumenta o dano do 'Combo Triplo' e 'O Último Dragão' em 5%.
 Aumenta o consumo de SP do 'Combo Quádruplo' e 'O Último Dragão' em 10%.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio^000000
 Peso : ^77777710^000000
 Nível Necessário : ^77777750^000000
@@ -37342,7 +37291,7 @@ Estranhos óculos com lentes hexagonais utilizados por alquimistas de temperament
 Esquiva + 2.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Meio^000000
 Peso : ^77777740^000000
 Nível Necessário : ^77777720^000000
@@ -37357,7 +37306,7 @@ Diminui em 5% o dano recebido pela raça Dragão.
 Existe uma pequena chance de dropar 'Baú de Tesouro' ao derrotar monstros da raça Dragão.
 DEFM + 3
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777710^000000
@@ -37370,7 +37319,7 @@ Dizem que o perfume dessas flores ajuda a clarear a mente para tornar as pessoas
 Recebe 3% a mais de EXP a cada monstro derrotado.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000
 Peso : ^777777100^000000
 Nível Necessário : ^7777771^000000
@@ -37397,7 +37346,7 @@ AGI + 1.
 Aumenta 01 ponto de Agi a cada 2 níveis de refinamento da jaqueta.
 Quando equipado com a Insígnia do Cavaleiro e Botas Pretas de Couro adiciona AGI + 2, Esquiva + 5.
 Tipo : ^777777Vestimenta^000000
-Defesa : ^77777740^000000
+Defesa: ^77777740^000000
 Peso : ^777777100^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas as Transcendentais, exceto Aprendiz^000000
@@ -37422,7 +37371,7 @@ Peso : ^7777770^000000
 Um boneco de tartaruga feito especialmente para ser colocado na cabeça de pessoas hiperativas para deixa-las mais calmas e pacientes.
 Permite o uso da habilidade Diminuir Agilidade Nv3.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^7777770^000000
@@ -37435,7 +37384,7 @@ Ele achou que esta peça lhe traria muita sorte e passou a utiliza-la durante seu
 Existe a chance de derrubar Diamante Quebrado, Diamante de 2 quilates e Diamante de 3 quilates ao derrotar monstros.
 DEFM +3
 Tipo : ^777777Acessório^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777770^000000
 Classes : ^777777Todas as Classes^000000
@@ -37456,7 +37405,7 @@ Aumenta a recuperação de SP em 2%.
 Quando equipado em conjunto com 'Candura', aumenta a recuperação de SP em 3%.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
 Peso : ^77777730^000000
 Equipa em : ^7777771^000000
@@ -37467,7 +37416,7 @@ Classes : ^777777Todas as Classes^000000
 Utilizando esse lenço, seu corpo fica cheio de amor e compaixão.
 Reduz em 3% o dano recebido pela raça Humanoide.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777710^000000
 Nível Necessário : ^77777712^000000
@@ -37584,7 +37533,7 @@ O elmo acabou ganhando esse apelido porque Lime Kitty está sempre com um humor a
 SOR + 3
 Reduz em 10% o dano recebido de monstros do tipo Planta.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777740^000000
 Classes : ^777777Todas as classes exceto Aprendiz e Evoluções^000000
@@ -37601,7 +37550,7 @@ Caso refinada em +7 e sua AGI base for igual ou maior que 90, adicionará Vel. de
 Caso refinada em +7 e sua DES base for igual ou maior que 90, aumentará o dano dos ataques a longas distâncias em + 5%. Caso seja refinada em +9, aumentará o dano em +5%.
 Caso refinada em +7 e sua SOR base for igual ou maior que 90, aumentará o dano dos Ataques Críticos em + 10%. Caso seja refinada em +9, aumentará o dano em +5%.
 Tipo : ^777777Capa^000000
-Defesa : ^77777720^000000
+Defesa: ^77777720^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas as Classes^000000
@@ -37621,7 +37570,7 @@ Vel de Ataque + 1%.
 + 2% de Vel de Ataque ao possuir Nível 100 de Base.
 + 3% de Vel de Ataque ao possuir Nível 150 de Base.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em: ^777777Meio^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777780^000000
@@ -37650,7 +37599,7 @@ Pequena chance de causar o Terror Draconiano em inimigos no raio de 5x5 células.
 Caso refinado em +7, aumenta a chance causar o Terror Draconiano a todos inimigos.
 Caso refinado em +9, aumenta muito mais a chance de causar o Terror Draconiano a todos inimigos.
 Tipo : ^777777Escudo^000000
-Defesa : ^77777780^000000
+Defesa: ^77777780^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777765^000000
 Classe : ^777777Todas as Classes^000000
@@ -37662,7 +37611,7 @@ Branco, azul e amarelo são as cores da Província de Poseidon.
 SOR + 3
 Adiciona 10% a mais de dano contra monstros de propriedade Água.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Classe : ^777777Todas exceto Aprendiz e Evoluções^000000
@@ -37675,7 +37624,7 @@ Aumenta em 5% a resistência a ataques do tipo Demônio.
 Pequena chance de derrubar 'Selo Maldito' ao derrotar monstros do tipo Demônio.
 DEFM + 3.
 Tipo: ^777777Equipamento para cabeça^000000
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777710^000000
@@ -37686,7 +37635,7 @@ Classe : ^777777Todas as Classes^000000
 Quem nunca jogou Jokenpo? Esta divertida máscara representa a “Tesoura” desse jogo, que com sua agilidade corta rapidamente o papel.
 AGI + 1.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -37697,7 +37646,7 @@ Classe : ^777777Todas exceto Aprendiz e Evoluções^000000
 Quem nunca jogou Jokenpo? Esta divertida máscara representa a “Pedra” desse jogo, que com sua força bruta esmaga a tesoura.
 FOR + 1.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -37708,7 +37657,7 @@ Classe : ^777777Todas exceto Aprendiz e Evoluções^000000
 Quem nunca jogou Jokenpo? Esta divertida máscara representa o “Papel” desse jogo, que com sorte e perseverança é capaz de embrulhar a pedra.
 SOR + 2.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -37733,7 +37682,7 @@ Um escudo mágico que permite se defender de ataques de alguns tipos.
 Diminui em 5% o dano recebido por monstros do tipo Sombrio.
 Aumenta em 5% o dano recebido por monstros do tipo Morto-Vivo.
 Tipo : ^777777Escudo^000000
-Defesa : ^77777750^000000
+Defesa: ^77777750^000000
 Peso : ^777777130^000000
 Nível Necessário : ^77777765^000000
 Classe : ^777777Todas as classes^000000
@@ -37744,7 +37693,7 @@ Um laço que se tornou famoso por ser muito usado pela famosa cozinheira Sanja. D
 DES+ 3, SOR+ 1.
 Caso refinado em +7 adiante, possui a pequena chance de obter Kit de Culinária Portátil, Kit de Culinária Caseiro, Kit de Culinária Profissional, Kit de Culinária Real e Kit de Culinária Fantástico ao derrotar monstros.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^77777770^000000
@@ -37756,7 +37705,7 @@ Um quepe usado pelo marinheiro Donald, que ficou conhecido por sua inteligência 
 INT + 1.
 Aumenta em 5% o dano contra Humanoides
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777720^000000
 Classe : ^777777Todas as classes^000000
@@ -37767,7 +37716,7 @@ Um gorro muito bonitinho, feito em homenagem à Vaquinha Mumu de Hugel. Depois qu
 Pequena chance de derrubar 'Leite' ao derrotar monstros.
 DES + 2
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Classe : ^777777Todas as classes^000000
@@ -37779,7 +37728,7 @@ Adiciona 3% de defesa para monstros do tipo Planta.
 Quando usado em conjunto com Orelha de Coelho há a chance de usar automaticamente a habilidade Salto nv.1 enquanto sofrer dano de monstros do tipo Planta.
 Não pode ser refinado.
 Tipo: ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em: ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Requerido : ^7777771^000000
@@ -37908,7 +37857,7 @@ Aumenta velocidade de ataque em 10%
 Ao reviver, o personagem terá seu HP e SP são recuperados ao máximo
 Existe a chance de conjurar Cura em Nível 5 no usuário quando receber ataque físico
 Tipo : ^777777Equipamento para cabeça^000000 
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777750^000000
 Nível necessário : ^7777771^000000
@@ -37922,7 +37871,7 @@ Classe : ^777777Todas^000000
 Incrível! Este foi o gorrinho vermelho que sua mãe fez pra você usar quando ainda era criança e ia levar doces para sua vovozinha que vivia no interior da Floresta de Payon. Ela morava longe e o caminho era deserto, mas o Lobo Errante caminhava ali por perto. Felizmente, esse chapeuzinho vermelho já veio com um encantamento especial que ajudou você a se livrar deste lobo mau acertando uma dúzia de golpes críticos na cabeça dele! 
 Critico + 10.
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo ^000000     
 Peso : ^77777720^000000
 Nível necessário : ^77777720^000000
@@ -37934,7 +37883,7 @@ Este chapéu é usado pelos Sábios mais inteligentes e importantes do Castelo do D
 INT + 3, DES + 2, SOR + 1. 
 Quando equipado em conjunto com uma arma do tipo Livro, diminui o Tempo de Conjuração Variável em 3%. Impossível refinar.
 Tipo: ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo ^000000   
 Peso : ^77777750^000000
 Nível necessário : ^77777770^000000
@@ -37947,7 +37896,7 @@ Um belo anel feito pelos Manuks usando minérios extraídos da Yggdrasil, o Freixo
 VIT + 1, HP Máximo + 250, HP Máximo + 10%.
 Aumenta em 5% a recuperação por itens de cura
 Tipo : ^777777Acessório^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Peso : ^77777710^000000
 Classes que utilizam: ^777777Todas^000000
 #
@@ -37958,7 +37907,7 @@ Aumenta o HP Máximo em (Nível Base*5) quando usado pelas Classes Mago, Arqueiro 
 Aumenta o SP Máximo em (Nível de Classe*2) quando usado pelas Classes Espadachim, Mercador e Gatuno.
 Não pode ser destruído em batalha.
 Tipo : ^777777Calçado^000000 
-Defesa : ^77777713^000000
+Defesa: ^77777713^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777110^000000
 Classe : ^777777Todas^000000
@@ -37971,7 +37920,7 @@ Aumenta a resistência ao efeito Atordoar quando usada pelas Classes Espadachim, 
 Não pode ser destruída em batalha. 
 Todos os atributos +1. 
 Tipo : ^777777Armadura^000000 
-Defesa : ^77777755^000000
+Defesa: ^77777755^000000
 Peso : ^777777260^000000
 Nível Necessário : ^777777110^000000
 Classe : ^777777Todas^000000
@@ -38021,7 +37970,7 @@ Um escudo mágico, abençoado pela deusa Sigel, também conhecida como Sol.
 Diminui em 5% o dano recebido por monstros do tipo Terra.
 Aumenta em 5% o dano recebido por monstros do tipo Planta.
 Tipo : ^777777Escudo^000000 
-Defesa : ^77777750^000000
+Defesa: ^77777750^000000
 Peso : ^777777130^000000
 Nível Necessário : ^77777765^000000
 Classe : ^777777Todas^000000
@@ -38034,7 +37983,7 @@ Aumenta em 5% o dano recebido por monstros do tipo Peixe.
 Quando equipado com Escudo Solar, diminui dano de monstros do tipo Terra em 1% por cada nível de refinamento do Manteau Solar.
 Quando equipado com Escudo Solar, aumenta dano de monstros do tipo Peixe em 1% por cada nível de refinamento do Escudo Solar.
 Tipo : ^777777Manto^000000 
-Defesa : ^77777720^000000
+Defesa: ^77777720^000000
 Peso : ^77777770^000000
 Nível Necessário : ^77777765^000000
 Classe : ^777777Todas^000000
@@ -38143,7 +38092,7 @@ ATQ e ATQM aumentado em 1% a cada 3 refinamentos.
 Quando equipado em conjunto com o Anel Memorável RWC 2012, ATQ +1% para cada 2 refinamentos do chapéu.
 Quando equipado em conjunto com o Colar Memorável RWC 2012, será aumentado ATQM +1% a cada 2 refinamentos do chapéu.
 Tipo : ^777777Equipamento para a Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^7777771^000000
@@ -38162,7 +38111,7 @@ Um anel dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana grand
 ATK + 1%.
 Quando equipado em conjunto com o Colar do RWC 2012, ATQ + 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38172,7 +38121,7 @@ Um anel dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana grand
 ATQ + 1%.
 Quando equipado em conjunto com o Colar do RWC 2012, ATQ + 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38182,7 +38131,7 @@ Um colar dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana gran
 ATQM+ 1%.
 Quando equipado em conjunto com o Anel do RWC 2012, ATQM+ 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38192,7 +38141,7 @@ Um colar dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana gran
 ATQM+ 1%.
 Quando equipado em conjunto com o Anel do RWC 2012, ATQM+ 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38230,7 +38179,7 @@ Um anel dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana grand
 ATQ + 1%.
 Quando equipado em conjunto com o Colar do RWC 2012, ATQ + 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38247,7 +38196,7 @@ Um colar dourado, com o símbolo do RWC2012 gravado em sua superfície. Emana gran
 ATQM+ 1%.
 Quando equipado em conjunto com o Anel do RWC 2012, ATQM+ 4%.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
@@ -38396,7 +38345,7 @@ Peso : ^7777770^000000
 //+ 5% de resistência contra monstros do tipo Morto-Vivo e do tipo Demônio.
 //ATQ, ATQM +10%.
 //Tipo : ^777777Equipamento para Cabeça^000000 
-//Defesa : ^77777712^000000
+//Defesa: ^77777712^000000
 //Equipa em : ^777777Topo^000000
 //Peso : ^77777750^000000
 //Nível Necessário : ^7777771^000000
@@ -38406,7 +38355,7 @@ Peso : ^7777770^000000
 Um chapéu de abóbora, feito com o que dizem ser a cabeça de Jack. Parece que o espírito deste personagem das lendas do Dia das Bruxas habita esse equipamento, auxiliando na defesa de quem o usa. O espírito volta ao Submundo depois de algum tempo.
 + 5% de resistência contra monstros do tipo Morto-Vivo e do tipo Demônio.
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777750^000000
 Nível Necessário : ^7777771^000000
@@ -38421,7 +38370,7 @@ Peso : ^7777770^000000
 18693#
 E eis que de repente, um nobre muito influente de Rune Midgard incumbiu você de cuidar deste pequeno e adorável gatinho enquanto ele partia em uma importante missão. E agora cabe a você zelar dessa criaturinha preguiçosa, criada à base de leite com pera, ovo maltino e pão com mortadela. Só tome cuidado, pois dizem que ele vira uma verdadeira fera quando sente a presença de outros animais e criaturas badernistas do tipo Bruto.Adiciona 2% de dano em monstros do tipo Bruto.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777774^000000
+Defesa: ^7777774^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38430,7 +38379,7 @@ Classe : ^777777Todas exceto Aprendiz^000000
 18698#
 Um delicioso salgadinho de queijo que derrete em sua boca. Fica mais saboroso quando saboreado com Queijo Cheddar ou Patê de Cebola. Só tome cuidado com o hálito.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38439,7 +38388,7 @@ Classes :  ^777777Todas exceto Aprendiz^000000
 18665#
 Fonte de Vitamina C, é uma fruta muito popular, principalmente para extrair sua polpa. Ela pode ser servida de diversas maneiras, desde em rodelas até mesmo picada em uma salada de frutas. O que vale é a criatividade.
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38448,7 +38397,7 @@ Classes :  ^777777Todas exceto Aprendiz^000000
 18702#
 Uma espuma cremosa, que facilita o barbear e deixa a pele sedosa, hidratada e perfumada. Passou a ser usada como disfarce por alguns aventureiros, mas só até a primeira rajada de vento...
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Baixo^000000    
 Peso : ^7777775^000000
 Nível Necessário : ^77777710^000000
@@ -38458,7 +38407,7 @@ Classes :  ^777777Todas^000000
 Dizem que quando a musa Meeku Rátishune subiu ao palco pela primeira vez para apresentar a Dança do Caramelo, ela estava tão nervosa que tudo o que conseguiu fazer foi ficar com cara de assustada, boca aberta, sacudindo o braço para cima e para baixo com um alho poró na mão. Depois que sua carreira de sucesso deslanchou por toda Rune-Midgard com o show “O Mundo é Meu” e ela se tornou a musa número um de Amatsu, esse vegetal acabou se tornando seu símbolo. Tanto que hoje em dia é comum eles serem encantados como este que você está carregando na boca.
 Diminui o dano recebido por monstros Pequenos em 2%. Não diminui o dano recebido de personagens de tamanho pequeno.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38467,7 +38416,7 @@ Classes : ^777777Todos exceto Aprendiz^000000
 18703#
 Um pequeno broto da Árvore da Vida, Yggdrasil. Cultivado a partir de uma Semente de Yggdrasil, graças às suas capacidades curativas, o broto era usado nas refeições para evitar intoxicação alimentar, até os aventureiros passarem a usá-lo como forma de prevenção a envenenamentos.Aumenta em 20% a tolerância contra o status Veneno.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000 
 Peso : ^7777775^000000
 Nível Necessário : ^7777771^000000
@@ -38480,7 +38429,7 @@ Peso : ^7777771^000000
 18682#
 Estas pequenas lentes azuladas são usadas por atores iniciantes que não conseguem chorar em cena. Por mais artificial que pareça, elas podem ser convincentes.
 Tipo : ^777777Equipamento para Cabeça^000000  
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Meio^000000   
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -38490,7 +38439,7 @@ Classes :  ^777777Todas^000000
 Um antigo instrumento usado para fazer cálculos. Alguns mercadores novatos costumam usar para evitar prejuízos.
 Permite o uso da habilidade "Identificar Item nv. 1".
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000   
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38574,23 +38523,11 @@ Classes : ^777777Espadachins/Mercadores/Gatunos e suas respectivas evoluções^000
 Um chapéu feito por uma remota tribo de terras antigas. Eles acreditavam que poderiam renascer caso fossem mortos em batalha com este ornamento na cabeça.
 INT + 2.
 Tipo : ^777777Equipamento para Cabeça^000000       
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000     
 Peso : ^77777740^000000
 Nível Necessário : ^77777720^000000
 Classes :  ^777777Todas exceto Aprendiz^000000
-#
-2177#
-Um escudo gigante, forjado para o Senhor da Morte.
-Adiciona 2% de dano em monstros do tipo Chefe.
-Dano Recebido por monstros Normais (que não são chefes) +10%
-Quando equipado em conjunto com o Elmo do Senhor da Morte, +5% de dano em monstros do tipo chefe.
-Se o refinamento do Elmo do Senhor da Morte for +7 ou superior, adiciona +5% de dano em monstros do tipo chefe.
-Tipo : ^777777Escudo^000000 
-Defesa : ^777777150^000000
-Peso : ^777777200^000000
-Nível Necessário : ^77777790^000000
-Classes : ^777777Todas^000000
 #
 18729#
 Dizem que na família mafiosa mais famosa de Lighthalzen havia o único minijusticeiro de Midgard. Conhecido como Rebourne, o pequeno bebê era extremamente poderoso, e entre suas armas secretas estava a Bola Rebourne. Também conhecida como “bola do último desejo”, quando atinge seu alvo na cabeça ela se incendeia e teoricamente mata seu alvo. Para sua sorte, ela também instantaneamente o ressuscita, liberando uma incrível força interior capaz de transformar qualquer pessoa que não seja boa em nada, mas que possua um último desejo, em um verdadeiro herói!
@@ -38600,7 +38537,7 @@ Reduz o tempo de conjuração variável em 3%.
 Se  o refinamento do item for +12 ou maior, reduz o tempo de conjuração em 1%. Se o refinamento for +14 ou maior, reduz o tempo de conjuração em mais 1%.
 Os bônus são cumulativos, podendo reduzir o tempo de conjuração em até 5%.
 Tipo : ^777777Equipamento para Cabeça^000000  
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000  
 Peso : ^77777715^000000
 Nível Necessário : ^7777771^000000
@@ -38610,7 +38547,7 @@ Classes :  ^777777Todas^000000
 Quer irritar seus inimigos? Quer ser mais pentelho que as piadas de bardo? Então experimente as vantagens deste estranho elmo “amaldiçoado”. Basta colocar na cabeça para que você comece a tagarelar sem parar: “Ei, Mammonita! Ei, Mammonita! Ei, Mammonita! Mammonita! Ei, Mammonita!”. Pior de tudo é que funciona, e seus inimigos vão acabar entrando na faca. Ou, no caso, na “mammonitada”.
 Permite o uso da habilidade 'Mammonita Nv.2'
 Tipo : ^777777Equipamento para Cabeça^000000   
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000     
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -38621,7 +38558,7 @@ Elmo semelhante ao de Aegir, deus dos mares. Seu design foi projetado para quem 
 +5 DEFM
 Quando usado com Manteau  de Aegir, Armadura de Aegir e Sapatos de Aegir, todos os atributos +1.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo^000000 
 Peso : ^77777780^000000
 Nível Necessário : ^777777110^000000
@@ -38636,7 +38573,7 @@ Aprimorar essa armadura aumentará a taxa de reflexão de danos em 2% para cada Ní
 (O bônus por nível de aprimoramento só será válido até o nível +10 da armadura)
 Não pode ser destruído em batalha.^000000 
 Tipo : ^777777Manto^000000 
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777110^000000
 Classes :  ^777777Todas^000000
@@ -39627,7 +39564,7 @@ Aumenta a tolerância contra Humanoides em 10%
 Diminui a tolerância contra todas as outras raças em 10%
 HP Máximo +500
 Tipo : ^777777Sapato^000000
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39637,7 +39574,7 @@ Aumenta a tolerância contra Demônio em 10%
 Diminui a tolerância contra todas as outras raças em 10%
 SP Máximo +150
 Tipo : ^777777Sapato^000000
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39646,7 +39583,7 @@ Classe: ^777777Arcebispo^000000
 Esquiva Perfeita +5
 Tem a chance de conjurar Renovatio nv. 1 enquanto ataca fisica ou magicamente.
 Tipo : ^777777Capa^000000
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39656,7 +39593,7 @@ Esquiva +5
 Tem a chance de conjurar Oratio nv. 2 enquanto ataca fisica ou magicamente.
 Se o usuário souber um nível maior da habilidade, o nível aprendido será ativado.
 Tipo : ^777777Armadura^000000
-Defesa : ^77777712^000000
+Defesa: ^77777712^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39666,7 +39603,7 @@ Abençoa o usuário com a propriedade Sagrada.
 Diminui o consumo de SP de Clementia em 50
 INT +1, DEFM +10
 Tipo : ^777777Manto^000000
-Defesa : ^77777722^000000
+Defesa: ^77777722^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39676,7 +39613,7 @@ Abençoa o usuário com a propriedade sombria.
 Aumenta o dano de Judex em 30%. Aumenta o consumo de SP de Judex para 40.
 FOR +1, INT +1, DEFM+10
 Tipo : ^777777Manto^000000
-Defesa : ^77777722^000000
+Defesa: ^77777722^000000
 Peso : ^77777730^000000
 Nível Necessário : ^777777100^000000
 Classe: ^777777Arcebispo^000000
@@ -39749,7 +39686,7 @@ Classe: ^777777Todas^000000
 Dizem que essa simpática cartola pertencia ao pequeno Xóper, filho do famoso aviador Capitão Alcimento. Xóper enfrentou muito preconceito quando decidiu largar a carreira militar e, no lugar de seguir os passos de outros membros da sua raça, estudar Medicina na Universidade de Juno. No fim, Xóper se provou bastante esforçado e inteligente, ganhando o cargo de médico da tripulação de um navio voador, mesmo confundindo o símbolo da caveira com algo que seria bom e terminando num navio pirata!
 INT + 3.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777740^000000
 Nível Necessário : ^7777771^000000
@@ -39760,7 +39697,7 @@ Agi +1
 +5% de EXP ao derrotar montros do tipo Inseto.
 Não pode ser refinado.
 Tipo : ^777777Equipamento para Cabeça^000000   
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000       
 Peso : ^77777720^000000
 Nível Necessário : ^77777735^000000
@@ -39774,7 +39711,7 @@ Peso : ^7777771^000000
 Dizem que essa cartola, enfeitada com pétalas das cerejeiras de Amatsu, era usada pelo enigmático herói, Brochedo Mask, que tinha como marca registrada um pequeno broche de prata preso na lateral do chapéu. Brochedo Mask sempre aparecia para motivar a heroína Sailor Musa, utilizando uma flor de cerejeira para atrapalhar o ataque dos seus inimigos e ganhar tempo para Sailor Musa atacar com todo o seu poder.
 INT + 3, ATQM + 5%, SP + 50.
 Tipo : ^777777Equipamento para Cabeça^000000   
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000 
 Peso : ^77777720^000000
 Classe: ^777777Todas exceto Aprendiz^000000
@@ -39783,7 +39720,7 @@ Classe: ^777777Todas exceto Aprendiz^000000
 Uma touca com orelhinhas de cachorro. Ela representa que você é uma pessoa leal e fiel, sempre pronta para animar o dia de quem você gosta. Tamanho comprometimento parece também deixar você cheio de energia e resistência!
 VIT + 2, HP + 100.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
@@ -39827,7 +39764,7 @@ Peso: ^7777771^000000
 Com o surgimento de novos fragmentos do Coração de Ymir, um grupo de Mecânicos criou aeroplanos que podiam ser tripulados por uma única pessoa. Assim surgiram os primeiros aviadores de Rune-Midgard, todos equipados com chapéus especiais como este, que deixavam seus reflexos mais rápidos. Infelizmente, o primeiro grupo de aviadores não durou muito tempo, pois todos se acidentaram quando seu líder, Rick Garivista, ficou obcecado em tentar capturar um filir-correio que se mostrou mais esperto do que eles.
 ^0000FFAGI + 3, Vel. ATQ + 1%, - 5 SP a cada 10 segundos.^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^7777771^000000
@@ -39837,7 +39774,7 @@ Classes : ^777777Todas exceto Aprendiz^000000
 Um laço com dois broches de gato, um de cada lado. Criado pelo mais renomado estilista da Corporação Pata de Gato, o famoso Bichano de Luvas, este item aguça seus sentidos.
 ^0000FFDES + 3.^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777750^000000
 Nível Necessário : ^77777760^000000
@@ -39848,7 +39785,7 @@ Em Comodo, este laço é dado às Odaliscas logo após a cerimônia de matrimônio. En
 ^0000FFDES +1.
 Pequena chance de ativar ‘Piscadela’ enquanto for atacado.^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
 Nível Necessário : ^77777730^000000
@@ -39860,7 +39797,7 @@ Um ovo leve como uma pluma, que revela o talento daquele que o abrir. Peso : ^77
 18664#
 Em Lightzhalzen, um dos acadêmicos que trabalhou no projeto do Laboratório de Somatologia acabou se aposentando e abrindo o “Instituto Chico para Jovens Superdotados”. Seu sonho era treinar jovens que haviam nascido com alguma anomalia mágica para que usassem seus poderes especiais para o bem. Escotti Verões foi seu primeiro aluno, fadado a sempre ter que usar esses óculos de quartzo rubi para evitar soltar Bolas de Fogo pelos olhos.
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Meio^000000    
 Peso : ^77777740^000000
 Nível Necessário : ^77777720^000000
@@ -39871,7 +39808,7 @@ Pouca gente em Rune-Midgard sabe, mas foi um nativo da ilha-nação de Brasilis qu
 ^0000FFAGI + 3, INT + 3.
 Pequena chance de Encantar a arma com propriedade 'Vento' por três minutos ao realizar ataques físicos de curta distância.^000000
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -39881,7 +39818,7 @@ Classes : ^777777Todas^000000
 Esse chapéu em formato de maçã verde emite um aroma doce e agradável. Criado pelo visionário Steve Trampos, o chapéu logo passou a ser chamado pelos fashionistas de Rune-Midgard de “ai-Hat” depois de um incidente no qual um Peco Peco mordeu um pedaço de uma destas maçãs.
 ^0000FFDES + 2, Precisão+ 5.^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000  
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -39892,7 +39829,7 @@ De acordo com os nativos de Brasilis, o Curupira é um guardião da floresta e dos
 ^0000FFDES + 3.
 Chance de causar ‘Confusão’ no inimigo enquanto receber dano de ataques físicos.^000000
 Tipo : ^777777Equipamento para Cabeça^000000  
-Defesa : ^77777720^000000
+Defesa: ^77777720^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -39902,7 +39839,7 @@ Classes : ^777777Todas^000000
 Esta seringa parece guardar um terrível segredo! Seria uma amostra de sangue da última vítima do Sicário Serial, Texder Gorman? Estaria infectada com um novo vírus da Corporação Sombrinha? Será que carrega nela o soro do Rúlqui Vermelho? Todos olham para você com medo e desconfiança, enquanto você anda com essa seringa na boca. Ninguém imagina que ela tem apenas catchup para você colocar no seu sanduíche.
 ^00FF00Impossível Refinar.^000000
 Tipo : ^777777Equipamento para Cabeça^000000   
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000     
 Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
@@ -39953,7 +39890,7 @@ Classe: ^777777Espadachim e evoluções^000000
 2872#
 Um certificado garantido aos gatos jogadores. Ele tem a habilidade de gravar a disputa.
 Tipo: ^777777Acessório^000000
-defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso: ^7777770^000000
 Nv. Necessário: ^7777771^000000
 Classe: ^777777Todas as Classes^000000
@@ -39962,7 +39899,7 @@ Classe: ^777777Todas as Classes^000000
 Uma lembrancinha de Malangdo, ela faz com que você fique feliz quando equipado.
  + 1 de VIT, + 1 de AGI , + 1 de DES , + 1 de SOR.
 Tipo: ^777777Acessório^000000
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Peso: ^77777710^000000
 Nv. Necessário: ^7777771^000000
 Classe: ^777777Todas as Classes^000000
@@ -40167,7 +40104,7 @@ Classe: ^777777Caçador, Bardo/Odalisca e evoluções^000000
 Um item com o estilo errante.
 + 10 de ATQM, todas as conjurações fixas reduzem 0,1 s.
 Tipo: ^777777Equipamento para Cabeça^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Lugar: ^777777Peso wqa	 ^000000: ^77777710^000000
 Nv. Necessário: ^7777771^000000
 Classe: ^777777Todas as Classes^000000
@@ -40560,7 +40497,7 @@ Peso : ^7777770^000000
 Óculos misteriosos, inventado pelo Feiticeiro James Camarão, para que as pessoas, ao ler seu livro, “Ah, vá! Tá...”, acreditassem que as imagens dele estavam saltando para fora das páginas. Quando você o coloca, além de um estranho desejo de comer pipoca, você tem a incrível sensação de que as coisas ao seu redor estão mais reais do que eram antes. Parece até que este golpe vindo em sua direção pode lhe atingir... Opa! E não é que pode mesmo? Se abaixe aí!
 ^0000FFAumenta o Dano Mágico em 4% em monstros da raça Amorfo. Diminui em 5% o dano recebido da propriedade Neutra.^000000 
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em : ^777777Meio^000000 
 Peso : ^77777710^000000
 Nível Necessário : ^77777710^000000
@@ -40571,7 +40508,7 @@ Para as outras pessoas deve ser engraçado olhar para você e ter a impressão que 
 ^0000FFDiminui em 10% o dano recebido por monstros de propriedade Água. Pequena chance de derrubar o consumível 'Peixe Fresco' ao derrotar monstros do tipo Peixe.^000000 
 Impossível Refinar^000000
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^777777120^000000
 Classe: ^777777Todas^000000
@@ -40582,13 +40519,13 @@ Criado pela famosa estilista marinha, Leira, este chapéu é uma cópia exata do si
 Recuperação usando os itens Sushi e Peixe Cru +50%
 Se refinado acima do +7, recuperação usando o item Peixe Cru +100%. ^000000 
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^77777713^000000Equipa em : ^777777Topo^000000  
+Defesa: ^77777713^000000Equipa em : ^777777Topo^000000  
 Peso : ^77777730^000000Nível Necessário : ^77777710^000000
 Classe: ^777777Todas^000000
 #
 18692#
 Se você usa esta peruca, não é preciso que lhe esclareçam tudo no Preto ou Branco, nem que expliquem o ABC de como as coisas funcionam. Midgard é um lugar sombrio, e muitas vezes parece que Eles Não Se Importam com a Gente. Mas apesar das coisas às vezes serem como um Thriller de horror, você sabe que é capaz de ajudar a Curar o Mundo. Basta colocar sua cara de Bad boy e encarar os desafios! Sem esquecer, é claro, do estilo, coisa que você tem de sobra, parecendo até um Andarilho da Lua, como dizem seus amigos, Billi e Jean. Afinal, como a peruca indica, você é um membro do grupo musical, Jeca são Five!^0000FFDES + 2, SOR + 1.^000000 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777720^000000
 Classe: ^777777Todas exceto Aprendiz^000000
@@ -40599,7 +40536,7 @@ Um ovo que dizem ter sido atingido por Energia Celeste após uma tentativa frustr
 18700#
 Essa cartola foi usada pela popular Raruri Zusumia durante o Festival da Páscoa em Comodo. Famosa por suas músicas melancólicas, Raruri também ficou conhecida por insistir em teorias malucas como a existência de seres de outras dimensões, viajantes do tempo na Torre do Relógio ou pessoas com poderes psíquicos como a habilidade de refletir feitiços. Claro que a única maluquice são todas essas coisas existirem e apenas Raruri não perceber... De toda forma, a cantora transformou simples orelhinhas de coelho em um cobiçado item da moda!^0000FFINT + 1.^000000 
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777773^000000
+Defesa: ^7777773^000000
 Equipa em : ^777777Topo^000000    
 Peso : ^77777750^000000
 Classe: ^777777Todas^000000
@@ -40618,7 +40555,7 @@ Aumenta o dano em monstros do tipo Bruto conforme o refinamento do chapéu.
 Chance de transformar o personagem em Eddga sempre que for atacado ou enquanto estiver atacando. A chance de transformação aumenta conforme o nível de refinamento do chapéu. 
 Quando se transformar em Eddga, o personagem perde 5 SP a cada segundo.
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^77777710^000000
+Defesa: ^77777710^000000
 Equipa em : ^777777Topo^000000  
 Peso : ^77777740^000000
 Nível Necessário : ^7777771^000000
@@ -40630,7 +40567,7 @@ Classe: ^777777Todas^000000
 Este tapa-olho no formato de uma estrela azul foi criado em homenagem ao famoso Mecânico pirata, Franco. Considerado meio excêntrico por vestir apenas uma sunga e partes modificadas de M.E.C.H.A. nos braços e por adorar refrigerantes como o Sograt Cola, Franco ficou SUUPER emocionado quando descobriu que a estilista marinha Leira criaria um item para homenageá-lo, apesar de achar que seria super divertido se no lugar do tapa-olho ela tivesse criado uma espécie de nariz super metálico.
 Resistência a Atordoamento +15% .
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio^000000  
 Peso : ^77777710^000000
 Classe : ^777777Todas^000000
@@ -40639,7 +40576,7 @@ Classe : ^777777Todas^000000
 Então você acreditou no seu amigo quando ele disse que seria engraçado ir até Lutie dar uma lambida naqueles postes de metal no formato de bengalas de alcaçuz? Você realmente pensou que fossem doces de verdade? Nem te passou pela cabeça que por causa do frio, sua língua ficaria congelada e grudada? Bem, ao menos você conseguiu se desgrudar, depois que cinco pessoas pararam de rir pra te puxar. E não precisa se preocupar, não está nem um pouco esquisito, imagina! E daí que até demônios estão fugindo quando veem você? Considere isso um bônus, seu linguarudo! Como seu amigo falou, no fim você ficou ótimo assim. E você sempre acredita no seu amigo, não é?
 Reduz em 3% o dano contra monstros do tipo Demônio
 Tipo : ^777777Equipamento para Cabeça^000000    
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo^000000 
 Peso : ^77777710^000000
 Classe : ^777777Todas^000000
@@ -40698,7 +40635,7 @@ Equipa em : ^777777Sacerdote/Sábio/Mestre Taekwon ^000000
 Dizem que quem já curtiu a página de Ragnarök no Facebook, um famoso grimório da Biblioteca de Juno, é presenteado com esta bela flor, mesmo que seja um troll. Esta amável flor branca é prova que você está à caminho de zerar a internet – seja lá o que isso quer dizer!
 ^0000FFPrecisão +1^000000 
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^77777710^000000
 Classes que utilizam: ^777777Todas^000000
@@ -41410,7 +41347,7 @@ Peso : ^77777720^000000
 Você pode ler o nome Hachiko nesta coleira. De acordo com as lendas, essa coleira foi usada por um cão da raça Shiba Inu que pertenceu ao Atroce, antes dele se tornar um licantropo amaldiçoado, quando ainda era um guerreiro humano. Dizem que ainda existe um laço profundo ligando este item ao MVP. Será verdade? Você sente apenas uma forte sensação de lealdade ao segurar esta coleira. O que acontecerá se você usá-la?
 AGI +2.
 Tipo : ^777777Acessório^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Peso : ^77777730^000000
 Nível Necessário : ^77777750^000000
 Classe : ^777777Todas^000000
@@ -41420,7 +41357,7 @@ Brilhar como purpurina é para os fracos! Inspirados nos verdadeiros vampiros, co
 Chance de converter 5% do valor do dano causado no inimigo em HP.
 Desabilita a recuperação de HP e SP.
 Não pode ser refinado nem destruído.
-Tipo : ^777777Equipamento para cabeça^000000 Defesa : ^7777770^000000
+Tipo : ^777777Equipamento para cabeça^000000 Defesa: ^7777770^000000
 Equipa em : ^777777Baixo ^000000
 Peso : ^77777730^000000
 Nível Necessário : ^77777740^000000
@@ -41431,7 +41368,7 @@ Um chapéu feito em homenagem a uma das raças mais raras e antigas de cachorros, 
 ATQ + 30.
 Se equipado com o Coleira da Fidelidade [1], há uma chance de mudar sua forma para um Atroce enquanto receber e causar dano, aumentando o ataque enquanto transformado. A chance de mudar a forma aumenta de acordo com o nível de refinamento. Drena 5 de SP a cada segundo. 
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777740^000000
 Nível Necessário : ^77777750^000000
@@ -41441,7 +41378,7 @@ Classes : ^777777Todas^000000
 Para alguns, este é apenas um adorável chapéu feito em homenagem ao filhote de um dos MVPs mais famosos de Rune-Midgard. Contudo, você sabe a verdade. Você fez um pacto com este pequeno Bafomé Jr. para que ele ficasse selado para sempre nesta forma pequenina e em troca você o levaria para conhecer o mundo. Agora que ele está emprestando seu poder para você, resta saber se será capaz de cuidar do bafinho, antes que o pai dele venha cuidar de você!
 Chance de conjurar a habilidade Adrenalina Pura nível 2 sempre que atacar fisicamente.
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível Necessário : ^7777771^000000
@@ -41451,7 +41388,7 @@ Classes : ^777777Todas^000000
 Uma tiara que carrega as asas negras da valquíria caída, Randgris. Dizem que antes desta valquíria sucumbir à maldição da Ilha de Odin, a tiara possuía asas brancas. Mais inexplicável ainda é o fato de que suas asas ganharam vida quando você as colocou em sua cabeça. Agora você sente como se fosse capaz de enxergar quando o espectro da morte está ameaçando outras pessoas.
 
 Tipo : ^777777Visual ^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000 
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -41460,7 +41397,7 @@ Classe : ^777777Todas^000000
 19607#
 Dizem que quando um filhote de fênix resolve se alojar em sua cabeça é sinal que você sempre voltará da morte. É o caso, por exemplo, do famoso cavaleiro Irk de Fênix, famoso por sempre reaparecer no ponto de retorno. Dizem que quando seu irmão caçula, Chun de Andrômeda, foi sorteado para ser treinado por Hela, a Rainha da Morte, em Niflheim, Irk acabou indo em seu lugar. Lá, ele se apaixonou pela jovem Chuna de Esmeralda, que estranhamente parecia muito seu irmão. Não se sabe os detalhes, mas ao voltar do treinamento, Irk havia se transformado num cavaleiro frio e sem coração, exceto quando corria para salvar seu irmão ou para cuidar do filhote de fênix em sua cabeça.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -41469,7 +41406,7 @@ Classes : ^777777Todas^000000
 19649#
 Desde o surgimento da Corporação Pata de Gato e a descoberta de Malangdo, os felinos ficaram ainda mais na moda! Se você gosta dos bichanos, agora pode mudar seu visual com estas orelhinhas e emanar charme e fofura ao mesmo tempo.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -41478,7 +41415,7 @@ Classe : ^777777Todas^000000
 19661#
 Uma cartola feita de camadas de creme recheado com morango e com cobertura de chocolate. Espere um pouco... Isso é realmente um projeto visual de algum estilista, ou é um sorvete napolitano? De toda forma, é um visual perfeito para você viver deliciosas aventuras!
 Tipo: ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -41490,7 +41427,7 @@ HP Máx + 500, SP Máx + 50
 Aumenta a resistência contra todas as propriedades em 10%
 Se o nível de refinamento for 14 ou mais, habilita o uso da habilidade Petrificar nível 5.
 Tipo : ^777777Escudo^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Peso : ^77777720^000000
 Nível Necessário : ^777777130^000000
 Classe : ^777777Somente 3ª Classe^000000
@@ -41501,7 +41438,7 @@ INT + 3, FOR + 2
 Aumenta a resistência contra monstros do tipo humanoide em 11%
 Aumenta a recuperação de HP por Mastelas em 70% 
 Tipo: ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em: ^777777Topo ^000000
 Peso: ^77777710^000000
 Nível Necessário: ^77777770^000000
@@ -41552,7 +41489,7 @@ DEFM, Crítico, Precisão, Esquiva e Esquiva perfeita + 5
 Caso refinado em +7, reduz o tempo de conjuração em 5%
 Caso refinado em +9, o tempo de uso entre habilidades será reduzido em 5%,  Velocidade de Ataque + 5%
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777710^000000
@@ -41564,7 +41501,7 @@ Aumenta a resistência contra monstros do tipo Dragão e Humanoide em 8%
 Aumenta o efeito de cura do item Carne em 200%
 Se refinado em 12 ou mais, aumenta HP Máximo em 7% e SP Máximo em 3%
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Topo^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777710^000000
@@ -41584,7 +41521,7 @@ Classes: ^777777Todas as Classes^000000
 Dizem que há muito tempo, a Tribo Utan venerava uma antiga divindade chamada Tapaton. Por meio de sons produzidos por seu tambor místico, Tapaton teria conseguido guiar os Utan por diversos perigos, até alcançarem as raízes de Yggdrasil, onde Odin aguardava por eles.  Ele precisava que seu maior guerreiro recuperasse um tesouro perdido no Vulcão de Thor. Para que a força de Tapaton continuasse a ecoar nos ouvidos do seu herói, Odin transformou a pequena divindade em um par de asas, que iriam coroar a cabeça do guerreiro e protege-lo do fogo do vulcão. Assim surgiram as Asas de Tapaton.
 Aumenta a resistência contra ataques da propriedade fogo em 8%
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777750^000000
@@ -41594,7 +41531,7 @@ Classes : ^777777Todas^000000
 Essas barbatanas foram retiradas dos lendários peixes encontrados no magma do Vulcão de Thor.
 Aumenta a resistência contra ataques da propriedade fogo em 8%
 Tipo: ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777750^000000
@@ -41605,7 +41542,7 @@ Classe : ^777777Todas as Classes^000000
 Todos os status + 5, HP Máximo + 100, SP Máximo + 50
 Se refinado em 8 ou mais, adiciona 1% de HP Máximo e reduz o tempo de conjuração fixa em 1% a cada refinamento adicional.
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777760^000000
@@ -41626,7 +41563,7 @@ Todos os status +9.
 DEFM + 1.
 ^FF0000Atenção! Este item será removido na manutenção de 01/10/2013^000000
 Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777771^000000
+Defesa: ^7777771^000000
 Equipa em: ^777777Topo ^000000 
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -42208,7 +42145,7 @@ Peso: 1
 19677#
 Depois de retornar tantas vezes para a Kafra, de repente você ficou com esse visual espiritual.
 Tipo: ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42217,7 +42154,7 @@ Classes : ^777777Todas^000000
 19678#
 O complemento perfeito para o seu visual na hora de cantar “Toca o Sino” e outras músicas natalinas.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42226,7 +42163,7 @@ Classes : ^777777Todas^000000
 19681#
 Uma tiara visual feita de prata reluzente, decorada com uma pequena estrela na ponta.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42235,7 +42172,7 @@ Classes : ^777777Todas^000000
 19682#
 Um Poring Noel pulando na sua cabeça é o visual mais desejado do Natal!
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42244,7 +42181,7 @@ Classes : ^777777Todas^000000
 19683#
 Azedinho na medida certa, esse pirulito ainda deixa você com um visual de alguém bonzinho e inocente.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42253,7 +42190,7 @@ Classes : ^777777Todas^000000
 19684#
 Uma peruca afro fofinha, perfeita para um visual festivo. E péssima para se cabecear no futebol.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42262,7 +42199,7 @@ Classes : ^777777Todas^000000
 19685#
 Depois de juntar todo o seu ki e se transformar no Super Poring Noel, esse monstrinho deixou seu visual ainda mais especial!
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42271,7 +42208,7 @@ Classes : ^777777Todas^000000
 19679#
 O visual perfeito para quando você dropar a carta daquele MVP, telar em cima da Katrinn Keyron ou quebrar o Emperium com apenas um “hit”.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42279,7 +42216,7 @@ Classes : ^777777Todas^000000
 #
 19680#
 Ok. Então você fez alguma coisa errada e resolveu colocar essa máscara para disfarçar. Não que esse visual esteja ajudando muito.  :-p
-Tipo : ^777777Visual^000000 Defesa : ^7777770^000000
+Tipo : ^777777Visual^000000 Defesa: ^7777770^000000
 Equipa em : ^777777Meio e baixo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42287,7 +42224,7 @@ Classes : ^777777Todas^000000
 #
 19540#
 Um protetor de orelhas bem quentinho com um visual fofinho de coelhinhos.
-Tipo : ^777777Visual^000000 Defesa : ^7777770^000000
+Tipo : ^777777Visual^000000 Defesa: ^7777770^000000
 Equipa em : ^777777Topo e meio ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
@@ -42347,7 +42284,7 @@ Chance de conjurar a habilidade Assumptio em nível 5 quando atacado fisicamente.
 Todos os atributos +5. Perda de 600 de HP a cada segundo. 
 Indestrutível em batalha.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777777^000000
+Defesa: ^7777777^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777760^000000
 Nível necessário : ^77777760^000000
@@ -42398,7 +42335,7 @@ Chance de conjurar Kyrie Eleison em nível 9 quando receber dano físico.
 Todos os atributos +5. Perda de 400 HP a cada 5 segundos. 
 Indestrutível em batalha. 
 Tipo : ^777777Equipamento para cabeça^000000
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777760^000000
 Nível Necessário : ^77777760^000000
@@ -42410,7 +42347,7 @@ HP máximo + 10%
 Reduz o dano de monstros do tipo humanoide em 5%
 A cada nível de refinamento MATQ +2.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -42443,7 +42380,7 @@ Chance de conjurar Vigor em nível 8 ao receber dano físico.
 Todos os atributos +5. Consume 300 de HP a cada 4 segundos.
 Indestrutível em batalha.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777776^000000
+Defesa: ^7777776^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777760^000000
 Nível Necessário : ^77777760^000000
@@ -42457,7 +42394,7 @@ Dano recebido por monstros do tipo fogo -10%.
 Quando refinado em +9 aumenta a Velocidade de Ataque em +1.
 Adiciona +1 de Velocidade de Ataque a cada 2 Refinamentos acima do +9.
 Tipo : ^777777Equipamento para Cabeça^000000
-Defesa : ^7777778^000000
+Defesa: ^7777778^000000
 Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
@@ -42469,7 +42406,7 @@ VIT + 3, DEFM + 5, ATQM + 2%
 Quando refinado em +9, DEFM +5 e ATQM +4%
 Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
 Tipo : ^^777777Equipamento para Cabeça^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -42481,7 +42418,7 @@ INT +5  SOR + 5 ATQ +2%  ATQM + 5%
 Quando refinado em +9, ATQ e ATQM +4%
 Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
 Tipo : ^^777777Equipamento para Cabeça^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
 Nível Necessário : ^7777771^000000
@@ -42491,7 +42428,7 @@ Classes: ^777777Todas^000000
 Um diadema feito de cristais de gelo. Ao colocá-lo na cabeça, não pense na sua mãe ou você vai querer chorar.
 Aumenta a resistência contra ataques da propriedade água em 8%
 Tipo: ^777777Equipamento para Cabeça^000000 
-Defesa : ^7777775^000000
+Defesa: ^7777775^000000
 Equipa em : ^777777Meio ^000000
 Peso : ^77777720^000000
 Nível Necessário : ^77777750^000000
@@ -42500,7 +42437,7 @@ Classe : ^777777Todas as Classes^000000
 19777#
 Um acessório que se assemelha as estrelas que brilham no céu.
 Tipo : ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777771^000000
 Nível Necessário : ^7777771^000000
@@ -42523,7 +42460,7 @@ Peso : ^7777771^000000
 Assim que colocou essa máscara, você começou a gargalhar de forma maligna e ficou obcecado em conquistar o Castelo da Caveira Cinza, guardado pelo herói Ele-omem.
 Crítico +5.
 Tipo : ^777777Equipamento para a Cabeça^000000 
-Defesa : ^7777772^000000
+Defesa: ^7777772^000000
 Equipa em : ^777777Meio / Baixo ^000000
 Peso : ^77777750^000000
 Nível Necessário : ^77777770^000000
@@ -42537,7 +42474,7 @@ Peso : ^7777771^000000
 // ??
 Um chapéu em homenagem ao deus sapo, ele indica que você tem um contrato com essas criaturas.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42547,7 +42484,7 @@ Classes : ^777777Todas^000000
 // ??
 Um belo elmo ornamentado, usado por valentes heróis do oriente.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo / Meio^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42557,7 +42494,7 @@ Classes : ^777777Todas^000000
 // ??
 Uma máscara tenebrosa, usada por guerreiros de Amatsu para incutir o medo em seus inimigos.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Baixo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42566,7 +42503,7 @@ Classes : ^777777Todas^000000
 19801#
 Uma máscara de raposa usada por um batalhão de ninjas de elite, especialistas em missões especiais de alto nível.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Meio / Baixo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42575,7 +42512,7 @@ Classes : ^777777Todas^000000
 19802#
 Ou você está com um boneco de raposa na cabeça, ou foi enfeitiçado por uma kitsune em Amatsu.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42584,7 +42521,7 @@ Classes : ^777777Todas^000000
 19803#
 Diz a profecia que se este cata-vento girar é sinal que a ilha de Amatsu corre grande perigo.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42593,7 +42530,7 @@ Classes : ^777777Todas^000000
 19804#
 O acessório perfeito para você aproveitar a beleza do Festival das Cerejeiras de Amatsu.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42602,7 +42539,7 @@ Classes : ^777777Todas^000000
 19805#
 Dizem que o Primeiro Kagerou selou diversas técnicas ninjas perigosas neste pergaminho.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42611,7 +42548,7 @@ Classes : ^777777Todas^000000
 19806#
 Uma presilha feita com a técnica milenar do Ikebana, para comemorar o Festival das Cerejeiras de Amatsu.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42620,7 +42557,7 @@ Classes : ^777777Todas^000000
 19807#
 Um imponente elmo de batalha usado pelos guerreiros mais nobres de Amatsu.
 Tipo : ^777777Visual^000000 
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
@@ -42678,37 +42615,106 @@ Classes: ^777777Todas^000000
 Uma caixa contendo 1 Caixa de Poções Compactas Brancas e 5 Manuais de Campo de Classe,
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 80.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
 #
 22522#
 Uma caixa contendo 1 Álbum Velho de Cartas e 5 Manuais de Campo
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 100.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
 #
 22523#
 Uma caixa contendo 5 Manuais de Campo, 5 Manuais de Campo de Classe, 5 Chicletes, 5 Tickets de Seguro e 1 Caixa das Melhores Armas   
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 120.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
 #
 22524#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Álbum Mágico de Cartas. 
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 130.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
 #
 22525#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Arma +7.
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 140.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
 #
 22526#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Armadura +7.
 Esta caixa não pode ser derrubada no chão, negociada entre personagens, colocada no carrinho e na kafra.
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 150.^000000
+Se esta caixa não for aberta até 18/08, será removida do inventário.
 Peso: ^7777771^000000
+#
+12766#
+Manual que explica a maneira mais eficiente de batalhar. É um exemplo bem detalhado de um manual.
+Aumenta o recebimento de EXP de Classe em 50% durante 30 minutos. Não pode ser trocado ou colocado na Kafra.
+Peso : ^7777771^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-18
+18574#
+Um elmo feito com a semelhança do utilizado pelo Senhor da Morte.
+MDEF + 5.
+Aumenta em 10% o dano causado por ataques físicos em monstros do tipo Chefe.
+Aumenta em 5% o dano recebido por monstros do tipo Chefe.
+Caso o refinamento do item seja acima de +5, aumentará em 1% o dano por 
+ataques físicos por nível de refinamento em monstros do Tipo Chefe.
+O aumento de dano provido pelo equipamento é baseado no ATQ da arma.
+Tipo: ^777777Equipamento para cabeça^000000 
+Defesa: ^77777710^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^777777100^000000
+Nível necessário : ^77777770^000000
+Classe : ^777777Todas as classes^000000
+#
+2177#
+Um escudo gigante, forjado para o Senhor da Morte.
+Adiciona 2% de dano em monstros do tipo Chefe.
+Dano Recebido por monstros Normais (que não são chefes) +10%
+Quando equipado em conjunto com o Elmo do Senhor da Morte, +5% de dano em monstros do tipo chefe.
+Se o refinamento do Elmo do Senhor da Morte for +7 ou superior, adiciona +5% de dano em monstros do tipo chefe.
+Tipo : ^777777Escudo^000000 
+Defesa: ^777777150^000000
+Peso : ^777777200^000000
+Nível Necessário : ^77777790^000000
+Classes : ^777777Todas^000000
+#
+18864#
+Uma flor abençoada por Freya, para homenagear uma Shura que era capaz até de dobrar pedras.
++15% de resistência contra ataques da propriedade terra.
+Resistência adicional de 5% se refinada em +8 ou mais.
+Habilita o uso da habilidade Coluna de Pedra em nível 5.
+VIT +2.
+Tipo: ^777777Equipamento para cabeça^000000 
+Defesa: ^7777776^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^77777725^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+18878#
+Um chapéu usado por um grupo seleto de soldados, dispostos a arriscar a vida por seu líder.
++5% de resistência contra ataques da propriedade Neutra.
++5% de resistência contra ataques físicos à distância.
+Resistência a ataques da propriedade Neutra aumenta 1% a cada refinamento a partir do +6
+Resistência a ataques físicos à distância aumenta 1% a cada refinamento a partir do +6
+Indestrutível em batalha.
+Tipo: ^777777Equipamento para cabeça^000000 
+Defesa: ^77777715^000000
+Equipa em : ^777777Topo^000000 
+Peso : ^777777100^000000
+Nível Necessário : ^77777750^000000
+Classes : ^777777Todas^000000
 #
 //-------------------------------------------------------------------
 
