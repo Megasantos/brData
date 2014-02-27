@@ -9395,7 +9395,26 @@ Colete 30 abóboras orgânicas ou inorgânicas, e entregue para o Chef Doceiro#
 Entrega de Abóboras#
 
 //-- Quest diária
-
 15065#Ticket de Rune-Midgard#SG_FEEL#QUE_NOIMAGE#
 Você só pode comprar 1 Ticket a cada 20 horas.#
 Você não pode comprar outro. Aguarde o período de 20 horas e volte ao Carteiro para adquirir mais tickets.#
+
+
+//-----------------------------------------------------------------------------------------------------------------------
+//Carnaval 2014
+//-----------------------------------------------------------------------------------------------------------------------
+7347#
+Delicioso Polvo Assado#SG_FEEL#QUE_NOIMAGE#
+Você já tem muitos Tentáculos de Polvo Assados. Por que não deixar para os outros?#
+Tente pegar novamente mais tarde!
+#
+7630#
+Lendário Cavalo Azul Furioso#SG_FEEL#QUE_NOIMAGE#
+Há um rumor que um Cavalo Azul Furioso está nas redondezas de Payon. Qualquer um que quiser ajudar a capturá-lo será recompensado.#
+Cace o Cavalo Azul Furioso e reporte para Fury
+#
+7631#
+Limite de Caça#SG_FEEL#QUE_NOIMAGE#
+A missão de caça estará disponível em instantes! Mas tente não caçar demais para um dia.#
+#
+//-----------------------------------------------------------------------------------------------------------------------

@@ -21699,11 +21699,6 @@ Item não identificado, pode ser identificado com [Lupa].
 5502#
 Item não identificado, pode ser identificado com [Lupa].
 #
-14317#
-Um pergaminho da Lady Branca. Se você tiver sorte, terá uma surpresa ao abrí-lo.
-^ffffff_^000000
-Peso: ^7777771^000000
-#
 5527#
 Item não identificado, pode ser identificado com [Lupa].
 
@@ -23585,10 +23580,6 @@ Peso: ^7777771^000000
 Um pergaminho contendo o poder de um Ghostring.
 Encanta a vestimenta com a Propriedade Fantasma por 1 minuto, mas apenas em PvP e GdE.
 ^ffffff_^000000
-Peso: ^7777771^000000
-#
-16562#
-Um ovo brilhante com uma essência mágica. Um incrível item poderá sair dele!
 Peso: ^7777771^000000
 #
 16323#
@@ -26487,9 +26478,6 @@ Item não identificado. Pode ser identificado com uma [Lupa]
 #
 
 #
-12827#
-Ovo Não Identificado.
-#
 
 #
 18660#
@@ -27551,7 +27539,6 @@ Caixa_de_Mastelas[200]
 18664#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18855#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18675#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
-18857#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 18697#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 13438#Item Desconhecido. Pode ser identificado por [Lente de Aumento].#
 
@@ -28364,7 +28351,6 @@ Peso : ^7777771^000000
 2959#Item desconhecido que pode ser identificado pela [Lupa]#
 18754#Item desconhecido que pode ser identificado pela [Lupa]#
 18756#Item desconhecido que pode ser identificado pela [Lupa]#
-18832#Item desconhecido que pode ser identificado pela [Lupa]#
 19589#Item desconhecido que pode ser identificado pela [Lupa]#
 19607#Item desconhecido que pode ser identificado pela [Lupa]#
 19649#Item desconhecido que pode ser identificado pela [Lupa]#
@@ -28877,8 +28863,6 @@ Peso: ^7777771^000000
 #
 5875#Item não identificado. Pode ser identificado com uma [Lupa]#
 18908#Item não identificado. Pode ser identificado com uma [Lupa]#
-18887#Item não identificado. Pode ser identificado com uma [Lupa]#
-18888#Item não identificado. Pode ser identificado com uma [Lupa]#
 18897#Item não identificado. Pode ser identificado com uma [Lupa]#
 19777#Item não identificado. Pode ser identificado com uma [Lupa]#
 
@@ -28964,6 +28948,12 @@ Manual que explica a maneira mais eficiente de batalhar. É um exemplo bem detalh
 Aumenta o recebimento de EXP de Classe em 50% durante 30 minutos. Não pode ser trocado ou colocado na Kafra.
 Peso : ^7777771^000000
 #
+12529#
+Uma caixa contendo 200 Poções Brancas Compactas.
+Depois de aberta, não pode ser restituída.
+Não pode ser trocado ou colocado na Kafra.
+Peso : ^7777771^000000
+#
 //-------------------------------------------------------------------
 
 //-------------------------------------------------------------------
@@ -28972,6 +28962,67 @@ Peso : ^7777771^000000
 2177#Item não identificado. Pode ser identificado com uma [Lupa]#
 18864#Item não identificado. Pode ser identificado com uma [Lupa]#
 18878#Item não identificado. Pode ser identificado com uma [Lupa]#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-25
+18857#Item não identificado. Pode ser identificado com uma [Lupa]#
+18832#Item não identificado. Pode ser identificado com uma [Lupa].#
+18887#Item não identificado. Pode ser identificado com uma [Lupa]#
+18888#Item não identificado. Pode ser identificado com uma [Lupa]#
+16562#
+Um ovo brilhante com uma essência mágica. Um incrível item poderá sair dele!
+Peso: ^7777771^000000
+#
+12827#
+Ovo Não Identificado.
+#
+14317#
+Um pergaminho da Lady Branca. Se você tiver sorte, terá uma surpresa ao abrí-lo.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+//-------------------------------------------------------------------
+
+//Carnival Quest - 2014
+6834#
+Um pelo de um lendário Cavalo Azul!
+É bem quente e a textura é macia.
+Peso : ^7777771^000000
+#
+6835#
+Uma crina de um lendário Unicórnio Azul!
+Realmente muito macia.
+Peso : ^7777771^000000
+#
+19996#Item não identificado. Pode ser identificado com uma [Lupa]#
+12536#
+Ensopado feito de arroz e polvo. O aroma pode ser sentido a metros!
+Cuidado: Muito Quente
+Peso : ^77777710^000000
+#
+22538#
+Tecido leve e delicado, perfeito para confecção de roupas tradicionais coreanas.
+Peso : ^7777771^000000
+#
+12646#
+Polvo assado muito saboroso, feito em Malangdo para a comemoração da chegada do Ano do Cavalo.
+SOR + 10, ATQ + 20, ATQM + 20 por 10 minutos.
+^ff0000O buff desaparece caso você receba um mesmo buff que seja maior. O item desaparecerá após o fim do evento^000000
+Peso : ^7777773^000000
+#
+12647#
+Uma pequena esfera feita com tinta de polvo.
+Você precisa destruí-la para saber o que há dentro.
+^ff0000Este item irá desaparecer após o fim do evento.^000000
+Peso : ^7777773^000000
+#
+11538#
+Tentáculo Fresco de Polvo. Tão fresco que ainda tem pequenos espasmos. Parece que ficará saboroso depois de assado.
+Aumenta a recuperação de HP e SP por um curto período.
+^ff0000Este item irá desaparecer após o fim do evento.^000000
+Peso : ^7777773^000000
+#
 //-------------------------------------------------------------------
 
 //file end

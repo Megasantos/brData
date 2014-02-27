@@ -4432,7 +4432,6 @@
 //---- June 2009 cash item ----
 5529#Elmo#
 5502#Chapéu#
-14317#Pergaminho da Lady Branca#
 5527#Chapéu#
 13941#Ovo de Dia dos Namorados#
 5512#Elmo#
@@ -4880,7 +4879,6 @@
 13989#Caixa de Bomba Ácida [10]#
 14605#Pergaminho de Senhor dos Orcs#
 14598#Pergaminho de Ghostring#
-16562#Ovo do Mal Majestoso#
 16323#Caixa de Presilha Evoluída#
 2828#Presilha Evoluída#
 12965#Caixa de Chamado Urgente#
@@ -5622,7 +5620,6 @@
 18677#Ramo de Sakura#
 2914#Bênção de Mimir#
 2888#Mochila de Estudante#
-12827#Ovo do 8º Aniversário#
 18660#Ornamento de Penas#
 4494#Carta General Tartaruga Selada#
 4495#Carta Amon Ra Selada#
@@ -5930,7 +5927,6 @@
 18664#Blind_Glasses #
 18855#Chapéu de Dantos Sumont#
 18675#Green_Apple_Hat #
-18857#Chapéu de Curupira#
 18697#Syringe_In_Mouth#
 13438#Magical_Blade#
 
@@ -6130,7 +6126,6 @@
 2959#Acessório#
 18754#Item não-identificado#
 18756#Equipamento para Cabeça#
-18832#Equipamento para Cabeça#
 19589#Item não-identificado#
 19607#Equipamento para Cabeça#
 19649#Equipamento para Cabeça#
@@ -6138,8 +6133,6 @@
 19685#Equipamento para Cabeça#
 2190#Escudo#
 18885#Equipamento para Cabeça#
-18887#Equipamento para Cabeça#
-18888#Equipamento para Cabeça#
 18889#Equipamento para Cabeça#
 18890#Equipamento para Cabeça#
 18891#Equipamento para Cabeça#
@@ -6284,8 +6277,6 @@
 4624#Carta Tao Gunka Selada#
 5875#Equipamento para Cabeça#
 18908#Equipamento para Cabeça#
-18887#Equipamento para Cabeça#
-18888#Equipamento para Cabeça#
 18897#Equipamento para Cabeça#
 19777#Equipamento Visual#
 4482#Carta_selada_Egnigem_Cenia#
@@ -6319,6 +6310,7 @@
 22525#Caixa de Jornada Nv140#
 22526#Caixa de Jornada Nv150#
 12766#Manual de Campo de Classe#
+12529#Cx Poção Compacta Branca#
 //-------------------------------------------------------------------
 
 //-------------------------------------------------------------------
@@ -6327,6 +6319,29 @@
 2177#Escudo#
 18864#Equipamento para Cabeça#
 18878#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-25
+18857#Equipamento para Cabeça#
+18832#Equipamento para Cabeça#
+18887#Equipamento para Cabeça#
+18888#Equipamento para Cabeça#
+16562#Ovo do Mal Majestoso#
+12827#Ovo do 8º Aniversário#
+14317#Pergaminho da Lady Branca#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//Carnival Quest - 2014
+6834#Pelo Lendário#
+6835#Crina Lendária#
+19996#Cavalo Rei#
+12536#Sopa de Arroz e Polvo#
+22538#Bolsa de Tecidos#
+12646#Polvo Assado#
+12647#Bola de Tinta de Polvo#
+11538#Tentáculo Fresco de Polvo#
 //-------------------------------------------------------------------
 
 //file end

@@ -4434,7 +4434,6 @@
 //----- June 2009 Cash item -----
 5529#Elmo do Rei Youkai#
 5502#Capuz do Necromante#
-14317#Ovo da Fada-Serpente#
 5527#Chapéu de Lunático#
 13941#Ovo dos Namorados#
 5512#Diadema de Aquário#
@@ -4882,7 +4881,6 @@
 13989#Caixa de Bomba Ácida [10]#
 14605#Pergaminho de Senhor dos Orcs#
 14598#Pergaminho de Ghostring#
-16562#Ovo do Mal Majestoso#
 16323#Caixa de Presilha Aprimorada#
 2828#Presilha Aprimorada#
 12965#Caixa de Chamado Urgente#
@@ -5624,7 +5622,6 @@
 2914#Bênção de Mimir#
 2888#Mochila de Estudante#
 18660#Ornamento de Penas#
-12827#Ovo do Oceano#
 4494#Carta General Tartaruga Selada#
 4495#Carta Amon Ra Selada#
 
@@ -5933,7 +5930,6 @@
 18664#Óculos de Quartzo Rubi #
 18855#Chapéu de Dantos Sumont#
 18675#Chapéu de Maçã Verde #
-18857#Boneco de Curupira#
 18697#Seringa Vermelha#
 13438#Espada Lunar#
 
@@ -6132,7 +6128,6 @@
 2959#Coleira da Fidelidade#
 18754#Presas Vampíricas#
 18756#Chapéu de Shiba Inu Preto#
-18832#Chapéu de Bafomé Jr.#
 19589#Tiara de Randgris#
 19607#Filhote de Fênix#
 19649#Orelhas Brancas de Gatinho#
@@ -6283,8 +6278,6 @@
 4624#Carta Tao Gunka Selada#
 5875#Diadema de Bruenhild#
 18908#Orelhas Vermelhas de Fiera#
-18887#Tiara de Coelho Celeste#
-18888#Tiara de Coelho Flamejante#
 18897#Diadema do Cisne#
 19777#Estrelinha Lumma#
 4482#Carta_Egnigem_Cenia_Selada#
@@ -6318,6 +6311,7 @@
 22525#Caixa de Jornada Nv140#
 22526#Caixa de Jornada Nv150#
 12766#Manual de Campo de Classe#
+12529#Cx Poção Compacta Branca#
 //-------------------------------------------------------------------
 
 //-------------------------------------------------------------------
@@ -6326,6 +6320,29 @@
 2177#Escudo do Abismo#
 18864#Flor de Tófi#
 18878#Chapéu da Guarda Real#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-25
+18857#Boneco de Curupira#
+18832#Chapéu de Bafomé Jr.#
+18887#Tiara de Coelho Celeste#
+18888#Tiara de Coelho Flamejante#
+16562#Ovo do Mal Majestoso#
+12827#Ovo do Oceano#
+14317#Ovo da Fada-Serpente#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//Carnival Quest - 2014
+6834#Pelo Lendário#
+6835#Crina Lendária#
+19996#Cavalo Rei#
+12536#Sopa de Arroz e Polvo#
+22538#Bolsa Hanbok#
+12646#Polvo Assado#
+12647#Bola de Tinta de Polvo#
+11538#Tentáculo Fresco de Polvo#
 //-------------------------------------------------------------------
 
 //file end

@@ -27880,11 +27880,6 @@ Peso: ^77777710^000000
 Nível necessário: ^77777710^000000
 Classes que utilizam: ^777777Todas^000000
 #
-14317#
-Qual surpresa a Lady Branca terá reservado para você? Ao ser aberto, revela um presente especial.
-^ffffff_^000000
-Peso: ^7777771^000000
-#
 5527#
 Um chapéu feito à imagem do fofinho Lunático. Esses animaizinhos possuem esse nome porque, de acordo com a crença local, pode-se ver sua silhueta na lua. O fato de o seu pêlo branquinho lembrar a luz do luar reforçou ainda mais essa idéia.
 SOR + 5, DEFM + 2, Esquiva Perfeita + 5.
@@ -30631,10 +30626,6 @@ Um pergaminho contendo o poder de um Ghostring.
 ^0000ffEncanta a vestimenta com a Propriedade Fantasma por 1 minuto, mas apenas em PvP e GdE.^000000
 Peso: ^7777771^000000
 Negociação: ^777777Pode ser negociado, derrubado no chão, colocado no carrinho e no armazém^000000
-#
-16562#
-Um ovo que emana uma sinistra energia maligna. Curiosamente, ^0000ffse aberto da forma correta, você encontrará um incrível prêmio em seu interior!^000000
-Peso: ^7777771^000000
 #
 16323#
 Uma caixa contendo 1 Presilha Aprimorada.
@@ -37810,11 +37801,6 @@ Nível Necessário: ^7777771^000000
 Classe: ^777777Todas^000000
 #
 
-12827#
-Este item guarda a essência de Poseidon, Senhor dos Mares e Oceanos.
-Peso: ^7777771^000000
-#
-
 18660#
 Um chapéu totalmente artesanal, feito com penas de aves raras de Brasilis.
 AGI + 2.
@@ -39824,17 +39810,6 @@ Peso : ^77777720^000000
 Nível Necessário : ^77777720^000000
 Classes : ^777777Todas exceto Aprendiz^000000
 #
-18857#
-De acordo com os nativos de Brasilis, o Curupira é um guardião da floresta e dos animais locais, que afugenta os caçadores que não respeitam a natureza. Deixando pegadas invertidas com seus pés virados para trás, pregando peças e imitando animais, o Curupira os deixa confusos até se perderem na floresta. Agora você pode andar com o boneco deste defensor da natureza de cabelos de fogo na cabeça, mostrando seu amor por Brasilis!
-^0000FFDES + 3.
-Chance de causar ‘Confusão’ no inimigo enquanto receber dano de ataques físicos.^000000
-Tipo : ^777777Equipamento para Cabeça^000000  
-Defesa: ^77777720^000000
-Equipa em : ^777777Topo^000000
-Peso : ^77777710^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
-#
 18697#
 Esta seringa parece guardar um terrível segredo! Seria uma amostra de sangue da última vítima do Sicário Serial, Texder Gorman? Estaria infectada com um novo vírus da Corporação Sombrinha? Será que carrega nela o soro do Rúlqui Vermelho? Todos olham para você com medo e desconfiança, enquanto você anda com essa seringa na boca. Ninguém imagina que ela tem apenas catchup para você colocar no seu sanduíche.
 ^00FF00Impossível Refinar.^000000
@@ -41374,19 +41349,8 @@ Peso : ^77777740^000000
 Nível Necessário : ^77777750^000000
 Classes : ^777777Todas^000000
 #
-18832#
-Para alguns, este é apenas um adorável chapéu feito em homenagem ao filhote de um dos MVPs mais famosos de Rune-Midgard. Contudo, você sabe a verdade. Você fez um pacto com este pequeno Bafomé Jr. para que ele ficasse selado para sempre nesta forma pequenina e em troca você o levaria para conhecer o mundo. Agora que ele está emprestando seu poder para você, resta saber se será capaz de cuidar do bafinho, antes que o pai dele venha cuidar de você!
-Chance de conjurar a habilidade Adrenalina Pura nível 2 sempre que atacar fisicamente.
-Tipo : ^777777Equipamento para Cabeça^000000 
-Defesa: ^7777770^000000
-Equipa em : ^777777Topo^000000
-Peso : ^77777730^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
-#
 19589#
 Uma tiara que carrega as asas negras da valquíria caída, Randgris. Dizem que antes desta valquíria sucumbir à maldição da Ilha de Odin, a tiara possuía asas brancas. Mais inexplicável ainda é o fato de que suas asas ganharam vida quando você as colocou em sua cabeça. Agora você sente como se fosse capaz de enxergar quando o espectro da morte está ameaçando outras pessoas.
-
 Tipo : ^777777Visual ^000000
 Defesa: ^7777770^000000
 Equipa em : ^777777Topo^000000 
@@ -42399,31 +42363,6 @@ Equipa em : ^777777Topo^000000
 Peso : ^77777730^000000
 Nível necessário : ^7777771^000000
 Classes: ^777777Todas as Classes^000000
-#
-18887#
-Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremamente atraente.
-VIT + 3, DEFM + 5, ATQM + 2%
-Quando refinado em +9, DEFM +5 e ATQM +4%
-Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
-Tipo : ^^777777Equipamento para Cabeça^000000 
-Defesa: ^7777772^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^77777710^000000
-Nível Necessário : ^7777771^000000
-Classes: ^777777Todas^000000
-#
-18888#
-Orelhas de coelho que passam a ideia de paixão e deixam seu usuário extremamente atraente.
-INT +5  SOR + 5 ATQ +2%  ATQM + 5%
-Quando refinado em +9, ATQ e ATQM +4%
-Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
-Tipo : ^^777777Equipamento para Cabeça^000000 
-Defesa: ^7777772^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^77777710^000000
-Nível Necessário : ^7777771^000000
-Classes: ^777777Todas^000000
-#
 18897#
 Um diadema feito de cristais de gelo. Ao colocá-lo na cabeça, não pense na sua mãe ou você vai querer chorar.
 Aumenta a resistência contra ataques da propriedade água em 8%
@@ -42658,6 +42597,12 @@ Manual que explica a maneira mais eficiente de batalhar. É um exemplo bem detalh
 Aumenta o recebimento de EXP de Classe em 50% durante 30 minutos. Não pode ser trocado ou colocado na Kafra.
 Peso : ^7777771^000000
 #
+12529#
+Uma caixa contendo 200 Poções Brancas Compactas.
+Depois de aberta, não pode ser restituída.
+Não pode ser trocado ou colocado na Kafra.
+Peso : ^7777771^000000
+#
 //-------------------------------------------------------------------
 
 //-------------------------------------------------------------------
@@ -42715,6 +42660,122 @@ Equipa em : ^777777Topo^000000
 Peso : ^777777100^000000
 Nível Necessário : ^77777750^000000
 Classes : ^777777Todas^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//--Aplicar em 2014-02-25
+18857#
+De acordo com os nativos de Brasilis, o Curupira é um guardião da floresta e dos animais locais, que afugenta os caçadores que não respeitam a natureza. Deixando pegadas invertidas com seus pés virados para trás, pregando peças e imitando animais, o Curupira os deixa confusos até se perderem na floresta. Agora você pode andar com o boneco deste defensor da natureza de cabelos de fogo na cabeça, mostrando seu amor por Brasilis!
+^0000FFDES + 3.
+Chance de causar ‘Confusão’ no inimigo enquanto receber dano de ataques físicos.^000000
+Tipo : ^777777Equipamento para Cabeça^000000  
+Defesa : ^77777720^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+18832#
+Para alguns, este é apenas um adorável chapéu feito em homenagem ao filhote de um dos MVPs mais famosos de Rune-Midgard. Contudo, você sabe a verdade. Você fez um pacto com este pequeno Bafomé Jr. para que ele ficasse selado para sempre nesta forma pequenina e em troca você o levaria para conhecer o mundo. Agora que ele está emprestando seu poder para você, resta saber se será capaz de cuidar do bafinho, antes que o pai dele venha cuidar de você!
+Chance de conjurar a habilidade Adrenalina Pura nível 2 sempre que atacar fisicamente.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+18887#
+Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremamente atraente.
+VIT + 3, DEFM + 5, ATQM + 2%
+Quando refinado em +9, DEFM +5 e ATQM +4%
+Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
+Tipo : ^^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes: ^777777Todas^000000
+#
+18888#
+Orelhas de coelho que passam a ideia de paixão e deixam seu usuário extremamente atraente.
+INT +5  SOR + 5 ATQ +2%  ATQM + 5%
+Quando refinado em +9, ATQ e ATQM +4%
+Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
+Tipo : ^^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classes: ^777777Todas^000000
+#
+16562#
+Um ovo que emana uma sinistra energia maligna. Curiosamente, ^0000ffse aberto da forma correta, você encontrará um incrível prêmio em seu interior!^000000
+Peso: ^7777771^000000
+#
+12827#
+Este item guarda a essência de Poseidon, Senhor dos Mares e Oceanos.
+Peso: ^7777771^000000
+#
+14317#
+Qual surpresa a Lady Branca terá reservado para você? Ao ser aberto, revela um presente especial.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//Carnival Quest - 2014
+6834#
+Um pelo de um lendário Cavalo Azul!
+É bem quente e a textura é macia.
+Peso : ^7777771^000000
+#
+6835#
+Uma crina de um lendário Cavalo Azul!
+Realmente muito macia.
+Peso : ^7777771^000000
+#
+19996#
+^ff0000Este item não pode ser negociado.^000000
+Máscara de cavalo com crina azul feita para a chegada de 2014, o Ano do Cavalo. Você sente uma grande vontade de sair trotando por aí para encontrar uma "sexy lady" para tomar um café. Oppa... Oppa... cuidado para não tropeçar!
+^0000FFPermite o uso da habilidade Diminuir Agilidade nv. 1.
+Aumenta a Recuperação de HP com o item Cenoura em 1000% (Apenas durante o período do evento)^000000
+Tipo : ^777777Visual^000000 
+Defesa : ^7777770^000000
+Equipa em : ^777777Topo/Meio/Baixo ^000000 
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classes : ^777777Todas^000000
+#
+12536#
+Ensopado feito de arroz e polvo. O aroma pode ser sentido a metros!
+Cuidado: Muito Quente
+^ff0000Este item irá desaparecer após o fim do evento.^000000
+Peso : ^77777710^000000
+#
+22538#
+Tecido leve e delicado, perfeito para confecção de roupas tradicionais coreanas.
+Peso : ^7777771^000000
+#
+12646#
+Polvo assado muito saboroso, feito em Malangdo para a comemoração da chegada do Ano do Cavalo.
+SOR + 10, ATQ + 20, ATQM + 20 por 10 minutos.
+^ff0000O buff desaparece caso você receba um mesmo buff que seja maior. O item desaparecerá após o fim do evento^000000
+Peso : ^7777773^000000
+#
+12647#
+Uma pequena esfera feita com tinta de polvo.
+Você precisa destruí-la para saber o que há dentro.
+^ff0000Este item irá desaparecer após o fim do evento.^000000
+Peso : ^7777773^000000
+#
+11538#
+Tentáculo Fresco de Polvo. Tão fresco que ainda tem pequenos espasmos. Parece que ficará saboroso depois de assado.
+Aumenta a recuperação de HP e SP por um curto período.
+^ff0000Este item irá desaparecer após o fim do evento.^000000
+Peso : ^7777773^000000
 #
 //-------------------------------------------------------------------
 
