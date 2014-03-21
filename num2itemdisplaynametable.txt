@@ -3136,7 +3136,6 @@
 14527#Pergaminho_de_Teleporte_para_Calabouço#
 
 // ---------------- ??? ??? -----------------
-13710#Passe_Anti-Gravitacional#
 7776#Passe_Anti-Gravitacional#
 
 // ---------------- ????? 20070702 -----------------
@@ -4417,7 +4416,6 @@
 
 //---May 2009 Cash item---
 5495#Tiara#
-14469#Ovo de Majoruros#
 5503#Chapéu#
 5496#Chapéu#
 5505#Chapéu#
@@ -4777,7 +4775,6 @@
 13704#Super Ovo 5#
 5822#Chapéu#
 6320#Pedra de Reset de Atributos#
-16555#Caixa de Pedra de Reset de Atributos#
 16556#Caixa de Pedra de Reset de Atributos#
 5662#Elmo#
 5663#Elmo#
@@ -4785,7 +4782,6 @@
 //----CASH Items January 2010----
 5588#Elmo#
 5589#Elmo#
-16257#Pergaminho Buda#
 12261#Medicina Secreta#
 5567#Elmo#
 15022#Vestimenta#
@@ -5221,7 +5217,6 @@
 
 //---------2011 August CASH Items
 
-18532#Chapéu#
 18542#Chapéu#
 6413#Seguro Estendido#
 
@@ -5588,7 +5583,6 @@
 12800#Pergaminho_do_Ktullanux#
 18638#Equipamento_para_cabeça#
 18657#Equipamento_para_cabeça#
-12828#Ovo_de_Fogo#
 12822#Ovos_de_Chocolate_Branco[30]#
 
 //---------------------2012 August Items--------------------
@@ -6276,7 +6270,6 @@
 //---2014-02-04
 4624#Carta Tao Gunka Selada#
 5875#Equipamento para Cabeça#
-18908#Equipamento para Cabeça#
 18897#Equipamento para Cabeça#
 19777#Equipamento Visual#
 4482#Carta_selada_Egnigem_Cenia#
@@ -6342,6 +6335,27 @@
 12646#Polvo Assado#
 12647#Bola de Tinta de Polvo#
 11538#Tentáculo Fresco de Polvo#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-11
+2985#Acessório#
+16555#Caixa de Pedra de Reset de Atributos#
+13710#Passe_Antigravitacional[1]#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-18
+//Todos os servidores
+18532#Equipamento para Cabeça#
+//Odin/Thor
+18908#Equipamento para Cabeça#
+//Odin
+16257#Ovo do Amanhecer#
+//Thor
+12828#Ovo_de_Fogo#
+//asgard
+14469#Ovo de Majoruros#
 //-------------------------------------------------------------------
 
 //file end

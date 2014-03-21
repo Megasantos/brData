@@ -12137,7 +12137,7 @@ Peso: ^7777771^000000
 #
 4276#
 Carta Senhor dos Mortos.
-^0000ffAdiciona a chance de conjurar automaticamente Coma em um inimigo.
+^0000ffAdiciona uma baixa chance de conjurar automaticamente Coma em um inimigo ao atacar fisicamente.
 Adiciona a chance de conjurar automática e aleatoriamente Atordoar, Maldição, Silêncio, Envenenar ou Sangramento quando atacar um inimigo com um ataque físico de curto alcance.^000000
 Combine com um item para utilizar sua propriedade. 
 Não pode ser removida depois de combinada.
@@ -18589,13 +18589,6 @@ Se a escolha não for realizada em 1 minuto, as opções desaparecerão.
 Peso: ^7777771^000000
 #
 // ---------------- ??? ??? -----------------
-13710#
-Uma caixa que contém um Passe Anti-Gravitacional.
-Sente-se magro e raquítico? Sua armadura fica dançando sobre seus ombros esqueléticos? Seus problemas acabam agora! Com o curso de tonificação do Mister Peso você ficará sarado e bombadão para intimidar os inimigos na Guerra, atropelar o pré-cast inimigo com um peitoral bem definido e carregar mais poções que o NPC vendedor em seus bíceps largos! 
-Leve este Passe para o Mister Peso (Prontera 99, 64) e receba seu treinamento. Sua capacidade de carga aumenta em 200 para cada Passe. Você pode aumentar sua capacidade de carga apenas 10 vezes.
-^ffffff_^000000
-Peso: ^7777771^000000
-#
 7776#
 Sente-se magro e raquítico? Sua armadura fica dançando sobre seus ombros esqueléticos? Seus problemas acabam agora! Com o curso de tonificação do Mister Peso você ficará sarado e bombadão para intimidar os inimigos na Guerra, atropelar o pré-cast inimigo com um peitoral bem definido e carregar mais poções que o NPC vendedor em seus bíceps largos! 
 Leve este Passe para o Mister Peso (Prontera 99, 64) e receba seu treinamento. Sua capacidade de carga aumenta em 200 para cada Passe. Você pode aumentar sua capacidade de carga apenas 10 vezes.
@@ -20279,8 +20272,8 @@ Classes que utilizam: ^777777Todas^000000
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um item aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas até o dia 10/02, então troque-o agora mesmo!
-^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 11/02. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
+Esta promoção está disponível apenas até o dia 17/03, então troque-o agora mesmo!
+^FF0000ATENÇÃO: Este ticket será removido durante a manutenção do dia 18/03. O item conseguido na troca com a NPC é aleatório!^000000 Boa sorte!
 Peso: ^7777771^000000
 #
 //7608#
@@ -26640,8 +26633,8 @@ Indestrutível.
 5% de bônus para ignorar Defesa de monstro Humanoide
 ^ff0000[Carniceiro]^000000 Nv 1. O dano desta habilidade aumenta conforme o nível de aprimoramento até o aprimoramento +14.
 +9 de Refinamento
-A força de ataque de Desperado é aumentada em 2% para cada ponto de refinamento da arma usada
-Ao usar Desperado, há chance de Atordoar o inimigo
+A força de ataque de Disparo Espalhado é aumentada em 2% para cada ponto de refinamento da arma usada
+Ao usar Disparo Espalhado, há chance de Atordoar o inimigo
 Tipo: ^777777Espingarda^000000
 Ataque: ^777777110^000000
 Peso: ^7777770^000000
@@ -27742,11 +27735,6 @@ Equipa em: ^777777Topo^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777775^000000
 Classes que utilizam: ^777777Todas^000000
-#
-14469#
-Será possível que um Majoruros coloque um ovo? Ao ser aberto, revela um presente especial.
-^ffffff_^000000
-Peso: ^7777771^000000
 #
 5205#
 Uma coroa criada pelo deus Apolo para simbolizar a vitória e consagrar os grandes feitos dos heróis, vista normalmente nos jogos olímpicos.
@@ -30004,12 +29992,6 @@ Uma pedra negra e afiada, possuidora de um poder extremo. É capaz de resetar os 
 ^ff0000Atenção! Esse item pode ser negociado, colocado no carrinho, colocado no armazém mas não pode ser derrubado no chão.^000000
 Peso: ^7777770^000000
 #
-16555#
-Uma caixa contendo 1 Pedra das Valquírias.
-Pedra das Valquírias - uma pedra negra e afiada, possuidora de um poder extremo. É capaz de resetar os atributos de um personagem.
-^ff0000Atenção! Esse item pode ser negociado, colocado no carrinho, colocado no armazém mas não pode ser derrubado no chão.^000000
-Peso: ^7777771^000000
-#
 16556#
 Uma caixa contendo 1 Pedra das Valquírias.
 Pedra das Valquírias - uma pedra negra e afiada, possuidora de um poder extremo. É capaz de resetar os atributos de um personagem.
@@ -30063,11 +30045,6 @@ Equipa em: ^777777Topo^000000
 Peso: ^77777730^000000
 Nível necessário: ^7777771^000000
 Classes que utilizam: ^777777Todas^000000
-#
-16257#
-Um ovo que contém a promessa de surpresas contidas num novo amanhecer.
-^0000ffAo ser aberto, revela um presente especial.^000000
-Peso: ^7777771^000000
 #
 12261#
 Uma poção consumível feita de uma flor hipnotizadora.
@@ -34784,16 +34761,6 @@ Peso: ^7777775^000000
 
 //---------2011 August CASH Items
 
-18532#
-Uma bela tiara criada pelo Folha de Botas para representar seu amor pela Kafra Rosa Selvagem. Ela prova que com um pouco de inteligência, você pode alcançar seu final feliz em Rune-Midgard.
-INT + 2.
-Tipo: ^777777Equipamento para a Cabeça^000000
-Defesa: ^7777770^000000
-Equipa em: ^777777Topo^000000
-Peso: ^77777710^000000
-Nível Necessário : ^77777710^000000
-Classes que utilizam:  ^777777Todas^000000
-#
 
 18542#
 Uma coroa idêntica à usada pela jovem Papisa de Rachel durante cerimônias de celebração à Freya. Você é capaz de sentir a força da deusa melhorando suas habilidades de cura ao usar este artefato.
@@ -37568,10 +37535,6 @@ Nível Necessário : ^77777780^000000
 Classe : ^777777Todas as Classes^000000
 #
 
-12828#
-Um ovo de fogo com uma energia elemental fenomenal. Você pode ter uma agradável surpresa ao abri-lo.
-Peso : ^7777771^000000
-#
 
 12822#
 Uma caixa contendo 30 deliciosos Ovos de Páscoa feitos do mais puro chocolate branco.
@@ -40958,7 +40921,7 @@ Classe: ^777777Espadachim / Mercador / Gatuno / Arqueiro / Taekwon / Mestre Taek
 DEFM + 20.
 *Atributos durante GdE e PvP
 Aumenta em 2% a defesa contra jogadores inimigos.
-Se refinada para +6 ou mais, reduz em 15% a defesa contra ataques a distância e aumenta a Esquiva em 5
+Se refinada para +6 ou mais, reduz em 15% o dano contra ataques a distância e aumenta a Esquiva em 5
 Se refinado em +9 ou maior, HP Máximo +1000 e SP Máximo +100
 Se usado em conjunto com Sapato de Certo e Sobrepeliz de Cerco, INT +5, DEFM +10, adiciona 15% na redução de dano contra jogadores inimigos.
 Tipo: ^777777Armadura^000000
@@ -41044,18 +41007,6 @@ Ataque: ^777777170^000000
 Peso: ^777777120^000000
 Nível da Arma : ^7777773^000000
 Nível Necessário : ^777777100^000000
-Classe: ^777777Sicário^000000
-#
-1291#
-Há muito tempo, um Sicário usou isto para matar um traidor.
-DES + 2, Esquiva - 30.
-Aumenta em 50% o dano contra monstros Humanoides
-Aumenta o dano das Lâminas Retalhadoras em 30%
-Tipo: ^777777Katar^000000 
-Ataque: ^777777200^000000
-Peso: ^777777150^000000
-Nível da Arma : ^7777774^000000
-Nível Necessário : ^777777140^000000
 Classe: ^777777Sicário^000000
 #
 1392#
@@ -42350,19 +42301,6 @@ Peso : ^77777760^000000
 Nível Necessário : ^77777760^000000
 Classes : ^777777Transclasses de Magos/Noviços^000000
 #
-18908#
-Dizem que a Yggdrasil leva a vários mundos, um deles habitados por humanoides com orelhas de coelho da raça Fiera. Agora você é um deles!
-FOR +5.
-HP Máximo +5%.
-Dano recebido por monstros do tipo fogo -10%.
-Quando refinado em +9 aumenta a Velocidade de Ataque em +1.
-Adiciona +1 de Velocidade de Ataque a cada 2 Refinamentos acima do +9.
-Tipo : ^777777Equipamento para Cabeça^000000
-Defesa: ^7777778^000000
-Equipa em : ^777777Topo^000000
-Peso : ^77777730^000000
-Nível necessário : ^7777771^000000
-Classes: ^777777Todas as Classes^000000
 18897#
 Um diadema feito de cristais de gelo. Ao colocá-lo na cabeça, não pense na sua mãe ou você vai querer chorar.
 Aumenta a resistência contra ataques da propriedade água em 8%
@@ -42691,7 +42629,7 @@ Orelhas de coelho que passam a ideia de liberdade e deixam seu usuário extremame
 VIT + 3, DEFM + 5, ATQM + 2%
 Quando refinado em +9, DEFM +5 e ATQM +4%
 Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
-Tipo : ^^777777Equipamento para Cabeça^000000 
+Tipo : ^777777Equipamento para Cabeça^000000 
 Defesa : ^7777772^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
@@ -42703,7 +42641,7 @@ Orelhas de coelho que passam a ideia de paixão e deixam seu usuário extremamente
 INT +5  SOR + 5 ATQ +2%  ATQM + 5%
 Quando refinado em +9, ATQ e ATQM +4%
 Quando refinado em +12, reduz o Tempo de Conjuração Fixa em 10%
-Tipo : ^^777777Equipamento para Cabeça^000000 
+Tipo : ^777777Equipamento para Cabeça^000000 
 Defesa : ^7777772^000000
 Equipa em : ^777777Topo ^000000
 Peso : ^77777710^000000
@@ -42776,6 +42714,81 @@ Tentáculo Fresco de Polvo. Tão fresco que ainda tem pequenos espasmos. Parece qu
 Aumenta a recuperação de HP e SP por um curto período.
 ^ff0000Este item irá desaparecer após o fim do evento.^000000
 Peso : ^7777773^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-11
+2985#
+Quando você deixou esse anel dourado cair no fogo, surgiu nele uma inscrição no antigo dialeto de Glast Heim: Um Anel para todos governar, um Anel para encontrá-los. Um Anel para todos trazer e na Guerra do Emperium derrotá-los. Quais outros segredos esconderá este anel?
+^0000FFINT +3.
+ATQM +30
+Permite o uso da Habilidade Esconderijo nv. 1^000000
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777750^000000
+Classes : ^777777Todas^000000
+#
+16555#
+Uma caixa contendo 1 Pedra das Valquírias.
+Pedra das Valquírias - uma pedra negra e afiada, possuidora de um poder extremo. É capaz de resetar os atributos de um personagem.
+^ff0000Atenção! Esse item pode ser negociado, colocado no carrinho, colocado no armazém mas não pode ser derrubado no chão.^000000
+Peso: ^7777771^000000
+#
+13710#
+Uma caixa que contém um Passe Anti-Gravitacional.
+Sente-se magro e raquítico? Sua armadura fica dançando sobre seus ombros esqueléticos? Seus problemas acabam agora! Com o curso de tonificação do Mister Peso você ficará sarado e bombadão para intimidar os inimigos na Guerra, atropelar o pré-cast inimigo com um peitoral bem definido e carregar mais poções que o NPC vendedor em seus bíceps largos! 
+Leve este Passe para o Mister Peso (Prontera 99, 64) e receba seu treinamento. Sua capacidade de carga aumenta em 200 para cada Passe. Você pode aumentar sua capacidade de carga apenas 10 vezes.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-03-18
+//Todos os servidores
+18532#
+Uma bela tiara criada pelo Folha de Botas para representar seu amor pela Kafra Rosa Selvagem. Ela prova que com um pouco de inteligência, você pode alcançar seu final feliz em Rune-Midgard.
+INT + 2.
+Tipo: ^777777Equipamento para a Cabeça^000000
+Defesa: ^7777770^000000
+Equipa em: ^777777Topo^000000
+Peso: ^77777710^000000
+Nível Necessário : ^77777710^000000
+Classes que utilizam:  ^777777Todas^000000
+#
+//Odin/Thor
+18908#
+Dizem que a Yggdrasil leva a vários mundos, um deles habitados por humanoides com orelhas de coelho da raça Fiera. Agora você é um deles!
+FOR +5.
+HP Máximo +5%.
+Dano recebido por monstros do tipo fogo -10%.
+Quando refinado em +9 aumenta a Velocidade de Ataque em +1.
+Adiciona +1 de Velocidade de Ataque a cada 2 Refinamentos acima do +9.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa: ^7777778^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777730^000000
+Nível necessário : ^7777771^000000
+Classes: ^777777Todas as Classes^000000
+#
+//Odin
+16257#
+Um ovo que contém a promessa de surpresas contidas num novo amanhecer.
+^0000ffAo ser aberto, revela um presente especial.^000000
+Peso: ^7777771^000000
+#
+//Thor
+12828#
+Um ovo de fogo com uma energia elemental fenomenal. Você pode ter uma agradável surpresa ao abri-lo.
+Peso : ^7777771^000000
+#
+//Asgard
+14469#
+Será possível que um Majoruros coloque um ovo? Ao ser aberto, revela um presente especial.
+^ffffff_^000000
+Peso: ^7777771^000000
 #
 //-------------------------------------------------------------------
 
