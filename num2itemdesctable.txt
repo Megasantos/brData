@@ -26142,10 +26142,6 @@ Item não identificado. Pode ser identificado com uma [Lupa]
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
 
-18575#
-Item não identificado. Pode ser identificado com uma [Lupa]
-#
-
 18612#
 Item não identificado. Pode ser identificado com uma [Lupa]
 #
@@ -29033,6 +29029,13 @@ Um pergaminho feito para celebrar uma data especial.
 ^ffffff_^000000
 Peso: ^7777771^000000
 #
+//-------------------------------------------------------------------
+//2014-03-25
+//Todos os servidores
+18575#Item não identificado. Pode ser identificado com uma [Lupa]#
+2188#Item não identificado. Pode ser identificado com uma [Lupa]#
+18900#Item não identificado. Pode ser identificado com uma [Lupa]#
+18901#Item não identificado. Pode ser identificado com uma [Lupa]#
 //-------------------------------------------------------------------
 
 

@@ -1994,7 +1994,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote das Trevas#
+7550#Pacote da Terra Alta#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -2067,7 +2067,7 @@
 4206#Carta Presente#
 4207#Carta Mysteltainn#
 4208#Carta Boneco de Miyabi#
-4209#Carta Violi#
+4209#Carta Violinista#
 4210#Carta Andarilho#
 4211#Carta Vocal#
 4212#Carta Bongun#
@@ -6358,6 +6358,11 @@
 //asgard
 14469#Ovo de Majoruros#
 //-------------------------------------------------------------------
-
+//2014-03-25
+//Todos os servidores
+18575#Disfarce de Solid Sorrateiro#
+2188#Escudo de Svalinn#
+18900#Dedo do Froido#
+18901#Chapéu do Fandalg, o Acinzentado#
 
 //file end

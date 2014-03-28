@@ -2013,7 +2013,7 @@ LEVEL#
 MAPA#
 CLASSE#
 Não disponível #
-[guardian's protection] If it is max level, you cannot use it.#
+[Anjo Guardião] Se você estiver no nível máximo, não poderá usar isso.#
 Are you sure to move?#
 Character slot movement has been failed.#
 Character name is wrong.#

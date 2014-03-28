@@ -5522,7 +5522,6 @@
 18684#Equipamento_para_cabeça#
 18620#Equipamento_para_cabeça#
 18593#Equipamento_para_cabeça#
-18575#Equipamento_para_cabeça#
 18612#Equipamento_para_cabeça#
 18613#Equipamento_para_cabeça#
 12791#Consumível#
@@ -6356,6 +6355,13 @@
 12828#Ovo_de_Fogo#
 //asgard
 14469#Ovo de Majoruros#
+//-------------------------------------------------------------------
+//2014-03-25
+//Todos os servidores
+18575#Equipamento para Cabeça#
+2188#Escudo#
+18900#Equipamento para Cabeça#
+18901#Equipamento para Cabeça#
 //-------------------------------------------------------------------
 
 //file end

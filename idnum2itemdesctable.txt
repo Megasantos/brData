@@ -10816,8 +10816,8 @@ Bandeira Nacional utilizada pela torcida durante a Copa do Mundo.
 Peso: ^7777771^000000
 #
 7550#
-Troque-o pelos seguintes itens: Elmo do Senhor da Morte [1] e Escudo do Abismo [1].
-Esta promoção está disponível apenas até o dia 24/02/2014.
+Troque-o pelos seguintes itens: Chapéu do Fandalg, o Acinzentado e Dedo do Froido.
+Esta promoção está disponível apenas até o dia 31/03/2014.
 ^ff0000Este pacote pode ser negociado, colocado no carrinho, pode ser transferido para o armazém, mas não pode ser derrubado no chão.^000000
 ^ff0000Após o término do evento, os tickets serão removidos das contas de jogo.^000000
 Atenção! Certifique-se de que seu personagem possui espaço e peso disponíveis para receber todos os itens.
@@ -11480,7 +11480,7 @@ Utilização: ^777777Sapatos^000000
 Peso: ^7777771^000000
 #
 4209#
-Carta Violi.
+Carta Violinista.
 ^0000ffAdiciona a chance de conjurar automaticamente a habilidade Piada Infame em nível 1 no inimigo, ao realizar um Ataque Físico.
 Se o usuário tiver dominado o nível 5 da habilidade, será conjurada Piada Infame no nível 5.^000000
 Combine com um item para utilizar sua propriedade. 
@@ -37847,6 +37847,7 @@ Aumenta em 5% a recuperação por itens de cura
 Tipo : ^777777Acessório^000000
 Defesa: ^7777775^000000
 Peso : ^77777710^000000
+Nível Necessário : ^77777710^000000
 Classes que utilizam: ^777777Todas^000000
 #
 
@@ -42791,5 +42792,58 @@ Será possível que um Majoruros coloque um ovo? Ao ser aberto, revela um presente
 Peso: ^7777771^000000
 #
 //-------------------------------------------------------------------
+/---------------------Aplicar  em 2014-03-25------------------------
+//Todos os servidores
+18575#
+Pode parecer ridículo, mas essa simples caixa de papelão é o disfarce supremo do famoso sicário espião conhecido como Solid Sorrateiro, perito em infiltração e sabotagem.
+Você não tem certeza de como Sorrateiro fazia pra se esconder com isso. Pelo contrário, essa caixa na sua cabeça apenas chama ainda mais a atenção!
+Felizmente parece que você sempre consegue tirar alguma habilidade útil de dentro dela.
+Por algum motivo que não consegue explicar, sempre que passa ao lado de um Oficial do Éden você escuta um estranho sinal de alerta e fica com os pelos da nuca arrepiados.
+DEFM + 10.	
+Ataques Físicos em curta distância possuem a chance de invocar uma habilidade aleatória.
+Não pode ser refinado.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^77777710^000000
+Equipa em : ^777777Topo, Meio e Baixo^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777720^000000
+Classes : ^777777Todas as Classes^000000
+Efeitos Adicionais
+Quando equipado com Anel Elemental Menor, possui a chance de invocar Manejo Perfeito Nível 02.
+Aumenta as chances quando equipado com dois itens iguais.
+#
+2188#
+Este escudo, cujo nome significa “Resfriador”, irradia uma gelada energia congelante. Dizem que os deuses o haviam colocado na frente da carruagem que carregava o sol pelo firmamento, para impedir que ele queimasse a Terra.
+^0000FF+10% de resistência contra ataques da propriedade Água.
+A cada 3 níveis de aprimoramento, aumenta o HP Máximo em 1% e a resistência à Água em 5%.
+DEFM +5. ^FFFFFF
 
+Tipo : ^777777Escudo^000000 
+Defesa : ^77777780^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777765^000000
+Classes : ^777777Todas^000000
+#
+18900#
+Na verdade, esse é um salsichão tradicional típico da República de Schwartzvald, cujo nome veio de uma famosa disputa que aconteceu na borda do Vulcão de Thor por um Anel Precioso.
+HP Máximo +50.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777771^000000
+Equipa em : ^777777Baixo^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777760^000000
+Classe : ^777777Todas^000000
+#
+18901#
+Chapéu usado por um mago muito famoso, que depois mudou seu guarda-roupa para branco. Foi ele quem liderou um grupo de anões rumo às profundezas do Lago do Abismo e mais tarde deu a ideia de personagens babies jogarem seu Anel Precioso no Vulcão de Thor.
+VIT +3. +10% de Recuperação de HP.
+Se usado em conjunto com  Dedo do Froido, adiciona +10% de Recuperação de SP.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Topo^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777760^000000
+Classe : ^777777Todas^000000
+#
+//-------------------------------------------------------------------
 //file end
