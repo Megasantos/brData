@@ -1130,7 +1130,7 @@ Colete os itens que o Caçador de Demônios pedir. - 3 Dentes de Morcego, 1 Muco P
 #
 
 4008#Mudança de Classe: Caçador#SG_FEEL#QUE_NOIMAGE#
-Colete os itens que o Caçador de Demônios pedir. - 2 Espinhos de Porco-Espinho, 1 Cauda de Yoyo e 1 Avelã#
+Colete os itens que o Caçador de Demônios pedir. - 2 Espinhos de Porco-Espinho, 1 Cauda de Yoyo e 1 Avela#
 #
 
 4009#Mudança de Classe: Caçador#SG_FEEL#QUE_NOIMAGE#
@@ -3860,8 +3860,8 @@ Gorurung não poderá aceitar sua pesca antes de 24 horas.#
 Não faça barulho no local da pescaria.#
 Cuidado!#
 
-12062#Iluminação cancelada#SG_FEEL#QUE_NOIMAGE#
-Iluminação não será permitida em 24 horas.#
+12062#Mineração cancelada#SG_FEEL#QUE_NOIMAGE#
+Mineração não será permitida em 24 horas.#
 É isso por hoje#
 
 12070#Tempo limite para a entrada#SG_FEEL#QUE_NOIMAGE#
@@ -4801,7 +4801,7 @@ Um aspirane precisa esperar 10 minutos antes de entrar novamente em uma sala de 
 
 
 3250#Pedidos!#SG_FEEL#QUE_NOIMAGE#
-Derrote 10 Múmias na Pirâmide e colete 20 Bandagens Estragadas.#
+Derrote 30 Múmias na Pirâmide e colete 20 Bandagens Estragadas.#
 #
 
 3251#Pedidos!#SG_FEEL#QUE_NOIMAGE#
@@ -5315,43 +5315,43 @@ Derrote 10 Cocos#
 Derrote 10 Sapos de Thara na caverna de Comodo ou em outros locais.#
 Derrote 10 Sapos de Thara#
 
-8271#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8271#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo ao nordeste de Payon.#
 Faça a entrega#
 
-8272#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8272#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo a oeste de Prontera.#
 Faça a entrega#
 
-8273#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8273#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Entregue o item para o biólogo ao sul de Lutie.#
 Faça a entrega#
 
-8274#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8274#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Esqueleto da Caverna de Payon.#
 Colete 10 Ossos#
 
-8275#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8275#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete '10 Patas de Animal' e '5 Peles de Animal' de Pé Grande ao norte de Geffen.#
 Colete 10 Patas de Urso e 5 Peles de Animal#
 
-8276#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8276#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Pierre, Andre e Deniro do Formigueiro Infernal.#
 Colete 20 Peles de Verme e 20 Garletas#
 
-8277#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8277#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Yoyo, Koko e Fumacento do mapa a leste de Ayothaya.#
 Colete 10 Caudas, 10 Avelãs e 10 Folhas de Fumacento#
 
-8278#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+8278#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Colete os itens do Cookie e do Presente da Fábrica de Presentes.#
 Colete 10 Biscoitos de Gengibre e 1 Pedaço de Bolo#
 
-8279#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
-Colecione os itens do Martir na Mina de Carvão.#
+8279#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
+Colete os itens do Martir na Mina de Carvão.#
 Colete 5 Bigodes de Toupeira e 3 Garras de Toupeira#
 
-9024#Missões de Caçada#SG_FEEL#QUE_NOIMAGE#
+9024#Missões de Coleta#SG_FEEL#QUE_NOIMAGE#
 Ajude o menino em Prontera.#
 Colete 100 Jellopys#
 
@@ -6901,9 +6901,9 @@ Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrot
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Druida Maligno.# 
 Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Druidas Maligno.#
 
-10112#GlastHeim - Almas Penadas#SG_FEEL#QUE_NOIMAGE#
-Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Almas Penadas.# 
-Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Almas Penadas.#
+10112#GlastHeim - Pesadelos#SG_FEEL#QUE_NOIMAGE#
+Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Pesadelos.# 
+Reporte para o ^0000FFConselheiro do Grupo Éden Lv 71~85^000000 depois de derrotar 10 Pesadelos.#
 
 10113#GlastHeim - Raydric Arqueiro#SG_FEEL#QUE_NOIMAGE#
 Pedido recebido do Grupo Éden Lv 71~85. Você deve exterminar Raydric Arqueiro.# 
@@ -7530,124 +7530,124 @@ Aguarde o cronômetro terminar.#
 
 // =========== Eden Group / Paradise Team Quest 86 ~ 90 =============== 
 4167#Caça às Caudas de Dragão#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Caudas de Dragão, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Lavadeiras na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4168#Caça aos Coelhos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Coelhos, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Coelhos na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4169#Caça às Pestes#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Pestes, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Pestes na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
-4170#Caça aos Bathorys#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Bathorys, na Torre do Relógio, e retorne ao segundo andar da Matriz do Grupo Éden.#
+4170#Caça às Bathorys#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Bathorys na Torre do Relógio e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4171#Caça aos Alarmes#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Alarmes, na Torre do Relógio, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Alarmes na Torre do Relógio e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4172#Caça às Baba Yagas#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Baba Yagas, em Moscovia, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Baba Yagas em Moscovia e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4173#Caça aos Yao Juns#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Yao Juns, em Louyang, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Yao Juns em Louyang e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
-4174#Caça aos Soldados Atiradores#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Soldados Atiradores, em Amatsu, e retorne ao segundo andar da Matriz do Grupo Éden.#
+4174#Caça aos Zumbis Atiradores#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Zumbis Atiradores em Amatsu e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4175#Caça aos Zippers#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Zippers, em Kunlun, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Zippers em Kunlun e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4176#Caça aos Petites Subterrâneos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Petites Subterrâneos, nos arredores de Geffen, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Petites nos arredores de Geffen e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4177#Caça às Rafflesias#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Rafflesias, nos arredores de Lighthalzen, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Rafflesias nos arredores de Lighthalzen e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
-4178#Caça aos Venomous#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Venomous, nos arredores de Einbroch, e retorne ao segundo andar da Matriz do Grupo Éden.#
+4178#Caça às Nuves Venenosas#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Nuvens Venenosas nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
-4179#Caça aos Mineiros#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Mineiros, nos arredores de Einbroch, e retorne ao segundo andar da Matriz do Grupo Éden.#
+4179#Caça aos Minérios#SG_FEEL#QUE_NOIMAGE#
+Cace 30 Minérios nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4180#Caça aos Novus Amarelos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Novus Amarelos, nos arredores de Einbroch, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Novus Amarelos nos arredores de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 // Eden Group / Paradise Team Quest 91 ~ 99
 4181#Caça aos Soldados#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Soldados, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Soldados na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4182#Caça aos Congeladores#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Congeladores, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Congeladores na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4183#Caça aos Aquecedores#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Aquecedores, na Ilha das Tartarugas, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Aquecedores na Ilha das Tartarugas e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4184#Caça aos Injustiçados#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Injustiçados, em Glast Heim, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Injustiçados em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4185#Caça aos Rybios#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Rybios, em Glast Heim, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Rybios em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4186#Caça aos Sacerdotes Malditos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Sacerdotes Malditos, em Glast Heim, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Sacerdotes Malditos em Glast Heim e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4187#Caça aos Stapos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Stapos, em Veins, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Stapos em Veins e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4188#Caça aos Roweens#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Roweens, em Rachel, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Roweens em Rachel e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4189#Caça aos Siromas#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Siromas, no Calabouço de Gelo, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Siromas no Calabouço de Gelo e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4190#Caça aos Shinobis#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Shinobis, em Amatsu, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Shinobis em Amatsu e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4191#Caça às Ninfas Perversas#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Ninfas Perversas, em Kunlun, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Ninfas Perversas em Kunlun e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4192#Caça aos Deviruchis#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Deviruchis, no Calabouço de Geffen, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Deviruchis no Calabouço de Geffen e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4193#Caça aos Minerais#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Minerais, no Calabouço de Geffen, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Minerais na Mina de Einbroch e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4194#Caça aos Kahos#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Kahos, no Vulcão de Thor, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Kahos na Caverna de Magma e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4195#Caça às Nereidas#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Nereidas, no Calabouço de Comodo, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Nereidas no Calabouço de Comodo e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 4196#Caça aos Mascarados#SG_FEEL#QUE_NOIMAGE#
-Cace 30 Mascarados, em Nifflheim, e retorne ao segundo andar da Matriz do Grupo Éden.#
+Cace 30 Mascarados em Nifflheim e retorne ao segundo andar da Matriz do Grupo Éden.#
 #
 
 // Eden Group / Paradise Team Quest 86 ~ 90 Time Limit Notification 
@@ -7871,20 +7871,19 @@ Dos vendedores suspeitos, você ouviu uma conversa sobre o objeto escondido. Veri
 #
 
 1147#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
-A única coisa que você achou foi um memorando inútil. Vá escutar os negociantes um pouco mais.#
-Perto do Gato Tolo.#
+A única coisa que você achou foi um memorando inútil. Vá escutar os negociantes um pouco mais#
+perto do Gato Tolo.#
 
 1148#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
-Através da conversa dos negociantes suspeitos ,você percebeu que o local escondido é o próprio navio Navi. Encontre outro gato suspeito no convés do navio Navi.#
-Convés do navio Navi.#
+Através da conversa dos negociantes suspeitos, você percebeu que o local escondido é o próprio navio Navi.#
+Encontre outro gato suspeito no convés do navio Navi.#
 
 1149#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
 De acordo com o Vendedor Muito Suspeito, você decidiu dar uma olhada por Gozangee.#
-Lounge do navio Navi.#
 
 1150#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
-Você encontrou um saco de latas vencidas no convés do navio Navi. Você precisa ver Vendedor Muito Suspeito de novo.#
-Convés do navio Navi.#
+Você encontrou um saco de latas vencidas no convés do navio Navi.#
+Você precisa ver o Vendedor Muito Suspeito de novo#
 
 1151#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
 Junte 30 latas vencidas na Área do Coral Estrelado e volte para Gobonge.#
@@ -7896,15 +7895,15 @@ Depois de 1 dia, você pode ajudá-los de novo.#
 
 1153#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
 Vá ver o Líder da Patrulha e diga olá para Gobonge.#
-Líder da Patrulha.#
+#
 
 1154#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
 Depois de limpar 20 Red Erumas, na Área do Coral Estralado, informe isso ao Líder da Patrulha.#
-Líder da Patrulha.#
+#
 
 1155#Ajude os gatos maus em perigo!#SG_FEEL#QUE_NOIMAGE#
 Informe a má ação a Gobonge.#
-Gobonge#
+#
 
 //- ????
 4197#Polvo#SG_FEEL#QUE_NOIMAGE#
@@ -8611,7 +8610,7 @@ Você não pode receber nenhuma solicitação de Biscuit durante um dia.#
 #
 
 //--????? ?? ???(??14.1???_?????)
-12254#Agora é limpeza#SG_FEEL#QUE_NOIMAGE#
+12254#Vamos Limpar!#SG_FEEL#QUE_NOIMAGE#
 Agora é hora de limpar Por favor, concentre-se em um ponto até que termine.#
 Limpando os esgotos por 1 hora.#
 
@@ -8794,7 +8793,7 @@ Procure o Oficial do Grupo Éden em Glast-heim. Johan está em frente ao monastéri
 Encontre Johan#
 
 7220#Treino Avançado - Passo 2.1 - Alma Penada#SG_FEEL#QUE_NOIMAGE#
-Johan pediu para você derrotar algumas 'Almas Penadas' no primeiro andar do Monastério.#
+Johan asked to defeat evil creature 'WRAITH' on 1 floor in monastry.#
 Derrote 20 Almas Penadas#
 
 7221#Treino Avançado - Passo 2.2 - Druida Malígno#SG_FEEL#QUE_NOIMAGE#
@@ -8834,7 +8833,7 @@ A missão continua na Caverna de Gelo localizada ao Norte de Rachel. Procure por 
 Fale com Naomi#
 
 7230#Treino Avançado - Passo 4.1 - Siromas#SG_FEEL#QUE_NOIMAGE#
-Depois de tudo, esta era uma missão que refletia os pedidos do aldeões. Vamos derrotar mais alguns Siromas que estão atrapalhando a coleta de gelo.#
+after all, there was a mission which is reflected a request from villagers. let's go defeat SIROMA who is bothering ice collecting.#
 Derrote 30 Siromas#
 
 7231#Treino Avançado - Passo 4.2 - Siromas de novo#SG_FEEL#QUE_NOIMAGE#
@@ -9353,11 +9352,11 @@ O Mestre de Caça na Loja de Artesanato pode saber sobre o monstro.#
 Fale com o Mestre de Caça.#
 
 2274#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
-O Mestre de Caça pediu para você coletar 10 amostras de animal do lugar onde Totoy viu um monstro.#
+O Mestre de Caça pediu para você coletar 10 Amostras de Animal do lugar onde Totoy viu um monstro.#
 Pegue 10 Amostras de Animal.#
 
 2275#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
-Estudar as amostras coletadas com muita dificuldade com o Mestre de Caça.#
+Estude as amostras coletadas com muita dificuldade com o Mestre de Caça.#
 #
 
 2276#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
@@ -9365,7 +9364,8 @@ Totoy viu o terrível Buwaya. Relate isso ao Guarda!#
 Fale com o Líder da Guarda.#
 
 2277#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
-O Guarda pede para atirar uma bomba de fumaça onde Buwaya apareceu pela segurança dos aldeões.#
+O Guarda pede para atirar uma bomba de fumaça#
+onde Buwaya apareceu pela segurança dos aldeões.#
 Encontre o lugar onde Buwaya apareceu e atire uma bomba de fumaça.#
 
 2278#Segredos na Floresta#SG_FEEL#QUE_NOIMAGE#
@@ -9395,26 +9395,88 @@ Colete 30 abóboras orgânicas ou inorgânicas, e entregue para o Chef Doceiro#
 Entrega de Abóboras#
 
 //-- Quest diária
+
 15065#Ticket de Rune-Midgard#SG_FEEL#QUE_NOIMAGE#
 Você só pode comprar 1 Ticket a cada 20 horas.#
 Você não pode comprar outro. Aguarde o período de 20 horas e volte ao Carteiro para adquirir mais tickets.#
 
 
-//-----------------------------------------------------------------------------------------------------------------------
-//Carnaval 2014
-//-----------------------------------------------------------------------------------------------------------------------
-7347#
-Delicioso Polvo Assado#SG_FEEL#QUE_NOIMAGE#
-Você já tem muitos Tentáculos de Polvo Assados. Por que não deixar para os outros?#
-Tente pegar novamente mais tarde!
+//Kagerou-Oboro
+
+5131#Conversa Estranha#SG_FEEL#QUE_NOIMAGE#
+Que conversa estranha. Parte do teste? Que história é essa?#
+Lugar escondido? Uma parede? Não é melhor conferir ^0000FFas paredes^000000 da sala de mudança de classe para Ninja?#
+
+5132#Negócios de Família 1#SG_FEEL#QUE_NOIMAGE#
+Ouça a história da família do Kage Gion.#
 #
-7630#
-Lendário Cavalo Azul Furioso#SG_FEEL#QUE_NOIMAGE#
-Há um rumor que um Cavalo Azul Furioso está nas redondezas de Payon. Qualquer um que quiser ajudar a capturá-lo será recompensado.#
-Cace o Cavalo Azul Furioso e reporte para Fury
+
+5133#Negócios de Família 2#SG_FEEL#QUE_NOIMAGE#
+Continue ouvindo a história da família do Kage Gion.#
 #
-7631#
-Limite de Caça#SG_FEEL#QUE_NOIMAGE#
-A missão de caça estará disponível em instantes! Mas tente não caçar demais para um dia.#
+
+5134#Novo caminho#SG_FEEL#QUE_NOIMAGE#
+Pronto para descobrir o novo caminho? Então, vá!#
+Encontre o Guia Gion.#
+
+5135#Quatro Testes#SG_FEEL#QUE_NOIMAGE#
+Para descobrir o novo caminho, você deve passar pelos Testes de Conhecimento, Sobrevivência, Armamento e Batalha.#
+Vamos passar por eles, então.#
+
+5136#Teste de Conhecimento#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Conhecimento.#
+Você precisa acertar 9 das 10 perguntas para passar no teste.#
+
+5137#Teste de Sobrevivência#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Sobrevivência.#
+Você precisa chegar ao final sem perder todos os seus Pontos de Vida para passar no teste.#
+
+5138#Teste de Armamento#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Armamento.#
+Você precisa criar uma arma com a qual fique satisfeito para passar no teste.#
+
+5139#Esse cara parece familiar!#SG_FEEL#QUE_NOIMAGE#
+Você encontrou Cougar no Teste de Conhecimento.#
+Vamos acertar as questões dele.#
+
+5140#Calafrio Estranho#SG_FEEL#QUE_NOIMAGE#
+Você chegou ao local do Teste de Sobrevivência e sentiu um calafrio repentino.#
+Vamos logo com isso.#
+
+5141#Uma Maldição!#SG_FEEL#QUE_NOIMAGE#
+A sensação ruim se confirmou, você sofreu uma maldição!#
+A maldição vai durar 2 minutos.#
+
+5142#Protótipo 1#SG_FEEL#QUE_NOIMAGE#
+Faça o protótipo combinando Minério de Ferro, Ferro, Aço, Fracon, Emveretarcon, Minério de Oridecon ou Minério de Elunium.#
+Você pode fabricar a arma com as Ferramentas de Criação.#
+
+5143#Protótipo 2#SG_FEEL#QUE_NOIMAGE#
+Você criou o protótipo de adaga.#
+Leve o item ao Red Leopard Joe.#
+
+5144#Protótipo 2#SG_FEEL#QUE_NOIMAGE#
+Você criou um protótipo de Shuriken Huuma.#
+Leve o item ao Red Leopard Joe.#
+
+5145#Protótipo 3#SG_FEEL#QUE_NOIMAGE#
+Agora, é preciso refinar o protótipo.#
+Leve o item refinado ao Red Leopard Joe.#
+
+5146#Teste de Batalha#SG_FEEL#QUE_NOIMAGE#
+Agora, você vai enfrentar o Teste de Batalha.#
+Mate o alvo 'Segredo de Família'!#
+
+//-------201403-Nightmare Pyramid----------
+2289#Gato Suspeito: Cães Inimigos#SG_FEEL#QUE_NOIMAGE#
+Você recebeu um pedido do Gato Suspeito para derrotar 20 Verits deste andar#
 #
-//-----------------------------------------------------------------------------------------------------------------------
+2290#Gato Suspeito: Cães Inimigos#SG_FEEL#QUE_NOIMAGE#
+Você pode pegar este pedido mais tarde#
+#
+2291#Gato Suspeito: Múmias Entediadas#SG_FEEL#QUE_NOIMAGE#
+Você pode pegar este pedido mais tarde#
+#
+2292#Gato Suspeito: Múmias Entediadas#SG_FEEL#QUE_NOIMAGE#
+Você recebeu um pedido do Gato Suspeito para derrotar 20 Múmias Anciãs no próximo andar# 
+#

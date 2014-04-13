@@ -4477,7 +4477,6 @@
 2753#Anel do Caçador Veterano [A]#
 5508#Chapéu#
 14298#Ovo Surpresa#
-5800#Acessório#
 13516#Caixa de Geléia Real#
 14253#Caixa de Anel do Caçador de Morto-Vivo [A]#
 2754#Anel do Caçador de Morto-Vivo [A]#
@@ -5166,7 +5165,6 @@
 
 //---- July CASH Items 2011 ----
 
-18539#Boné da Caveira#
 18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
@@ -5240,9 +5238,7 @@
 17123#Caixa_Máscara_Esquisita#
 17124#Caixa_Boné_de_Gatinho#
 17125#Caixa_Chapéu_de_Brioche#
-18599#Equipamento_para_Cabeça#
 18600#Equipamento_para_Cabeça#
-18601#Equipamento_para_Cabeça#
 18603#Equipamento_para_Cabeça#
 
 //-----------Golden Poring Event 2011
@@ -5297,7 +5293,6 @@
 2881#Acessório#
 5653#Chapéu#
 18549#Chapéu#
-18523#Chapéu#
 18531#Chapéu#
 5737#Chapéu#
 2874#Acessório#
@@ -5465,7 +5460,6 @@
 12673#Ovo da Páscoa#
 18112#Arco#
 21000#Espada#
-6484#Livro de Encantamentos#
 17033#Pacote de Revestimento#
 17064#Ovo das Estrelas#
 5782#Chapéu#
@@ -6356,12 +6350,59 @@
 //asgard
 14469#Ovo de Majoruros#
 //-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
 //2014-03-25
 //Todos os servidores
 18575#Equipamento para Cabeça#
 2188#Escudo#
 18900#Equipamento para Cabeça#
 18901#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-04-01
+//Todos os servidores
+18929#Equipamento para Cabeça#
+18601#Equipamento_para_Cabeça#
+18539#Equipamento para Cabeça#
+18523#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-04-08------------------------------
+//Kagerou-Oboro
+2171#Escudo#
+2172#Escudo#
+2173#Escudo#
+6493#Makibishi#
+6512#Talismã de Fogo#
+6513#Talismã de Gelo#
+6514#Talismã de Vento#
+6515#Talismã de Terra#
+13074#Adaga#
+13075#Adaga#
+13076#Adaga#
+13077#Adaga#
+13078#Adaga#
+13294#Kunai Explosiva#
+13311#Shuriken Huuma#
+13312#Shuriken Huuma#
+13313#Shuriken Huuma#
+13314#Shuriken Huuma#
+13315#Shuriken Huuma#
+13316#Shuriken Huuma#
+15053#Armadura#
+15054#Armadura#
+15055#Armadura#
+15056#Armadura#
+17155#Cx Shuriken Huuma Aprimorado#
+2904#Naqsh#
+
+// Odin e Thor
+18599#Equipamento para Cabeça#
+6484#Livro de Encantamentos#
+// Asgard
+5800#Equipamento para Cabeça#
 //-------------------------------------------------------------------
 
 //file end

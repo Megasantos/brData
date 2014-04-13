@@ -1,4 +1,6 @@
 //∏ ¿Ã∏ß.rsw#bgm\\¿Ωæ«π¯»£#
+moc_prydn1.rsw#bgm\\22.mp3#
+moc_prydn2.rsw#bgm\\22.mp3#
 //port malaya to add
 ma_zif09.rsw#bgm\\149.mp3#
 ma_zif08.rsw#bgm\\149.mp3#

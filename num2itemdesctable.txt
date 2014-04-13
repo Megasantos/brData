@@ -21908,9 +21908,6 @@ Não se sabe o que pode haver dentro desse ovo. Abra-o para ter uma bela surpresa
 ^ffffff_^000000
 Peso: ^7777771^000000
 #
-5800#
-Item não identificado, pode ser identificado com [Lupa].
-#
 13516#
 Uma caixa contendo 5 Geléias Reais.
 ^ffffff_^000000
@@ -24842,18 +24839,6 @@ Peso: ^7777771^000000
 #
 
 //---------2011 July CASH Items
-18539#
-Um grande boné criado pela ex-justiceira, professora e estilista, Yoco Rittana, ele leva sua marca registrada, uma presilha em forma de caveira. Feito para acomodar grandes quantidades de cabelo, ou mesmo para cobrir qualquer careca, Yoco afirma que o criou pensando nos elfos magos. Você não pode deixar de imaginar o que será que ela quis dizer com isso, e pensar se o boné não guarda algum tipo de segredo.
-^0000ffAdiciona 2% em Ataques mágicos.^000000
-^0000ffAdiciona 3% em Ataques mágicos caso o refino seja maior que +4 .^000000
-^0000ffCaso o refinamento seja igual ou maior que +6 adiciona +3% em ataques mágicos.^000000
-^0000ffQuando equipado com Orelhas de Elfo, diminui o consumo de SP em 3%.^000000
-Classe: ^777777Equipamento para a cabeça^000000    Defesa: ^7777775^000000
-Equipa em: ^777777Topo^000000    Peso: ^77777740^000000
-Nível necessário : ^77777710^000000
-Profissões que utilizam: ^777777Todas^000000
-#
-
 18534#
 Uma máscara típica dos bailes de Carnaval da alta sociedade de Brasilis. Ela é cheio de ornamentos refinados que transmitem claramente a mensagem “não sou apenas rico o bastante para ter uma máscara chique de carnaval, como também sou rico o bastante para não levá-la à sério”.
 ^0000ffAdiciona +1 de Força.^000000
@@ -25180,14 +25165,7 @@ Peso : ^7777771^000000
 Uma caixa contendo um Chapéu de Brioche
 Peso : ^7777771^000000
 #
-
-18599#
-Não identificado.
-#
 18600#
-Não identificado.
-#
-18601#
 Não identificado.
 #
 18603#
@@ -25232,9 +25210,6 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 #
 
 18549#Item não identificado. Pode ser identificado com uma [Lupa].
-#
-
-18523#Item não identificado. Pode ser identificado com uma [Lupa].
 #
 
 18531#Item não identificado. Pode ser identificado com uma [Lupa].
@@ -25939,10 +25914,6 @@ Item não identificado. Pode ser identificado com uma [Lupa].
 #
 21000#
 Item não identificado. Pode ser identificado com uma [Lupa].
-#
-
-6484#
-Livro de Encantamentos
 #
 
 17033#
@@ -29038,5 +29009,53 @@ Peso: ^7777771^000000
 18901#Item não identificado. Pode ser identificado com uma [Lupa]#
 //-------------------------------------------------------------------
 
+//-------------------------------------------------------------------
+//2014-04-01
+//Todos os servidores
+18929#Item não identificado. Pode ser identificado com uma [Lupa]#
+18601#Item não identificado. Pode ser identificado com uma [Lupa]#
+18539#Item não identificado. Pode ser identificado com uma [Lupa]#
+18523#Item não identificado. Pode ser identificado com uma [Lupa].#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-04-08
+//Todos os servidores
+//kagerou-oboro
+2171#Item não identificado, pode ser identificado com [Lupa].#
+2172#Item não identificado, pode ser identificado com [Lupa].#
+2173#Item não identificado, pode ser identificado com [Lupa].#
+6493#Makibishi#
+6512#Amuleto Espiritual de Fogo#
+6513#Amuleto Espiritual de Gelo#
+6514#Amuleto Espiritual de Vento#
+6515#Amuleto Espiritual de Terra#
+13074#Item não identificado, pode ser identificado com [Lupa].#
+13075#Item não identificado, pode ser identificado com [Lupa].#
+13076#Item não identificado, pode ser identificado com [Lupa].#
+13077#Item não identificado, pode ser identificado com [Lupa].#
+13078#Item não identificado, pode ser identificado com [Lupa].#
+13294#Item não identificado, pode ser identificado com [Lupa].#
+13311#Item não identificado, pode ser identificado com [Lupa].#
+13312#Item não identificado, pode ser identificado com [Lupa].#
+13313#Item não identificado, pode ser identificado com [Lupa].#
+13314#Item não identificado, pode ser identificado com [Lupa].#
+13315#Item não identificado, pode ser identificado com [Lupa].#
+13316#Item não identificado, pode ser identificado com [Lupa].#
+15053#Item não identificado, pode ser identificado com [Lupa].#
+15054#Item não identificado, pode ser identificado com [Lupa].#
+15055#Item não identificado, pode ser identificado com [Lupa].#
+15056#Item não identificado, pode ser identificado com [Lupa].#
+17155#Caixa de Shuriken Huuma Aprimorado#
+2904#
+ABCDEFG!!
+#
+
+// Odin e Thor
+18599#Item não identificado, pode ser identificado com [Lupa].#
+6484#Livro de Encantamentos#
+// Asgard
+5800#Item não identificado, pode ser identificado com [Lupa].#
+//-------------------------------------------------------------------
 
 //file end

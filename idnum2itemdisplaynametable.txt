@@ -2841,7 +2841,7 @@
 7508#Anel da Allysia#
 7509#Cartão de Acesso Exuberante#
 7516#Cartão de Acesso Verde#
-
+17125#Caixa_Chapéu_de_Brioche#
 
 // ------------- itens do 4o. quarto --------------
 2357#Armadura das Valquírias#
@@ -4479,7 +4479,6 @@
 2753#Anel do Caçador Veterano [A]#
 5508#Chapéu de Tubarão#
 14298#Ovo Surpresa#
-5800#Rubor de Batalha#
 13516#Caixa de Geléia Real#
 14253#Cx Anel Caç. de Morto-Vivo[15Dias]#
 2754#Anel Caçador de Morto-Vivo[A]#
@@ -4573,7 +4572,6 @@
 13900#Assistente Mascarado [10]#
 13901#Assistente Alice [10]#
 12277#Assistente Mascarado#
-12278#Assistente Alice#
 
 //----October CASH items----
 5574#Lápis Mordido#
@@ -5169,7 +5167,6 @@
 
 //---- July 2011 CASH Items ----
 
-18539#Boné da Caveira#
 18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
@@ -5273,10 +5270,7 @@
 18533#Chapéu_de_Abelha#
 17123#Caixa_Máscara_Esquisita#
 17124#Caixa_Boné_de_Gatinho#
-17125#Caixa_Chapéu_de_Brioche#
-18599#Máscara_Esquisita#
 18600#Boné_de_Gatinho#
-18601#Chapéu_de_Brioche#
 18603#Máscara_Esquisita#
 18530#Máscara_do_Despero_de_Thanatos#
 18538#Sussurro_da_Maldade#
@@ -5293,7 +5287,6 @@
 2881#Colar_de_Orleans#
 5653#Elmo_do_Senhor_das_Trevas#
 18549#Presilha_de_Borboleta#
-18523#Super_Nimbus#
 18531#Boneco_de_Tartaruga#
 5737#Chapéu_de_Cacto#
 2874#Chifre_de_Búfalo#
@@ -5466,7 +5459,6 @@
 12673#Ovo da Páscoa#
 18112#Arco Aprimorado#
 21000#Espada Aprimorada de Duas Mãos#
-6484#Livro de Encantamentos#
 17033#Pacote de Revestimento#
 17064#Ovo das Estrelas#
 5782#Elmo Espartano#
@@ -6364,5 +6356,52 @@
 2188#Escudo de Svalinn#
 18900#Dedo do Froido#
 18901#Chapéu do Fandalg, o Acinzentado#
+//-------------------------------------------------------------------
+
+//-------------------------------------------------------------------
+//2014-04-01
+//Todos os servidores
+18929#Chapeuriz de Elefante#
+18601#Chapéu de Brioche#
+18539#Boné da Caveira#
+12278#Assistente Alice#
+18523#Super Nimbus#
+
+//-------------------------------------------------------------------
+//2014-04-08
+//Kagerou-Oboro
+2171#Proteção de Braço da Raposa#
+2172#Proteção de Braço do Lobo#
+2173#Proteção de Braço da Lua Crescente#
+6493#Makibishi#
+6512#Amuleto Espiritual de Fogo#
+6513#Amuleto Espiritual de Gelo#
+6514#Amuleto Espiritual de Vento#
+6515#Amuleto Espiritual de Terra#
+13074#Adaga Ninja#
+13075#Kurenai#
+13076#Adaga Raksasa#
+13077#Kagekiri#
+13078#Mikatsuki#
+13294#Kunai Explosiva#
+13311#Sombra Huuma#
+13312#Huuma Ninja#
+13313#Shuriken de Pétalas#
+13314#Shuriken da Nevasca#
+13315#Shuriken do Trovão#
+13316#Shuriken Huuma Aprimorado#
+15053#Indumentária Ninja Especial#
+15054#Armadura de Escamas do Ninja#
+15055#Armadura do Rei das Sombras#
+15056#Indumentária Ninja Especial#
+17155#Cx. Shuriken Huuma Aprimorado#
+2904#Naqsh#
+
+// Odin e Thor
+18599#Máscara_Esquisita#
+6484#Livro de Encantamentos#
+// Asgard
+5800#Rubor de Batalha#
+
 
 //file end

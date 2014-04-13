@@ -1,3 +1,5 @@
+moc_prydn1.rsw#Base da Pirâmide 01 - Pesadelo#
+moc_prydn2.rsw#Base da Pirâmide 02 - Pesadelo#
 gld_dun04.rsw#Calabouço do Feudo de Britoniah#
 gld_dun03.rsw#Calabouço do Feudo das Valquírias#
 gld_dun02.rsw#Calabouço do Feudo de Luina#
