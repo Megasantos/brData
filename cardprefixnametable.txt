@@ -70,7 +70,7 @@
 4070#de Wicca#
 4071#dos Anjos#
 4072#Indestrutível#
-4073#do Mercador#
+4073#do Vendedor#
 4074#de Urtiga#
 4075#Hipnotizante#
 4076#Amaldiçoante#
@@ -405,7 +405,6 @@
 4405#do Reflexo#
 4406#Cintilante#
 4407#de Freya#
-
 4408#do Abissal#
 4409#da Histeria#
 4410#da Demência#
@@ -495,4 +494,40 @@
 4503#da Visão Selada#
 4504#de Heimdall Selada#
 4486#do Ventríloquo Selada#
-4624#do Alto Risc Selado#
+//*****************************************************
+//------------Aplicar em 2015-01-13--------------------
+//*****************************************************
+4505#da Bruxa Má#
+4506#do Arqueiro#
+4507#Scaraba#
+4508#do Enlouquecido#
+4509#Contra Insetos#
+4510#do Blecaute#
+4511#Silentium#
+4512#do Noviço#
+4513#do Gatuno#
+4514#Exorcista#
+4515#Flora#
+4516#da Parede de Pedra#
+4517#do Mago#
+4518#em Chamas#
+4519#Seraphim#
+4520#do Grito#
+4521#do Sopro Mortal#
+4522#de Gelo#
+4523#Aquarius#
+4524#do Espadachim#
+4525#da Furtividade#
+4526#da Defesa Mágica#
+4527#da Defesa Física#
+4528#do Espírito#
+4529#do Físico#
+4530#do Mercador#
+4531#das Maldições#
+4532#da Corrida#
+4533#da Cegueira#
+4534#da Bomda D'Água#
+//*****************************************************
+//------------Aplicar em 2015-02-02--------------------
+//*****************************************************
+4539#do Arrogante Selado#

@@ -265,7 +265,7 @@ Velocidade de Ataque#
 Servidor Superpopulado.#
 Configuração#
 Servidor Indisponível. Por favor, tente novamente em alguns minutos.#
-Senha incorreta.#
+Senha incorreta. Certifique-se que sua senha esteja correta e/ou o Cadeado Level Up liberado.#
 Escolha o penteado#
 Atq.#
 Def.#
@@ -2262,29 +2262,29 @@ Navigation help#
  possible to change as [Result window] <-> [Navigation info window].#
 Level:%d (boss)#
 Level:%d (normal)#
-Water%d#
-Ground%d#
-Fire%d#
-Wind%d#
-Poison%d#
-Saint%d#
-Darkness%d#
+Água%d#
+Terra%d#
+Fogo%d#
+Vento%d#
+Veneno%d#
+Sagrado%d#
+Sombrio%d#
 Telekinesis%d#
-Undead%d#
-Nothing%d#
-Medium#
-Large#
-Small#
-Undead#
-Animal#
-Plant#
-Insect#
-Fish#
-Demon#
-Human#
-Angel#
-Dragon#
-Nothing#
+Maldito%d#
+Neutro%d#
+Médio#
+Grande#
+Pequeno#
+Morto-vivo#
+Bruto#
+Planta#
+Inseto#
+Peixe#
+Demônio#
+Humanóide#
+Anjo#
+Dragão#
+Amorfo#
 Ciick to move %s #
 Use NPC move service#
 NPC click#

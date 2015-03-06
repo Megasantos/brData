@@ -3396,8 +3396,6 @@
 5195#Laço#
 5196#Laço#
 5197#Laço#
-//7608#Ticket_do_Dia_das_Mães#
-7608#Ticket_de_Promoção#
 
 // --------------- Consumables -------------------
 12971#Caixa_de_Teleporte_1#
@@ -3759,7 +3757,7 @@
 2438#Cat's Paw#
 
 // --------- ????? ????? -------------
-5392#Topi Raja Angpao#
+5392#Chapéu#
 
 // ---------------- 2008? 2? Rental item ?? -----------------
 13109#Outlaw of the Plains#
@@ -3812,7 +3810,6 @@
 12255#Stew_Of_Immortal#
 5404#Blue_Ribbon#
 5405#Chapéu de Filir#
-5388#Snake_Hat#
 2438#Cat_Paw#
 5387#Neko_Mimi_Kafra#
 7929#Moeda de Ouro#
@@ -5054,7 +5051,6 @@
 12368#Espelho de Mão#
 6105#Orvalho da Manhã#
 6108#Gelatina de Maçã#
-6135#Ticket de Ninfa Perversa#
 6136#Ticket de Medusa#
 
 //---- CASH Items October 2010 ----
@@ -5165,7 +5161,6 @@
 
 //---- July CASH Items 2011 ----
 
-18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
 16653#Caixa de Compêndio de Batalha#
@@ -5295,7 +5290,6 @@
 18549#Chapéu#
 18531#Chapéu#
 5737#Chapéu#
-2874#Acessório#
 12641#Ovo_Amaldiçoado#
 5579#Chapéu#
 5671#Chapéu#
@@ -5583,9 +5577,6 @@
 2176#Escudo#
 18639#Equipamento_para_cabeça#
 18590#Equipamento_para_cabeça#
-18642#Equipamento_para_cabeça#
-18643#Equipamento_para_cabeça#
-18644#Equipamento_para_cabeça#
 17181#Caixa_de_Madeira#
 14545#Super_Manual_de_Batalha#
 2164#Escudo#
@@ -5936,7 +5927,6 @@
 16750#Caixa com caranguejo de Malang2#
 18107#Caranguejo da neve de Malang#
 18108#Arco#
-18536#Acessório #
 18537#Faixa de cabelo#
 6417#Silvervine_Fruit#
 6418#Aclass_Coin#
@@ -6110,9 +6100,7 @@
 
 //------------------Q3 - 2013 Items---------------------------------
 
-2959#Acessório#
 18754#Item não-identificado#
-18756#Equipamento para Cabeça#
 19589#Item não-identificado#
 19607#Equipamento para Cabeça#
 19649#Equipamento para Cabeça#
@@ -6125,7 +6113,6 @@
 18891#Equipamento para Cabeça#
 18892#Equipamento para Cabeça#
 18893#Equipamento para Cabeça#
-18894#Acessório#
 18895#Acessório#
 18896#Equipamento para Cabeça#
 18898#Equipamento para Cabeça#
@@ -6229,7 +6216,6 @@
 19678#Equipamento visual#
 19681#Equipamento visual#
 19682#Equipamento visual#
-19683#Equipamento visual#
 19684#Equipamento visual#
 19685#Equipamento visual#
 19679#Equipamento visual#
@@ -6269,7 +6255,6 @@
 
 //-------------------------------------------------------------------
 //--2014-02-11
-18868#Equipamento para Cabeça#
 17323#Ovo Shinobi#
 19548#Equipamento Visual#
 19555#Equipamento Visual#
@@ -6405,4 +6390,336 @@
 5800#Equipamento para Cabeça#
 //-------------------------------------------------------------------
 
+//---------------------------2014-04-15------------------------------
+//Todos os servidores
+19627#Equipamento para Cabeça#
+17428#Ovo de Lagomorfo#
+19875#Equipamento para Cabeça#
+19876#Equipamento para Cabeça#
+19877#Equipamento para Cabeça#
+19878#Equipamento para Cabeça#
+19879#Equipamento para Cabeça#
+19880#Equipamento para Cabeça#
+19881#Equipamento para Cabeça#
+19882#Equipamento para Cabeça#
+19883#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-04-29------------------------------
+18863#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-05-07------------------------------
+18932#Equipamento para Cabeça#
+18642#Equipamento para Cabeça#
+18643#Equipamento para Cabeça#
+18644#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-05-20------------------------------
+19836#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+
+//---------------------------2014-06-03------------------------------
+18931#Equipamento para Cabeça#
+//-------------------------------------------------------------------
+//---------------------------2014-06-10------------------------------
+19729#Equipamento Visual#
+19598#Equipamento Visual#
+//-------------------------------------------------------------------
+//--Aplicar em 17/06/2014 - Todos os servidores  ---------------------------------------------
+19742#Equipamento Visual#
+18907#Equipamento para Cabeça#
+18917#Máscara#
+19718#Equipamento Visual#
+19721#Equipamento Visual#
+18930#Equipamento para Cabeça#
+//------------------------------------------------------------
+//--Aplicar em 24/06/2014 - Todos os servidores  ---------------------------------------------
+7608#Ticket de Aniversário#
+//------------------------------------------------------------
+//--Aplicar em 01/07/2014 - Todos os servidores  ---------------------------------------------
+12194#Marmita da Mamãe#
+2959#Acessório#
+18756#Equipamento para Cabeça#
+//----------------------------------------------------------
+//--Aplicar em 08-07-2014 - Todos os servidores
+19710#Equipamento Visual#
+18777#Equipamento para Cabeça#
+2961#Acessório#
+2874#Acessório#
+//--Aplicar em 22/07/2014 - Todos os servidores  ---------------------------------------------
+19752#Equipamento Visual#
+19826#Equipamento Visual#
+20706#Capa#
+//--Aplicar em 28/07/2014 - Todos os servidores  ---------------------------------------------
+18894#Acessório#
+18534#Equipamento para Cabeça#
+5880#Acessório#
+18536#Acessório#
+//----------------------------------------------------------
+//Dia dos Pais 2014
+19834#Equipamento Visual#
+19841#Equipamento Visual#
+//----------------------------------------------------------
+//12/08/2014
+19817#Equipamento Visual#
+//----------------------------------------------------------
+//19/08/2014
+19722#Equipamento Visual#
+19600#Equipamento Visual#
+//----------------------------------------------------------
+//26/08/2014
+18740#Equipamento Visual#
+18843#Equipamento para Cabeça#
+18754#Equipamento para Cabeça#
+5208#Equipamento para Cabeça#
+18868#Equipamento para Cabeça#
+5388#Equipamento para Cabeça#
+//----------------------------------------------------------
+//02/09/2014
+19724#Equipamento Visual#
+19930#Equipamento Visual#
+12684#Poção de Ouro#
+19577#Equipamento Visual#
+19816#Equipamento Visual#
+
+//----------------------------------------------------------
+// itens da manutenção de 23/09/2014
+//----------------------------------------------------------
+18816#Equipamento para Cabeça#
+18817#Equipamento para Cabeça#
+18818#Equipamento para Cabeça#
+18819#Equipamento para Cabeça#
+15088#Armadura#
+//----------------------------------------------------------
+// itens da manutenção de 30/09/2014
+//----------------------------------------------------------
+18866#Equipamento para Cabeça#
+18707#Equipamento para Cabeça#
+1675#Cajado#
+//----------------------------------------------------------
+// itens da manutenção de 07/10/2014
+//----------------------------------------------------------
+18708#Equipamento para Cabeça#
+19683#Equipamento visual#
+//******************************************************************
+//------------20140305 EP 14.2 New Headgear 25 Replay --------------
+//******************************************************************
+2183#Escudo#
+2956#Acessório#
+2957#Acessório#
+2958#Acessório#
+6623#Cristal Bruto de Energia#
+6624#Cristal Refinado de Energia#
+6625#Cristal Puro de Energia#
+11060#Livro: Cristais de Energia#
+15068#Armadura#
+18760#Equipamento para Cabeça#
+18761#Equipamento para Cabeça#
+18762#Equipamento para Cabeça#
+18763#Equipamento para Cabeça#
+18764#Equipamento para Cabeça#
+18765#Equipamento para Cabeça#
+18766#Equipamento para Cabeça#
+18767#Equipamento para Cabeça#
+18768#Equipamento para Cabeça#
+18769#Equipamento para Cabeça#
+18770#Equipamento para Cabeça#
+18771#Equipamento para Cabeça#
+18772#Equipamento para Cabeça#
+18773#Equipamento para Cabeça#
+18774#Equipamento para Cabeça#
+18775#Equipamento para Cabeça#
+18776#Equipamento para Cabeça#
+20710#Manto#
+22014#Calçados#
+22015#Calçados#
+2915#Acessório#
+2916#Acessório#
+2917#Acessório#
+2918#Acessório#
+2919#Acessório#
+2920#Acessório#
+2921#Acessório#
+2922#Acessório#
+2923#Acessório#
+2924#Acessório#
+2925#Acessório#
+2926#Acessório#
+2927#Acessório#
+2928#Acessório#
+6539#Antiga Jóia dos Esplêndidos#
+6540#Folha Dourada#
+6541#Pesquisa de Avant#
+6542#Cogumelo Estrela#
+6545#Cabelo Seco#
+6546#Carta do Irmão#
+6547#Livro Manchado de Pesquisas#
+6548#Pedaço de Asa dos Esplêndidos#
+6552#Pacote de Correio#
+6553#Pedaço da Ponte de Folhas#
+6554#Caixa de Sementes#
+6555#Vela de Aniversário#
+6557#Bela Asa de Fada#
+6558#Pilha de Avelãs#
+6559#Colírio#
+6560#Trevo Marca Páginas#
+6561#Bola de Poeira#
+6562#Cauda de Camundongo#
+6563#Ervas#
+12812#Gardênia#
+12813#Peônia#
+12814#Erva-Mate#
+12815#Pó de Yggdrasil#
+19543#Equipamento Visual#
+19546#Equipamento Visual#
+19547#Equipamento Visual#
+19550#Equipamento Visual#
+19551#Equipamento Visual#
+19552#Equipamento Visual#
+19553#Equipamento Visual#
+19554#Equipamento Visual#
+6564#Filhote Aprisionado#
+19545#Equipamento Visual#
+19549#Equipamento Visual#
+6081#Moeda Esplendor#
+//******************************************
+//*************CARTAS DE ECLAGE*************
+//******************************************
+4507#Carta Rainha Scaraba#
+4514#Carta Aranha Pom#
+4519#Carta Butoijo#
+4521#Carta Sedora#
+4518#Carta Banaspaty#
+4522#Carta Sropho#
+4510#Carta Plagiador#
+4531#Carta Eruma Vermelho#
+4511#Carta Pequeno Fatum#
+4533#Carta Pequeno Polvo#
+4509#Carta Rainha Scaraba Dourada#
+4527#Carta Celacanto Sombrio#
+4529#Carta Celacanto Violento#
+4528#Carta Celacanto Mutante#
+4526#Carta Celacanto Cruel#
+4506#Carta Dolomedes#
+4517#Carta Centrawasih#
+4524#Carta Dramoh Rei#
+4530#Carta Siorava#
+4513#Carta Louva-a-deus Angra#
+4512#Carta Chapim#
+4534#Carta Polvo Gigante#
+4516#Carta Comodo#
+4523#Carta Dofle#
+4515#Carta Rafflesia Alnoldi#
+4520#Carta Leak#
+4525#Carta Kraken#
+4532#Carta Montaria Selvagem#
+4505#Carta Scaraba#
+4508#Carta Scaraba Dourado#
+//------------
+2479#Calçado#
+2480#Calçado#
+2580#Manto#
+2581#Manto#
+15042#Armadura#
+15043#Armadura#
+2890#Acessório#
+2891#Acessório#
+2477#Calçado#
+2478#Calçado#
+2577#Manto#
+2578#Manto#
+15038#Armadura#
+15039#Armadura#
+2886#Acessório#
+2887#Acessório#
+2475#Calçado#
+2476#Calçado#
+2574#Manto#
+2575#Manto#
+15036#Armadura#
+15037#Armadura#
+2883#Acessório#
+2884#Acessório#
+//**************************************
+//--------aplicar em 2014-10-21---------
+//**************************************
+19911#Equipamento para Cabeça#
+19912#Equipamento para Cabeça#
+//**************************************
+//--------aplicar em 2014-10-28---------
+//**************************************
+2189#Escudo#
+19910#Equipamento para Cabeça#
+19542#Equipamento para Cabeça#
+20035#Equipamento para Cabeça#
+19511#Equipamento para Cabeça#
+19512#Equipamento para Cabeça#
+19893#Equipamento para Cabeça#
+18913#Equipamento para Cabeça#
+//**************************************
+//--------aplicar em 2014-11-04---------
+//**************************************
+19715#Equipamento Visual#
+19751#Equipamento Visual#
+//*****************************************************
+//------------201412 December Update Plan--------------
+//*****************************************************
+18916#Equipamento para Cabeça#
+18859#Equipamento para Cabeça#
+18844#Equipamento para Cabeça#
+18858#Equipamento para Cabeça#
+19783#Equipamento Visual#
+18553#Equipamento para Cabeça#
+19686#Equipamento Visual#
+5742#Equipamento para Cabeça#
+19780#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-01-06--------------------
+//*****************************************************
+5573#Equipamento para Cabeça#
+18524#Equipamento para Cabeça#
+19971#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-01-13--------------------
+//*****************************************************
+19852#Equipamento Visual#
+19934#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-01-13--------------------
+//*****************************************************
+19713#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-01-27--------------------
+//*****************************************************
+19830#Equipamento Visual#
+18716#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2015-02-02--------------------
+//*****************************************************
+4539#Carta Bispo Decadente Selada#
+//*****************************************************
+//------------Aplicar em 2015-02-10--------------------
+//*****************************************************
+20234#Equipamento Visual#
+6958#Chifre de Carneiro#
+22881#Corda de Caça#
+6956#Carneiro Capturado#
+6957#Lã Macia#
+19954#Equipamento Visual#
+20080#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-02-17--------------------
+//*****************************************************
+19780#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-02-17--------------------
+//*****************************************************
+19884#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2015-02-17--------------------
+//*****************************************************
+19952#Equipamento Visual#
+18833#Equipamento para Cabeça#
 //file end

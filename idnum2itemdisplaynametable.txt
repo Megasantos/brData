@@ -1,3 +1,6 @@
+//--Ticket de Promoção  ---------------------------------------------
+7608#Ticket de Promoção#
+
 //--------------- Renewal Update -----------------
 2819#Manual_do_Espadachim#
 2820#Manual_do_Gatuno#
@@ -318,7 +321,7 @@
 6361#Fragmento Azul#
 6362#Fragmento Amarelo#
 6363#Fragmento Verde#
-11056#Quia do Espiritualista#
+11056#Guia do Espiritualista#
 12258#Capsula de Bombardeio#
 12263#Manual de Campo#
 //---renewal end
@@ -1944,7 +1947,6 @@
 678#Garrafa de Veneno#
 679#Pílula Dourada#
 684#Jaca#
-7227#Passe para Cheffênia#
 7228#Ouro em Barra#
 7229#Prata em Barra#
 7230#Platina em Barra#
@@ -1994,7 +1996,7 @@
 7547#Bola_de_Futebol#
 7548#Chuteiras#
 7549#Bandeira_Nacional#
-7550#Pacote da Terra Alta#
+7550#Pacote Universitário#
 7551#Ticket de Segunda Profissão#
 7552#Nota_com_Horários_dos_Jogos#
 //event - Roberto Magnus Quiz Show 
@@ -2672,7 +2674,6 @@
 7619#Elunium Enriquecido#
 7620#Oridecon Enriquecido#
 7621#Amuleto de Ziegfried#
-12900#Manual de Combate[10]#
 12901#Seguro de Vida[10]#
 12902#Goma de Mascar [10]#
 12903#Línguas no Vapor[10]#
@@ -3206,7 +3207,6 @@
 
 // ------------- Christmas 07 Cash Items ---------------
 
-5380#Disfarce_de_Peixe#
 5381#Chapéu_de_Poring_Noel#
 5382#Lacinho_Natalino#
 13902#Caixa_de_Disfarce_de_Peixe#
@@ -3397,8 +3397,6 @@
 5195#Lacinho_Vermelho#
 5196#Lacinho_Laranja#
 5197#Lacinho_Branco#
-//7608#Ticket_do_Dia_das_Mães#
-7608#Ticket de Promoção#
 
 
 // --------------- Consumables -------------------
@@ -3487,7 +3485,6 @@
 5359#Chapéu_do_Capitão#
 5360#Orelhas_Felinas#
 5361#Máscara_de_Fugitivo#
-5362#Pergaminho_de_Ninpou#
 
 // ---------- WoE: 2E ----------
 
@@ -3754,7 +3751,6 @@
 
 //???? ??
 5376#Lendárias Asas de Demônio#
-5208#Chapéu de Rideword#
 5334#Gorro de Angeling Encantado#
 
 // ----------- 2008 ?? ??? ??? ------------
@@ -3769,7 +3765,6 @@
 2741#O_Zero_Anel_[A]#
 2384#Túnica Espiritual [A]#
 2385#Armadura Vampira [A]#
-2132#Escudo de Força [A]#
 2543#Manteau das Sílfides [A]#
 2439#Sapatos Refrescantes [A]#
 5391#Crunch Toast#
@@ -3778,7 +3773,6 @@
 13953#Caixa_de_O_Zero_Anel#
 13954#Caixa_de_Túnica_Espiritual#
 13955#Caixa_de_Armadura_Vampira#
-13956#Caixa_de_Escudo_de_Força#
 13957#Caixa_de_Manteau_das_Sílfides#
 13958#Caixa_de_Sapatos_Refrescantes#
 13959#Crunch Toast Box#
@@ -3814,7 +3808,6 @@
 12255#Sopa da Imortalidade#
 5404#Lacinhos Azuis#
 5405#Chapéu de Filir#
-5388#Chapéu de Jibóia#
 2438#Cat_Paw#
 5387#Tiara de Kafra Gatinha#
 7929#Moeda de Ouro#
@@ -4386,7 +4379,7 @@
 5385#Chapéu de Yoyo#
 
 //----Special dungeons---
-7711#Ticket de Doação#
+7711#Ticket de Contribuição#
 
 //----Dia da Mentira 2009----
 5824#Chapéu do Mentiroso#
@@ -4434,8 +4427,6 @@
 5502#Capuz do Necromante#
 5527#Chapéu de Lunático#
 13941#Ovo dos Namorados#
-5512#Diadema de Aquário#
-5513#Coroa de Aquário#
 14254#Cx Anel do Ganhador[15Dias]#
 5506#Touca de Pijama Azul#
 5507#Touca de Pijama Rosa#
@@ -4881,7 +4872,6 @@
 12968#Pergaminho de Chamado Urgente#
 7825#Pedra do Herói#
 6125#Caixa de Surpresas#
-13696#Caixa de Grimório de Combate#
 5778#Chapéu de Arara Azul#
 5780#Chapéu de Tendrillion#
 
@@ -4912,8 +4902,6 @@
 12395#Guloseima Recheada#
 
 //---- CASH Items May 2010 ----
-5658#Chapéu de Imp#
-5660#Chapéu de Grifo#
 5611#Chapéu de Tartaruga#
 5534#Máscara Kitsune 2.0#
 9055#Ovo de Succubus#
@@ -4956,7 +4944,6 @@
 14529#Pergaminho de Ganância#
 13624#Caixa de Esquiva#
 14530#Pergaminho de Esquiva 30#
-5659#Chapéu de Rochoso#
 14316#Ovo dos Apaixonados#
 6133#Ticket de Miyabi Ningyo#
 6130#Ticket de Loli Ruri#
@@ -4983,17 +4970,17 @@
 2459#Sapatos Aprimorados#
 
 //---- World Cup event 2010 ----
-5856#Chapéu da Copa: Paixão#
-5857#Chapéu da Copa: Coragem#
-5858#Chapéu da Copa: Vitória#
-5859#Chapéu da Copa: Honra#
-12767#Chapéu da Copa: Paixão#
-12768#Chapéu da Copa: Coragem#
-12769#Chapéu da Copa: Vitória#
-12770#Chapéu da Copa: Honra#
-12771#Chapéu da Copa: Paixão Total#
-12772#Chapéu da Copa: Coragem Definitiva#
-12773#Chapéu da Copa: Vitória Triunfal#
+//5856#Chapéu da Copa: Paixão#
+//5857#Chapéu da Copa: Coragem#
+//5858#Chapéu da Copa: Vitória#
+//5859#Chapéu da Copa: Honra#
+//12767#Chapéu da Copa: Paixão#
+//12768#Chapéu da Copa: Coragem#
+//12769#Chapéu da Copa: Vitória#
+//12770#Chapéu da Copa: Honra#
+//12771#Chapéu da Copa: Paixão Total#
+//12772#Chapéu da Copa: Coragem Definitiva#
+//12773#Chapéu da Copa: Vitória Triunfal#
 //7547#Bola de Futebol#
 //7548#Chuteiras#
 
@@ -5024,7 +5011,6 @@
 6096#Peixe Azulado#
 6139#Ticket de Gato de Folha#
 6143#Ticket de Mao Guai#
-2154#Escudo de Brinquedo#
 13588#Caixa de Assumptio [30]#
 14274#Amplificação Mística [10]#
 14593#Pergaminho de Amplificação Mística#
@@ -5055,7 +5041,6 @@
 12368#Espelho de Mão#
 6105#Orvalho da Manhã#
 6108#Gelatina de Maçã#
-6135#Ticket de Ninfa Perversa#
 6136#Ticket de Medusa#
 
 //---- CASH Items October 2010 ----
@@ -5083,7 +5068,6 @@
 //---- CASH Items December 2010 ----
 5776#Sol Radiante#
 12404#Poção Energizante#
-16446#Ovo de Pégaso#
 5766#Chapéu de Amistr#
 5390#Gorro Natalino de Gelo#
 6240#Oridecon Perfeito#
@@ -5143,7 +5127,6 @@
 
 //---- June 2011 CASH Items ----
 
-5654#Chapéu da Banda Celestial#
 5656#Capacete de Pecocross#
 5674#Cofrinho de Porco#
 6439#Mega-Elunium#
@@ -5152,11 +5135,6 @@
 6438#Omni-Oridecon#
 16753#Cx Omni-Oridecon#
 16754#Cx Omni-Oridecon#
-17066#Cx Veneno Mortal[50]#
-17067#Cx Veneno Mortal[100]#
-17068#Cx Bomba Ácida[50]#
-17069#Cx Bomba Ácida[100]#
-17070#Cx Bomba Ácida[500]#
 17071#Cx Sashimi Saboroso [50]#
 17072#Cx Sashimi Saboroso [100]#
 17073#Cx Sashimi Saboroso [500]#
@@ -5167,7 +5145,6 @@
 
 //---- July 2011 CASH Items ----
 
-18534#Máscara Chique de Carnaval#
 17035#Ovo de Peixes#
 12563#Compêndio de Batalha#
 16653#Cx Compêndio de Batalha#
@@ -5274,7 +5251,6 @@
 18603#Máscara_Esquisita#
 18530#Máscara_do_Despero_de_Thanatos#
 18538#Sussurro_da_Maldade#
-18540#Máscara_do_Evangelho#
 15040#Uniforme_de_Presidiário#
 
 //---------2011 halloween event
@@ -5289,8 +5265,6 @@
 18549#Presilha_de_Borboleta#
 18531#Boneco_de_Tartaruga#
 5737#Chapéu_de_Cacto#
-2874#Chifre_de_Búfalo#
-12641#Ovo_Amaldiçoado#
 5579#Chapéu_Chinês_do_Andarilho#
 5671#Boneca_da_Vaidade#
 12642#Caixa_de_Mastelas[100]#
@@ -5393,7 +5367,6 @@
 4484#Carta_Abelha_Rainha_Selada#
 4485#Carta_Pesar_Noturno_Selada#
 2481#Botas_Rúnicas#
-18574#Elmo_do_Senhor_da_Morte#
 2573#Asas_de_Arcanjo# 
 
 
@@ -5416,7 +5389,6 @@
 17104#Oridecon_Perfeito [50]#
 17105#Elunium_Perfeito [50]#
 2584#Manto_do_Andarilho#
-18626#Chapéu de Gelato#
 12379#Biscoito do Papa#
 
 //------------2012 February Items------------
@@ -5461,7 +5433,6 @@
 21000#Espada Aprimorada de Duas Mãos#
 17033#Pacote de Revestimento#
 17064#Ovo das Estrelas#
-5782#Elmo Espartano#
 15049#Armadura da Fé de Odin#
 2589#Asas de Arcanjo Caído#
 5664#Asas de Filir#
@@ -5583,9 +5554,6 @@
 2176#Livro_Obscuro#
 18639#Quepe_da_Marinha#
 18590#Tiara_das_Cinco_Almas#
-18642#Máscara_de_Tesoura#
-18643#Máscara_de_Pedra#
-18644#Máscara_de_Papel#
 17181#Caixa_de_Madeira_Entalhada#
 14545#Super_Manual_de_Batalha#
 2164#Escudo_Brilhante#
@@ -5624,7 +5592,6 @@
 2495#Botas de Aegir#
 15061#Armadura de Aegir#
 12852#Ovo do Patrono#
-13990#Caixa de Manual de Combate de Classe[10]#
 4486#Carta Belzebu Selada#
 4504#Carta Eddga Selada#
 14132#Caixa do Anel Crítico Aprimorado#
@@ -5637,21 +5604,21 @@
 
 //---------------------2012 RWC Items--------------------
 
-1670#Cajado Memorável do RWC 2012#
-6665#Cupom de Aprimoramento do RWC 2012#
-13092#Adaga Memorável do RWC 2012#
+1670#Cajado Memorável do RWC#
+6665#Cupom de Aprimoramento do RWC#
+13092#Adaga Memorável do RWC#
 14611#Poção Média de Defesa Física RWC#
 14612#Poção Média de Defesa Mágica RWC#
-14613#Ovo do RWC 2012#
+14613#Ovo do RWC#
 14614#Poção Especial de Defesa do RWC#
-16026#Maça Memorável do RWC 2012#
+16026#Maça Memorável do RWC#
 17262#Caixa de Poções de Defesa do RWC#
 18821#Chapéu de Penas Arco-íris#
 19650#Adorno Arco-íris#
-2966#Anel Memorável RWC 2012#
-2967#Anel Memorável RWC 2012#
-2968#Colar Memorável RWC 2012#
-2969#Colar Memorável RWC 2012#
+2966#Anel Memorável RWC#
+2967#Anel Memorável RWC#
+2968#Colar Memorável RWC#
+2969#Colar Memorável RWC#
 12887#Asa de Mosca Ilimitada#
 17251#Cx. Asa de Mosca Ilimitada (3 dias)#
 17252#Caixa Memorável do RWC#
@@ -5911,12 +5878,10 @@
 12797#Assistente Dama dos Desejos#
 18674#Chapéu do Piloto#
 18667#Lacinhos com Gatos#
-18636#Laço Nupcial#
 12851#Ovo Vocacional#
 18664#Óculos de Quartzo Rubi #
 18855#Chapéu de Dantos Sumont#
 18675#Chapéu de Maçã Verde #
-18697#Seringa Vermelha#
 13438#Espada Lunar#
 
 //------------------2013 ep14.1 malangdo---------------------------
@@ -5938,7 +5903,6 @@
 16750#Cx de Caranguejo Malangdo 2#
 18107#Caranguejo Malangdo#
 18108#Enguia Malhada#
-18536#Rabo de Gato#
 18537#Chapéu de Malangdo#
 6417#Fruta dos Gatos#
 6418#Moeda Classe A#
@@ -5973,7 +5937,7 @@
 6441#Lubrificante Sofisticado#
 6442#Arpão de Caçar Polvos#
 6443#Óleo Removedor Especial#
-11536#Navio de Biscoito#
+11536#Biscoito de Navio#
 11537#Vassoura de Bruxa#
 12612#Bolsa Gasta de Moedas#
 12613#Bolsa de Moedas Sofisticada#
@@ -5986,7 +5950,7 @@
 12620#Bolsa Tipo D#
 12621#Bolsa Tipo E#
 12623#Caixa das Melhores Armas#
-12624#Geléia Deliciosa#
+12624#Gelatina Deliciosa#
 12633#Lata de Comida para Gatos#
 12636#Peixes Enlatados de Malangdo#
 12637#Tatu Bola[200]#
@@ -6111,11 +6075,7 @@
 
 //------------------Q3 - 2013 Items---------------------------------
 
-2959#Coleira da Fidelidade#
-18754#Presas Vampíricas#
-18756#Chapéu de Shiba Inu Preto#
 19589#Tiara de Randgris#
-19607#Filhote de Fênix#
 19649#Orelhas Brancas de Gatinho#
 19661#Cartola Adocicada#
 19685#Shiny_Santa_Poring_Hat#
@@ -6126,14 +6086,13 @@
 18891#Chapéu de Husky#
 18892#Chapéu de UFOring#
 18893#Elmo Garra de Dragão#
-18894#Diadema Arco-íris#
 18895#Asas de Tapaton#
 18896#Barbatanas Flamejantes#
 18898#Coroa do Escolhido#
 12582#Cx Suprimentos do Cerco#
 12534#Cx Sementes Yggdrasil#
 18957#Boina do 9º Aniversário#
-13999#Cx Bala Amarga [100]#
+13999#Balas Amargas [100]#
 
 // ---------- Port Malaya new items ------------
 2169#Kalasag#
@@ -6210,13 +6169,10 @@
 //-----BlackFriday
 19767#Fivela de Sakura#
 19768#Tiara de Sakura#
-19769#Orelhas de Fada Travessa#
 19770#Caneca de Chá Oriental#
 19771#Presilha de Borboleta#
 19772#Chapéu de Abelha#
 19773#Presilha de Angeling#
-19774#Coroa do Imperador#
-19776#Orelhas de Fada Animada#
 19775#Peruca Maravilinda#
 17305#Ovo Fashion#
 //-----------------
@@ -6227,7 +6183,6 @@
 19678#Lacinho com Sinos#
 19681#Tiara Prateada#
 19682#Chapéu de Poring Natalino#
-19683#Pirulito Azedinho#
 19684#Peruca do Visual Carnavalesco#
 19685#Chapéu do Super Poring Noel#
 19679#Cara de Espanto#
@@ -6269,7 +6224,6 @@
 
 //-------------------------------------------------------------------
 //--2014-02-11
-18868#Máscara do Esqueleto#
 17323#Ovo Shinobi#
 19548#Chapéu do Gama-sama#
 19555#Elmo da Lua Crescente#
@@ -6302,7 +6256,6 @@
 //-------------------------------------------------------------------
 //--Aplicar em 2014-02-18
 18574#Elmo_do_Senhor_da_Morte#
-2177#Escudo do Abismo#
 18864#Flor de Tófi#
 18878#Chapéu da Guarda Real#
 //-------------------------------------------------------------------
@@ -6310,7 +6263,6 @@
 //-------------------------------------------------------------------
 //--Aplicar em 2014-02-25
 18857#Boneco de Curupira#
-18832#Chapéu de Bafomé Jr.#
 18887#Tiara de Coelho Celeste#
 18888#Tiara de Coelho Flamejante#
 16562#Ovo do Mal Majestoso#
@@ -6396,6 +6348,8 @@
 15056#Indumentária Ninja Especial#
 17155#Cx. Shuriken Huuma Aprimorado#
 2904#Naqsh#
+//----------------------------------------------------------
+
 
 // Odin e Thor
 18599#Máscara_Esquisita#
@@ -6403,5 +6357,402 @@
 // Asgard
 5800#Rubor de Batalha#
 
+//2014-04-15
+//Todos os servidores
+17428#Ovo do Lagomorfo#
+19627#Tiara Satélite#
+19875#Touca de Coelho#
+19876#Cartola da Mekoro#
+19877#Olho do Beholder#
+19878#Coelho de Pano#
+19879#Orelhas Fabulosas#
+19880#Tiara Estelar#
+19881#Coelhinho Carinhoso#
+19882#Vaso de Planta Anti-Z#
+19883#Gorro da Piamette#
+//Odin e Thor
+12641#Ovo_Amaldiçoado#
+//Asgard
+16446#Ovo de Pégaso#
+//----------------------------------------------------------
 
+//----------------------------------------------------------
+//--Aplicar em 29-04-2014
+18863#Robe do Exorcista#
+//----------------------------------------------------------
+
+//----------------------------------------------------------
+//--Aplicar em 07-05-2014 - Todos os servidores
+18932#Boneco de Rinoceronte#
+18642#Máscara_de_Tesoura#
+18643#Máscara_de_Pedra#
+18644#Máscara_de_Papel#
+//----------------------------------------------------------
+
+//----------------------------------------------------------
+//--Aplicar em 20-05-2014 - Todos os servidores
+19836#Chifres Majestosos do Bafomé#
+//----------------------------------------------------------
+
+//----------------------------------------------------------
+//--Aplicar em 27-05-2014 - Todos os servidores
+//Odin/Thor
+13956#Cx Escudo de Força [A]#
+2132#Escudo de Força [A]#
+//Asgard
+13696#Cx Grimório de Combate [10]#
+12900#Cx Manual de Combate[10]#
+//Todos
+13990#Cx Man. Combate de Classe[10]#
+18626#Chapéu de Gelato#
+//----------------------------------------------------------
+
+//---- World Cup event 2014 --------------------------------
+5856#Chapéu do Torneio: Paixão#
+5857#Chapéu do Torneio: Coragem#
+5858#Chapéu do Torneio: Vitória#
+5859#Chapéu do Torneio: Honra#
+12767#Chapéu do Torneio: Paixão#
+12768#Chapéu do Torneio: Coragem#
+12769#Chapéu do Torneio: Vitória#
+12770#Chapéu do Torneio: Honra#
+12771#Chapéu do Torneio: Paixão Total#
+12772#Chapéu do Torneio: Coragem Definitiva#
+12773#Chapéu do Torneio: Vitória Triunfal#
+//----------------
+
+//----------------------------------------------------------
+//--Aplicar em 27-05-2014 - Todos os servidores
+//Todos
+18931#Boneco de Leãozinho#
+//----------------------------------------------------------
+//--Aplicar em 10-06-2014 - Todos os servidores
+7227#Passe para Cheffênia#
+17066#Cx Veneno Mortal[50]#
+17067#Cx Veneno Mortal[100]#
+17068#Cx Bomba Ácida[50]#
+17069#Cx Bomba Ácida[100]#
+17070#Cx Bomba Ácida[500]#
+19729#Tiara de Gatinha Kafra#
+19598#Elmo do Rei do Norte#
+
+//--Aplicar em 17/06/2014 - Todos os servidores  ---------------------------------------------
+19742#Milagre de Asgard#
+18907#Boneco de Panda#
+18917#Balão de Coração#
+19718#Laço de Niflheim#
+19721#Elmo das Trevas#
+18930#Boneco de Gorila#
+//------------------------------------------------------------
+
+//--Aplicar em 01/07/2014 - Todos os servidores  ---------------------------------------------
+12194#Marmita da Mamãe#
+2959#Coleira da Fidelidade#
+18756#Chapéu de Shiba Inu Preto#
+
+//----------------------------------------------------------
+//--Aplicar em 08-07-2014 - Todos os servidores
+19710#Asas da Vitória#
+18777#Lâmpada Mágica#
+2961#Tapete Voador#
+2874#Chifre de Búfalo#
+
+
+//--Aplicar em 22/07/2014 - Todos os servidores  ---------------------------------------------
+19752#Asinhas Elegantes#
+19826#Asinhas do Inverno#
+20706#Mochila de Amistr#
+
+//--Aplicar em 28/07/2014 - Todos os servidores  ---------------------------------------------
+18894#Diadema Arco-íris#
+5880#Apito da Animação#
+18536#Rabo de Gato#
+
+//----------------------------------------------------------
+//Dia dos Pais 2014
+19834#Boné do Melhor Pai do Mundo#
+19841#Elmo do Espírito do Dragão#
+//----------------------------------------------------------
+//12/08/2014
+19817#Sopro do Ifrit#
+//----------------------------------------------------------
+//19/08/2014
+19722#Óculos Intelectuais#
+19600#Kiel de Pelúcia#
+5362#Pergaminho_de_Ninpou#
+5782#Elmo Espartano#
+18636#Laço Nupcial#
+19776#Orelhas de Fada Animada#
+19769#Orelhas de Fada Travessa#
+//----------------------------------------------------------
+//26/08/2014
+18740#Cabelo de Super Saiadim#
+18843#Devilings na Cachola#
+18754#Presas Vampíricas#
+5208#Chapéu de Rideword#
+18868#Máscara do Esqueleto#
+5388#Chapéu de Jiboia#
+//----------------------------------------------------------
+//02/09/2014
+19724#Kafra V.I.P.#
+19930#Cartola da Gótica-Valquíria#
+12684#Poção de Ouro#
+19577#Chapéu do 10º Aniversário#
+19816#Chapéu de Peco#
+//----------------------------------------------------------
+// itens da manutenção de 23/09/2014
+//----------------------------------------------------------
+18816#Boné do Aluno Exemplar #
+18817#Boné do Aluno Travesso #
+18818#Lápis Vermelho Mordido#
+18819#Lápis Azul Mordido#
+15088#Uniforme Escolar #
+//----------------------------------------------------------
+// itens da manutenção de 23/09/2014
+//----------------------------------------------------------
+18707#Chapéu de Planta Cantante#
+1675#Bengala do Cavalheiro#
+//----------------------------------------------------------
+// itens da manutenção de 07/10/2014
+//----------------------------------------------------------
+18708#Elmo de Bombom#
+19683#Pirulito Azedinho#
+//******************************************************************
+//------------20140305 EP 14.2 New Headgear 25 Replay --------------
+//******************************************************************
+2183#Guardião Arcangelical#
+2956#Proteção dos Nibelungos#
+2957#Anel do Vulcão#
+2958#Anel da Vibração#
+6623#Cristal Bruto de Energia#
+6624#Cristal Refinado de Energia#
+6625#Cristal Puro de Energia#
+11060#Livro: Cristais de Energia#
+15068#Proteção Arcangelical#
+18760#Chapéu do Mago Implacável#
+18761#Cartola Magnificente#
+18762#Máscara Kyuubi#
+18763#Espírito do Humor#
+18764#Orelhas do Dono da Lua#
+18765#Corsário Prerigoso#
+18766#Elmo de Angelus#
+18767#Elmo de Helios#
+18768#Elmo de Marfim#
+18769#Chapéu Mandarin Vermelho#
+18770#Chapéu Mandarin Azul#
+18771#Disfarce do Fantasma#
+18772#Visor Além do Alcance#
+18773#Nadadeiras Verdes#
+18774#Máscara do Executor#
+18775#Máscara do Ferreiro#
+18776#Beijo do Arcanjo#
+20710#Cardigã Arcangelical#
+22014#Sapatos Convergentes#
+22015#Reencarnação do Arcanjo#
+2915#Colar de Etran#
+2916#Asa de Fada#
+2917#Luva da Força#
+2918#Luva da Inteligência#
+2919#Luva da Agilidade#
+2920#Luva da Vitalidade#
+2921#Luva da Destreza#
+2922#Luva da Sorte#
+2923#Luva da Força#
+2924#Luva da Inteligência#
+2925#Luva da Agilidade#
+2926#Luva da Vitalidade#
+2927#Luva da Destreza#
+2928#Luva da Sorte#
+6539#Antiga Jóia dos Esplêndidos#
+6540#Folha Dourada#
+6541#Pesquisa de Avant#
+6542#Cogumelo Estrela#
+6545#Cabelo Seco#
+6546#Carta do Irmão#
+6547#Livro Manchado de Pesquisas#
+6548#Pedaço de Asa dos Esplêndidos#
+6552#Pacote de Correio#
+6553#Pedaço da Ponte de Folhas#
+6554#Caixa de Sementes#
+6555#Vela de Aniversário#
+6557#Bela Asa de Fada#
+6558#Pilha de Avelãs#
+6559#Colírio#
+6560#Trevo Marca Páginas#
+6561#Bola de Poeira#
+6562#Cauda de Camundongo#
+6563#Ervas#
+12812#Gardênia#
+12813#Peônia#
+12814#Erva-Mate#
+12815#Pó de Yggdrasil#
+19543#Capuz do Lobo Oliver#
+19546#Disfarce de Valquíria#
+19547#Touca de Anime#
+19550#Bochechas Coradas#
+19551#Símbolo Élfico#
+19552#Flor de Plástico#
+19553#Disfarce do Assassino#
+19554#Máscara Tradicional#
+6564#Filhote Aprisionado#
+19545#Quepe da Ostentação#
+19549#Chifres Enormes#
+6081#Moeda Esplendor#
+//******************************************
+//*************CARTAS DE ECLAGE*************
+//******************************************
+4507#Carta Rainha Scaraba#
+4514#Carta Aranha Pom#
+4519#Carta Butoijo#
+4521#Carta Sedora#
+4518#Carta Banaspaty#
+4522#Carta Sropho#
+4510#Carta Plagiador#
+4531#Carta Eruma Vermelho#
+4511#Carta Pequeno Fatum#
+4533#Carta Pequeno Polvo#
+4509#Carta Rainha Scaraba Dourada#
+4527#Carta Celacanto Sombrio#
+4529#Carta Celacanto Violento#
+4528#Carta Celacanto Mutante#
+4526#Carta Celacanto Cruel#
+4506#Carta Dolomedes#
+4517#Carta Centrawasih#
+4524#Carta Dramoh Rei#
+4530#Carta Siorava#
+4513#Carta Louva-a-deus Angra#
+4512#Carta Chapim#
+4534#Carta Polvo Gigante#
+4516#Carta Comodo#
+4523#Carta Dofle#
+4515#Carta Rafflesia Alnoldi#
+4520#Carta Leak#
+4525#Carta Kraken#
+4532#Carta Montaria Selvagem#
+4505#Carta Scaraba#
+4508#Carta Scaraba Dourado#
+//------------
+2479#Sapatos das Asas da Luz#
+2480#Sapatos das Asas das Sombras#
+2580#Sobrepeliz das Asas da Luz#
+2581#Sobrepeliz das Asas das Sombras#
+15042#Malha das Asas da Luz#
+15043#Malha das Asas das Sombras#
+2890#Broche das Asas da Luz#
+2891#Broche das Asas das Sombras#
+2477#Botas dos Manuks#
+2478#Botas de Nab#
+2577#Capuz dos Manuks#
+2578#Capuz de Nab#
+15038#Vestimenta dos Manuks#
+15039#Vestimenta de Nab#
+2886#Anel dos Manuks#
+2887#Anel de Nab#
+2475#Grevas de Ur#
+2476#Grevas de Peuz#
+2574#Manteau de Ur#
+2575#Manteau de Peuz#
+15036#Armadura de Ur#
+15037#Armadura de Peuz#
+2883#Selo de Ur#
+2884#Selo de Peuz#
+//**************************************
+//--------aplicar em 2014-10-21---------
+//**************************************
+19911#Telhado#
+19912#Olhos Felinos#
+5658#Chapéu de Imp#
+5660#Chapéu de Grifo#
+5659#Chapéu de Rochoso#
+5380#Disfarce_de_Peixe#
+//**************************************
+//--------aplicar em 2014-10-28---------
+//**************************************
+2189#Escudo da Piamette#
+19910#Chapéu de Bruxa Brilhante#
+19542#Fantasma Travesso#
+20035#Rosa Celeste#
+19511#Tapa-Olho Estiloso#
+19512#Tapa-Olho Fashion#
+19893#Chapéu de Bruxinha#
+//**************************************
+//--------aplicar em 2014-11-04---------
+//**************************************
+18913#Corvo#
+//**************************************
+//--------aplicar em 2014-11-04---------
+//**************************************
+19715#Lenço da Memória Secreta#
+19751#Coroa da Luz e Trevas#
+19607#Filhote de Fênix#
+18697#Seringa Vermelha#
+19774#Coroa do Imperador#
+18866#Cartola do Duque Coruja#
+18574#Elmo_do_Senhor_da_Morte#
+2177#Escudo do Abismo#
+18832#Chapéu de Bafomé Jr.#
+5654#Chapéu da Banda Celestial#
+2154#Escudo de Brinquedo#
+//*****************************************************
+//------------201412 December Update Plan--------------
+//*****************************************************
+18916#Balão de Urso#
+18859#Balão de Poring Noel#
+18844#Balão de Pouring Natalino#
+18858#Balão de Angeling Natalino#
+19783#Costume: Grampa Beard#
+18553#Arvorezinha de Natal#
+19686#Costume: Santa Doll Headband#
+5742#Gorro da Rena do Papai Noel#
+19780#Costume: Knit Rabbit Ears#
+//*****************************************************
+//------------Aplicar em 2015-01-06--------------------
+//*****************************************************
+5573#Chifre do Dokebi#
+18524#Máscara de Dokebi#
+//*****************************************************
+//------------Aplicar em 2015-01-13--------------------
+//*****************************************************
+19852#Boné de Pingu#
+19934#Chapéu Flamejante#
+//*****************************************************
+//------------Aplicar em 2015-01-13--------------------
+//*****************************************************
+19713#Trevo Visual de Quatro Folhas#
+//*****************************************************
+//------------Aplicar em 2015-01-27--------------------
+//*****************************************************
+19830#Óculos Hi-Ban#
+18716#Moranguinho#
+//*****************************************************
+//------------Aplicar em 2015-02-02--------------------
+//*****************************************************
+4539#Carta Bispo Decadente Selada#
+//*****************************************************
+//------------Aplicar em 2015-02-10--------------------
+//*****************************************************
+20234#Máscara de Bafomé#
+6958#Chifre de Carneiro#
+22881#Corda de Caça#
+6956#Carneiro Capturado#
+6957#Lã Macia#
+19954#Óculos Visuais 3D#
+20080#Visual de Plumas e Paetês#
+18540#Máscara_do_Evangelho#
+18534#Máscara Chique de Carnaval#
+19971#Adorno de Penas de Cisne#
+5512#Diadema de Aquário#
+5513#Coroa de Aquário#
+//*****************************************************
+//------------Aplicar em 2015-02-17--------------------
+//*****************************************************
+19780#Orelhinhas de Coelhinho de Lã#
+//*****************************************************
+//------------Aplicar em 2015-02-17--------------------
+//*****************************************************
+19884#Elmo do Gato Cavaleiro#
+//------------Aplicar em 2015-03-03--------------------
+//*****************************************************
+19952#Goma de Mascar Visual#
+18833#Coroa de Marin#
 //file end
