@@ -45133,4 +45133,16 @@ Peso: ^7777771 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
 #
+//*****************************************************
+//------------Aplicar em 2015-03-10--------------------
+//*****************************************************
+19951#
+Tudo começou quando um mecânico decidiu criar um simpático robozinho... feito de papelão! Batizado de DanbRO, ele se tornou tão adorável que seus fãs fizeram esta máscara em sua homenagem e agora você pode sair por aí fantasiado de DanbRO!
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo/Meio/Baixo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 //file end
